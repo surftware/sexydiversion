@@ -48,6 +48,7 @@
   28. Team Styles
   29. Footer
   30. Responsive Styling
+  */
 
 /* --------------------------------------------------------
     1. Bootstrap Reset and dependencies
@@ -93,10 +94,10 @@
 /* --------------------------------------------------------
     4. Bootstrap Components w/ JavaScript
 -------------------------------------------------------- */
-   // @import "scss/bootstrap/scss/modal";
+   @import "scss/bootstrap/scss/modal";
    @import "scss/bootstrap/scss/tooltip";
    @import "scss/bootstrap/scss/popover";
-   // @import "scss/bootstrap/scss/carousel";
+   @import "scss/bootstrap/scss/carousel";
    
 /* --------------------------------------------------------
     5. Bootstrap Utility classes
