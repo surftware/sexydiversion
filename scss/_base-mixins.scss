@@ -1,0 +1,98 @@
+
+//  Background Color
+
+
+@mixin bgnd-color($image, $color) {
+    $color: darken(saturate(rgba($color, 0.65), 50), 10);
+    $background-file-name: $image;
+    @include background(linear-gradient(top left, $color, $color), image-url($image));
+    background-size: cover;
+    background-position: top center;
+    background-repeat: no-repeat;
+}
+
+
+
+//  Opacity
+
+
+@mixin opacity-background($value) {
+    $IEValue: $value*100;
+    opacity: $value;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity="+$IEValue+")";
+    filter: alpha(opacity=$IEValue);
+}
+
+
+
+//  CSS3 calc SASS mixin
+
+
+@mixin calc($property, $expression) {
+    #{$property}: -moz-calc(#{$expression});
+    #{$property}: -webkit-calc(#{$expression});
+    #{$property}: calc(#{$expression});
+}
+
+
+
+//  Background Pattern
+
+
+$image-path: '../img' !default;
+$fallback-extension: 'jpg' !default;
+$retina-suffix: '@2x';
+@mixin background-image($name, $size:false) {
+    background-image: url(#{$image-path}/#{$name}.svg);
+    @if($size) {
+        background-size: $size;
+    }
+    .no-svg & {
+        background-image: url(#{$image-path}/#{$name}.#{$fallback-extension});
+        @media only screen and (-moz-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+            background-image: url(#{$image-path}/#{$name}#{$retina-suffix}.#{$fallback-extension});
+        }
+    }
+}
+
+
+
+//  Background Image
+
+
+@mixin background($imgpath, $position:0 0, $repeat: no-repeat) {
+    background: {
+        image: url($imgpath);
+        position: $position;
+        repeat: $repeat;
+    }
+}
+
+
+
+//  Gradient
+
+
+@mixin super-gradient($inner-color, $outer-color, $start-color, $end-color, $deg) {
+    background-image: -webkit-radial-gradient(circle at bottom center, $inner-color, $outer-color), -webkit-linear-gradient($deg, $start-color, $end-color);
+    background-image: radial-gradient(circle at bottom center, $inner-color, $outer-color), -o-linear-gradient($deg, $start-color, $end-color);
+    background-image: radial-gradient(circle at bottom center, $inner-color, $outer-color), linear-gradient($deg, $start-color, $end-color);
+    background-repeat: no-repeat, repeat-x;
+}
+
+
+
+//  Box Shadow Helper
+
+
+@mixin BoxShadowHelper($level: 1) {
+    @if $level==1 {
+        box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .05), 2px 2px 12px 2px rgba(0, 0, 0, .09);
+    }
+    @if $level==2 {
+        box-shadow: 0 5px 11px 0 rgba(0, 0, 0, .18), 0 4px 15px 0 rgba(0, 0, 0, .15);
+    }
+    @if $level==3 {
+        box-shadow: 0 5px 11px 0 rgba(112, 111, 111, 0.28), 0 4px 15px 0 rgba(108, 108, 108, 0.15);
+    }
+}

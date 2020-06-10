@@ -1,0 +1,206 @@
+
+// 1 - Load project variables.
+// 2 - Load bootstrap sass files.
+// 3 - Load Icou Template sass files.
+
+// --------------------------------------------------------
+//  Import in the default bootstrap variables.
+//  Then override bootstrap default with project specific values.
+// --------------------------------------------------------
+
+/* --------------------------------------------------------
+    Icou – Responsive Business HTML Template
+-------------------------------------------------------- */
+
+/* --------------------------------------------------------
+    Table of contents
+-------------------------------------------------------- */
+
+ /* --------------------------------------------------------
+
+  1. Bootstrap Reset and dependencies
+  2. Bootstrap Core CSS
+  3. Bootstrap Components
+  4. Bootstrap Components w/ JavaScript
+  5. Bootstrap Utility classes
+  6. Fonts
+  7. Forms
+  8. Mixins
+  9. Base Styles
+  10. Nav Styles
+  11. Section Styling
+  12. About Section
+  13. Feature Sections
+  14. Headings
+  15. Buttons
+  16. Icons
+  17. Home Page Stage
+  18. Shop Styles
+  19. Contact Us
+  20. Blog Section
+  21. Services
+  22. Tesimonials
+  23. Partner
+  24. Accordion Component
+  25. Tab Component
+  26. Text Image Component
+  27. Portfolio Styles
+  28. Team Styles
+  29. Footer
+  30. Responsive Styling
+
+/* --------------------------------------------------------
+    1. Bootstrap Reset and dependencies
+-------------------------------------------------------- */
+   @import "scss/bootstrap/scss/variables";
+   @import "variables";
+   @import "scss/bootstrap/scss/mixins";
+   @import "scss/bootstrap/scss/print";
+   @import "scss/bootstrap/scss/responsive-embed";
+/* --------------------------------------------------------
+    2. Bootstrap Core CSS
+-------------------------------------------------------- */
+   @import "scss/bootstrap/scss/reboot";
+   @import "scss/bootstrap/scss/type";
+   @import "scss/bootstrap/scss/images";
+   @import "scss/bootstrap/scss/code";
+   @import "scss/bootstrap/scss/grid";
+   @import "scss/bootstrap/scss/tables";
+   @import "scss/bootstrap/scss/forms";
+   @import "scss/bootstrap/scss/buttons";
+/* --------------------------------------------------------
+    3. Bootstrap Components
+-------------------------------------------------------- */
+   @import "scss/bootstrap/scss/transitions";
+   @import "scss/bootstrap/scss/alert";
+   @import "scss/bootstrap/scss/badge";
+   @import "scss/bootstrap/scss/breadcrumb";
+   @import "scss/bootstrap/scss/button-group";
+   @import "scss/bootstrap/scss/card";
+   @import "scss/bootstrap/scss/close";
+   @import "scss/bootstrap/scss/custom-forms";
+   @import "scss/bootstrap/scss/custom";
+   @import "scss/bootstrap/scss/dropdown";
+   @import "scss/bootstrap/scss/input-group";
+   @import "scss/bootstrap/scss/jumbotron";
+   @import "scss/bootstrap/scss/list-group";
+   @import "scss/bootstrap/scss/media";
+   @import "scss/bootstrap/scss/nav";
+   @import "scss/bootstrap/scss/navbar";
+   @import "scss/bootstrap/scss/pagination";
+   @import "scss/bootstrap/scss/progress";
+   
+/* --------------------------------------------------------
+    4. Bootstrap Components w/ JavaScript
+-------------------------------------------------------- */
+   // @import "scss/bootstrap/scss/modal";
+   @import "scss/bootstrap/scss/tooltip";
+   @import "scss/bootstrap/scss/popover";
+   // @import "scss/bootstrap/scss/carousel";
+   
+/* --------------------------------------------------------
+    5. Bootstrap Utility classes
+-------------------------------------------------------- */
+   @import "scss/bootstrap/scss/utilities";
+   @import "scss/bootstrap/scss/normalize";
+/* --------------------------------------------------------
+  6. Fonts
+-------------------------------------------------------- */
+   @import "font-awesome/font-awesome";
+   @import "fonts";
+/* --------------------------------------------------------
+  7. Forms
+-------------------------------------------------------- */
+   @import "forms";
+/* --------------------------------------------------------
+  8. Mixins
+-------------------------------------------------------- */
+   @import "base-mixins";
+/* --------------------------------------------------------
+  9. Base Styles
+-------------------------------------------------------- */
+   @import "base";
+/* --------------------------------------------------------
+  10. Nav Styles
+-------------------------------------------------------- */
+   @import "nav";
+/* --------------------------------------------------------
+  11. Section Styling
+-------------------------------------------------------- */
+   @import "sections";
+/* --------------------------------------------------------
+  12. About Section
+-------------------------------------------------------- */
+   @import "about";
+/* --------------------------------------------------------
+  13. Feature Sections
+-------------------------------------------------------- */
+   @import "feature-sections";
+/* --------------------------------------------------------
+  14. Headings
+-------------------------------------------------------- */
+   @import "headings";
+/* --------------------------------------------------------
+  15. Buttons
+-------------------------------------------------------- */
+   @import "buttons";
+/* --------------------------------------------------------
+  16. Icons
+-------------------------------------------------------- */
+   @import "icons";
+/* --------------------------------------------------------
+  17. Home Page Stage
+-------------------------------------------------------- */
+   @import "stage";
+/* --------------------------------------------------------
+  18. Shop Styles
+-------------------------------------------------------- */
+   @import "shop";
+/* --------------------------------------------------------
+  19. Contact Us
+-------------------------------------------------------- */
+   @import "contact";
+/* --------------------------------------------------------
+  20. Blog Section
+-------------------------------------------------------- */
+   @import "blog";
+/* --------------------------------------------------------
+  21. Services
+-------------------------------------------------------- */
+   @import "services";
+/* --------------------------------------------------------
+  22. Tesimonials
+-------------------------------------------------------- */
+   @import "testimonials";
+/* --------------------------------------------------------
+  23. Partner
+-------------------------------------------------------- */
+   @import "partner";
+/* --------------------------------------------------------
+  24. Accordion Component
+-------------------------------------------------------- */
+   @import "accordion";
+/* --------------------------------------------------------
+  25. Tab Component
+-------------------------------------------------------- */
+   @import "tab";
+/* --------------------------------------------------------
+  26. Text Image Component
+-------------------------------------------------------- */
+   @import "text-image";
+/* --------------------------------------------------------
+  27. Portfolio Styles
+-------------------------------------------------------- */
+   @import "portfolio";
+/* --------------------------------------------------------
+  28. Team Styles
+-------------------------------------------------------- */
+   @import "team";
+/* --------------------------------------------------------
+  29. Footer
+-------------------------------------------------------- */
+@import "footer";
+/* --------------------------------------------------------
+  30. Responsive Styling
+-------------------------------------------------------- */
+   @import "responsive";

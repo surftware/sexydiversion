@@ -1,0 +1,228 @@
+
+//  Promo Feature 
+
+
+.promo-feature {
+    background-color: #e2e0df;
+    position: relative;
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+    background: no-repeat;
+    background-position: center right;
+    background-size: cover;
+}
+
+.promo-feature .feature-content {
+    z-index: 1;
+}
+
+.promo-feature:after {
+    content: "";
+    background: #ffffff;
+    opacity: 0.4;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: 0;
+}
+
+.promo-feature {
+    width: 100%;
+    height: auto;
+}
+
+
+
+//  Page Headers
+
+
+.page-header {
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 1;
+}
+
+.page-header:after {
+    content: "";
+    background: $gray-dark;
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} // Dark Feature
+.page-header-dark:after {
+    content: "";
+    background: #0c0308;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} // Brand Feature
+.page-header-brand:after {
+    content: "";
+    background: rgba(216, 84, 79, 0.42);
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} // Light Feature
+.page-header-light:after {
+    content: "";
+    background: #ffffff;
+    opacity: 0.7;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} // 404 Page
+.page-header-error {
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: top;
+    position: relative;
+    z-index: 1;
+}
+
+.page-header-error:after {
+    content: "";
+    background: $white;
+    opacity: 0.9;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+} // Inset
+.page-header-inset,
+.page-header-inset--white {
+    height: 600px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    display: flex;
+    align-items: center;
+    position: relative;
+    z-index: 0;
+}
+
+.page-header-inset:after {
+    content: "";
+    background: #323c46;
+    opacity: 0.8;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.page-header-inset--white:after {
+    content: "";
+    background: $white;
+    opacity: 0.6;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.inset-content {
+    top: -550px;
+    position: relative;
+    margin-bottom: -500px;
+} //  Home Page 
+.left-area {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: left;
+    padding-left: 0;
+}
+
+.right-area {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: right;
+    padding-right: 0;
+}
+
+
+
+//  Parallax Fixed Feature 
+
+
+section.module-black.myparallax {
+    background-image: url(../assets/img/placeholders/header.jpg);
+    min-height: 100%;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+section.module-black.myparallax:after {
+    content: "";
+    background: #ffffff;
+    opacity: 0.8;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.myparallax .section-header {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.img-overlay {
+    display: block;
+    min-height: 100%;
+    width: 100%;
+    padding-top: 96px;
+    padding-bottom: 96px;
+}
+
+.icon-row {
+    margin-top: 2rem;
+}
+
+.icon-row .icou-brand-title {
+    color: $white;
+    margin-top: 22px;
+    font-size: 22px;
+}
+
+.icon-row .icou-sub-title {
+    color: $white;
+    margin-top: 20px;
+}

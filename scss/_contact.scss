@@ -1,0 +1,103 @@
+
+#map {
+    height: 500px;
+}
+.contact-us-section {}
+
+.contact-form-wrapper {
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.contact-us-area {
+    margin-top: 40px;
+}
+
+.contact-home-area {}
+
+.contact-block {
+    padding: 0;
+    position: relative;
+    margin-top: 30rem;
+    min-height: 400px;
+    background-color: $white; // border: 1px solid $gray-lighter;
+    @include BoxShadowHelper($level: 3);
+}
+
+.contact-block-wrapper {
+    position: relative;
+    display: flex;
+    height: 550px;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.contact-block-left-area {
+    align-self: flex-start;
+    position: relative;
+    padding: 2rem;
+    background-color: transparent;
+}
+
+.contact-block .section-header {
+    margin-top: 0;
+    margin-bottom: 0.2rem;
+}
+
+// Contact Form
+.contact-block-form {
+    padding: 1.2rem;
+}
+
+.contact-block-form .form-item {
+    margin-bottom: 2rem;
+}
+
+.contact-block-form .text-area {
+    min-height: 125px;
+}
+
+// Company Info
+.contact-block-right-area-wrapper {
+    padding: 0;
+    margin: 0;
+}
+
+.contact-block-right-area {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    position: relative;
+    padding: 4rem;
+    align-items: flex-start;
+    justify-content: space-between;
+    background-color: #a21e27;
+}
+
+.contact-block .contact-title {
+    margin-bottom: 1.4rem;
+}
+
+.address-item-wrapper {}
+
+.contact-block .address-item {
+    margin-bottom: 1.6rem;
+}
+
+.contact-block .address-item i {
+    margin-right: 0.8rem;
+}
+
+.contact-block-social {
+    align-self: flex-start;
+    font-size: 20px;
+}
+
+.contact-block-social .social-share ul {
+    float: left;
+    align-items: baseline;
+}
+
+.contact-block-social .social-share ul li a {
+    width: 35px
+}

@@ -1,0 +1,538 @@
+.team-container {
+    margin-top: 4rem;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.team-member-card {
+    @include border-radius(0);
+    border: 0;
+    text-align: center;
+}
+
+.team-member-card img {
+    width: 100%;
+}
+
+.team-member-card figure {
+    margin: 0rem;
+    overflow: hidden;
+}
+
+.team-member-card .social-team-member {
+    position: relative;
+}
+
+.team-member-card ul.social-share {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0px;
+}
+
+.team-member-card .social-team-member ul.social-share li a {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    opacity: 1;
+    color: $red;
+    border: 1px solid #cacaca;
+    line-height: 40px;
+    @include border-radius(0px);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.team-member-card .social-team-member:focus {
+    background-color: transparent;
+    color: $red;
+}
+
+.team-member-card {
+    border: 1px solid $gray-lighter;
+}
+
+.team-member-card .card-block {
+    text-align: left;
+    position: relative;
+    padding: 1rem;
+}
+
+.team-member-card .social-share {
+    margin-right: 0;
+}
+
+.team-member-card .card-subtitle {
+    color: #cacaca;
+}
+
+.team-member-card ul.social-share li a:hover {
+    background-color: $red;
+    border-color: $red;
+    color: $white;
+}
+
+.team-member-card ul.social-share li {}
+
+.team-member-card ul.social-share li:last-child {
+    margin-right: 0;
+}
+
+.team-member-card .card-block .services {
+    border-bottom: 7px solid $red;
+    text-align: center;
+    background-color: $gray-lightest;
+}
+
+.feature-team .slides,
+.team-section .slides {
+    width: 100%;
+    height: 100%;
+    margin: 30px auto 40px;
+}
+
+.feature-team .slide,
+.team-section .slide {
+    width: 100%;
+    height: 100%;
+}
+
+.feature-team .team,
+.team-section .team {
+    margin-bottom: 60px;
+}
+
+.feature-team .avatar,
+.team-section .avatar {
+    width: 50%;
+    display: block;
+    border-radius: 50%;
+    margin: 0 25%;
+}
+
+.feature-team .slider .team-section .slider {
+    width: 600px;
+    height: 150px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.feature-team .slick-prev {
+    width: 52px;
+    height: 52px;
+    opacity: 0.8;
+    left: 18px;
+    top: 45%;
+    background-color: lighten($red,10%);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.feature-team .slick-prev:focus:hover,
+.feature-team .slick-prev:hover {
+    background-color: $red;
+    opacity: 1;
+}
+
+.feature-team .slick-next:focus:hover,
+.feature-team .slick-next:hover {
+    background-color: $red;
+    opacity: 1;
+}
+
+.feature-team .slick-next {
+    width: 52px;
+    height: 52px;
+    opacity: 0.8;
+    right: 19px;
+    top: 45%;
+    background-color: lighten($red,10%);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.feature-team .slick-prev:before,
+.slick-next:before,
+.team-section .slick-prev:before,
+.slick-next:before {
+    font-family: 'FontAwesome';
+    display: block;
+    background-color: transparent;
+    border-radius: 0px;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.feature-team .slick-prev:before,
+.team-section .slick-prev:before {
+    font-family: FontAwesome;
+    font-size: 14px;
+    content: $fa-var-chevron-left;
+    color: $white;
+}
+.feature-team .slick-next:before,
+.team-section .slick-next:before {
+    font-family: FontAwesome;
+    font-size: 14px;
+    content: $fa-var-chevron-right;
+    color: $white;
+}
+
+.feature-team .team-dots {
+    position: relative;
+}
+
+.feature-team ul.slick-dots {
+    margin-top: 4rem;
+}
+
+// Team card hover transitions
+figure.effect-team {
+    background: $white;
+    -webkit-perspective: 2800px;
+    perspective: 2800px;
+    cursor: pointer;
+}
+
+figure.effect-team img {
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(0, 0, 300px);
+    transform: translate3d(0, 0, 300px);
+}
+
+figure.effect-team:hover img {
+    opacity: 0.3;
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+figure.effect-team h2 {
+    font-size: 158.75%;
+}
+
+figure.effect-team h2,
+figure.effect-team p {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(-50%, -50%, 0);
+    transform: translate3d(-50%, -50%, 0);
+    -webkit-transform-origin: 50%;
+    transform-origin: 50%;
+}
+
+figure.effect-team figcaption::before {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 160px;
+    height: 160px; //border: 1px solid $link-hover-color;
+    content: '';
+    opacity: 0;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+    -webkit-transform: translate3d(-50%, -50%, 0) rotate3d(0, 0, 1, -45deg) scale3d(0, 0, 1);
+    transform: translate3d(-50%, -50%, 0) rotate3d(0, 0, 1, -45deg) scale3d(0, 0, 1);
+    -webkit-transform-origin: 50%;
+    transform-origin: 50%;
+}
+
+figure.effect-team p {
+    width: 100px;
+    text-transform: none;
+    font-size: 121%;
+    line-height: 2;
+}
+
+figure.effect-team p a {
+    color: #fff;
+}
+
+figure.effect-team p a:hover,
+figure.effect-team p a:focus {
+    opacity: 1;
+}
+
+figure.effect-team p a i {
+    display: inline-block;
+    font-weight: 300;
+    color: $gray-dark;
+    opacity: 0;
+    margin-right: 12px;
+    -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+    transition: opacity 0.35s, transform 0.35s;
+}
+
+figure.effect-team p a i::before {
+    background: #ffffff;
+    position: relative;
+    width: 50px;
+    height: 50px;
+    @include border-radius(25px);
+    text-align: center;
+    line-height: 20px;
+    opacity: 1;
+    vertical-align: middle;
+    padding: 10px 10px 10px 10px;
+    -webkit-transition: all 200ms linear 0ms;
+    -moz-transition: all 200ms linear 0ms;
+    -ms-transition: all 200ms linear 0ms;
+    transition: all 200ms linear 0ms;
+}
+
+figure.effect-team p a i:hover::before {
+    background: $red;
+    color: #ffffff;
+}
+
+figure.effect-team p a:first-child i {
+    -webkit-transform: translate3d(-60px, -60px, 0);
+    transform: translate3d(-60px, -60px, 0);
+}
+
+figure.effect-team p a:nth-child(2) i {
+    -webkit-transform: translate3d(60px, -60px, 0);
+    transform: translate3d(60px, -60px, 0);
+}
+
+figure.effect-team p a:nth-child(3) i {
+    -webkit-transform: translate3d(-60px, 60px, 0);
+    transform: translate3d(-60px, 60px, 0);
+}
+
+figure.effect-team p a:nth-child(4) i {
+    -webkit-transform: translate3d(60px, 60px, 0);
+    transform: translate3d(60px, 60px, 0);
+}
+
+figure.effect-team:hover figcaption::before {
+    opacity: 1;
+    -webkit-transform: translate3d(-50%, -50%, 0) rotate3d(0, 0, 1, -45deg) scale3d(1, 1, 1);
+    transform: translate3d(-50%, -50%, 0) rotate3d(0, 0, 1, -45deg) scale3d(1, 1, 1);
+}
+
+figure.effect-team:hover h2 {
+    opacity: 0;
+    -webkit-transform: translate3d(-50%, -50%, 0) scale3d(0.8, 0.8, 1);
+    transform: translate3d(-50%, -50%, 0) scale3d(0.8, 0.8, 1);
+}
+
+figure.effect-team:hover p i:empty {
+    -webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    /* just because it's stronger than nth-child */
+    opacity: 1;
+}
+
+.feature-team .team-dots {
+    position: relative;
+}
+
+.feature-team ul.slick-dots {
+    margin-top: 4rem;
+}
+
+// Team Single Page
+#team-single {}
+
+.team-single-area {}
+
+.team-section .team-dots {
+    position: relative;
+}
+
+.team-section ul.slick-dots {
+    margin-top: 4rem;
+}
+
+.team-single-content-wrapper {
+    position: relative;
+    padding-left: 1.2rem;
+    padding-right: 1.2rem;
+}
+
+.team-member-profile {
+    padding-top: 1rem;
+    padding-right: 0rem;
+    padding-bottom: 1.8rem;
+}
+
+.team-member-profile img {
+    border: 1px solid $gray-lighter;
+    padding: 0;
+    @include border-radius(0);
+}
+
+p.team-member-text {
+    margin-bottom: 3rem;
+}
+
+.title-social-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-color: #cacaca;
+    border-bottom-style: dotted;
+    border-bottom-width: 1px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-top: 1.6rem;
+    margin-bottom: 2rem;
+}
+
+.team-single-social .social-share {
+    margin-right: 0;
+    display: flex;
+    padding-right: 0;
+    justify-content: space-between;
+}
+
+.team-single-social ul.social-share li a {
+    color: $gray-dark;
+    display: table-cell;
+    opacity: 1;
+    margin-right: 0;
+    padding: 1rem;
+    width: 55px;
+    height: 40px;
+    color: #d9534f;
+    border: 1px solid $gray-lighter;
+    background-color: transparent;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.team-single-social ul.social-share li a:hover {
+    background-color: $red;
+    border-color: $red;
+    color: $white;
+}
+
+.team-single-social ul.social-share li {}
+
+.team-single-social ul.social-share li:last-child {
+    margin-right: 0;
+    padding-right: 0;
+}
+
+.team-section .slick-prev {
+    width: 52px;
+    height: 52px;
+    opacity: 0.8;
+    left: 18px;
+    top: 45%;
+    background-color: lighten($red,10%);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.team-section .slick-prev:focus:hover,
+.team-section .slick-prev:hover {
+    background-color: $red;
+    opacity: 1;
+}
+
+.team-section .slick-next:focus:hover,
+.team-section .slick-next:hover {
+    background-color: $red;
+    opacity: 1;
+}
+
+.team-section .slick-next {
+    width: 52px;
+    height: 52px;
+    opacity: 0.8;
+    right: 19px;
+    top: 45%;
+    background-color: lighten($red,10%);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+// Form
+.team-member-section-header-wrapper .section-header {
+    margin: 0;
+    padding: 0;
+}
+
+.team-single-contact-area {
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.contact-team-member {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.team-member-single-form {
+    margin-top: 2rem;
+    padding-right: 1rem;
+}
+
+.team-member-single-form .form-item {
+    margin-bottom: 1.5rem;
+}
+
+.team-member-single-form .text-area {
+    min-height: 100px;
+}
+
+// Team Member Info
+.team-member-info .widget {
+    position: relative;
+    background: #f9f9f9;
+    border: 1px solid $gray-lighter;
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+    padding: 2rem;
+}
+
+.team-member-info .widget p {
+    color: $gray-dark;
+    margin-bottom: 1.35rem;
+}
+
+.team-member-info .widget p:last-child {
+    margin-bottom: 0;
+}
+
+.team-member-info .widget:before {
+    position: absolute;
+    content: "";
+    top: -4px;
+    left: -4px;
+    width: 4px;
+    height: 35px;
+    background: $red;
+}
+
+.team-member-info .widget:after {
+    position: absolute;
+    content: "";
+    top: -4px;
+    left: 0;
+    width: 35px;
+    height: 4px;
+    background: $red;
+}

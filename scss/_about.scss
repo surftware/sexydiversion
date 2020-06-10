@@ -1,0 +1,24 @@
+.about-us-section {}
+
+.about-us-section .section-header {
+    margin-top: 0.2rem;
+    margin-bottom: 0.8rem;
+    padding-top: 0;
+}
+
+.about-us-section .about-us-info {}
+
+.about-us-section .team-member-info .widget {
+    margin-top: 0.5rem;
+    margin-left: 1rem;
+    min-width: 285px;
+}
+
+.about-us-section .team-member-info .widget p {
+    margin-bottom: 1.3rem;
+    color: $gray-dark;
+}
+
+.about-us-section .team-member-info .widget p:last-child {
+    margin-bottom: 0;
+}

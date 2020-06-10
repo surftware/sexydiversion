@@ -1,0 +1,42 @@
+.our-partners-component .partners-row {
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+    padding: 1rem;
+}
+
+.our-partners-component .our-partners-wrapper {
+    position: relative;
+    margin-top: 3rem;
+    background: $white;
+    @include BoxShadowHelper(1);
+    padding: 3rem;
+    border-top: 2px solid $gray-lighter;
+}
+
+.our-partners-component figure {
+    margin: 0;
+}
+
+.our-partners-component .figure-caption {
+    padding-bottom: 1rem;
+}
+
+.our-partners-component figure.partner-block {
+    border: 1px dotted #cacaca;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 35px;
+}
+
+.our-partners-component figure img {
+    cursor: pointer;
+    @include opacity-background(0.9);
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.our-partners-component figure img:hover {
+    @include opacity-background(1);
+}

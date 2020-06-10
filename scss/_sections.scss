@@ -1,0 +1,28 @@
+.s-position-rel {
+    position: relative !important;
+}
+
+.s-display-bl {
+    display: block !important;
+}
+
+.s-overflow-hidden {
+    overflow: hidden;
+}
+
+.s-padding {
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.s-bg-white {
+    background-color: $white;
+}
+
+.s-bg-gray {
+    background-color: #f0f0f0;
+}
+
+.s-bg-brand {
+    background-color: $brand-primary;
+}

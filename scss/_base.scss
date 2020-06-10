@@ -1,0 +1,490 @@
+
+html,
+body {
+    font-family: $font-family-base;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    color: #818a91;
+    font-size: 15px;
+    line-height: 24px;
+    overflow-x: hidden;
+    min-height: 100%;
+}
+
+
+//  Preloader
+
+
+.preloader {
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: $white;
+    z-index: 999999;
+    height: 100%;
+    width: 100%;
+    overflow: hidden !important;
+}
+  
+  .spinner {
+    width: 40px;
+    height: 40px;
+    background: #eee;
+    border-radius: 50%;
+    position: relative;
+    margin: 50px;
+    display: inline-block;
+  }
+  .spinner::after, .spinner::before {
+    content: "";
+    display: block;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  
+  .spinner-pulse::before, .spinner-pulse::after {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+    background: $brand-primary;
+    -webkit-animation: pulse 2s linear infinite;
+            animation: pulse 2s linear infinite;
+    opacity: 0;
+  }
+  .spinner-4::after {
+    -webkit-animation: pulse 1s linear 1.3s infinite;
+            animation: pulse 1s linear 1.3s infinite;
+  }
+  
+  @-webkit-keyframes pulse {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1.3);
+              transform: scale(1.3);
+      opacity: 0;
+    }
+  }
+  
+  @keyframes pulse {
+    0% {
+      -webkit-transform: scale(0);
+              transform: scale(0);
+      opacity: 1;
+    }
+    100% {
+      -webkit-transform: scale(1.3);
+              transform: scale(1.3);
+      opacity: 0;
+    }
+  }
+  
+
+//  Text
+
+
+.icou-t-white {
+    color: white !important;
+}
+
+.icou-t-white--less-white {
+    color: #a5a5a5 !important;
+}
+
+
+//  Top Bar
+
+
+.top-bar {
+    padding: 10px 0;
+    height: 80px;
+    margin-bottom: -1px;
+    background: $brand-primary;
+    border-bottom: 1px solid #3a3a3a;
+    line-height: 22px;
+}
+
+.top-bar p {
+    color: $body-bg;
+    font-size: 14px;
+    opacity: 0.5;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+
+.top-bar p:hover {
+    opacity: 1;
+}
+
+.top-number {
+    color: $gray-lightest;
+}
+
+.top-number p {
+    margin-left: 0.8rem;
+}
+
+.social {
+    text-align: right;
+}
+
+.social-share {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin-right: 0.8rem;
+}
+
+ul.social-share li {
+    display: inline-block;
+}
+
+ul.social-share li a {
+    display: inline-block;
+    color: $gray-lightest;
+    background: transparent;
+    width: 25px;
+    height: 25px;
+    opacity: 0.6;
+    line-height: 25px;
+    text-align: center;
+    border-radius: 0;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+
+ul.social-share li a:hover {
+    opacity: 1;
+}
+
+//  Breadcrumbs
+
+
+.page-header-bottom {
+    position: relative;
+    background-color: #fff;
+    z-index: 1;
+    border-bottom: 1px solid $gray-lighter;
+}
+
+// If not using a page header image use this class
+.page-header-bottom-no-header {
+    position: relative;
+    height: 116px;
+    display: flex;
+    text-align: left;
+    align-items: flex-end;
+    background-color: #fff;
+    z-index: 1;
+    border-bottom: 1px solid $gray-lighter;
+}
+
+.breadcrumb-wrapper {
+    display: flex;
+    background: transparent;
+    height: 100%;
+    justify-content: left;
+    align-items: baseline;
+}
+
+.breadcrumbs {
+    position: relative;
+    left: 20px;
+    display: inline-flex;
+}
+
+.page-header-bottom ul,
+li,
+.page-header-bottom-no-header ul,
+li {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.page-header-bottom ul li,
+.page-header-bottom-no-header ul li {
+    color: #292929;
+    font-size: 14px;
+    line-height: 55px;
+    display: inline-block;
+    margin-left: 12px;
+}
+
+.page-header-bottom ul li a,
+.page-header-bottom-no-header ul li a {
+    list-style: none;
+    color: $gray-dark;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.page-header-bottom ul li:first-child,
+.page-header-bottom-no-header ul li:first-child {
+    padding-left: 0;
+    margin-left: 0;
+}
+
+.page-header-bottom ul li:first-child a:before,
+.page-header-bottom-no-header ul li:first-child a:before {
+    display: none;
+    font-family: 'FontAwesome';
+    content: "\f015";
+    position: relative;
+    font-size: 16px;
+    color: inherit;
+    margin-right: 5px;
+    line-height: 22px;
+    transition: all 500ms ease;
+    -moz-transition: all 500ms ease;
+    -webkit-transition: all 500ms ease;
+    -ms-transition: all 500ms ease;
+    -o-transition: all 500ms ease;
+}
+
+.page-header>li:hover>a,
+.page-header-bottom>li.current>a,
+.page-header>li:hover>a,
+.page-header-bottom-no-header>li.current>a {
+    color: $brand-primary;
+    opacity: 1;
+}
+
+
+
+//  Newsletter
+
+
+.newsletter {
+    padding-top: 62px;
+    padding-bottom: 62px;
+    text-align: center;
+    background: linear-gradient(rgba(150, 185, 128, 0.63), rgba(150, 185, 128, 0.63)), url('../../img/spiderweb.jpg') 50% 0 repeat fixed;
+    background-position: center
+}
+
+.newsletter h3 {
+    font-size: 28px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.newsletter .subscription {
+    margin-top: 15px;
+}
+
+.newsletter .custom-button {
+    margin-top: 7px;
+}
+
+
+
+//  Blockquote
+
+
+.blockquote {
+    font-size: 1.6rem;
+    color: #333;
+    border: none;
+    padding: 0;
+}
+
+.blockquote-footer {
+    margin: 1rem 0 0;
+}
+
+
+//  Testimonial Section Component
+
+
+.testimonial-wrapper {
+    position: relative;
+    width: 100%
+}
+
+.feature-content {
+    padding: 4rem;
+    overflow: hidden;
+}
+
+.testimonial-wrapper ul.slick-dots {
+    bottom: 1rem;
+}
+
+
+
+//  Hide
+
+
+.display-none {
+    display: none;
+}
+
+
+
+//  Slick
+
+
+.slick-dots {
+    position: relative;
+    bottom: 0px;
+    margin-bottom: 3rem;
+}
+
+.slick-dots li button::before {
+    font-family: 'FontAwesome';
+    font-size: 15px;
+    color: $gray-light;
+    content: "\f111";
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.slick-dots li.slick-active button:before {
+    font-family: 'FontAwesome';
+    font-size: 15px;
+    opacity: .75;
+    color: $brand-primary;
+    content: "\f111";
+}
+
+.slick-prev, .slick-next {
+    @include border-radius(0px);
+}
+
+
+//  Pagination
+
+
+.icou-pagination-wrapper {}
+
+.icou-pagination {
+    margin-top: 3rem;
+}
+
+.icou-pagination ul {}
+
+.icou-pagination .page-item {
+    margin-right: 0.4rem;
+}
+
+.icou-pagination .page-link {
+    padding: 1rem 1.2rem;
+    color: $gray-dark;
+}
+
+.icou-pagination .page-item .page-link {
+    border-color: #cacaca;
+    -webkit-transition: all 300ms linear 0ms;
+    -moz-transition: all 300ms linear 0ms;
+    -ms-transition: all 300ms linear 0ms;
+    transition: all 300ms linear 0ms;
+}
+
+.icou-pagination .page-item.active .page-link {
+    background-color: #323c46;
+    border-color: #323c46;
+    font-family: $font-family-sans-serif;
+}
+
+.icou-pagination .page-item .page-link:active {
+    background-color: $white;
+}
+
+.icou-pagination .page-item .page-link:hover {
+    background-color: $brand-primary;
+    border-color: $brand-primary;
+    font-family: $font-family-sans-serif;
+    color: $white;
+}
+
+.icou-pagination .page-item,
+.icou-pagination .page-item:first-child .page-link,
+.icou-pagination .page-item:last-child .page-link {
+    @include border-radius(0);
+}
+
+.icou-pagination .page-item:first-child .page-link::before {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-right: 0.6rem;
+    content: $fa-var-angle-left;
+    color: inherit;
+}
+
+.icou-pagination .page-item:last-child .page-link::after {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-left: 0.6rem;
+    content: $fa-var-angle-right;
+    color: inherit;
+}
+
+
+
+//  Scrollup
+
+
+.scrollup {
+    display: none;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    opacity: .3;
+    position: fixed;
+    bottom: 40px;
+    right: 25px;
+    color: #fff;
+    cursor: pointer;
+    background-color: #000;
+    z-index: 10;
+    -webkit-transition: background-color 2s ease-in-out;
+    -moz-transition: background-color 2s ease-in-out;
+    -o-transition: background-color 2s ease-in-out;
+    transition: background-color 2s ease-in-out;
+}
+
+.scrollup:hover {
+    background-color: $brand-primary;
+    opacity: 1;
+}
+
+.scrollup i {
+    font-size: 13px;
+    position: absolute;
+    opacity: 1;
+    color: #fff;
+    left: 50%;
+    top: 50%;
+    margin-top: -7px;
+    margin-left: -6px;
+    text-decoration: none;
+}

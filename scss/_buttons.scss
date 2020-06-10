@@ -1,0 +1,91 @@
+.icou-button {
+    text-transform: uppercase;
+    font-family: $font-family-base;
+    letter-spacing: 0.01rem;
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.icou-button--white-outline {
+    border-color: $white;
+    color: $white;
+    background-color: transparent;
+}
+
+.icou-button--white-outline:hover {
+    background-color: $gray-dark;
+    border-color: $gray-dark;
+    color: $white;
+}
+
+.icou-button--prev::before {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-right: 0.6rem;
+    content: $fa-var-angle-left;
+    color: inherit;
+}
+
+.icou-button--next::after {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-left: 0.6rem;
+    content: $fa-var-angle-right;
+    color: inherit;
+}
+
+.icou-button--see-more-right {
+    border: 0;
+}
+
+.icou-button--see-more-right::after {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-left: 0.6rem;
+    content: $fa-var-long-arrow-right;
+    color: inherit;
+}
+
+.icou-button--see-more-left {
+    border: 0;
+}
+
+.icou-button--see-more-left::after {
+    font-family: fontAwesome;
+    font-size: 14px;
+    line-height: 1;
+    position: relative;
+    top: -1px;
+    margin-left: 0.6rem;
+    content: $fa-var-long-arrow-left;
+    color: inherit;
+    border: 0;
+}
+
+.icou-button--download {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icou-button--download::after {
+    font-family: FontAwesome;
+    content: $fa-var-download;
+    font-size: 15px;
+    z-index: 2;
+    line-height: 15px;
+    height: 10px;
+    width: 10px;
+    color: inherit;
+}
