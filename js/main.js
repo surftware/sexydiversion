@@ -1,8 +1,3 @@
-/*!
- * Icou v1.0.0 (http://p-pixels.com/icou/)
- * Copyright 2018 p-pixels
- */
-
 (function ($) {
   'use strict';
 
@@ -97,7 +92,7 @@ function initStickyNav() {
   $('.sticky').on('sticky-start', function () {
 
     $(this).addClass('sticky-nav');
-    $('.main-menu-wrapper-outer').css('background', '#1c1c1c');
+    $('.main-menu-wrapper-outer').css('background', '#613d7c');
 
   });
 

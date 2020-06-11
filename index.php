@@ -95,7 +95,7 @@
                                 <div class="caption-wrapper">
                                     <div class="slide-caption">
                                         <a href="#">
-                                            <h2>HTML5 Business Template</h2>
+                                            <h2>Sex Shop Sexy Diversión</h2>
                                         </a>
                                         <p>Mauris vulputate, leo ac faucibus tempor, mauris lectus bibendum nisi, vel convallis est ipsum lacus. Etiam faucibus quam sapien, id pretium lacus facilisis lacinia.</p>
                                     </div>
@@ -117,9 +117,9 @@
                                 <div class="caption-wrapper">
                                     <div class="slide-caption">
                                         <a href="#">
-                                            <h2>Responsive layout and design</h2>
+                                            <h2>Envíos a toda la República Mexicana</h2>
                                         </a>
-                                        <p>Sed vulputate sed felis nec iaculis. Nam nec mauris quis dui pharetra porta at condimentum sapien.</p>
+                                        <p>Conoce nuestras formas de pago</p>
                                     </div>
                                 </div>
                             </div>
@@ -139,9 +139,9 @@
                                 <div class="caption-wrapper">
                                     <div class="slide-caption">
                                         <a href="#">
-                                            <h2>Reach out to us today</h2>
+                                            <h2>Promoción del mes</h2>
                                         </a>
-                                        <p>Nulla a nibh vulputate, vulputate libero eget, consectetur quam. In sit amet aliquet sapien, eget placerat massa. Duis a libero nibh.</p>
+                                        <p>En la compra de X productos te regalamos X cosa.</p>
                                     </div>
                                 </div>
                             </div>
@@ -844,7 +844,7 @@
                                 <li><a href="service-single-four.html">Service Four</a></li>
                                 <li><a href="service-single-five.html">Service Five</a></li>
                                 <li><a href="service-single-six.html">Service Six</a></li>
-                                <li><a href="contact.html">Contact Us</a></li>
+                                <li><a href="contact.html">Contacto</a></li>
                             </ul>
                         </div>
                     </div>
