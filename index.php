@@ -8,9 +8,7 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <!-- favicon -->
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon-96x96.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon-16x16.png">
+
     <!-- Plugin CSS -->
     <link rel="stylesheet" type="text/css" href="css/superslide/superslides.css">
     <link rel="stylesheet" type="text/css" href="css/themes/default/default.css">
@@ -38,7 +36,7 @@
                     <div class="row">
                         <div class="col-sm-12 col-md-12 col-lg-12">
                             <div class="top-number">
-                                <p class="white"><i class="fa fa-phone-square"></i> +0123 456 70 90</p>
+                                <p class="white font-weight-bold "><i class="fa fa-phone-square"></i> +0123 456 70 90</p>
                             </div>
                             <div class="social">
                                 <ul class="social-share">
@@ -69,9 +67,11 @@
                             <nav class="main-menu navbar navbar-toggleable-md">
                                 <div class="collapse navbar-collapse" id="icouNavbar">
                                     <ul class="navigation navbar-nav mr-auto mt-2 mt-md-0">
-                                        <li class="main-menu-link current"><a href="index.html">Inicio</a></li>
+                                        <li class="main-menu-link current"><a href="index.php">Inicio</a></li>
                                         
-                                        <li class="main-menu-link"><a href="contact.html">Contacto</a></li>
+                                        <li class="main-menu-link"><a href="index.php#contact-home-area">Contacto</a></li>
+
+                                        <li class="main-menu-link"><a href="index.php">Galería Productos</a></li>
                                     </ul>
                                 </div>
                             </nav>
@@ -168,7 +168,7 @@
                         <div class="intro-table intro-table-hover">
 
                             <div class="img-holder img-fluid">
-                                <img src="assets/img/placeholders/intro-table.jpg" alt="awesome-image" class="img-fluid" />
+                                <img src="assets/img/index/sex-shop-sexy-diversion1.jpeg" alt="awesome-image" class="img-fluid" />
                             </div>
                             <div class="intro-table-footer">
                                 <h5 class="icou-sub-title">Business Solutions</h5>
@@ -181,7 +181,7 @@
                         <div class="intro-table intro-table-hover">
 
                             <div class="img-holder img-fluid">
-                                <img src="assets/img/placeholders/intro-table.jpg" alt="awesome-image" class="img-fluid" />
+                                <img src="assets/img/index/sex-shop-sexy-diversion2.jpeg" alt="awesome-image" class="img-fluid" />
                             </div>
                             <div class="intro-table-footer">
                                 <h5 class="icou-sub-title">Online Consulting</h5>
@@ -194,7 +194,7 @@
                         <div class="intro-table intro-table-hover">
 
                             <div class="img-holder img-fluid">
-                                <img src="assets/img/placeholders/intro-table.jpg" alt="awesome-image" class="img-fluid" />
+                                <img src="assets/img/index/sex-shop-sexy-diversion3.jpeg" alt="awesome-image" class="img-fluid" />
                             </div>
                             <div class="intro-table-footer">
                                 <h5 class="icou-sub-title">Web Analytics</h5>
@@ -207,7 +207,7 @@
                         <div class="intro-table intro-table-hover">
 
                             <div class="img-holder img-fluid">
-                                <img src="assets/img/placeholders/intro-table.jpg" alt="awesome-image" class="img-fluid" />
+                                <img src="assets/img/index/sex-shop-sexy-diversion4.jpeg" alt="awesome-image" class="img-fluid" />
                             </div>
                             <div class="intro-table-footer">
                                 <h5 class="icou-sub-title">Digital Marketing</h5>
@@ -239,7 +239,7 @@
                             </div>
                             <!-- Right Area -->
                             <div class="right-area col-md-6">
-                                <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left" href="3column.html"><span>See More</span></a>
+                                <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left" href="3column.html"><span>Ver más productos</span></a>
                             </div>
                             <!-- End Right Area -->
                             <span class="section-header__separate-line-basement clearfix"></span>
@@ -718,8 +718,8 @@
                                     <div class="section-header section-header--left-position">
                                         <div class="row">
                                             <div class="container">
-                                                <h2 class="icou-brand-title"><span class="section-header__section-header-title-left">Drop Us a Line</span></h2>
-                                                <p>Send us an email and we will get back to you.</p>
+                                                <h2 class="icou-brand-title"><span class="section-header__section-header-title-left">Pedidos</span></h2>
+                                                <p>Envíanos un mensaje de e-mail con la lista de tus productos adjuntando tu voucher de pago.</p>
                                                 <span class="section-header__separate-line-basement clearfix"></span>
                                             </div>
                                         </div>
@@ -729,15 +729,15 @@
                                     <div class="contact-block-form">
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
-                                                <input type="text" class="form-control" placeholder="Name:">
+                                                <input type="text" class="form-control" placeholder="Nombre:">
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
-                                                <input type="text" class="form-control" placeholder="Email Address:">
+                                                <input type="text" class="form-control" placeholder="E-mail:">
                                             </div>
                                         </div>
-                                        <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3" placeholder="Message:"></textarea>
+                                        <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3" placeholder="Lista de productos:"></textarea>
                                         <div class="d-flex justify-content-end">
-                                            <a class="btn btn-primary btn-lg icou-button" href="#"><span>Submit</span></a>
+                                            <a class="btn btn-primary btn-lg icou-button" href="#"><span>Enviar</span></a>
                                         </div>
                                         <!-- Form Ends -->
                                     </div>
@@ -747,7 +747,7 @@
                             <!-- Right Area -->
                             <div class="contact-block-right-area-wrapper col-sm-12 col-md-4">
                                 <div class="contact-block-right-area flex-column">
-                                    <h4 class="icou-sub-title icou-sub-title--white contact-title">Contact Address</h4>
+                                    <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br> ¡Contáctanos ahora!</h4>
                                     <div class="address-item-wrapper">
                                         <p class="icou-t-white address-item"><i class="fa fa-map-marker" aria-hidden="true"></i> Unit 1 Gimick Street</p>
                                         <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i> Jack Smith</p>
@@ -757,10 +757,6 @@
                                     <div class="contact-block-social">
                                         <ul class="social-share">
                                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                            <li><a href="#"><i class="fa fa-skype"></i></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -844,7 +840,7 @@
                                 <li><a href="service-single-four.html">Service Four</a></li>
                                 <li><a href="service-single-five.html">Service Five</a></li>
                                 <li><a href="service-single-six.html">Service Six</a></li>
-                                <li><a href="contact.html">Contacto</a></li>
+                                <li><a href="index.php#contacto">Contacto</a></li>
                             </ul>
                         </div>
                     </div>
@@ -872,7 +868,7 @@
                     </div>
                     <div class="bottom-right col-sm-12 col-md-6">
                         <div class="copyright">
-                            <p>&copy; REalizado por: <a href="https://surftware.company">Surftware !#Desarrollo de páginas web.</a> 2020. All rights reserved</p>
+                            <p>&copy; REalizado por: <a href="">Surftware !#Desarrollo de páginas web.</a> 2020. All rights reserved</p>
                         </div>
                     </div>
                 </div>

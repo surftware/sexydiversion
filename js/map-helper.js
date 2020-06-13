@@ -1,9 +1,3 @@
-/*!
- * Icou v1.0.0 (http://p-pixels.com/icou/)
- * Copyright 2018 p-pixels
- */
-
-
 'use strict';
 
 document.addEventListener('DOMContentLoaded', function() {
