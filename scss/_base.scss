@@ -118,7 +118,7 @@ body {
 .top-bar p {
     color: $white;
     font-size: 14px;
-    opacity: 0.5;
+    opacity: 1;
     transition: all 500ms ease;
     -moz-transition: all 500ms ease;
     -webkit-transition: all 500ms ease;
@@ -131,7 +131,7 @@ body {
 }
 
 .top-number {
-    color: $gray-lightest;
+    color: $white;
 }
 
 .top-number p {
@@ -155,11 +155,11 @@ ul.social-share li {
 
 ul.social-share li a {
     display: inline-block;
-    color: $gray-lightest;
+    color: $white;
     background: transparent;
     width: 25px;
     height: 25px;
-    opacity: 0.6;
+    opacity: 1;
     line-height: 25px;
     text-align: center;
     border-radius: 0;
