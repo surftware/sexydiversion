@@ -16,7 +16,7 @@
         <ul class="slides-container">
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
-                <div class="container">
+                <div class="container transparent rounded">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
@@ -24,25 +24,23 @@
                                     <a href="#">
                                         <h2>Sex Shop Sexy Diversión</h2>
                                     </a>
-                                    <p>Mauris vulputate, leo ac faucibus tempor, mauris lectus bibendum nisi, vel
-                                        convallis est ipsum lacus. Etiam faucibus quam sapien, id pretium lacus
-                                        facilisis lacinia.</p>
+                                    <p>Sex Shop con los mejores precios.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp" href="about.html"
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Read More</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="services.html"
-                            data-wow-duration="1.2s">Our Services</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
+                            href="contact.html" data-wow-duration="1.2s">Contact Us</a>
                     </div>
                 </div>
             </li>
 
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion2.jpg" alt="home-slide-two">
-                <div class="container">
+                <div class="container transparent rounded">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
@@ -66,7 +64,7 @@
 
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
-                <div class="container">
+                <div class="container transparent rounded">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
