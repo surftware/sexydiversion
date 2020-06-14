@@ -22,7 +22,7 @@
                     </div>
                     <div class="social text-white font-weight-bold">
                         ¡Llámanos ahora ó envía Whats!
-                        <a href="tel:+52 55 " class="text-white">
+                        <a href=" " class="text-white">
                             &nbsp;&nbsp;&nbsp;
                             <i class="fa fa-whatsapp"></i> &nbsp;55 5555 5555
                         </a>
