@@ -31,9 +31,9 @@
                     </div>
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Read More</a>
+                            data-wow-duration="1s">Todos los Productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="contact.html" data-wow-duration="1.2s">Contact Us</a>
+                            href="contact.html" data-wow-duration="1.2s">Contáctanos</a>
                     </div>
                 </div>
             </li>
@@ -48,16 +48,16 @@
                                     <a href="#">
                                         <h2>Envíos a toda la República Mexicana</h2>
                                     </a>
-                                    <p>Conoce nuestras formas de pago</p>
+                                    <p>Conoce nuestras formas de pago.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp" href="about.html"
-                            data-wow-duration="1s">Read More</a>
+                            data-wow-duration="1s">Todos los productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="3column.html"
-                            data-wow-duration="1.2s">Our Portfolio</a>
+                            data-wow-duration="1.2s">Contacto</a>
                     </div>
                 </div>
             </li>
@@ -735,7 +735,7 @@
                                     <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
                                         +234 567 234 875</p>
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                            aria-hidden="true"></i> info.p-pixels.com</p>
+                                            aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                 </div>
                                 <div class="contact-block-social">
                                     <ul class="social-share">
@@ -862,6 +862,7 @@
                 scrollable: true
             });
         });
+        
     </script>
 </body>
 
