@@ -135,7 +135,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Lencería</h5>
                             <p>Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Lencería</span></a>
+                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos
+                                    Lencería</span></a>
                         </div>
                     </div>
                 </div>
@@ -684,20 +685,39 @@
                                 <!-- Section title Ends -->
                                 <!-- Form -->
                                 <div class="contact-block-form">
-                                    <div class="row">
-                                        <div class="col-sm-12 col-md-6 form-item">
-                                            <input type="text" class="form-control" placeholder="Nombre:">
+
+                                    <form action="index.php" method="post">
+                                        <div class="row">
+
+                                            <div class="col-sm-12 col-md-6 form-item">
+                                                <input type="text" class="form-control bordesInputContacto m-3"
+                                                    placeholder="*Nombre completo" name="nombre">
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 form-item">
+                                                <input type="text" class="form-control bordesInputContacto m-3"
+                                                    placeholder="*Tel. contacto" name="telefono">
+                                            </div>
                                         </div>
-                                        <div class="col-sm-12 col-md-6 form-item">
-                                            <input type="text" class="form-control" placeholder="E-mail:">
+                                        <div class="row">
+                                            <div class="col-sm-12 col-md-6 form-item">
+                                                <input type="text" class="form-control bordesInputContacto m-3"
+                                                    placeholder="*Email" name="correo">
+
+
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 form-item">
+                                                <input type="text" class="form-control bordesInputContacto m-3"
+                                                    placeholder="Dirección" name="direccion">
+                                            </div>
                                         </div>
-                                    </div>
-                                    <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
-                                        placeholder="Lista de productos:"></textarea>
-                                    <div class="d-flex justify-content-end">
-                                        <a class="btn btn-primary btn-lg icou-button" href="#"><span>Enviar</span></a>
-                                    </div>
-                                    <!-- Form Ends -->
+                                        <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
+                                            placeholder="Lista de productos:" name="mensaje"></textarea>
+                                        <div class="d-flex justify-content-end">
+                                            <input class="btn btn-primary btn-lg icou-button" type="submit"
+                                                value="enviar">
+                                        </div>
+                                        <!-- Form Ends -->
+                                    </form>
                                 </div>
                             </div>
                         </div>
@@ -774,11 +794,38 @@
         </div>
     </section>
     <!-- / Contact Home Area -->
+
+    <?php
+			$remitente = $_POST['correo'];
+			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
+			$asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
+			if (!$_POST){}
+			else{
+
+				$cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
+				$cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
+				$cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
+				$cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
+				//las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
+				// Si se agrega un campo al formulario, hay que agregarlo acá.
+
+				$headers  = "MIME-Version: 1.0\n";
+				$headers .= "Content-type: text/plain; charset=utf-8\n";
+				$headers .= "X-Priority: 3\n";
+				$headers .= "X-MSMail-Priority: Normal\n";
+				$headers .= "X-Mailer: php\n";
+				$headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
+				mail($destinatario, $asunto, $cuerpo, $headers);
+			}
+		?>
+
+
+
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");
     ?>
-    
+
     <!-- / Footer -->
 
     <!-- SCROLL TO TOP  -->

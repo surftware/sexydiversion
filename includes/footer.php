@@ -46,7 +46,7 @@
                 </div>
             </div>
             <div class="footer-col col-sm-6 col-md-3">
-                <h4 class="footer-col-title icou-brand-title mt-3">Newsletter</h4>
+                <h4 class="footer-col-title icou-brand-title mt-3">Newslette</h4>
                 <div class="newsletter-footer-content">
                     <p>Don't miss to subscribe to our news feeds, kindly fill the form below.</p>
 
@@ -69,7 +69,7 @@
             </div>
             <div class="bottom-right col-sm-12 col-md-6">
                 <div class="copyright">
-                    <p>&copy; Realizado por: <a href="">Surftware !#Desarrollo de páginas web.</a> 2020. All rights
+                    <p>&copy; Realizado por: <a href="">Surftware!#Desarrollo de páginas web.</a> 2020. All rights
                         reserved</p>
                 </div>
             </div>
