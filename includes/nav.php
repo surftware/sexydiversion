@@ -45,8 +45,8 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fa fa-bars" aria-hidden="true"></i>
                     </button>
-                    <a class="navbar-brand" href="index.html">
-                        <img src="assets/img/global/logo.svg" height="31" width="71" alt="icou-logo">
+                    <a class="navbar-brand" href="index.php">
+                        <img src="assets/img/global/logo.png" height="31" width="71" alt="icou-logo">
                     </a>
 
                     <nav class="main-menu navbar navbar-toggleable-md">
