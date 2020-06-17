@@ -712,6 +712,7 @@
                                         </div>
                                         <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
                                             placeholder="Lista de productos:" name="mensaje"></textarea>
+                                        <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
                                             <input class="btn btn-primary btn-lg icou-button" type="submit"
                                                 value="enviar">
@@ -799,7 +800,7 @@
 			$remitente = $_POST['correo'];
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
 			$asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-			if (!$_POST){}
+			if (!$_POST && !empty($_POST["g-recaptcha-response"])){}
 			else{
 
 				$cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
@@ -846,7 +847,8 @@
     <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL6gbhsnCEt4FS9D6BBl3mZO1xy-NcwpE"></script>
     <script src="js/map-helper.js"></script>
     <script src="js/superslide/jquery.superslides.js"></script>
-    <script src="js/wow/wow.min.js"></script>
+    <script src="js/wow/wow.min.js"></script>   
+    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
 
     <!-- Custom JS -->
     <script src="js/main.js"></script>
