@@ -826,6 +826,7 @@
             }
             else
             {
+                
                 echo "No hay datos llenados en el formulario!!!!!!!!!";
             }
 		?>
@@ -918,6 +919,7 @@
             //ajaxCliente(cliente,'vista.cotizacion.db');
             //acceso = true;
         } else {
+            document.getElementById("myForm").reset();
             alert('llene los datos');
             //acceso = false;
             //$(".primerAlert").html(alerta);
@@ -933,6 +935,12 @@
             "telefono": document.getElementById("telefono").value            
         };
         return cliente;
+    }
+    function validaNumericos(event) {
+        if(event.charCode >= 48 && event.charCode <= 57){
+            return true;
+        }
+        return false;        
     }
     </script>
 </body>
