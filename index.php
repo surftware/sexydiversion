@@ -458,14 +458,15 @@
         <!-- slides go here-->
         <div class="container">
             <div class="team-slides team-container row">
-                <div class="col-xs-12 p-2">
+                   <!--/1-->
+                   <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Fiona Mathews</h5>
-                            <h6 class="card-subtitle icou-sub-title">Marketing</h6>
+                            <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -485,43 +486,15 @@
                         </div>
                     </div>
                 </div>
-                <!--/1-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Jack Smith</h5>
-                            <h6 class="card-subtitle icou-sub-title">Designer</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <!--/2-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Peter Brown</h5>
-                            <h6 class="card-subtitle icou-sub-title">Software Developer</h6>
+                            <h5 class="card-title icou-brand-title">Estimulantes</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>		
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -545,11 +518,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Kim Lee</h5>
-                            <h6 class="card-subtitle icou-sub-title">UX Designer</h6>
+                            <h5 class="card-title icou-brand-title">Juegos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -573,11 +546,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Helen Green</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sales</h6>
+                            <h5 class="card-title icou-brand-title">Juguetes Anales</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -601,11 +574,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Simon Smith</h5>
-                            <h6 class="card-subtitle icou-sub-title">Business Analyst</h6>
+                            <h5 class="card-title icou-brand-title">Alargadores</h5>
+                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -629,11 +602,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Chad Micheals</h5>
-                            <h6 class="card-subtitle icou-sub-title">Front End</h6>
+                            <h5 class="card-title icou-brand-title">Balas</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -653,6 +626,119 @@
                         </div>
                     </div>
                 </div>
+                <!--/7-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/8-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Anillos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/9-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/10-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Fetish</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!--/7-->
             </div>
             <div class="team-dots"></div>
@@ -691,30 +777,17 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-<<<<<<< HEAD
-                                                    placeholder="*Nombre completo" name="nombre" require>
-                                            </div>
-                                            <div class="col-sm-12 col-md-6 form-item">
-                                                <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Tel. contacto" name="telefono" >
-=======
                                                     placeholder="*Nombre completo" name="nombre" id="nombre">
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
                                                     placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)'>
->>>>>>> ramajose
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
-<<<<<<< HEAD
-                                                <input type="email" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" require>
-=======
                                                 <input type="text" class="form-control bordesInputContacto m-3"
                                                     placeholder="*Email" name="correo" id="correo">
->>>>>>> ramajose
 
 
                                             </div>
@@ -812,14 +885,6 @@
     </section>
     
     <?php
-<<<<<<< HEAD
-			// $remitente = $_POST['correo'];
-			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-            if(!empty($_POST)){
-                if(!empty($_POST['g-recaptcha-response'])){
-                    $remitente = $_POST['correo'];
-=======
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
             $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
             
@@ -831,31 +896,19 @@
                 {
                     echo "No acepta recatcha";
                     
->>>>>>> ramajose
                     $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                     $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
                     $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
                     $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-<<<<<<< HEAD
                     //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
                     // Si se agrega un campo al formulario, hay que agregarlo acá.
 
                     $headers  = "MIME-Version: 1.0\n";
-=======
-                    $headers  = "MIME-Version: 1.0\n";
-
->>>>>>> ramajose
                     $headers .= "Content-type: text/plain; charset=utf-8\n";
                     $headers .= "X-Priority: 3\n";
                     $headers .= "X-MSMail-Priority: Normal\n";
                     $headers .= "X-Mailer: php\n";
                     $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-<<<<<<< HEAD
-                    mail($destinatario, $asunto, $cuerpo, $headers);
-                }
-            }
-
-=======
 
                     mail($destinatario, $asunto, $cuerpo, $headers);
                 }
@@ -865,13 +918,11 @@
                 
                 echo "No hay datos llenados en el formulario!!!!!!!!!";
             }
->>>>>>> ramajose
 		?>
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");
     ?>
-
     <!-- / Footer -->
 
     <!-- SCROLL TO TOP  -->
@@ -880,100 +931,14 @@
     </div>
     <!-- SCROLL TO TOP ENDS -->
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/tether.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Plugin JS -->
-    <script src="js/featherlight/featherlight.js" charset="utf-8"></script>
-    <script src="js/featherlight/featherlight.gallery.js" charset="utf-8"></script>
-    <script src="js/sticky/jquery.sticky.js"></script>
-    <script src="js/slick/slick.min.js"></script>
-    <script src="js/isotope/isotope.pkgd.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL6gbhsnCEt4FS9D6BBl3mZO1xy-NcwpE"></script>
-    <script src="js/map-helper.js"></script>
-    <script src="js/superslide/jquery.superslides.js"></script>
-    <script src="js/wow/wow.min.js"></script>   
-    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
+    <!-- JS -->
+    <?php	       
+     include ("includes/js.php");
+    ?>
+    <!-- / JS -->
 
-    <!-- Custom JS -->
-    <script src="js/main.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('#slides').superslides({
-                animation: "fade",
-                play: 10000,
-                slide_easing: 'easeInOutCubic',
-                slide_speed: 800,
-                pagination: true,
-                hashchange: false,
-                scrollable: true
-            });
-            //index();
-            
-        });
-        $( "#post" ).click(function() {
-                index();
-        });
-        function index() {
-        cliente = getClienteHtml(); // pide los datos del cliente
-        console.log(cliente);
-        var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
-        var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
-        var correo = cliente["email"];
-        
-        correo = correo.search(patron); // valida el correo electronico
-        console.log(correo);
-        console.log(cliente["nombre"]);
-        console.log(telefono);
-        var acceso = false;
-        if (
-            cliente["email"] !== "" && correo === 0 &&
-            cliente["nombre"] !== "" &&
-            cliente["telefono"] !== "" && telefono === false
-        ) {
-            //alert('ok');
-            $.ajax({
-                url: "index.php",
-                type: "POST",
-                data: {email: cliente["email"], nombre: cliente["nombre"], telefono: cliente["telefono"]},
-                success: function (res) { 
-                    document.getElementById("myForm").reset();
-                    Swal.fire(
-                    'Excelente!',
-                    'Datos llenados',
-                    'success'
-                    )
-                }
-            });
-        } 
-        else 
-        {
-            //alert('ko');
-            document.getElementById("myForm").reset();
-            Swal.fire({
-                icon: 'error',
-                title: 'Oops...',
-                text: 'llene los datos!',
-            })
-        }
-        return acceso;
-    }
-    function getClienteHtml() {
-
-        var cliente = {
-            "email": document.getElementById("correo").value,
-            "nombre": document.getElementById("nombre").value,
-            "telefono": document.getElementById("telefono").value            
-        };
-        return cliente;
-    }
-    function validaNumericos(event) {
-        if(event.charCode >= 48 && event.charCode <= 57){
-            return true;
-        }
-        return false;        
-    }
-    </script>
+    
+    
 </body>
 
 </html>
