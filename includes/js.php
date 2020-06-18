@@ -13,7 +13,8 @@
     <script src="js/wow/wow.min.js"></script>   
     <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
 
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
+    <!--<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>-->
+    <script src="includes/sweetalert2.js"></script>
 
     <!-- Custom JS -->
     <script src="js/main.js"></script>
@@ -69,7 +70,7 @@
         else 
         {
             //alert('ko');
-            document.getElementById("myForm").reset();
+            //document.getElementById("myForm").reset();
             Swal.fire({
                 icon: 'error',
                 title: 'Oops...',
