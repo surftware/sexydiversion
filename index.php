@@ -691,17 +691,30 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
+<<<<<<< HEAD
+                                                    placeholder="*Nombre completo" name="nombre" require>
+                                            </div>
+                                            <div class="col-sm-12 col-md-6 form-item">
+                                                <input type="text" class="form-control bordesInputContacto m-3"
+                                                    placeholder="*Tel. contacto" name="telefono" >
+=======
                                                     placeholder="*Nombre completo" name="nombre" id="nombre">
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
                                                     placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)'>
+>>>>>>> ramajose
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
+<<<<<<< HEAD
+                                                <input type="email" class="form-control bordesInputContacto m-3"
+                                                    placeholder="*Email" name="correo" require>
+=======
                                                 <input type="text" class="form-control bordesInputContacto m-3"
                                                     placeholder="*Email" name="correo" id="correo">
+>>>>>>> ramajose
 
 
                                             </div>
@@ -799,6 +812,14 @@
     </section>
     
     <?php
+<<<<<<< HEAD
+			// $remitente = $_POST['correo'];
+			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
+            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
+            if(!empty($_POST)){
+                if(!empty($_POST['g-recaptcha-response'])){
+                    $remitente = $_POST['correo'];
+=======
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
             $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
             
@@ -810,17 +831,31 @@
                 {
                     echo "No acepta recatcha";
                     
+>>>>>>> ramajose
                     $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                     $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
                     $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
                     $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
+<<<<<<< HEAD
+                    //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
+                    // Si se agrega un campo al formulario, hay que agregarlo acá.
+
+                    $headers  = "MIME-Version: 1.0\n";
+=======
                     $headers  = "MIME-Version: 1.0\n";
 
+>>>>>>> ramajose
                     $headers .= "Content-type: text/plain; charset=utf-8\n";
                     $headers .= "X-Priority: 3\n";
                     $headers .= "X-MSMail-Priority: Normal\n";
                     $headers .= "X-Mailer: php\n";
                     $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
+<<<<<<< HEAD
+                    mail($destinatario, $asunto, $cuerpo, $headers);
+                }
+            }
+
+=======
 
                     mail($destinatario, $asunto, $cuerpo, $headers);
                 }
@@ -830,6 +865,7 @@
                 
                 echo "No hay datos llenados en el formulario!!!!!!!!!";
             }
+>>>>>>> ramajose
 		?>
     <!-- Footer -->
     <?php	       
