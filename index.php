@@ -890,22 +890,35 @@
         console.log(telefono);
         var acceso = false;
         if (
-            cliente["email"] !== "" && correo !== 0 &&
+            cliente["email"] !== "" && correo === 0 &&
             cliente["nombre"] !== "" &&
             cliente["telefono"] !== "" && telefono === false
         ) {
+            alert('ok');
             $.ajax({
                 url: "index.php",
                 type: "POST",
                 data: {email: cliente["email"], nombre: cliente["nombre"], telefono: cliente["telefono"]},
                 success: function (res) { 
-                    alert('datos llenados');
+                    document.getElementById("myForm").reset();
+                    Swal.fire(
+                    'Excelente!',
+                    'Datos llenados',
+                    'success'
+                    )
                 }
             });
 
-        } else {
+        } 
+        else 
+        {
+            alert('ko');
             document.getElementById("myForm").reset();
-            alert('llene los datos');
+            Swal.fire({
+                icon: 'error',
+                title: 'Oops...',
+                text: 'llene los datos!',
+            })
         }
         return acceso;
     }
