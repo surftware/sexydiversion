@@ -686,36 +686,38 @@
                                 <!-- Form -->
                                 <div class="contact-block-form">
 
-                                    <form action="index.php" method="post">
+                                    <form action="index.php" method="post" id="myForm">
                                         <div class="row">
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre completo" name="nombre">
+                                                    placeholder="*Nombre completo" name="nombre" id="nombre">
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Tel. contacto" name="telefono">
+                                                    placeholder="*Tel. contacto" name="telefono" id="telefono">
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo">
+                                                    placeholder="*Email" name="correo" id="correo">
 
 
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="Dirección" name="direccion">
+                                                    placeholder="Dirección" name="direccion" id="direccion">
                                             </div>
                                         </div>
                                         <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
                                             placeholder="Lista de productos:" name="mensaje"></textarea>
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
+                                        <input class="btn btn-primary btn-lg icou-button" type="button"
+                                                value="pruebas" id="post">
                                             <input class="btn btn-primary btn-lg icou-button" type="submit"
-                                                value="enviar">
+                                                value="enviar" id="enviar">
                                         </div>
                                         <!-- Form Ends -->
                                     </form>
@@ -794,34 +796,39 @@
             </div>
         </div>
     </section>
-    <!-- / Contact Home Area -->
-
+    
     <?php
-			$remitente = $_POST['correo'];
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-			$asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-			if (!$_POST && !empty($_POST["g-recaptcha-response"])){}
-			else{
+            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
+            
+            if (!empty($_POST)) {
+                if (!empty($_POST["g-recaptcha-response"])) {
+                    echo "Se acepta recatcha";
+                }
+                else
+                {
+                    echo "No acepta recatcha";
+                    
+                    $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
+                    $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
+                    $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
+                    $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
+                    $headers  = "MIME-Version: 1.0\n";
 
-				$cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
-				$cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
-				$cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
-				$cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-				//las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
-				// Si se agrega un campo al formulario, hay que agregarlo acá.
+                    $headers .= "Content-type: text/plain; charset=utf-8\n";
+                    $headers .= "X-Priority: 3\n";
+                    $headers .= "X-MSMail-Priority: Normal\n";
+                    $headers .= "X-Mailer: php\n";
+                    $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
 
-				$headers  = "MIME-Version: 1.0\n";
-				$headers .= "Content-type: text/plain; charset=utf-8\n";
-				$headers .= "X-Priority: 3\n";
-				$headers .= "X-MSMail-Priority: Normal\n";
-				$headers .= "X-Mailer: php\n";
-				$headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-				mail($destinatario, $asunto, $cuerpo, $headers);
-			}
+                    mail($destinatario, $asunto, $cuerpo, $headers);
+                }
+            }
+            else
+            {
+                echo "No hay datos llenados en el formulario!!!!!!!!!";
+            }
 		?>
-
-
-
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");
@@ -863,8 +870,70 @@
                 hashchange: false,
                 scrollable: true
             });
+            //index();
+            
         });
+        $( "#post" ).click(function() {
+                index();
+        });
+        function index() {
+        cliente = getClienteHtml(); // pide los datos del cliente
+        console.log(cliente);
+        var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
+        var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
+        var correo = cliente["email"];
         
+        correo = correo.search(patron); // valida el correo electronico
+        console.log(correo);
+        console.log(cliente["nombre"]);
+        console.log(telefono);
+        var acceso = false;
+        if (
+            cliente["email"] !== "" && correo !== 0 &&
+            cliente["nombre"] !== "" &&
+            cliente["telefono"] !== "" && telefono === false
+        ) {
+            $.ajax({
+                url: "index.php",
+                type: "POST",
+                data: {email: cliente["email"], nombre: cliente["nombre"], telefono: cliente["telefono"]},
+                success: function (res) { 
+                    alert('datos llenados');
+                    /*var obj = $.parseJSON(res);
+                    console.log(obj);
+                    console.log(obj[0].indice);
+                    var datos= obj;
+                    if (Object.keys(datos).length === 0) {
+                        alert('no se encontraron registros dentro de sus rangos');
+                    }
+                    else{
+                        generar_grafica(datos);
+                    }
+                    */
+                }
+            });
+            //'vista.cotizacion.db'
+            // ŕimer ajax
+            // que se mandara -> data:cliente,
+            //ajaxCliente(cliente,'vista.cotizacion.db');
+            //acceso = true;
+        } else {
+            alert('llene los datos');
+            //acceso = false;
+            //$(".primerAlert").html(alerta);
+        }
+
+        return acceso;
+    }
+    function getClienteHtml() {
+
+        var cliente = {
+            "email": document.getElementById("correo").value,
+            "nombre": document.getElementById("nombre").value,
+            "telefono": document.getElementById("telefono").value            
+        };
+        return cliente;
+    }
     </script>
 </body>
 
