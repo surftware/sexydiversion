@@ -458,14 +458,15 @@
         <!-- slides go here-->
         <div class="container">
             <div class="team-slides team-container row">
-                <div class="col-xs-12 p-2">
+                   <!--/1-->
+                   <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Fiona Mathews</h5>
-                            <h6 class="card-subtitle icou-sub-title">Marketing</h6>
+                            <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -485,43 +486,15 @@
                         </div>
                     </div>
                 </div>
-                <!--/1-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Jack Smith</h5>
-                            <h6 class="card-subtitle icou-sub-title">Designer</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <!--/2-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Peter Brown</h5>
-                            <h6 class="card-subtitle icou-sub-title">Software Developer</h6>
+                            <h5 class="card-title icou-brand-title">Estimulantes</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>		
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -545,11 +518,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Kim Lee</h5>
-                            <h6 class="card-subtitle icou-sub-title">UX Designer</h6>
+                            <h5 class="card-title icou-brand-title">Juegos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -573,11 +546,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Helen Green</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sales</h6>
+                            <h5 class="card-title icou-brand-title">Juguetes Anales</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -601,11 +574,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Simon Smith</h5>
-                            <h6 class="card-subtitle icou-sub-title">Business Analyst</h6>
+                            <h5 class="card-title icou-brand-title">Alargadores</h5>
+                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -629,11 +602,11 @@
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Chad Micheals</h5>
-                            <h6 class="card-subtitle icou-sub-title">Front End</h6>
+                            <h5 class="card-title icou-brand-title">Balas</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
-                            <img src="assets/img/placeholders/team-member.jpg" alt="awesome-team-member" />
+                            <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -653,6 +626,119 @@
                         </div>
                     </div>
                 </div>
+                <!--/7-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/8-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Anillos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/9-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/10-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Fetish</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!--/7-->
             </div>
             <div class="team-dots"></div>
