@@ -894,7 +894,7 @@
             cliente["nombre"] !== "" &&
             cliente["telefono"] !== "" && telefono === false
         ) {
-            alert('ok');
+            //alert('ok');
             $.ajax({
                 url: "index.php",
                 type: "POST",
@@ -912,7 +912,7 @@
         } 
         else 
         {
-            alert('ko');
+            //alert('ko');
             document.getElementById("myForm").reset();
             Swal.fire({
                 icon: 'error',
