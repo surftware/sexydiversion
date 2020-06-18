@@ -458,12 +458,12 @@
         <!-- slides go here-->
         <div class="container">
             <div class="team-slides team-container row">
-                 <!--/1-->
-                <div class="col-xs-12 p-2">
+                   <!--/1-->
+                   <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
@@ -491,7 +491,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Estimulantes</h5>
-                    
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>		
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
@@ -519,7 +519,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Juegos</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
@@ -547,7 +547,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Juguetes Anales</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
@@ -575,7 +575,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Alargadores</h5>
-                       
+                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
@@ -603,7 +603,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Balas</h5>
-                           
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
@@ -631,7 +631,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
@@ -659,7 +659,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Anillos</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
@@ -687,7 +687,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
@@ -715,7 +715,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Fetish</h5>
-                            
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
