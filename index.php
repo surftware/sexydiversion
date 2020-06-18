@@ -900,31 +900,13 @@
                 data: {email: cliente["email"], nombre: cliente["nombre"], telefono: cliente["telefono"]},
                 success: function (res) { 
                     alert('datos llenados');
-                    /*var obj = $.parseJSON(res);
-                    console.log(obj);
-                    console.log(obj[0].indice);
-                    var datos= obj;
-                    if (Object.keys(datos).length === 0) {
-                        alert('no se encontraron registros dentro de sus rangos');
-                    }
-                    else{
-                        generar_grafica(datos);
-                    }
-                    */
                 }
             });
-            //'vista.cotizacion.db'
-            // ŕimer ajax
-            // que se mandara -> data:cliente,
-            //ajaxCliente(cliente,'vista.cotizacion.db');
-            //acceso = true;
+
         } else {
             document.getElementById("myForm").reset();
             alert('llene los datos');
-            //acceso = false;
-            //$(".primerAlert").html(alerta);
         }
-
         return acceso;
     }
     function getClienteHtml() {
