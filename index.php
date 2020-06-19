@@ -801,16 +801,7 @@
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
                                         <input class="btn btn-primary btn-lg icou-button" type="button"
-<<<<<<< HEAD
                                                 value="enviar" id="enviar">
-                                            <input class="btn btn-primary btn-lg icou-button" type="submit"
-                                                value="enviar" id="enviar">
-=======
-                                                value="enviar" id="post">
-                                            <!--    
-                                            <input class="btn btn-primary btn-lg icou-button" type="submit"
-                                                value="enviar" id="enviar">-->
->>>>>>> b1c8897c3ecacb3dfbb7fa7011ae374c2dd8b344
                                         </div>
                                         <!-- Form Ends -->
                                     </form>
@@ -906,15 +897,10 @@
                     $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
                     $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
                     $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-<<<<<<< HEAD
-                    $headers  = "MIME-Version: 1.0\n";
-
-=======
                     //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
                     // Si se agrega un campo al formulario, hay que agregarlo acá.
 
                     $headers  = "MIME-Version: 1.0\n";
->>>>>>> b1c8897c3ecacb3dfbb7fa7011ae374c2dd8b344
                     $headers .= "Content-type: text/plain; charset=utf-8\n";
                     $headers .= "X-Priority: 3\n";
                     $headers .= "X-MSMail-Priority: Normal\n";
@@ -926,10 +912,6 @@
             }
             else
             {
-<<<<<<< HEAD
-=======
-                
->>>>>>> b1c8897c3ecacb3dfbb7fa7011ae374c2dd8b344
                 echo "No hay datos llenados en el formulario!!!!!!!!!";
             }
 		?>
@@ -945,72 +927,6 @@
     </div>
     <!-- SCROLL TO TOP ENDS -->
 
-<<<<<<< HEAD
-    <script src="js/jquery.min.js"></script>
-    <script src="js/tether.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <!-- Plugin JS -->
-    <script src="js/featherlight/featherlight.js" charset="utf-8"></script>
-    <script src="js/featherlight/featherlight.gallery.js" charset="utf-8"></script>
-    <script src="js/sticky/jquery.sticky.js"></script>
-    <script src="js/slick/slick.min.js"></script>
-    <script src="js/isotope/isotope.pkgd.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBL6gbhsnCEt4FS9D6BBl3mZO1xy-NcwpE"></script>
-    <script src="js/map-helper.js"></script>
-    <script src="js/superslide/jquery.superslides.js"></script>
-    <script src="js/wow/wow.min.js"></script>   
-    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
-
-    <!-- Custom JS -->
-    <script src="js/main.js"></script>
-    <script>
-        $(document).ready(function () {
-            $('#slides').superslides({
-                animation: "fade",
-                play: 10000,
-                slide_easing: 'easeInOutCubic',
-                slide_speed: 800,
-                pagination: true,
-                hashchange: false,
-                scrollable: true
-            });
-        });
-        function nivelFormulario1() {
-
-        cliente = getClienteHtml(); // pide los datos del cliente
-        var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
-        var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
-        var correo = cliente["email"];
-        correo = correo.search(patron); // valida el correo electronico
-        var acceso = false;
-        if (
-            cliente["email"] !== "" && correo === 0 &&
-            cliente["nombre"] !== "" &&
-            cliente["telefono"] !== "" && telefono === false
-        ) {
-            //'vista.cotizacion.db'
-            // ŕimer ajax
-            // que se mandara -> data:cliente,
-            //ajaxCliente(cliente,'vista.cotizacion.db');
-            //acceso = true;
-        } else {
-            //acceso = false;
-            //$(".primerAlert").html(alerta);
-        }
-
-        return acceso;
-    }
-    function getClienteHtml() {
-
-        var cliente = {
-            "email": document.getElementById("correo").value,
-            "nombre": document.getElementById("nombre").value,
-            "telefono": document.getElementById("telefono").value            
-        };
-        return cliente;
-    }
-    </script>
-=======
     <!-- JS -->
     <?php	       
      include ("includes/js.php");
@@ -1019,7 +935,6 @@
 
     
     
->>>>>>> b1c8897c3ecacb3dfbb7fa7011ae374c2dd8b344
 </body>
 
 </html>
