@@ -799,9 +799,10 @@
     </section>
     
     <?php
+        /*
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
             $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-            
+                      
             if (!empty($_POST)) {
                 if (!empty($_POST["g-recaptcha-response"])) {
                     echo "Se acepta recatcha";
@@ -823,16 +824,18 @@
                     $headers .= "X-MSMail-Priority: Normal\n";
                     $headers .= "X-Mailer: php\n";
                     $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-
+                    //echo $ok;
                     mail($destinatario, $asunto, $cuerpo, $headers);
                 }
             }
             else
             {
-                
-                echo "No hay datos llenados en el formulario!!!!!!!!!";
+
+                //echo $ok;
             }
+            */
 		?>
+
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");

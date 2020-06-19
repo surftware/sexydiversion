@@ -30,13 +30,32 @@
                 scrollable: true
             });
             //index();
-            
         });
         $( "#post" ).click(function() {
-                index();
+            var cliente = getClienteHtml();
+            $.ajax({
+                url: "includes/validacion.php",
+                type: "POST",
+                data: {
+                    email: cliente["email"], 
+                    nombre: cliente["nombre"], 
+                    telefono: cliente["telefono"],
+                    direccion: cliente["direccion"]
+                },
+                success: function (alerta) { 
+                    console.log(alerta);
+                    Swal.fire(
+                    alerta['acceso'],
+                    alerta['mensaje'],
+                    alerta['tipoAlerta']
+                    )
+                    document.getElementById("myForm").reset();         
+                }
+            });
         });
         function index() {
         cliente = getClienteHtml(); // pide los datos del cliente
+        /*
         console.log(cliente);
         var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
         var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
@@ -47,44 +66,17 @@
         console.log(cliente["nombre"]);
         console.log(telefono);
         var acceso = false;
-        if (
-            cliente["email"] !== "" && correo === 0 &&
-            cliente["nombre"] !== "" &&
-            cliente["telefono"] !== "" && telefono === false
-        ) {
-            //alert('ok');
-            $.ajax({
-                url: "index.php",
-                type: "POST",
-                data: {email: cliente["email"], nombre: cliente["nombre"], telefono: cliente["telefono"]},
-                success: function (res) { 
-                    document.getElementById("myForm").reset();
-                    Swal.fire(
-                    'Excelente!',
-                    'Datos llenados',
-                    'success'
-                    )
-                }
-            });
-        } 
-        else 
-        {
-            //alert('ko');
-            //document.getElementById("myForm").reset();
-            Swal.fire({
-                icon: 'error',
-                title: 'Oops...',
-                text: 'llene los datos!',
-            })
-        }
-        return acceso;
+        */
+            
     }
     function getClienteHtml() {
 
         var cliente = {
-            "email": document.getElementById("correo").value,
-            "nombre": document.getElementById("nombre").value,
-            "telefono": document.getElementById("telefono").value            
+            "email":            document.getElementById("correo").value,
+            "nombre":           document.getElementById("nombre").value,
+            "telefono":         document.getElementById("telefono").value,
+            "direccion":        document.getElementById("direccion").value,      
+            "exampleTextarea":  document.getElementById("exampleTextarea").value         
         };
         return cliente;
     }
