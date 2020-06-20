@@ -884,8 +884,9 @@
                                             placeholder="Lista de productos:" name="mensaje"></textarea>
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
+                                        
                                         <input class="btn btn-primary btn-lg icou-button" type="button"
-                                                value="enviar" id="enviar">
+                                                value="enviar" id="post">
                                         </div>
                                         <!-- Form Ends -->
                                     </form>
