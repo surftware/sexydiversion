@@ -1011,12 +1011,8 @@
             }
             else
             {
-<<<<<<< HEAD
 
                 //echo $ok;
-=======
-                echo "No hay datos llenados en el formulario!!!!!!!!!";
->>>>>>> ramajose
             }
             */
 		?>
