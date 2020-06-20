@@ -627,6 +627,7 @@
                     </div>
                 </div>
                 <!--/7-->
+<<<<<<< HEAD
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
@@ -719,6 +720,16 @@
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
+=======
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
+>>>>>>> ramajose
                             <figcaption>
                                 <p>
                                     <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
@@ -738,6 +749,93 @@
                         </div>
                     </div>
                 </div>
+<<<<<<< HEAD
+=======
+                 <!--/8-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Anillos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/9-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/10-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Fetish</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+>>>>>>> ramajose
 
                 <!--/7-->
             </div>
@@ -913,8 +1011,12 @@
             }
             else
             {
+<<<<<<< HEAD
 
                 //echo $ok;
+=======
+                echo "No hay datos llenados en el formulario!!!!!!!!!";
+>>>>>>> ramajose
             }
             */
 		?>
