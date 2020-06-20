@@ -107,7 +107,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes Para Ella</h5>
                             <p>Donec sed orci ac orci finibus hendrerit at ut leo.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Ella</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p>Sed arcu velit, condimentum venenatis sagittis ac, volutpat in.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Él</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Él</span></a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Lencería</h5>
                             <p>Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
                                     Lencería</span></a>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p>Praesent at aliquet diam. Donec in quam libero. Etiam fringilla et.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Salud</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Salud</span></a>
                         </div>
                     </div>
                 </div>
@@ -196,15 +196,15 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
+                        <figure class="portfolio-item ">
+                            <img  src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class=" more gallery2">
+                                        <i class="  fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
+                                        <i class=" fa fa-fw fa-link"></i>
                                     </a>
                                 </p>
                             </figcaption>
@@ -215,15 +215,15 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img " src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
+                                        <i class="  fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
+                                        <i class="  fa fa-fw fa-link"></i>
                                     </a>
                                 </p>
                             </figcaption>
@@ -232,8 +232,8 @@
                     <!-- / PROJECT -->
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
+                        data-wow-delay="0.25s"> 
+                        <figure class="portfolio-item ">
                             <img src="assets/img/+vendidos/sexydiversion-3.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
@@ -252,8 +252,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-4.jpeg" class="more gallery2">
@@ -271,8 +271,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-5.jpeg" class="more gallery2">
@@ -290,8 +290,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-6.jpeg" class="more gallery2">
@@ -309,8 +309,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
@@ -328,8 +328,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
@@ -347,8 +347,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
@@ -366,7 +366,7 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
+                        <figure class="portfolio-item ">
                             <img src="assets/img/+vendidos/sexydiversion-10.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
@@ -385,8 +385,8 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-11.jpeg" class="more gallery2">
@@ -404,7 +404,7 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
+                        <figure class="portfolio-item ">
                             <img src="assets/img/+vendidos/sexydiversion-12.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
