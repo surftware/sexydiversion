@@ -49,7 +49,10 @@
                     alerta['mensaje'],
                     alerta['tipoAlerta']
                     )
-                    document.getElementById("myForm").reset();         
+                    if (alerta['acceso'] === "success") {
+                        document.getElementById("myForm").reset();    
+                    }
+                            
                 }
             });
         });
