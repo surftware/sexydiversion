@@ -43,7 +43,7 @@
                     direccion: cliente["direccion"]
                 },
                 success: function (alerta) { 
-                    console.log(alerta);
+                    alerta = $.parseJSON(alerta);
                     Swal.fire(
                     alerta['acceso'],
                     alerta['mensaje'],
