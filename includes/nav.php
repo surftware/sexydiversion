@@ -45,9 +45,13 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fa fa-bars" aria-hidden="true"></i>
                     </button>
-                    <a class="navbar-brand" href="index.php">
-                        <img src="assets/img/global/logo.png" height="31" width="71" alt="icou-logo">
+                    <span class="logotipo">
+                    <a class="" href="index.php">
+                    <span class="text-white">Sexy Diversión</span>
+                    <span>Sex Shop</span>
+                        <img src="assets/img/global/logo.png" height="120" alt="sexydiversion-logo">
                     </a>
+                    </span>
 
                     <nav class="main-menu navbar navbar-toggleable-md">
                         <div class="collapse navbar-collapse" id="icouNavbar">

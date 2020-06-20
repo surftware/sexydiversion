@@ -107,7 +107,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes Para Ella</h5>
                             <p>Donec sed orci ac orci finibus hendrerit at ut leo.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Ella</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +121,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p>Sed arcu velit, condimentum venenatis sagittis ac, volutpat in.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Él</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Él</span></a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Lencería</h5>
                             <p>Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
                                     Lencería</span></a>
                         </div>
                     </div>
@@ -150,7 +150,7 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p>Praesent at aliquet diam. Donec in quam libero. Etiam fringilla et.</p>
-                            <a class="btn btn-primary btn-block icou-button" href="#"><span> Productos Salud</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Salud</span></a>
                         </div>
                     </div>
                 </div>
@@ -196,15 +196,15 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-portfolio" />
+                        <figure class="portfolio-item ">
+                            <img  src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class=" more gallery2">
+                                        <i class="  fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
+                                        <i class=" fa fa-fw fa-link"></i>
                                     </a>
                                 </p>
                             </figcaption>
@@ -215,15 +215,15 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img " src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
+                                        <i class="  fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
+                                        <i class="  fa fa-fw fa-link"></i>
                                     </a>
                                 </p>
                             </figcaption>
@@ -232,12 +232,12 @@
                     <!-- / PROJECT -->
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        data-wow-delay="0.25s"> 
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-3.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-3.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -252,11 +252,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-4.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -271,11 +271,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-5.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -290,11 +290,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-6.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -309,11 +309,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -328,11 +328,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -347,11 +347,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -366,11 +366,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-10.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-10.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -385,11 +385,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-11.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -404,11 +404,11 @@
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
-                        <figure class="portfolio-item">
-                            <img src="assets/img/placeholders/portfolio.jpg" alt="awesome-photo" />
+                        <figure class="portfolio-item ">
+                            <img src="assets/img/+vendidos/sexydiversion-12.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/placeholders/portfolio.jpg" class="more gallery2">
+                                    <a href="assets/img/+vendidos/sexydiversion-12.jpeg" class="more gallery2">
                                         <i class="fa fa-fw fa-search-plus"></i>
                                     </a>
                                     <a href="portfolio-single.html">
@@ -738,6 +738,90 @@
                         </div>
                     </div>
                 </div>
+                 <!--/8-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Anillos</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/9-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                 <!--/10-->
+                <div class="col-xs-12 p-2">
+                    <div class="card team-member-card">
+                        <div class="card-block">
+                            <h5 class="card-title icou-brand-title">Fetish</h5>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                        </div>
+                        <figure class="effect-team">
+                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
+                            <figcaption>
+                                <p>
+                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                </p>
+                            </figcaption>
+                        </figure>
+                        <div class="card-block">
+                            <div class="social-team-member">
+                                <ul class="social-share">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
 
                 <!--/7-->
             </div>
@@ -800,11 +884,9 @@
                                             placeholder="Lista de productos:" name="mensaje"></textarea>
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
+                                        
                                         <input class="btn btn-primary btn-lg icou-button" type="button"
                                                 value="enviar" id="post">
-                                            <!--    
-                                            <input class="btn btn-primary btn-lg icou-button" type="submit"
-                                                value="enviar" id="enviar">-->
                                         </div>
                                         <!-- Form Ends -->
                                     </form>
@@ -885,9 +967,10 @@
     </section>
     
     <?php
+        /*
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
             $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-            
+                      
             if (!empty($_POST)) {
                 if (!empty($_POST["g-recaptcha-response"])) {
                     echo "Se acepta recatcha";
@@ -909,16 +992,18 @@
                     $headers .= "X-MSMail-Priority: Normal\n";
                     $headers .= "X-Mailer: php\n";
                     $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-
+                    //echo $ok;
                     mail($destinatario, $asunto, $cuerpo, $headers);
                 }
             }
             else
             {
-                
-                echo "No hay datos llenados en el formulario!!!!!!!!!";
+
+                //echo $ok;
             }
+            */
 		?>
+
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");
