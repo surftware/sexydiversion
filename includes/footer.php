@@ -2,14 +2,13 @@
     <div class="container">
         <div class="footer-wrapper row">
             <div class="footer-col col-sm-6 col-md-3">
-                <a class="navbar-brand mb-4" href="#">
-                    <img src="assets/img/global/logo-invert.svg" height="60" width="121" alt="icou-logo">
+
+                <a class="navbar-brand" href="#">
+                    <span> <img src="assets/img/global/logo.png" height="200" width="211"
+                            alt="Sexy-Diversion-Sex-Shop-logo">
+                        <p class="">Sex Shop | Sexy Diversión</p>
+                    </span>
                 </a>
-                <div class="about-footer clearfix">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt
-                        labore et dolore magna aliqua.</p>
-                    <p>Suspendisse augue sem, iaculis id fermentum sit amet, finibus eu risus.</p>
-                </div>
             </div>
             <div class="footer-col col-sm-6 col-md-3">
                 <h4 class="footer-col-title icou-brand-title mt-3">Latest Posts</h4>
@@ -46,7 +45,7 @@
                 </div>
             </div>
             <div class="footer-col col-sm-6 col-md-3">
-                <h4 class="footer-col-title icou-brand-title mt-3">Newslette</h4>
+                <h4 class="footer-col-title icou-brand-title mt-3">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <p>Don't miss to subscribe to our news feeds, kindly fill the form below.</p>
 
@@ -69,8 +68,7 @@
             </div>
             <div class="bottom-right col-sm-12 col-md-6">
                 <div class="copyright">
-                    <p>&copy; Realizado por: <a href="">Surftware!#Desarrollo de páginas web.</a> 2020. All rights
-                        reserved</p>
+                    <p>&copy; Realizado por: <a href="">!#Surftware | Desarrollo de páginas web.</a></p>
                 </div>
             </div>
         </div>

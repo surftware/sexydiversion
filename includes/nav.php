@@ -56,7 +56,7 @@
                     <nav class="main-menu navbar navbar-toggleable-md">
                         <div class="collapse navbar-collapse" id="icouNavbar">
                             <ul class="navigation navbar-nav mr-auto mt-2 mt-md-0">
-                                <li class="main-menu-link current"><a href="index.php">Inicio</a></li>
+                                <li class="main-menu-link "><a href="index.php">Inicio</a></li>
 
                                 <li class="main-menu-link"><a href="index.php#contact-home-area">Contacto</a></li>
 

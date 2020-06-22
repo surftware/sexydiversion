@@ -434,7 +434,7 @@
                     <!-- Left Area -->
                     <div class="left-area col-md-6">
                         <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-right"
-                            href="team.html"><span>See More</span></a>
+                            href="team.html"><span>Ver más productos</span></a>
                     </div>
                     <!-- End Left Area -->
                     <div class="right-area col-md-6">
@@ -442,8 +442,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Meet The Team</span></h2>
-                                    <p>Our People.</p>
+                                            class="section-header__section-header-title-right">Todas las categorías</span></h2>
+                                    <p>Nuestros Productos</p>
 
                                 </div>
                             </div>
