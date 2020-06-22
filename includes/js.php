@@ -31,18 +31,23 @@
             });
             //index();
         });
+        //var token = $(".token").data('token');
         $( "#post" ).click(function() {
             var cliente = getClienteHtml();
             $.ajax({
                 url: "includes/validacion.php",
                 type: "POST",
                 data: {
-                    correo: cliente["email"], 
+                    recaptcha: cliente["rcaptcha"],
                     nombre: cliente["nombre"], 
                     telefono: cliente["telefono"],
                     direccion: cliente["direccion"],
                     mensaje: cliente["mensaje"],
-                    recaptcha: cliente["recaptcha"]
+                    correo: cliente["email"], 
+
+                    
+
+
                 },
                 success: function (alerta) { 
                     
@@ -73,7 +78,8 @@
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
             "mensaje":          document.getElementById("exampleTextarea").value,
-            "recaptcha":        $(".sitekey").data('sitekey')
+            // "rcaptcha":        $(".sitekey").data('sitekey')
+            "rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
         };
         return cliente;
     }
