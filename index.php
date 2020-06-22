@@ -107,7 +107,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
+                                    Ella</span></a>
                         </div>
                     </div>
                 </div>
@@ -120,8 +121,9 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
-                            <p class= ""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos &Eacute;l</span></a>
+                            <p class=""></p>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
+                                    &Eacute;l</span></a>
                         </div>
                     </div>
                 </div>
@@ -134,7 +136,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Lencer&iacute;a</h5>
-                            <p class= ""></p>
+                            <p class=""></p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
                                     Lencer&iacute;a</span></a>
                         </div>
@@ -149,8 +151,9 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
-                            <p class= ""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Salud</span></a>
+                            <p class=""></p>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
+                                    Salud</span></a>
                         </div>
                     </div>
                 </div>
@@ -197,7 +200,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img  src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
+                            <img src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class=" more gallery2">
@@ -216,7 +219,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img " src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo"  />
+                            <img " src=" assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
@@ -232,7 +235,7 @@
                     <!-- / PROJECT -->
                     <!-- PROJECT -->
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s"> 
+                        data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
                             <img src="assets/img/+vendidos/sexydiversion-3.jpeg" alt="awesome-photo" />
                             <figcaption>
@@ -253,7 +256,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo"  />
+                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-4.jpeg" class="more gallery2">
@@ -272,7 +275,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo"  />
+                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-5.jpeg" class="more gallery2">
@@ -291,7 +294,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo"  />
+                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-6.jpeg" class="more gallery2">
@@ -313,13 +316,13 @@
                             <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
+                                    <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
+                            <i class="fa fa-fw fa-search-plus"></i>
+                            </a>
+                            <a href="portfolio-single.html">
+                                <i class="fa fa-fw fa-link"></i>
+                            </a>
+                            </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -332,13 +335,13 @@
                             <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
+                                    <a href=" assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
+                            <i class="fa fa-fw fa-search-plus"></i>
+                            </a>
+                            <a href="portfolio-single.html">
+                                <i class="fa fa-fw fa-link"></i>
+                            </a>
+                            </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -351,13 +354,13 @@
                             <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
                             <figcaption>
                                 <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
+                                    <a href=" assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
+                            <i class="fa fa-fw fa-search-plus"></i>
+                            </a>
+                            <a href="portfolio-single.html">
+                                <i class="fa fa-fw fa-link"></i>
+                            </a>
+                            </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -386,7 +389,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo"  />
+                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-11.jpeg" class="more gallery2">
@@ -442,7 +445,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Todas las categorías</span></h2>
+                                            class="section-header__section-header-title-right">Todas las
+                                            categorías</span></h2>
                                     <p>Nuestros Productos</p>
 
                                 </div>
@@ -458,8 +462,8 @@
         <!-- slides go here-->
         <div class="container">
             <div class="team-slides team-container row">
-                   <!--/1-->
-                   <div class="col-xs-12 p-2">
+                <!--/1-->
+                <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
@@ -491,7 +495,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Estimulantes</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>		
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
@@ -575,7 +579,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Alargadores</h5>
-                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
@@ -631,7 +635,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
@@ -654,12 +658,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/8-->
+                <!--/8-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Anillos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
@@ -682,12 +686,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/9-->
+                <!--/9-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
@@ -710,12 +714,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/10-->
+                <!--/10-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Fetish</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
@@ -738,12 +742,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/8-->
+                <!--/8-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Anillos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
@@ -766,12 +770,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/9-->
+                <!--/9-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
@@ -794,12 +798,12 @@
                         </div>
                     </div>
                 </div>
-                 <!--/10-->
+                <!--/10-->
                 <div class="col-xs-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Fetish</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
@@ -846,7 +850,8 @@
                                             <h2 class="icou-brand-title"><span
                                                     class="section-header__section-header-title-left">Pedidos</span>
                                             </h2>
-                                            <p>Env&iacute;anos un mensaje de e-mail con la lista de tus productos adjuntando tu
+                                            <p>Env&iacute;anos un mensaje de e-mail con la lista de tus productos
+                                                adjuntando tu
                                                 voucher de pago.</p>
                                             <span class="section-header__separate-line-basement clearfix"></span>
                                         </div>
@@ -861,31 +866,43 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre completo" name="nombre" id="nombre" maxlength="50" require>
+                                                    placeholder="*Nombre completo" name="nombre" id="nombre"
+                                                    maxlength="50" require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
+                                                    placeholder="*Tel. contacto" name="telefono" id="telefono"
+                                                    maxlength="10" onkeypress='return validaNumericos(event)' require>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" id="correo" maxlength="100" require>
+                                                    placeholder="*Email" name="correo" id="correo" maxlength="100"
+                                                    require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="Dirección" name="direccion" id="direccion" maxlength="100" require>
+                                                    placeholder="Dirección" name="direccion" id="direccion"
+                                                    maxlength="100" require>
                                             </div>
                                         </div>
-                                        <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
-                                            placeholder="Lista de productos:" name="mensaje" maxlength="50" require></textarea>
-        
-                                        <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha" style="margin-left: 90px;"></div>
-                                        
+                                        <div class="row">
+                                            <div class="col-sm-12 col-md-12 form-item">
+                                                <textarea class="form-control form-item text-area"
+                                                    id="exampleTextarea" rows="3" placeholder="Lista de productos:"
+                                                    name="mensaje" maxlength="50" require></textarea>
+                                            </div>
+                                        </div>
+
+
+
+                                        <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
+                                            id="rcaptcha" style="margin-left: 90px;"></div>
+
                                         <div class="d-flex justify-content-end">
-                                        
-                                        <input class="btn btn-primary btn-lg icou-button" type="button"
+
+                                            <input class="btn btn-primary btn-lg icou-button" type="button"
                                                 value="enviar" id="post">
                                         </div>
                                         <!-- Form Ends -->
@@ -921,7 +938,7 @@
                     </div>
                 </div>
             </div>
-            
+
 
         </div>
 
@@ -966,7 +983,7 @@
             </div>
         </div>
     </section>
-    
+
     <?php
         /*
 			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
@@ -1023,8 +1040,8 @@
     ?>
     <!-- / JS -->
 
-    
-    
+
+
 </body>
 
 </html>
