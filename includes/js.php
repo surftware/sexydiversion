@@ -74,7 +74,6 @@
             "direccion":        document.getElementById("direccion").value,      
             "mensaje":          document.getElementById("exampleTextarea").value,
             "recaptcha":        $(".sitekey").data('sitekey')
-
         };
         return cliente;
     }
