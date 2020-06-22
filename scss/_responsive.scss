@@ -79,6 +79,12 @@
 
 
 @include media-breakpoint-down(xs) {}
+@include media-breakpoint-down(md) {
+    .main-menu .navigation{
+        left:0%;
+
+    }
+}
 
 @include media-breakpoint-down(sm) {
     .top-number {
