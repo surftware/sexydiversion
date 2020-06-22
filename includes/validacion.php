@@ -19,28 +19,37 @@ if (!empty($_POST)) {
             {
                 //echo "datos no llenados";
                 $acceso= "Error!";
-                $mensaje = "<b>Faltan o llene correctamente los datos indicados:</b></br>";
-                if ($nombre == "") {
-                    $mensaje .="Falta llenar <b>Nombre</b></br>";
+                $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
+                $mensaje .= "<b>Estas son las causas que impiden el correcto llenado del formulario:</b></br>";
+                
+                if ($nombre == "") 
+                {
+                    $mensaje .="-Falta llenar <b>Nombre</b>.</br>";
                 }
-                if ($telefono == "" || strlen($telefono) != 10) {
-                    $mensaje .="Falta llenar <b>Telefono</b></br>";
+                if ($telefono == "" || strlen($telefono) != 10) 
+                {
+                    $mensaje .="-Falta llenar <b>Telefono</b>.</br>";
                 }
-                if ($correo == "" || is_valid_email($correo) != true) {
-                    if ($correo == "") {
-                        $mensaje .="Falta llenar <b>Correo</b></br>";
+                if ($correo == "" || is_valid_email($correo) != true) 
+                {
+                    if ($correo == "") 
+                    {
+                        $mensaje .="-Falta llenar <b>Correo</b>.</br>";
                     }
-                    if (is_valid_email($correo) != true) {
-                        $mensaje .="Ingrese un <b>Correo</b> valido!</br>";
+                    if (is_valid_email($correo) != true) 
+                    {
+                        $mensaje .="-Ingrese un <b>Correo</b> valido!.</br>";
                     }
                 }
-                if ($direccion == "") {
-                    $mensaje .="Falta llenar <b>Direccion</b></br>";
+                if ($direccion == "") 
+                {
+                    $mensaje .="-Falta llenar <b>Direccion</b>.</br>";
                 }
-                if ($texto == "") {
-                    $mensaje .="Falta llenar <b>Mensaje</b></br>";
+                if ($texto == "") 
+                {
+                    $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
                 }
-                $tipoAlerta="warning";
+                $tipoAlerta="warning";            
             }
             else
             {
