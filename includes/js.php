@@ -41,7 +41,8 @@
                     nombre: cliente["nombre"], 
                     telefono: cliente["telefono"],
                     direccion: cliente["direccion"],
-                    mensaje: cliente["mensaje"]
+                    mensaje: cliente["mensaje"],
+                    recaptcha: cliente["recaptcha"]
                 },
                 success: function (alerta) { 
                     
@@ -71,10 +72,13 @@
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
-            "mensaje":          document.getElementById("exampleTextarea").value         
+            "mensaje":          document.getElementById("exampleTextarea").value,
+            "recaptcha":        $(".sitekey").data('sitekey')
+
         };
         return cliente;
     }
+    //$(".token").data('token');
     function validaNumericos(event) {
         if(event.charCode >= 48 && event.charCode <= 57){
             return true;
