@@ -861,25 +861,25 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre completo" name="nombre" id="nombre">
+                                                    placeholder="*Nombre completo" name="nombre" id="nombre" maxlength="50" require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)'>
+                                                    placeholder="*Tel. contacto" name="telefono" id="telefono" maxlength="10" onkeypress='return validaNumericos(event)' require>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" id="correo">
+                                                    placeholder="*Email" name="correo" id="correo" maxlength="100" require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="Dirección" name="direccion" id="direccion">
+                                                    placeholder="Dirección" name="direccion" id="direccion" maxlength="100" require>
                                             </div>
                                         </div>
                                         <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
-                                            placeholder="Lista de productos:" name="mensaje"></textarea>
+                                            placeholder="Lista de productos:" name="mensaje" maxlength="50" require></textarea>
         
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
