@@ -104,7 +104,7 @@
 .navbar-brand {
     position: relative;
     color: #fff;
-    height: 52px;
+    //height: 52px;
     vertical-align: middle;
     background: transparent;
 }
@@ -143,6 +143,7 @@
     margin: 0px;
     font-family: $font-family-title;
     font-weight: 400;
+    left:60%;
 }
 
 .main-menu .navigation ul {
@@ -160,7 +161,7 @@
 
 .main-menu .navigation li a {
     background: $purple;
-    color: #f7f7f9;
+    color: #fff;
     -webkit-font-smoothing: antialiased;
     display: block;
     font-size: 15px;

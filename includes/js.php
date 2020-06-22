@@ -31,46 +31,44 @@
             });
             //index();
         });
+        //var token = $(".token").data('token');
         $( "#post" ).click(function() {
             var cliente = getClienteHtml();
             $.ajax({
                 url: "includes/validacion.php",
                 type: "POST",
                 data: {
-                    email: cliente["email"], 
+                    recaptcha: cliente["rcaptcha"],
                     nombre: cliente["nombre"], 
                     telefono: cliente["telefono"],
-                    direccion: cliente["direccion"]
+                    direccion: cliente["direccion"],
+                    mensaje: cliente["mensaje"],
+                    correo: cliente["email"], 
+
+                    
+
+
                 },
                 success: function (alerta) { 
+                    
                     alerta = $.parseJSON(alerta);
+                    console.log(alerta);
                     Swal.fire(
                     alerta['acceso'],
                     alerta['mensaje'],
                     alerta['tipoAlerta']
                     )
-                    if (alerta['acceso'] === "success") {
+                    if (alerta['tipoAlerta'] === "success") {
                         document.getElementById("myForm").reset();    
                     }
-                            
+                    //document.getElementById("myForm").reset();   
+                    $submitButton = document.getElementById("post").value;
+                    //$submitButton.val( $submitButton.data('loading-text') ? $submitButton.data('loading-text') : 'Loading...' ).attr('disabled', true);                     
                 }
             });
         });
         function index() {
         cliente = getClienteHtml(); // pide los datos del cliente
-        /*
-        console.log(cliente);
-        var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
-        var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
-        var correo = cliente["email"];
-        
-        correo = correo.search(patron); // valida el correo electronico
-        console.log(correo);
-        console.log(cliente["nombre"]);
-        console.log(telefono);
-        var acceso = false;
-        */
-            
     }
     function getClienteHtml() {
 
@@ -79,10 +77,13 @@
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
-            "exampleTextarea":  document.getElementById("exampleTextarea").value         
+            "mensaje":          document.getElementById("exampleTextarea").value,
+            // "rcaptcha":        $(".sitekey").data('sitekey')
+            "rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
         };
         return cliente;
     }
+    //$(".token").data('token');
     function validaNumericos(event) {
         if(event.charCode >= 48 && event.charCode <= 57){
             return true;
