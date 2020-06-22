@@ -13,14 +13,19 @@
                     <div class="top-number">
                         <p class="font-weight-bold ">
                             <a href="#" class="text-white" target="_blank">
-                                <i class="fa fa-facebook"></i>
+
                             </a>
                         </p>
 
 
                         </a>
                     </div>
+
+
                     <div class="social text-white font-weight-bold">
+
+                        <i class="mr-5 fa fa-facebook"></i>
+
                         ¡Llámanos ahora ó envía Whats!
                         <a href=" " class="text-white">
                             &nbsp;&nbsp;&nbsp;
@@ -45,18 +50,22 @@
                         aria-expanded="false" aria-label="Toggle navigation">
                         <i class="fa fa-bars" aria-hidden="true"></i>
                     </button>
-                    <a class="navbar-brand" href="index.php">
-                        <img src="assets/img/global/logo.png" height="31" width="71" alt="icou-logo">
-                    </a>
+                    <span class="logotipo">
+                        <a class="" href="index.php">
+                            <span class="text-white">SEXY DIVERSIÓN</span>
+                            <span>| SEX SHOP</span>
+                            <img src="assets/img/global/logo.png" height="120" alt="sexydiversion-logo">
+                        </a>
+                    </span>
 
                     <nav class="main-menu navbar navbar-toggleable-md">
                         <div class="collapse navbar-collapse" id="icouNavbar">
                             <ul class="navigation navbar-nav mr-auto mt-2 mt-md-0">
-                                <li class="main-menu-link current"><a href="index.php">Inicio</a></li>
+                                <li class="main-menu-link "><a href="index.php">Inicio</a></li>
 
                                 <li class="main-menu-link"><a href="index.php#contact-home-area">Contacto</a></li>
 
-                                <li class="main-menu-link"><a href="index.php">Galería Productos</a></li>
+                                <li class="main-menu-link"><a href="index.php">Productos</a></li>
                             </ul>
                         </div>
                     </nav>

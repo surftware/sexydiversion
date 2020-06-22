@@ -12,8 +12,8 @@ if (!empty($_POST)) {
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
     $recaptchaPrueba    = '22222222';
-        //if (!empty($_POST["g-recaptcha-response"])) {
-        if (!empty($recaptchaPrueba)) {
+        if (!empty($_POST["recaptcha"])) {
+        //if (!empty($recaptchaPrueba)) {
         //echo "Se acepta recatcha";
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
@@ -28,7 +28,15 @@ if (!empty($_POST)) {
                 }
                 if ($telefono == "" || strlen($telefono) != 10) 
                 {
-                    $mensaje .="-Falta llenar <b>Telefono</b>.</br>";
+                    if ($telefono == "") 
+                    {
+                        $mensaje .="-Falta llenar <b>Telefono</b>.</br>";
+                    }
+                    if (strlen($telefono) != 10) 
+                    {
+                        $mensaje .="-Ponga 10 digitos como minimo en <b>Telefono</b>.</br>";
+                    }
+                    
                 }
                 if ($correo == "" || is_valid_email($correo) != true) 
                 {
@@ -38,7 +46,7 @@ if (!empty($_POST)) {
                     }
                     if (is_valid_email($correo) != true) 
                     {
-                        $mensaje .="-Ingrese un <b>Correo</b> valido!.</br>";
+                        $mensaje .="-Ingreso un <b>Correo</b> valido!.</br>";
                     }
                 }
                 if ($direccion == "") 

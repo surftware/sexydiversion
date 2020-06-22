@@ -31,17 +31,23 @@
             });
             //index();
         });
+        //var token = $(".token").data('token');
         $( "#post" ).click(function() {
             var cliente = getClienteHtml();
             $.ajax({
                 url: "includes/validacion.php",
                 type: "POST",
                 data: {
-                    correo: cliente["email"], 
+                    recaptcha: cliente["rcaptcha"],
                     nombre: cliente["nombre"], 
                     telefono: cliente["telefono"],
                     direccion: cliente["direccion"],
-                    mensaje: cliente["mensaje"]
+                    mensaje: cliente["mensaje"],
+                    correo: cliente["email"], 
+
+                    
+
+
                 },
                 success: function (alerta) { 
                     
@@ -71,10 +77,13 @@
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
-            "mensaje":          document.getElementById("exampleTextarea").value         
+            "mensaje":          document.getElementById("exampleTextarea").value,
+            // "rcaptcha":        $(".sitekey").data('sitekey')
+            "rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
         };
         return cliente;
     }
+    //$(".token").data('token');
     function validaNumericos(event) {
         if(event.charCode >= 48 && event.charCode <= 57){
             return true;
