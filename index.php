@@ -872,8 +872,6 @@
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
                                                     placeholder="*Email" name="correo" id="correo">
-
-
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
@@ -882,6 +880,7 @@
                                         </div>
                                         <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
                                             placeholder="Lista de productos:" name="mensaje"></textarea>
+        
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
                                         

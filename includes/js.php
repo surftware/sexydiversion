@@ -37,12 +37,14 @@
                 url: "includes/validacion.php",
                 type: "POST",
                 data: {
-                    email: cliente["email"], 
+                    correo: cliente["email"], 
                     nombre: cliente["nombre"], 
                     telefono: cliente["telefono"],
-                    direccion: cliente["direccion"]
+                    direccion: cliente["direccion"],
+                    mensaje: cliente["mensaje"]
                 },
                 success: function (alerta) { 
+                    
                     alerta = $.parseJSON(alerta);
                     Swal.fire(
                     alerta['acceso'],
@@ -52,7 +54,7 @@
                     if (alerta['acceso'] === "success") {
                         document.getElementById("myForm").reset();    
                     }
-                            
+                                                
                 }
             });
         });
@@ -79,7 +81,7 @@
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
-            "exampleTextarea":  document.getElementById("exampleTextarea").value         
+            "mensaje":          document.getElementById("exampleTextarea").value         
         };
         return cliente;
     }
