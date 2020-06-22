@@ -22,7 +22,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Sex Shop Sexy Diversión</h2>
+                                        <h2>Sex Shop Sexy Diversi&oacute;n</h2>
                                     </a>
                                     <p>Sex Shop con los mejores precios.</p>
                                 </div>
@@ -46,7 +46,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Envíos a toda la República Mexicana</h2>
+                                        <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
                                     </a>
                                     <p>Conoce nuestras formas de pago.</p>
                                 </div>
@@ -70,7 +70,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Promoción del mes</h2>
+                                        <h2>Promoci&oacute;n del mes</h2>
                                     </a>
                                     <p>En la compra de X productos te regalamos X cosa.</p>
                                 </div>
@@ -81,7 +81,7 @@
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Read More</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="contact.html" data-wow-duration="1.2s">Contact Us</a>
+                            href="contact.html" data-wow-duration="1.2s">Contactanos</a>
                     </div>
                 </div>
             </li>
@@ -106,7 +106,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes Para Ella</h5>
-                            <p>Donec sed orci ac orci finibus hendrerit at ut leo.</p>
+                            <p class= "mb-5 bt-5">Donec sed orci ac orci finibus hendrerit at ut leo.</p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
                         </div>
                     </div>
@@ -120,8 +120,8 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
-                            <p>Sed arcu velit, condimentum venenatis sagittis ac, volutpat in.</p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Él</span></a>
+                            <p class= "mb-5 bt-5">Sed arcu velit, condimentum venenatis sagittis ac, volutpat in.</p>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos &Eacute;l</span></a>
                         </div>
                     </div>
                 </div>
@@ -133,10 +133,10 @@
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
-                            <h5 class="icou-sub-title">Lencería</h5>
-                            <p>Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
+                            <h5 class="icou-sub-title">Lencer&iacute;a</h5>
+                            <p class= "mb-5 bt-5">Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Lencería</span></a>
+                                    Lencer&iacute;a</span></a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +149,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
-                            <p>Praesent at aliquet diam. Donec in quam libero. Etiam fringilla et.</p>
+                            <p class= "mb-5 bt-5">Praesent at aliquet diam. Donec in quam libero. Etiam fringilla et.</p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Salud</span></a>
                         </div>
                     </div>
@@ -172,7 +172,7 @@
                                         <h2 class="icou-brand-title"><span
                                                 class="section-header__section-header-title-left">Productos
                                                 más vendidos</span></h2>
-                                        <p>Todas tus compras están protegidas.</p>
+                                        <p>Todas tus compras est&aacute;n protegidas.</p>
                                     </div>
                                 </div>
                             </div>
@@ -180,7 +180,7 @@
                         <!-- Right Area -->
                         <div class="right-area col-md-6">
                             <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
-                                href="3column.html"><span>Ver más productos</span></a>
+                                href="3column.html"><span>Ver m&aacute;s productos</span></a>
                         </div>
                         <!-- End Right Area -->
                         <span class="section-header__separate-line-basement clearfix"></span>
@@ -463,7 +463,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
@@ -491,7 +491,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Estimulantes</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>		
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>		
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
@@ -519,7 +519,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Juegos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
@@ -547,7 +547,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Juguetes Anales</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
@@ -575,7 +575,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Alargadores</h5>
-                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
+                       	    <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
@@ -603,7 +603,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Balas</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
@@ -631,7 +631,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Dobles</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
@@ -659,7 +659,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Anillos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
@@ -687,7 +687,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
@@ -715,7 +715,7 @@
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Fetish</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
+                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6> 
                         </div>
                         <figure class="effect-team">
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
@@ -762,7 +762,7 @@
                                             <h2 class="icou-brand-title"><span
                                                     class="section-header__section-header-title-left">Pedidos</span>
                                             </h2>
-                                            <p>Envíanos un mensaje de e-mail con la lista de tus productos adjuntando tu
+                                            <p>Env&iacute;anos un mensaje de e-mail con la lista de tus productos adjuntando tu
                                                 voucher de pago.</p>
                                             <span class="section-header__separate-line-basement clearfix"></span>
                                         </div>
@@ -816,7 +816,7 @@
                         <div class="contact-block-right-area-wrapper col-sm-12 col-md-4">
                             <div class="contact-block-right-area flex-column">
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
-                                    ¡Contáctanos ahora!</h4>
+                                    ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                             aria-hidden="true"></i> Unit 1 Gimick Street</p>
