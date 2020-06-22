@@ -106,7 +106,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
-                            <p>Donec sed orci ac orci finibus hendrerit at ut leo.</p>
+                            <p></p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
                         </div>
                     </div>
@@ -120,7 +120,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
-                            <p class= "mb-5 bt-5">Sed arcu velit, condimentum venenatis sagittis ac, volutpat in.</p>
+                            <p class= ""></p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos &Eacute;l</span></a>
                         </div>
                     </div>
@@ -134,7 +134,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Lencer&iacute;a</h5>
-                            <p class= "mb-5 bt-5">Aenean sodales auctor turpis, non efficitur massa posuere sed.</p>
+                            <p class= ""></p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
                                     Lencer&iacute;a</span></a>
                         </div>
@@ -149,7 +149,7 @@
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
-                            <p class= "mb-5 bt-5">Praesent at aliquet diam. Donec in quam libero. Etiam fringilla et.</p>
+                            <p class= ""></p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Salud</span></a>
                         </div>
                     </div>
