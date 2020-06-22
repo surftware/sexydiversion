@@ -105,7 +105,7 @@
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
-                            <h5 class="icou-sub-title">Juguetes Para Ella</h5>
+                            <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p>Donec sed orci ac orci finibus hendrerit at ut leo.</p>
                             <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos Ella</span></a>
                         </div>

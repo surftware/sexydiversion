@@ -4,10 +4,10 @@
             <div class="footer-col col-sm-6 col-md-3">
 
                 <a class="navbar-brand" href="#">
-                    <span> <img src="assets/img/global/logo.png" height="200" width="211"
+                    <div> <img src="assets/img/global/logo.png" height="200" width="211"
                             alt="Sexy-Diversion-Sex-Shop-logo">
-                        <p class="">Sex Shop | Sexy Diversión</p>
-                    </span>
+                        <p class="footer-logo text-white">Sex Shop | Sexy Diversión</p>
+                    </div>
                 </a>
             </div>
             <div class="footer-col col-sm-6 col-md-3">
