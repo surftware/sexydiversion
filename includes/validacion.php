@@ -12,8 +12,8 @@ if (!empty($_POST)) {
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
     $recaptchaPrueba    = '22222222';
-        if (!empty($_POST["g-recaptcha-response"])) {
-        //if (!empty($recaptchaPrueba)) {
+        //if (!empty($_POST["g-recaptcha-response"])) {
+        if (!empty($recaptchaPrueba)) {
         //echo "Se acepta recatcha";
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
@@ -21,21 +21,26 @@ if (!empty($_POST)) {
                 $acceso= "Error!";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados:</b></br>";
                 if ($nombre == "") {
-                    $mensaje .="Falta <b>nombre</b></br>";
+                    $mensaje .="Falta llenar <b>nombre</b></br>";
                 }
                 if ($telefono == "" || strlen($telefono) != 10) {
-                    $mensaje .="Falta <b>telefono</b></br>";
+                    $mensaje .="Falta llenar <b>telefono</b></br>";
                 }
                 if ($correo == "" || is_valid_email($correo) != true) {
-                    $mensaje .="Falta <b>correo</b></br>";
+                    if ($correo == "") {
+                        $mensaje .="Falta llenar <b>correo</b></br>";
+                    }
+                    if (is_valid_email($correo) != true) {
+                        $mensaje .="Ingrese un <b>correo</b> valido!</br>";
+                    }
                 }
                 if ($direccion == "") {
-                    $mensaje .="Falta <b>direccion</b></br>";
+                    $mensaje .="Falta llenar <b>direccion</b></br>";
                 }
                 if ($texto == "") {
-                    $mensaje .="Falta <b>mensaje</b></br>";
+                    $mensaje .="Falta llenar <b>mensaje</b></br>";
                 }
-                $tipoAlerta="question";
+                $tipoAlerta="warning";
             }
             else
             {
@@ -54,7 +59,7 @@ if (!empty($_POST)) {
                 $headers .= "X-Priority: 3\n";
                 $headers .= "X-MSMail-Priority: Normal\n";
                 $headers .= "X-Mailer: php\n";
-                $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
+                $headers .= "From: \"".$_POST['nombre']."\" <".$_POST["correo"].">\n";
                 //echo $ok;
                 mail($destinatario, $asunto, $cuerpo, $headers);
                 // mensaje mandado exitosamente
@@ -64,7 +69,7 @@ if (!empty($_POST)) {
         {
             //2
             $acceso= "Error!";
-            $mensaje = "llene el recatcha";
+            $mensaje = "Llene el recatcha";
             $tipoAlerta="warning";
             //echo "No acepta recatcha";
         }
@@ -73,8 +78,8 @@ else
 {
     //1
     $acceso= "Error!";
-    $mensaje = "llene los datos";
-    $tipoAlerta="question";
+    $mensaje = "Llene los datos";
+    $tipoAlerta="warning";
     //echo 'estoy vacio';
 }
 function is_valid_email($str)

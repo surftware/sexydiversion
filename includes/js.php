@@ -54,6 +54,8 @@
                     if (alerta['acceso'] === "success") {
                         document.getElementById("myForm").reset();    
                     }
+                    //$submitButton = document.getElementById("post").value;
+                    //$submitButton.val( $submitButton.data('loading-text') ? $submitButton.data('loading-text') : 'Loading...' ).attr('disabled', true);
                                                 
                 }
             });
