@@ -12,8 +12,8 @@ if (!empty($_POST)) {
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
     $recaptchaPrueba    = '22222222';
-        //if (!empty($_POST["g-recaptcha-response"])) {
-        if (!empty($recaptchaPrueba)) {
+        if (!empty($_POST["g-recaptcha-response"])) {
+        //if (!empty($recaptchaPrueba)) {
         //echo "Se acepta recatcha";
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
