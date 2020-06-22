@@ -46,35 +46,23 @@
                 success: function (alerta) { 
                     
                     alerta = $.parseJSON(alerta);
+                    console.log(alerta);
                     Swal.fire(
                     alerta['acceso'],
                     alerta['mensaje'],
                     alerta['tipoAlerta']
                     )
-                    if (alerta['acceso'] === "success") {
+                    if (alerta['tipoAlerta'] === "success") {
                         document.getElementById("myForm").reset();    
                     }
-                    //$submitButton = document.getElementById("post").value;
-                    //$submitButton.val( $submitButton.data('loading-text') ? $submitButton.data('loading-text') : 'Loading...' ).attr('disabled', true);
-                                                
+                    //document.getElementById("myForm").reset();   
+                    $submitButton = document.getElementById("post").value;
+                    //$submitButton.val( $submitButton.data('loading-text') ? $submitButton.data('loading-text') : 'Loading...' ).attr('disabled', true);                     
                 }
             });
         });
         function index() {
         cliente = getClienteHtml(); // pide los datos del cliente
-        /*
-        console.log(cliente);
-        var telefono = !(/^\d{10}$/.test(cliente["telefono"])); // valida el campo
-        var patron = /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,4})+$/; // combierte el campo correo a un patron
-        var correo = cliente["email"];
-        
-        correo = correo.search(patron); // valida el correo electronico
-        console.log(correo);
-        console.log(cliente["nombre"]);
-        console.log(telefono);
-        var acceso = false;
-        */
-            
     }
     function getClienteHtml() {
 
