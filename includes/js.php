@@ -77,9 +77,9 @@
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
-            "mensaje":          document.getElementById("exampleTextarea").value,
+            "mensaje":          document.getElementById("exampleTextarea").value
             // "rcaptcha":        $(".sitekey").data('sitekey')
-            "rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
+            //"rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
         };
         return cliente;
     }
