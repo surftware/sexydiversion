@@ -617,7 +617,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/dobles.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
