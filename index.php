@@ -475,7 +475,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">   
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -497,7 +497,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                             <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -519,7 +519,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -541,7 +541,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                                <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -563,7 +563,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -585,7 +585,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -607,7 +607,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -629,7 +629,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -651,7 +651,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -673,7 +673,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -695,7 +695,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -717,7 +717,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -739,7 +739,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                           
                             </div>
                         </div>
                     </div>
