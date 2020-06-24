@@ -1,73 +1,67 @@
-Formulario.php:
-
-<form name='formulario' id='formulario' method='post' action='index2.php' target='_self' enctype="multipart/form-data">
-<p>Nombre <input type='text' name='Nombre' id='Nombre'></p>
-<p>E-mail
-<input type='text' name='email' id='email' value="mtjamx95@gmail.com">
-</p>
-<p>Asunto
-<input type='text' name='asunto' id='asunto' />
-</p>
-<p>Mensaje
-<textarea name="mensaje" cols="50" rows="10" id="mensaje"></textarea>
-</p>
-<p>Adjuntar archivo: <input type='file' name='archivo1' id='archivo1'></p>
-<p>
-<input type='submit' value='Enviar'>
-</p>
-</form>
-
- Como podéis ver, en el form del código anterior, se manda a enviar.php, ese archivo es el que va a mandar el email con el archivo adjunto. Aquí os dejo el codigo
-enviar.php:
-
+<div class="container">
+<div class="page-header">
+<h1>Crear PDF dinámico y enviar adjunto por Email</h1>      
+</div>
 <?php
-function form_mail($sPara, $sAsunto, $sTexto, $sDe)
-{
-$bHayFicheros = 0;
-$sCabeceraTexto = "";
-$sAdjuntos = "";
-
-if ($sDe)$sCabeceras = "From:".$sDe."\n";
-else $sCabeceras = "";
-$sCabeceras .= "MIME-version: 1.0\n";
-foreach ($_POST as $sNombre => $sValor)
-$sTexto = $sTexto."\n".$sNombre." = ".$sValor;
-
-foreach ($_FILES as $vAdjunto)
-{
-if ($bHayFicheros == 0)
-{
-$bHayFicheros = 1;
-$sCabeceras .= "Content-type: multipart/mixed;";
-$sCabeceras .= "boundary=\"--_Separador-de-mensajes_--\"\n";
-
-$sCabeceraTexto = "----_Separador-de-mensajes_--\n";
-$sCabeceraTexto .= "Content-type: text/plain;charset=iso-8859-1\n";
-$sCabeceraTexto .= "Content-transfer-encoding: 7BIT\n";
-
-$sTexto = $sCabeceraTexto.$sTexto;
-}
-if ($vAdjunto["size"] > 0)
-{
-$sAdjuntos .= "\n\n----_Separador-de-mensajes_--\n";
-$sAdjuntos .= "Content-type: ".$vAdjunto["type"].";name=\"".$vAdjunto["name"]."\"\n";;
-$sAdjuntos .= "Content-Transfer-Encoding: BASE64\n";
-$sAdjuntos .= "Content-disposition: attachment;filename=\"".$vAdjunto["name"]."\"\n\n";
-
-$oFichero = fopen($vAdjunto["tmp_name"], 'r');
-$sContenido = fread($oFichero, filesize($vAdjunto["tmp_name"]));
-$sAdjuntos .= chunk_split(base64_encode($sContenido));
-fclose($oFichero);
-}
-}
-
-if ($bHayFicheros)
-$sTexto .= $sAdjuntos."\n\n----_Separador-de-mensajes_----\n";
-return(mail($sPara, $sAsunto, $sTexto, $sCabeceras));
-}
-
-//cambiar aqui el email
-if (form_mail("mtjamx95@gmail.com", $_POST[asunto],
-"Los datos introducidos en el formulario son:\n\n", $_POST[email]))
-echo "Su formulario ha sido enviado con exito";
+if ($msgerror) {
 ?>
+<div class="alert alert-danger"><?php echo $msgerror; ?></div>
+<?php } else if ($msgsuccess) { ?>
+<div class="alert alert-success"><?php echo $msgsuccess; ?></div>
+<?php } ?>
+
+<div class="form"> 
+<form class="form-horizontal" action="" method="post">
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="mailto">Email A:</label>
+  <div class="col-sm-10">
+      <input type="email" class="form-control" id="mailto" placeholder="Ingrese Email A" name="mailto" value="<?php echo $_POST['mailto']; ?>">
+  </div>
+</div>
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="mailfrom">Mail De:</label>
+  <div class="col-sm-10">
+      <input type="email" class="form-control" id="mailfrom" placeholder="Ingrese Email De" name="mailfrom" value="<?php echo $_POST['mailfrom']; ?>">
+  </div>
+</div>
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="">Asunto Email:</label>
+  <div class="col-sm-10">
+      <input type="text" class="form-control" id="mailsubject" placeholder="Ingrese Asunto Email" name="mailsubject" value="<?php echo $_POST['mailsubject']; ?>">
+  </div>
+</div>
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="firstname">Nombres:</label>
+  <div class="col-sm-10">
+      <input type="text" class="form-control" id="firstname" placeholder="Ingrese Nombres" name="firstname" value="<?php echo $_POST['firstname']; ?>">
+  </div>
+</div>
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="lastname">Apellidos:</label>
+  <div class="col-sm-10">
+      <input type="text" class="form-control" id="lastname" placeholder="Ingrese Apellidos" name="lastname" value="<?php echo $_POST['lastname']; ?>">
+  </div>
+</div> 
+
+
+<div class="form-group">
+  <label class="control-label col-sm-2" for="description">Descripcion:</label>
+  <div class="col-sm-10">
+      <textarea placeholder="Ingrese Descripcion" class="form-control" id="description"  name="description" style=" height: 268px;"><?php echo $_POST['description']; ?></textarea>
+  </div>
+</div> 
+
+<div class="form-group">        
+  <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-success">Crear y Enviar PDF</button>
+  </div>
+</div>
+</form>
+</div>
+
+</div>

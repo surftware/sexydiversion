@@ -70,7 +70,7 @@ if (!empty($_POST)) {
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
                 $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
                 $cuerpo .= "direccion: " . $_POST["direccion"] . "\r\n";
-                
+                $cuerpo .= "mensaje: " . $_POST["mensaje"] . "\r\n";
                 $headers  = "MIME-Version: 1.0\n";
                 $headers .= "Content-type: text/plain; charset=utf-8\n";
                 $headers .= "X-Priority: 3\n";
