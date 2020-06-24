@@ -479,7 +479,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -501,7 +502,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/estimulantes.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -524,7 +525,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -547,7 +548,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -615,7 +617,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/dobles.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
