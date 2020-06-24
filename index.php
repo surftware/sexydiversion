@@ -756,7 +756,13 @@
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
                                                     id="exampleTextarea" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require></textarea>
+                                                    name="mensaje" maxlength="50" require>
+                                                    </textarea>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-12 col-md-12 form-item">
+                                            Sube un archivo (baucher o comprobante de pago):<input type="file" name="pago" class="form-control"/>
                                             </div>
                                         </div>
 
