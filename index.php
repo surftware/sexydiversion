@@ -881,8 +881,8 @@
                                         <textarea class="form-control form-item text-area" id="exampleTextarea" rows="3"
                                             placeholder="Lista de productos:" name="mensaje" maxlength="50" require></textarea>
         
-                                        <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha" style="margin-left: 90px;"></div>
-                                        
+                                        <!--<div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt" id="rcaptcha" style="margin-left: 90px;"></div>-->
+                                        <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"></div>
                                         <div class="d-flex justify-content-end">
                                         
                                         <input class="btn btn-primary btn-lg icou-button" type="button"
