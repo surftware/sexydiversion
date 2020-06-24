@@ -30,11 +30,11 @@ if (!empty($_POST)) {
                 {
                     if ($telefono == "") 
                     {
-                        $mensaje .="-Falta llenar <b>Telefono</b>.</br>";
+                        $mensaje .="-Falta llenar <b>Teléfono</b>.</br>";
                     }
                     if (strlen($telefono) != 10) 
                     {
-                        $mensaje .="-Ponga 10 digitos como minimo en <b>Telefono</b>.</br>";
+                        $mensaje .="-Ponga 10 dígitos como mínimo en <b>Teléfono</b>.</br>";
                     }
                     
                 }
@@ -51,7 +51,7 @@ if (!empty($_POST)) {
                 }
                 if ($direccion == "") 
                 {
-                    $mensaje .="-Falta llenar <b>Direccion</b>.</br>";
+                    $mensaje .="-Falta llenar <b>Dirección</b>.</br>";
                 }
                 if ($texto == "") 
                 {
@@ -86,7 +86,7 @@ if (!empty($_POST)) {
         {
             //2
             $acceso= "Error!";
-            $mensaje = "Llene el recatcha";
+            $mensaje = "Llene el recaptcha";
             $tipoAlerta="warning";
             //echo "No acepta recatcha";
         }
