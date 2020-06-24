@@ -813,39 +813,35 @@
         <div class="our-partners-component container">
             <div class="partners-row row align-items-center">
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-5.jpg"
+                    <figure class="">
+                        <img src="marcas/marca1.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                       
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-6.jpg"
+                    <figure class="">
+                        <img src="marcas/marca2.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                        
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-7.jpg"
+                    <figure class="">
+                        <img src="marcas/marca3.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-8.jpg"
+                    <figure class="">
+                        <img src="marcas/marca4.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
             </div>
