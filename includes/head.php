@@ -35,7 +35,9 @@
     <link rel="stylesheet" type="text/css" href="css/animate/animate.css">
     <link rel="stylesheet" type="text/css" href="css/featherlight/featherlight.css" />
     <link rel="stylesheet" type="text/css" href="css/featherlight/featherlight.gallery.css" />
-    
+    <!--
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+    -->
 
     <!-- Custom Template CSS -->
     <link rel="stylesheet" href="css/style.css">

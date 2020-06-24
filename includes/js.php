@@ -11,16 +11,17 @@
     <script src="js/map-helper.js"></script>
     <script src="js/superslide/jquery.superslides.js"></script>
     <script src="js/wow/wow.min.js"></script>   
-    <script src='https://www.google.com/recaptcha/api.js?hl=es'></script>
+    <!--<script src='https://www.google.com/recaptcha/api.js?hl=es'></script>-->
+    <script src='https://www.google.com/recaptcha/api.js'></script>
 
     <!--<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>-->
     <script src="includes/sweetalert2.js"></script>
-
     <!-- Custom JS -->
     <script src="js/main.js"></script>
     <script>
-        $(document).ready(function () {
-            $('#slides').superslides({
+
+    $(document).ready(function () {
+        $('#slides').superslides({
                 animation: "fade",
                 play: 10000,
                 slide_easing: 'easeInOutCubic',
@@ -28,11 +29,9 @@
                 pagination: true,
                 hashchange: false,
                 scrollable: true
-            });
-            //index();
         });
-        //var token = $(".token").data('token');
-        $( "#post" ).click(function() {
+    });
+    $( "#post" ).click(function() {
             var cliente = getClienteHtml();
             $.ajax({
                 url: "includes/validacion.php",
@@ -44,10 +43,7 @@
                     direccion: cliente["direccion"],
                     mensaje: cliente["mensaje"],
                     correo: cliente["email"], 
-
-                    
-
-
+                    captcha: grecaptcha.getResponse()
                 },
                 success: function (alerta) { 
                     
@@ -72,16 +68,13 @@
     }
     function getClienteHtml() {
 
-        var cliente = {
+        var cliente = 
+        {
             "email":            document.getElementById("correo").value,
             "nombre":           document.getElementById("nombre").value,
             "telefono":         document.getElementById("telefono").value,
             "direccion":        document.getElementById("direccion").value,      
             "mensaje":          document.getElementById("exampleTextarea").value
-            // "rcaptcha":        $(".sitekey").data('sitekey')
-            //"rcaptcha":        "6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
-
-            
         };
         return cliente;
     }

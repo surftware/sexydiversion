@@ -313,7 +313,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" "/>
+                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
@@ -478,14 +478,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member text-center">
-                                <ul class="social-share text-center">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">   
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -506,14 +500,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -534,14 +523,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -562,14 +546,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -590,14 +568,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -618,14 +591,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -646,14 +614,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -674,14 +637,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -702,14 +660,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -730,104 +683,16 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--/8-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Anillos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/9-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--/10-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Fetish</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
 
-                <!--/7-->
+               
             </div>
             <div class="team-dots"></div>
         </div>
@@ -889,13 +754,11 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                                <textarea class="form-control form-item text-area"
-                                                    id="exampleTextarea" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require></textarea>
+                                                <textarea class="form-control form-item text-area" id="exampleTextarea"
+                                                    rows="3" placeholder="Lista de productos:" name="mensaje"
+                                                    maxlength="50" require></textarea>
                                             </div>
                                         </div>
-
-
 
                                         <div class="g-recaptcha" data-sitekey="6LdJ96UZAAAAAHApVOUIMpA1WXKKJ7NA4ubMZPWt"
                                             id="rcaptcha" style="margin-left: 90px;"></div>
@@ -921,8 +784,11 @@
                                             aria-hidden="true"></i> Unit 1 Gimick Street</p>
                                     <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
                                         Jack Smith</p>
-                                    <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
-                                        +234 567 234 875</p>
+                                    <a href="tel:+52 5582861860">
+                                        <p class="icou-t-white address-item"><i class="fa fa-phone"
+                                                aria-hidden="true"></i>
+                                            55 8286 1860</p>
+                                    </a>
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
                                             aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                 </div>
@@ -984,43 +850,7 @@
         </div>
     </section>
 
-    <?php
-        /*
-			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-                      
-            if (!empty($_POST)) {
-                if (!empty($_POST["g-recaptcha-response"])) {
-                    echo "Se acepta recatcha";
-                }
-                else
-                {
-                    echo "No acepta recatcha";
-                    
-                    $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
-                    $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
-                    $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
-                    $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-                    //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
-                    // Si se agrega un campo al formulario, hay que agregarlo acá.
 
-                    $headers  = "MIME-Version: 1.0\n";
-                    $headers .= "Content-type: text/plain; charset=utf-8\n";
-                    $headers .= "X-Priority: 3\n";
-                    $headers .= "X-MSMail-Priority: Normal\n";
-                    $headers .= "X-Mailer: php\n";
-                    $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-                    //echo $ok;
-                    mail($destinatario, $asunto, $cuerpo, $headers);
-                }
-            }
-            else
-            {
-
-                //echo $ok;
-            }
-            */
-		?>
 
     <!-- Footer -->
     <?php	       
