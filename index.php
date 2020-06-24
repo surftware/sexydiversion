@@ -474,14 +474,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member text-center">
-                                <ul class="social-share text-center">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">   
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -502,14 +496,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                             <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -530,14 +518,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -558,14 +540,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                                <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -586,14 +562,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -614,14 +584,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -642,14 +606,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -670,14 +628,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -698,14 +650,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -726,14 +672,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -754,14 +694,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -782,14 +716,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                              <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
@@ -810,14 +738,8 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member">
-                                <ul class="social-share">
-                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                                </ul>
+                            <div class="social-team-member text-center">
+                            <a href="catalogo/recargables.pdf">Descargar el catalogo</a>
                             </div>
                         </div>
                     </div>
