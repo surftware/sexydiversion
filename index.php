@@ -310,7 +310,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" "/>
+                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
@@ -475,7 +475,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -497,7 +497,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -519,7 +520,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -541,7 +543,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -563,7 +565,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -585,7 +588,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -607,7 +611,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -629,7 +634,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -651,7 +657,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -673,80 +680,15 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                 <!--/8-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Anillos</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                 <!--/9-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Masturbadores</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                 <!--/10-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Fetish</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversion</h6> 
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
-                           
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
 
-                <!--/7-->
+               
             </div>
             <div class="team-dots"></div>
         </div>
