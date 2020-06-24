@@ -629,7 +629,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
@@ -651,7 +651,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el catalogo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"><span> Descargar el catalogo </span></a>
                             </div>
                         </div>
                     </div>
