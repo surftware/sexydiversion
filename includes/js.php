@@ -43,7 +43,7 @@
                 url: "includes/validacion.php",
                 type: "POST",
                 data: formData,
-                contentType: false, // NEEDED, DON'T OMIT THIS (requires jQuery 1.6+)
+                contentType: false,
                 processData: false,
                 success: function (alerta) { 
                     

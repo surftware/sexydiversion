@@ -62,17 +62,19 @@ if (!empty($_POST)) {
                 if ($texto == "") 
                 {
                     $mensaje .="-Falta llenar <b>Mensaje</b>.</br>";
+                    $tipoAlerta="warning";            
                 }
-                $tipoAlerta="warning";            
             }
             else
             {
                 //3 
-                $acceso= "Exito!";
-                $mensaje = "Su mensaje ha sido enviado!";
-                $tipoAlerta="success";  
-                
                 $mailClase=mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
+                $acceso= "Exito!";
+                    $mensaje = "Su mensaje ha sido enviado!";
+                    $tipoAlerta="success";
+                    
+                /*
+                
                 if ($mailClase == 1) {
                     $acceso= "Exito!";
                     $mensaje = "Su mensaje ha sido enviado!";
@@ -83,6 +85,8 @@ if (!empty($_POST)) {
                     $mensaje = "Ha ocurrido un error al mandar el mensaje!";
                     $tipoAlerta="warning";
                 }
+                */
+                
                 /*
                 $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
