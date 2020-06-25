@@ -790,8 +790,11 @@
                                             aria-hidden="true"></i> Unit 1 Gimick Street</p>
                                     <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
                                         Jack Smith</p>
-                                    <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
-                                        +234 567 234 875</p>
+                                    <a href="tel:+52 5582861860">
+                                        <p class="icou-t-white address-item"><i class="fa fa-phone"
+                                                aria-hidden="true"></i>
+                                            55 8286 1860</p>
+                                    </a>
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
                                             aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                 </div>
@@ -853,43 +856,7 @@
         </div>
     </section>
 
-    <?php
-        /*
-			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-                      
-            if (!empty($_POST)) {
-                if (!empty($_POST["g-recaptcha-response"])) {
-                    echo "Se acepta recatcha";
-                }
-                else
-                {
-                    echo "No acepta recatcha";
-                    
-                    $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
-                    $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
-                    $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
-                    $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-                    //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
-                    // Si se agrega un campo al formulario, hay que agregarlo acá.
 
-                    $headers  = "MIME-Version: 1.0\n";
-                    $headers .= "Content-type: text/plain; charset=utf-8\n";
-                    $headers .= "X-Priority: 3\n";
-                    $headers .= "X-MSMail-Priority: Normal\n";
-                    $headers .= "X-Mailer: php\n";
-                    $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-                    //echo $ok;
-                    mail($destinatario, $asunto, $cuerpo, $headers);
-                }
-            }
-            else
-            {
-
-                //echo $ok;
-            }
-            */
-		?>
 
     <!-- Footer -->
     <?php	       

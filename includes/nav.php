@@ -27,9 +27,9 @@
                         <i class="mr-5 fa fa-facebook"></i>
 
                         ¡Llámanos ahora ó envía Whats!
-                        <a href=" " class="text-white">
+                        <a href="tel:+52 5582861860" class="text-white">
                             &nbsp;&nbsp;&nbsp;
-                            <i class="fa fa-whatsapp"></i> &nbsp;55 5555 5555
+                            <i class="fa fa-whatsapp"></i> &nbsp;55 8286 1860
                         </a>
                     </div>
                 </div>
