@@ -1,6 +1,7 @@
 <?php
 require("archivosformulario/class.phpmailer.php");
 function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje,$archivo){
+    $retornar= 0;
     $mail = new PHPMailer();
     $mail->From     = $Email;
     $mail->FromName = $Nombre; 
@@ -26,10 +27,12 @@ function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje,
     $mail->Password = "capcom12"; // Contraseña
 
     if ($mail->Send()){
-        return true;
+        $retornar= 1;
     }
     else{
-        return false;
+        $retornar= 0;
     }
+
+    return $retornar;
 }
 ?>

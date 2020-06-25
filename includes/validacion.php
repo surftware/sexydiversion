@@ -71,7 +71,18 @@ if (!empty($_POST)) {
                 $acceso= "Exito!";
                 $mensaje = "Su mensaje ha sido enviado!";
                 $tipoAlerta="success";  
-                mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
+                
+                $mailClase=mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
+                if ($mailClase == 1) {
+                    $acceso= "Exito!";
+                    $mensaje = "Su mensaje ha sido enviado!";
+                    $tipoAlerta="success";
+                }
+                if ($mailClase == 0) {
+                    $acceso= "Error!";
+                    $mensaje = "Ha ocurrido un error al mandar el mensaje!";
+                    $tipoAlerta="warning";
+                }
                 /*
                 $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
