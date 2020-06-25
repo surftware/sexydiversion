@@ -479,7 +479,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -501,7 +502,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/estimulantes.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -524,7 +525,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -547,7 +548,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -615,7 +617,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -817,39 +819,35 @@
         <div class="our-partners-component container">
             <div class="partners-row row align-items-center">
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-5.jpg"
+                    <figure class="">
+                        <img src="marcas/marca1.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                       
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-6.jpg"
+                    <figure class="">
+                        <img src="marcas/marca2.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                        
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-7.jpg"
+                    <figure class="">
+                        <img src="marcas/marca3.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-8.jpg"
+                    <figure class="">
+                        <img src="marcas/marca4.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
             </div>
