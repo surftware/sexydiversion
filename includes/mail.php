@@ -1,6 +1,6 @@
 <?php
 //require("archivosformulario/class.phpmailer.php");
-function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje,$archivo){
+function mandarEmailFile($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje,$archivo){
     $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 
     $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
@@ -35,5 +35,24 @@ function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje,
     $returnpath = "-f" . $from; 
     mail($destinatario, $asunto, $cuerpo, $headers,$returnpath);
     
+}
+
+function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje){
+    $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
+
+    $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
+    $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
+    $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
+    $cuerpo .= "direccion: " . $_POST["direccion"] . "\r\n";
+    $cuerpo .= "mensaje: " . $_POST["mensaje"] . "\r\n";
+     
+    $headers  = "MIME-Version: 1.0\n";
+    $headers .= "Content-type: text/plain; charset=utf-8\n";
+    $headers .= "X-Priority: 3\n";
+    $headers .= "X-MSMail-Priority: Normal\n";
+    $headers .= "X-Mailer: php\n";
+    $headers .= "From: \"".$_POST['nombre']."\" <".$_POST["correo"].">\n";
+
+    mail($destinatario, $asunto, $cuerpo, $headers);
 }
 ?>

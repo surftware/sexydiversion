@@ -16,10 +16,8 @@ if (!empty($_POST)) {
     $correo             = $_POST["correo"];
     $archivo            = $_FILES['adjunto'];
     $recaptchaPrueba    = '22222222';
-    //mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
         //if (!empty($_POST['captcha'])) {
         if (!empty($recaptchaPrueba)) {
-        //echo "Se acepta recatcha";
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 
@@ -68,25 +66,29 @@ if (!empty($_POST)) {
             else
             {
                 //3 
-                $mailClase=mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
-                $acceso= "Exito!";
-                    $mensaje = "Su mensaje ha sido enviado!";
-                    $tipoAlerta="success";
-                    
-                /*
-                
-                if ($mailClase == 1) {
-                    $acceso= "Exito!";
-                    $mensaje = "Su mensaje ha sido enviado!";
-                    $tipoAlerta="success";
+                if ($_FILES['adjunto']['name'] != "" || $_FILES['adjunto']['name']!= null) {
+                    $nombre_dir=rand(1, 1000000);
+                    $nombre_dir="temporal/mail/$nombre_dir";
+            
+                    mkdir($nombre_dir);
+            
+                    $directorio = $nombre_dir."/";
+                    $subir_archivo = $directorio.basename($_FILES['adjunto']['name']);
+
+                    if (move_uploaded_file($_FILES['adjunto']['tmp_name'], $subir_archivo)) {
+                        //echo "El archivo es válido y se cargó correctamente.<br><br>";
+                        $mailClase=mandarEmailFile($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$nombre_dir.$_FILES['adjunto']['name']);
+                        unlink($nombre_dir.$_FILES['adjunto']['name']);    
+                        rmdir($nombre_dir);  
+                    } else {
+                        //echo "La subida ha fallado";
+                        rmdir($nombre_dir);
+                        mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto);
+                    }
+                }else{
+                    mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto);
+                    //echo "no selecciono ningun archivo";
                 }
-                if ($mailClase == 0) {
-                    $acceso= "Error!";
-                    $mensaje = "Ha ocurrido un error al mandar el mensaje!";
-                    $tipoAlerta="warning";
-                }
-                */
-                
                 /*
                 $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
@@ -100,12 +102,12 @@ if (!empty($_POST)) {
                 $headers .= "X-MSMail-Priority: Normal\n";
                 $headers .= "X-Mailer: php\n";
                 $headers .= "From: \"".$_POST['nombre']."\" <".$_POST["correo"].">\n";
-                //echo $ok;
-                //$mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
-                
+
                 mail($destinatario, $asunto, $cuerpo, $headers);
-                // mensaje mandado exitosamente
                 */
+                $acceso= "Exito!";
+                $mensaje = "Su mensaje ha sido enviado!";
+                $tipoAlerta="success";
             }      
         }
         else
@@ -114,7 +116,6 @@ if (!empty($_POST)) {
             $acceso= "Error!";
             $mensaje = "Llene el recaptcha";
             $tipoAlerta="warning";
-            //echo "No acepta recatcha";
         }
 }
 else
@@ -123,7 +124,6 @@ else
     $acceso= "Error!";
     $mensaje = "Llene los datos";
     $tipoAlerta="warning";
-    //echo 'estoy vacio';
 }
 function is_valid_email($str)
 {
