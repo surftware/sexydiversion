@@ -479,7 +479,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -501,7 +502,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/estimulantes.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -524,7 +525,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf" 
                             target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -547,7 +548,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"><span> Descargar el cat&aacute;logo </span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -615,7 +617,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -726,7 +728,7 @@
                                 <!-- Form -->
                                 <div class="contact-block-form">
 
-                                    <form action="index.php" method="post" id="myForm">
+                                    <form action="" method="post" id="myForm" enctype="multipart/form-data">
                                         <div class="row">
 
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -743,7 +745,7 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" id="correo" maxlength="100"
+                                                    placeholder="*Email" name="correo" id="email" maxlength="100"
                                                     require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -755,14 +757,15 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
-                                                    id="exampleTextarea" rows="3" placeholder="Lista de productos:"
+                                                    id="mensaje" rows="3" placeholder="Lista de productos:"
                                                     name="mensaje" maxlength="50" require>
                                                     </textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago):<input type="file" name="pago" class="form-control"/>
+                                            Sube un archivo (baucher o comprobante de pago):
+                                            <input type="file" id="adjunto" name="adjunto" class="form-control"/>
                                             </div>
                                         </div>
 
@@ -787,11 +790,14 @@
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i> Unit 1 Gimick Street</p>
+                                            aria-hidden="true"></i></p>
                                     <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
                                         Jack Smith</p>
-                                    <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
-                                        +234 567 234 875</p>
+                                    <a href="tel:+52 5582861860">
+                                        <p class="icou-t-white address-item"><i class="fa fa-phone"
+                                                aria-hidden="true"></i>
+                                            55 8286 1860</p>
+                                    </a>
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
                                             aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                 </div>
@@ -814,82 +820,42 @@
         <div class="our-partners-component container">
             <div class="partners-row row align-items-center">
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-5.jpg"
+                    <figure class="">
+                        <img src="assets/img/marcas/marca1.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                       
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-6.jpg"
+                    <figure class="">
+                        <img src="assets/img/marcas/marca2.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                        
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-7.jpg"
+                    <figure class="">
+                        <img src="assets/img/marcas/marca3.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
-                    <figure class="partner-block">
-                        <img src="assets/img/partners/partner-logo-8.jpg"
+                    <figure class="">
+                        <img src="assets/img/marcas/marca4.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        <figcaption class="figure-caption text-center">Lorem ipsum dolor sit amet consectetur.
-                        </figcaption>
+                     
                     </figure>
                 </div>
             </div>
         </div>
     </section>
 
-    <?php
-        /*
-			$destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-            $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
-                      
-            if (!empty($_POST)) {
-                if (!empty($_POST["g-recaptcha-response"])) {
-                    echo "Se acepta recatcha";
-                }
-                else
-                {
-                    echo "No acepta recatcha";
-                    
-                    $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
-                    $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
-                    $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
-                    $cuerpo .= "Mensaje: " . $_POST["mensaje"] . "\r\n";
-                    //las líneas de arriba definen el contenido del mail. Las palabras que están dentro de $_POST[""] deben coincidir con el "name" de cada campo. 
-                    // Si se agrega un campo al formulario, hay que agregarlo acá.
 
-                    $headers  = "MIME-Version: 1.0\n";
-                    $headers .= "Content-type: text/plain; charset=utf-8\n";
-                    $headers .= "X-Priority: 3\n";
-                    $headers .= "X-MSMail-Priority: Normal\n";
-                    $headers .= "X-Mailer: php\n";
-                    $headers .= "From: \"".$_POST['nombre']."\" <".$remitente.">\n";
-                    //echo $ok;
-                    mail($destinatario, $asunto, $cuerpo, $headers);
-                }
-            }
-            else
-            {
-
-                //echo $ok;
-            }
-            */
-		?>
 
     <!-- Footer -->
     <?php	       

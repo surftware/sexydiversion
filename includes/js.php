@@ -31,20 +31,20 @@
                 scrollable: true
         });
     });
+
     $( "#post" ).click(function() {
-            var cliente = getClienteHtml();
+
+            var form = $('form')[0]; // You need to use standard javascript object here
+            var formData = new FormData(form);
+            formData.append('captcha',grecaptcha.getResponse());
+            //https://stackoverflow.com/questions/21044798/how-to-use-formdata-for-ajax-file-upload
+
             $.ajax({
                 url: "includes/validacion.php",
                 type: "POST",
-                data: {
-                    recaptcha: cliente["rcaptcha"],
-                    nombre: cliente["nombre"], 
-                    telefono: cliente["telefono"],
-                    direccion: cliente["direccion"],
-                    mensaje: cliente["mensaje"],
-                    correo: cliente["email"], 
-                    captcha: grecaptcha.getResponse()
-                },
+                data: formData,
+                contentType: false, // NEEDED, DON'T OMIT THIS (requires jQuery 1.6+)
+                processData: false,
                 success: function (alerta) { 
                     
                     alerta = $.parseJSON(alerta);
@@ -62,22 +62,9 @@
                     //$submitButton.val( $submitButton.data('loading-text') ? $submitButton.data('loading-text') : 'Loading...' ).attr('disabled', true);                     
                 }
             });
+            
         });
-        function index() {
-        cliente = getClienteHtml(); // pide los datos del cliente
-    }
-    function getClienteHtml() {
 
-        var cliente = 
-        {
-            "email":            document.getElementById("correo").value,
-            "nombre":           document.getElementById("nombre").value,
-            "telefono":         document.getElementById("telefono").value,
-            "direccion":        document.getElementById("direccion").value,      
-            "mensaje":          document.getElementById("exampleTextarea").value
-        };
-        return cliente;
-    }
     //$(".token").data('token');
     function validaNumericos(event) {
         if(event.charCode >= 48 && event.charCode <= 57){

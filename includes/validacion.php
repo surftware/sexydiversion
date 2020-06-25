@@ -1,5 +1,7 @@
 <?php
+
 // creador Moreno Tolentino Jose Armando 
+require("mail.php");
 $destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
 $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 $acceso = "";   
@@ -11,12 +13,15 @@ if (!empty($_POST)) {
     $direccion          = $_POST["direccion"];
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
+    $archivo            = $_FILES['adjunto'];
     $recaptchaPrueba    = '22222222';
-        if (!empty($_POST['captcha'])) {
-        //if (!empty($recaptchaPrueba)) {
+    
+        //if (!empty($_POST['captcha'])) {
+        if (!empty($recaptchaPrueba)) {
         //echo "Se acepta recatcha";
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
+                
                 //echo "datos no llenados";
                 $acceso= "Error!";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
@@ -64,13 +69,15 @@ if (!empty($_POST)) {
                 //3 
                 $acceso= "Exito!";
                 $mensaje = "Su mensaje ha sido enviado!";
-                $tipoAlerta="success";
-
+                $tipoAlerta="success";  
+                //mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
+                /*
                 $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
                 $cuerpo .= "Email: " . $_POST["correo"] . "\r\n";
                 $cuerpo .= "direccion: " . $_POST["direccion"] . "\r\n";
                 $cuerpo .= "mensaje: " . $_POST["mensaje"] . "\r\n";
+                
                 $headers  = "MIME-Version: 1.0\n";
                 $headers .= "Content-type: text/plain; charset=utf-8\n";
                 $headers .= "X-Priority: 3\n";
@@ -78,8 +85,11 @@ if (!empty($_POST)) {
                 $headers .= "X-Mailer: php\n";
                 $headers .= "From: \"".$_POST['nombre']."\" <".$_POST["correo"].">\n";
                 //echo $ok;
+                //$mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
+                
                 mail($destinatario, $asunto, $cuerpo, $headers);
                 // mensaje mandado exitosamente
+                */
             }      
         }
         else
