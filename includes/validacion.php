@@ -3,7 +3,7 @@
 // creador Moreno Tolentino Jose Armando 
 require("mail.php");
 $destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
-$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
+//$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
 $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 $acceso = "";   
 $mensaje ="";
@@ -78,7 +78,7 @@ if (!empty($_POST)) {
                     if (move_uploaded_file($_FILES['adjunto']['tmp_name'], $subir_archivo)) {
                         //echo "El archivo es válido y se cargó correctamente.<br><br>";
                         $mailClase=mandarEmailFile($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$nombre_dir.$_FILES['adjunto']['name']);
-                        unlink($nombre_dir.$_FILES['adjunto']['name']);    
+                        unlink($directorio.$_FILES['adjunto']['name']);    
                         rmdir($nombre_dir);  
                     } else {
                         //echo "La subida ha fallado";
