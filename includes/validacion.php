@@ -3,6 +3,7 @@
 // creador Moreno Tolentino Jose Armando 
 require("mail.php");
 $destinatario = 'ventas@sexydiversion.com.mx'; // en esta línea va el mail del destinatario.
+$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
 $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 $acceso = "";   
 $mensaje ="";
@@ -15,7 +16,7 @@ if (!empty($_POST)) {
     $correo             = $_POST["correo"];
     $archivo            = $_FILES['adjunto'];
     $recaptchaPrueba    = '22222222';
-    
+    //mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
         //if (!empty($_POST['captcha'])) {
         if (!empty($recaptchaPrueba)) {
         //echo "Se acepta recatcha";
@@ -70,7 +71,7 @@ if (!empty($_POST)) {
                 $acceso= "Exito!";
                 $mensaje = "Su mensaje ha sido enviado!";
                 $tipoAlerta="success";  
-                //mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
+                mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$archivo);
                 /*
                 $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
                 $cuerpo .= "Teléfono: " . $_POST["telefono"] . "\r\n";
