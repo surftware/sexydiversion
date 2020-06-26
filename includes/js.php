@@ -78,23 +78,33 @@
     var inputImage;
 
         if (!window.FileReader) {
-            alert('El navegador no soporta la lectura de archivos');
+            //alert('El navegador no soporta la lectura de archivos');
+            Swal.fire(
+                    'Archivo Incorrecto!',
+                    'El navegador no soporta la lectura de archivos',
+                    'warning'
+            ); 
             inputImage = document.getElementById("adjunto");
             inputImage.value = '';
             return;
         }
 
         if (!(/\.(jpg|jpeg|png|pdf|docx|doc|xlsx|xls)$/i).test(uploadFile.name)) {
-            alert('El archivo a adjuntar no es una imagen o archivo .pdf\n'+
-            'los formatos apropiados son:\n'+
-            '1-jpg\n'+
-            '2-jpeg\n'+
-            '3-pdf\n'+
-            '4-docx\n'+
-            '5-doc\n'+
-            '6-xlsx\n'+
-            '7-xls'
-            );
+            var alertMensaje='El archivo a adjuntar no es una imagen o archivo <br>'+
+            'Los formatos apropiados son:<br/>'+
+            '-jpg\n'+
+            '-jpeg\n'+
+            '-pdf\n'+
+            '-docx\n'+
+            '-doc\n'+
+            '-xlsx\n'+
+            '-xls'
+            ;
+            Swal.fire(
+                    'Archivo Incorrecto!',
+                    alertMensaje,
+                    'warning'
+            );  
             inputImage = document.getElementById("adjunto");
             inputImage.value = '';
         }
@@ -103,22 +113,25 @@
             var img = new Image();
             img.onload = function () {
                 
-                /*
-                if (this.width.toFixed(0) != 200 && this.height.toFixed(0) != 200) {
-                    alert('Las medidas deben ser: 200 * 200');
-                    inputImage = document.getElementById("adjunto");
-                    inputImage.value = '';
-                }
-                */
                 if (uploadFile.size > 1536000)
                 {   
-                    alert('El peso del archivo no puede exceder los 15360kb o 15mb');
+                    //alert('El peso del archivo no puede exceder los 15360kb o 15mb');
+                    Swal.fire(
+                    'Archivo Incorrecto!',
+                    'El peso del archivo no puede exceder los 15360kb o 15mb',
+                    'warning'
+                    );  
 
                     inputImage = document.getElementById("adjunto");
                     inputImage.value = '';
                 }
                 else {
-                    alert('Archivo correcta :)');                
+                    //alert('Archivo correcta :)');   
+                    Swal.fire(
+                    'Archivo Correcto!',
+                    'El archivo es valido para enviarse',
+                    'success'
+                    );             
                 }
             };
             img.src = URL.createObjectURL(uploadFile);
