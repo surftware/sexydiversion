@@ -16,8 +16,8 @@ if (!empty($_POST)) {
     $correo             = $_POST["correo"];
     $archivo            = $_FILES['adjunto'];
     $recaptchaPrueba    = '22222222';
-        //if (!empty($_POST['captcha'])) {
-        if (!empty($recaptchaPrueba)) {
+        if (!empty($_POST['captcha'])) {
+        //if (!empty($recaptchaPrueba)) {
             if ($nombre == "" || $telefono== "" || $correo == "" || $direccion == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
                 
