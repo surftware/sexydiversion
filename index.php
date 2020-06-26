@@ -548,7 +548,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf" 
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -594,7 +594,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -686,7 +686,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
