@@ -105,8 +105,9 @@
     height: 52px;
     left: 18px;
     top: 45%;
-    background-color: rgba(215, 215, 215, 0.46);
+    background-color: $purple;
     transition: all 300ms linear 0ms;
+    opacity: 0.46;
 }
 
 .slides-navigation .prev:hover,
@@ -122,8 +123,9 @@
     height: 52px;
     right: 19px;
     top: 45%;
-    background-color: rgba(215, 215, 215, 0.46);
+    background-color: $purple;
     transition: all 300ms linear 0ms;
+    opacity:0.46;
 }
 
 .slides-navigation::before, 
