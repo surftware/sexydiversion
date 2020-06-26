@@ -66,7 +66,10 @@ if (!empty($_POST)) {
             else
             {
                 //3 
-                if ($_FILES['adjunto']['name'] != "" || $_FILES['adjunto']['name']!= null) {
+                if (
+                    $_FILES['adjunto']['name'] != "" && $_FILES['adjunto']['name']!= null
+                    
+                    ) {
                     $nombre_dir=rand(1, 1000000);
                     $nombre_dir="temporal/mail/$nombre_dir";
             
@@ -75,17 +78,22 @@ if (!empty($_POST)) {
                     $directorio = $nombre_dir."/";
                     $subir_archivo = $directorio.basename($_FILES['adjunto']['name']);
 
-                    if (move_uploaded_file($_FILES['adjunto']['tmp_name'], $subir_archivo)) {
+                    if (move_uploaded_file($_FILES['adjunto']['tmp_name'], $subir_archivo)) 
+                    {
                         //echo "El archivo es válido y se cargó correctamente.<br><br>";
                         $mailClase=mandarEmailFile($destinatario,$nombre,$correo,$telefono,$direccion,$texto,$nombre_dir.$_FILES['adjunto']['name']);
                         unlink($directorio.$_FILES['adjunto']['name']);    
                         rmdir($nombre_dir);  
-                    } else {
+                    } 
+                    else 
+                    {
                         //echo "La subida ha fallado";
                         rmdir($nombre_dir);
                         mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto);
                     }
-                }else{
+                }
+                else
+                {
                     mandarEmail($destinatario,$nombre,$correo,$telefono,$direccion,$texto);
                     //echo "no selecciono ningun archivo";
                 }

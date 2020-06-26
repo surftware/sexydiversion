@@ -72,4 +72,47 @@
         }
         return false;        
     }
+
+    function validarArchivo(obj){
+    var uploadFile = obj.files[0];
+    var inputImage;
+
+        if (!window.FileReader) {
+            alert('El navegador no soporta la lectura de archivos');
+            inputImage = document.getElementById("adjunto");
+            inputImage.value = '';
+            return;
+        }
+
+        if (!(/\.(jpg|png|pdf)$/i).test(uploadFile.name)) {
+            alert('El archivo a adjuntar no es una imagen o archivo .pdf\n'+
+            'los formatos apropiados son:\n'+
+            '-pdf\n'+
+            '-png\n'+
+            '-jpg');
+            inputImage = document.getElementById("adjunto");
+            inputImage.value = '';
+        }
+        else 
+        {
+            var img = new Image();
+            img.onload = function () {
+                if (this.width.toFixed(0) != 200 && this.height.toFixed(0) != 200) {
+                    alert('Las medidas deben ser: 200 * 200');
+                    inputImage = document.getElementById("adjunto");
+                    inputImage.value = '';
+                }
+                else if (uploadFile.size > 20000)
+                {
+                    alert('El peso del archivo no puede exceder los 200kb');
+                    inputImage = document.getElementById("adjunto");
+                    inputImage.value = '';
+                }
+                else {
+                    alert('Archivo correcta :)');                
+                }
+            };
+            img.src = URL.createObjectURL(uploadFile);
+        }                 
+    }
     </script>
