@@ -84,12 +84,17 @@
             return;
         }
 
-        if (!(/\.(jpg|png|pdf)$/i).test(uploadFile.name)) {
+        if (!(/\.(jpg|jpeg|png|pdf|docx|doc|xlsx|xls)$/i).test(uploadFile.name)) {
             alert('El archivo a adjuntar no es una imagen o archivo .pdf\n'+
             'los formatos apropiados son:\n'+
-            '-pdf\n'+
-            '-png\n'+
-            '-jpg');
+            '1-jpg\n'+
+            '2-jpeg\n'+
+            '3-pdf\n'+
+            '4-docx\n'+
+            '5-doc\n'+
+            '6-xlsx\n'+
+            '7-xls'
+            );
             inputImage = document.getElementById("adjunto");
             inputImage.value = '';
         }
@@ -97,14 +102,18 @@
         {
             var img = new Image();
             img.onload = function () {
+                
+                /*
                 if (this.width.toFixed(0) != 200 && this.height.toFixed(0) != 200) {
                     alert('Las medidas deben ser: 200 * 200');
                     inputImage = document.getElementById("adjunto");
                     inputImage.value = '';
                 }
-                else if (uploadFile.size > 20000)
-                {
-                    alert('El peso del archivo no puede exceder los 200kb');
+                */
+                if (uploadFile.size > 1536000)
+                {   
+                    alert('El peso del archivo no puede exceder los 15360kb o 15mb');
+
                     inputImage = document.getElementById("adjunto");
                     inputImage.value = '';
                 }

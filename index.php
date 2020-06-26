@@ -764,7 +764,7 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago):
+                                            Sube un archivo (baucher o comprobante de pago, El peso del archivo no puede exceder los 15360kb o 15mb):
                                             <input type="file" id="adjunto" name="adjunto" class="form-control" onchange="validarArchivo(this);"/>
                                             </div>
                                         </div>
