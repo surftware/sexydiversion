@@ -1,6 +1,8 @@
 node_modules/
 *.config
 .vscode
+*.pdf
+catalogo.svg
 catalgo/
 package-lock.json
 

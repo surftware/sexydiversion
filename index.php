@@ -789,7 +789,7 @@
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i> Unit 1 Gimick Street</p>
+                                            aria-hidden="true"></i></p>
                                     <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
                                         Jack Smith</p>
                                     <a href="tel:+52 5582861860">
@@ -820,7 +820,7 @@
             <div class="partners-row row align-items-center">
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca1.jpg"
+                        <img src="assets/img/marcas/marca1.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                        
@@ -828,7 +828,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca2.jpg"
+                        <img src="assets/img/marcas/marca2.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                         
@@ -836,7 +836,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca3.jpg"
+                        <img src="assets/img/marcas/marca3.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                      
@@ -844,7 +844,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca4.jpg"
+                        <img src="assets/img/marcas/marca4.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                      
