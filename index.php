@@ -728,7 +728,7 @@
                                 <!-- Form -->
                                 <div class="contact-block-form">
 
-                                    <form action="index.php" method="post" id="myForm">
+                                    <form action="" method="post" id="myForm" enctype="multipart/form-data">
                                         <div class="row">
 
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -745,7 +745,7 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" id="correo" maxlength="100"
+                                                    placeholder="*Email" name="correo" id="email" maxlength="100"
                                                     require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -757,14 +757,15 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
-                                                    id="exampleTextarea" rows="3" placeholder="Lista de productos:"
+                                                    id="mensaje" rows="3" placeholder="Lista de productos:"
                                                     name="mensaje" maxlength="50" require>
                                                     </textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago):<input type="file" name="pago" class="form-control"/>
+                                            Sube un archivo (baucher o comprobante de pago, El peso del archivo no puede exceder los 15360kb o 15mb):
+                                            <input type="file" id="adjunto" name="adjunto" class="form-control" onchange="validarArchivo(this);"/>
                                             </div>
                                         </div>
 
@@ -789,7 +790,7 @@
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i> Unit 1 Gimick Street</p>
+                                            aria-hidden="true"></i></p>
                                     <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
                                         Jack Smith</p>
                                     <a href="tel:+52 5582861860">
@@ -820,7 +821,7 @@
             <div class="partners-row row align-items-center">
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca1.jpg"
+                        <img src="assets/img/marcas/marca1.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                        
@@ -828,7 +829,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca2.jpg"
+                        <img src="assets/img/marcas/marca2.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                         
@@ -836,7 +837,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca3.jpg"
+                        <img src="assets/img/marcas/marca3.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                      
@@ -844,7 +845,7 @@
                 </div>
                 <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
                     <figure class="">
-                        <img src="marcas/marca4.jpg"
+                        <img src="assets/img/marcas/marca4.jpg"
                             class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
                      
