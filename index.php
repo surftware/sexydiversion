@@ -548,7 +548,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf" 
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -594,7 +594,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -686,7 +686,7 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
                             target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
@@ -728,7 +728,7 @@
                                 <!-- Form -->
                                 <div class="contact-block-form">
 
-                                    <form action="index.php" method="post" id="myForm">
+                                    <form action="" method="post" id="myForm" enctype="multipart/form-data">
                                         <div class="row">
 
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -745,7 +745,7 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Email" name="correo" id="correo" maxlength="100"
+                                                    placeholder="*Email" name="correo" id="email" maxlength="100"
                                                     require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -757,14 +757,15 @@
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
-                                                    id="exampleTextarea" rows="3" placeholder="Lista de productos:"
+                                                    id="mensaje" rows="3" placeholder="Lista de productos:"
                                                     name="mensaje" maxlength="50" require>
                                                     </textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago):<input type="file" name="pago" class="form-control"/>
+                                            Sube un archivo (baucher o comprobante de pago, El peso del archivo no puede exceder los 15360kb o 15mb):
+                                            <input type="file" id="adjunto" name="adjunto" class="form-control" onchange="validarArchivo(this);"/>
                                             </div>
                                         </div>
 
