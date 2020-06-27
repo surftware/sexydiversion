@@ -786,8 +786,7 @@
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                             aria-hidden="true"></i></p>
-                                    <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
-                                        Jack Smith</p>
+                                    
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
