@@ -7,16 +7,15 @@
 
     <!--Open Graphs Facebook Meta  -->
     <meta property="og:locale" content="es_MX" />
-    <meta property="og:image/jpeg"  content="website" />
-    <meta property="og:title" content="La mejor Sex Shop Sexy Diversión." />
+    <meta property="og:title" content="La mejor Sex Shop | Sexy Diversión." />
     <meta property="og:description"
-            content="Venta de productos para +18, tenemos gran variedad. Precios accesibles para cualquier producto. Calidad e higiene." />
+            content="Venta de productos para +18, tenemos gran variedad. Precios accesibles para cualquier producto." />
     <meta property="og:url" content="https://www.sexydiversion.com.mx">
     <meta property="og:site_name" content="Sex Shop Sexy Diversión">
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion1.jpeg" />
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion2.jpeg" />
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion3.jpeg" />
-    <meta property="og:image" content="assets/img/global/logo.png" />
+    <!-- <meta property="og:image" content="assets/img/global/logo.png" /> -->
 
 
     <!-- favicon -->

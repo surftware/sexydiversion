@@ -12,13 +12,8 @@
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="top-number">
                         <p class="font-weight-bold ">
-
                             ¡Llámanos ahora ó envía Whats!
-
                         </p>
-
-
-                        </a>
                     </div>
 
 
