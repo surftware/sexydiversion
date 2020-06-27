@@ -179,7 +179,7 @@
                         <!-- Right Area -->
                         <div class="right-area col-md-6">
                             <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
-                                href="3column.html"><span>Ver m&aacute;s productos</span></a>
+                                href="/shop"><span>Ver m&aacute;s productos</span></a>
                         </div>
                         <!-- End Right Area -->
                         <span class="section-header__separate-line-basement clearfix"></span>
@@ -433,7 +433,7 @@
                     <!-- Left Area -->
                     <div class="left-area col-md-6">
                         <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-right"
-                            href="team.html"><span>Ver más productos</span></a>
+                            href="/shop"><span>Ver más productos</span></a>
                     </div>
                     <!-- End Left Area -->
                     <div class="right-area col-md-6">
@@ -468,7 +468,7 @@
                             <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/10"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -491,7 +491,7 @@
                             <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/5"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -514,7 +514,7 @@
                             <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/7"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -537,7 +537,7 @@
                             <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/8"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -560,7 +560,7 @@
                             <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/1"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -583,7 +583,7 @@
                             <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/3"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -606,7 +606,7 @@
                             <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/4"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -629,7 +629,7 @@
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/2"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -652,7 +652,7 @@
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/11"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -675,7 +675,7 @@
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/6"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>

@@ -57,9 +57,9 @@
                             <ul class="navigation navbar-nav mr-auto mt-2 mt-md-0">
                                 <li class="main-menu-link "><a href="index.php">Inicio</a></li>
 
-                                <li class="main-menu-link"><a href="index.php#contact-home-area">Contacto</a></li>
+                                <li class="main-menu-link"><a href="index.php#map">Contacto</a></li>
 
-                                <li class="main-menu-link"><a href="index.php">Productos</a></li>
+                                <li class="main-menu-link"><a href="/shop">Productos</a></li>
                             </ul>
                         </div>
                     </nav>
