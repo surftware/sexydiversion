@@ -16,6 +16,7 @@
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion1.jpeg" />
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion2.jpeg" />
     <meta property="og:image" content="assets/img/carrusel/sex-shop-sexy-diversion3.jpeg" />
+    <meta property="og:image" content="assets/img/global/logo.png" />
 
 
     <!-- favicon -->
