@@ -101,14 +101,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion1.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion4.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Ella</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más Vendidos</span></a>
                         </div>
                     </div>
                 </div>
@@ -116,14 +115,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion2.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion2.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    &Eacute;l</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar catálogos</span></a>
                         </div>
                     </div>
                 </div>
@@ -131,14 +129,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion3.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion3.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
-                            <h5 class="icou-sub-title">Lencer&iacute;a</h5>
+                            <h5 class="icou-sub-title">Fetish</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Lencer&iacute;a</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra tienda</span></a>
                         </div>
                     </div>
                 </div>
@@ -146,14 +143,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion4.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion1.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Salud</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu pedido</span></a>
                         </div>
                     </div>
                 </div>
@@ -161,7 +157,7 @@
         </div>
         <!-- / Intro Tables -->
         <!-- Our Work Section -->
-        <div class="portfolio-section-home-area">
+        <div class="portfolio-section-home-area" id="mas-vendidos">
             <!-- SECTION HEADER -->
             <div class="container">
                 <!-- SECTION HEADER -->
@@ -429,7 +425,7 @@
     <!-- / Intro Tables and Our Work -->
 
     <!-- Our Team -->
-    <section id="feature-team" class="feature-team s-padding s-bg-white">
+    <section id="catalogos" class="feature-team s-padding s-bg-white">
         <div class="container">
             <!-- SECTION HEADER -->
             <div class="col-md-12">
@@ -445,9 +441,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Todas las
-                                            categorías</span></h2>
-                                    <p>Nuestros Productos</p>
+                                            class="section-header__section-header-title-right">Descarga nuestros cat&aacute;logos.</span></h2>
+                                    <p>Todos Nuestros Productos</p>
 
                                 </div>
                             </div>
@@ -733,7 +728,7 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre completo" name="nombre" id="nombre"
+                                                    placeholder="*Nombre" name="nombre" id="nombre"
                                                     maxlength="50" require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
