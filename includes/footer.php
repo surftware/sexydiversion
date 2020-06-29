@@ -3,10 +3,10 @@
         <div class="footer-wrapper row">
             <div class="col-sm-6 col-md-4">
                 <h4 class="footer-col-title icou-brand-title logotipo">
-                    <span>Sexy Diversi&oacute;n |</span>
-                    <span class="text-white"> Sex Shop </span></h4>
+                    <span class="text-white">Sexy Diversi&oacute;n |</span>
+                    <span> Sex Shop </span></h4>
                 
-                <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="#">
                  <img src="assets/img/global/logo.png" height="200" width="211"
                             alt="Sexy-Diversion-Sex-Shop-logo">
                        
@@ -18,18 +18,18 @@
                 <div class="services-footer d-flex justify-content-end clearfix">
                     <ul class="list-unstyled col-sm-6 p-0">
                         <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Vibradores Recargables</a></li>
-                        <li><a href="catalogo/estimulantes.pdf" target="_blank">Estimulantes</a></li>
-                        <li><a href="catalogo/juegos.pdf" target="_blank">Juegos</a></li>
-                        <li><a href="catalogo/anal.pdf" target="_blank">Juguetes Anales</a></li>
-                        <li><a href="catalogo/recargables.pdf" target="_blank">Alargadores</a></li>
+                        <li><a class="text-white" href="catalogo/estimulantes.pdf" target="_blank">Estimulantes</a></li>
+                        <li><a class="text-white" href="catalogo/juegos.pdf" target="_blank">Juegos</a></li>
+                        <li><a class="text-white" href="catalogo/anal.pdf" target="_blank">Juguetes Anales</a></li>
+                        <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Alargadores</a></li>
                     </ul>
                     <ul class="list-unstyled col-sm-6 p-0">
 
-                        <li><a href="catalogo/balas.pdf" target="_blank">Balas</a></li>
-                        <li><a href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
-                        <li><a href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
-                        <li><a href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
-                        <li><a href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
+                        <li><a class="text-white" href="catalogo/balas.pdf" target="_blank">Balas</a></li>
+                        <li><a class="text-white" href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
+                        <li><a class="text-white" href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
+                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
+                        <li><a class="text-white" href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
 
                     </ul>
 
@@ -47,7 +47,7 @@
                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open" aria-hidden="true"></i>
                         ventas@sexydiversion.com</p>
                     <a href="#map">
-                        <p class="footer-logo text-white">
+                        <p class=" text-white">
                             Hagan su pedido
                         </p>
                     </a>
