@@ -1,13 +1,6 @@
 <?php
-
 // creador Moreno Tolentino Jose Armando 
 require("archivosformulario/class.phpmailer.php");
-require("mail.php");
-$destinatario = "ventas@sexydiversion.com.mx"; // en esta línea va el mail del destinatario.
-$emisor="ventassexydiversion@gmail.com";
-$pass="admin2020";
-//$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
-$asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 $acceso = "";   
 $mensaje ="";
 $tipoAlerta="";
@@ -23,7 +16,6 @@ if (!empty($_POST)) {
         if (!empty($recaptchaPrueba)) {
             if ($nombre == "" || $telefono== "" || $correo == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
-                
                 //echo "datos no llenados";
                 $acceso= "Error!";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
@@ -95,15 +87,18 @@ function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
                         
     $mail->WordWrap = 50; 
     $mail->IsHTML(true);     
-    $mail->Subject  =  "<p>Consulta desde Página Web<p>";
+    $mail->Subject  =  "sexydiversion contacto";
     $mail->Body     =  
         "Nombre: $nombre \n<br />".   
         "Email: $correo \n<br />".  
         "Telefono: $telefono \n<br />".   
         "Direccion: $direccion \n<br />". 
         "Mensaje: $texto";
-    $mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
-
+    if ($archivo['name'] == null || $archivo['name'] == "") {
+        // pasa sin archivo
+    }else{
+        $mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
+    }
     $mail->IsSMTP(); 
     $mail->Host = "ssl://smtp.gmail.com:465";  // Servidor de Salida.
     $mail->SMTPAuth = true; 
@@ -120,4 +115,7 @@ $return_arr = array("acceso" => $acceso,
                     "mensaje" => $mensaje,
                     "tipoAlerta" => $tipoAlerta);
 echo json_encode($return_arr);
+//$emisor="ventassexydiversion@gmail.com";
+//$pass="admin2020";
+//$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
 ?>
