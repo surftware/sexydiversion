@@ -1,46 +1,43 @@
 <footer id="main-footer">
     <div class="container">
         <div class="footer-wrapper row">
-            <div class="footer-col col-sm-6 col-md-3 mr-5">
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title"><span>Sexy Diversi&oacute;n |</span><span
+                        class="text-white"> Sex Shop </span></h4>
 
                 <a class="navbar-brand" href="#">
-                    <div> <img src="assets/img/global/logo.png" height="200" width="211"
+                 <img src="assets/img/global/logo.png" height="200" width="211"
                             alt="Sexy-Diversion-Sex-Shop-logo">
-                        <a class="footer-logo ">
-                            
-                        <spam class= "text-white"> Sex Shop </spam>  <spam>| Sexy Diversión </spam>
-                        
-                        </a>
-                        
-
-
-
-                    </div>
+                       
                 </a>
             </div>
 
-            <div class="footer-col col-sm-6 col-md-3 ml-5">
-                <h4 class="footer-col-title icou-brand-title mt-3">Cat&aacutelogos</h4>
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title">Cat&aacutelogos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
-                    <ul class="list-unstyled col-sm-6 mr-auto p-0">
-                        <li><a href="catalogo/recargables.pdf" target="_blank">Vibradores Recargables</a></li>
+                    <ul class="list-unstyled col-sm-6 p-0">
+                        <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Vibradores Recargables</a></li>
                         <li><a href="catalogo/estimulantes.pdf" target="_blank">Estimulantes</a></li>
                         <li><a href="catalogo/juegos.pdf" target="_blank">Juegos</a></li>
                         <li><a href="catalogo/anal.pdf" target="_blank">Juguetes Anales</a></li>
                         <li><a href="catalogo/recargables.pdf" target="_blank">Alargadores</a></li>
+                    </ul>
+                    <ul class="list-unstyled col-sm-6 p-0">
+
                         <li><a href="catalogo/balas.pdf" target="_blank">Balas</a></li>
                         <li><a href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
                         <li><a href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
                         <li><a href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
                         <li><a href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
-                        
 
                     </ul>
 
+
                 </div>
             </div>
-            <div class="footer-col col-sm-6 col-md-3 ml-5">
-                <h4 class="footer-col-title icou-brand-title mt-3">Contacto</h4>
+
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <a href="tel:+52 5582861860">
                         <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
@@ -49,15 +46,16 @@
                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open" aria-hidden="true"></i>
                         ventas@sexydiversion.com</p>
                     <a href="#map">
-                    <p class="footer-logo text-white">
-                    Hagan su pedido
-                    </p>
+                        <p class="footer-logo text-white">
+                            Hagan su pedido
+                        </p>
                     </a>
                 </div>
             </div>
         </div>
     </div>
 </footer>
+
 <div class="bottom">
     <div class="container">
         <div class="bottom-wrapper row">
