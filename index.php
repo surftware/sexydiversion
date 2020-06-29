@@ -753,8 +753,7 @@
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
                                                     id="mensaje" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require>
-                                                    </textarea>
+                                                    name="mensaje" maxlength="50" require></textarea>
                                             </div>
                                         </div>
                                         <div class="row">

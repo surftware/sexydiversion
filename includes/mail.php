@@ -37,7 +37,48 @@ function mandarEmailFile($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mens
     
 }
 
-function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje){
+function mandarEmail($Destinatario,$Nombre,$Email,$Mensaje,$Telefono,$Direccion,$archivo){
+
+    require("class.phpmailer.php");
+    $Nombre = $_POST['Nombre'];
+    $Email = $_POST['Email'];
+    $Mensaje = $_POST['Mensaje'];
+    $archivo = $_FILES['adjunto'];
+
+
+    $mail = new PHPMailer();
+
+    $mail->From     = $Email;
+    $mail->FromName = $Nombre; 
+    $mail->AddAddress("ventas@sexydiversion.com.mx"); // Dirección a la que llegaran los mensajes.
+   
+// Aquí van los datos que apareceran en el correo que reciba
+    //adjuntamos un archivo 
+        //adjuntamos un archivo
+    $mail->WordWrap = 50; 
+    $mail->IsHTML(true);     
+    $mail->Subject  =  "sexydiversion contacto";
+    $mail->Body     =  "Nombre: $Nombre \n<br />".   
+    "Email: $Email \n<br />".  
+    "Telefono: $Telefono \n<br />".   
+    "Direccion: $Direccion \n<br />". 
+    "Mensaje: $Mensaje \n<br />";
+    $mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
+    
+// Datos del servidor SMTP
+
+    $mail->IsSMTP(); 
+    $mail->Host = "ssl://smtp.gmail.com:465";  // Servidor de Salida.
+    $mail->SMTPAuth = true; 
+    $mail->Username = "ventassexydiversion@gmail.com";  // Correo Electrónico
+    $mail->Password = "admin2020"; // Contraseña
+    
+    if ($mail->Send())
+    return 1;//exito
+    else
+    return 0;//fallo
+}
+    /*
     $asunto = 'Consulta desde Página Web'; // acá se puede modificar el asunto del mail
 
     $cuerpo =  "Nombre: " . $_POST["nombre"] . "\r\n"; 
@@ -54,5 +95,5 @@ function mandarEmail($Destinatario,$Nombre,$Email,$Telefono,$Direccion,$Mensaje)
     $headers .= "From: \"".$_POST['nombre']."\" <".$_POST["correo"].">\n";
 
     mail($destinatario, $asunto, $cuerpo, $headers);
-}
+    */
 ?>
