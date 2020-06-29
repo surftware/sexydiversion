@@ -125,7 +125,7 @@
     opacity: 0.8;
     left: 18px;
     top: 45%;
-    background-color: lighten($red,10%);
+    background-color: $purple;
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
     -ms-transition: all 300ms linear 0ms;
@@ -134,13 +134,13 @@
 
 .feature-team .slick-prev:focus:hover,
 .feature-team .slick-prev:hover {
-    background-color: $red;
+    background-color: $pink;
     opacity: 1;
 }
 
 .feature-team .slick-next:focus:hover,
 .feature-team .slick-next:hover {
-    background-color: $red;
+    background-color: $pink;
     opacity: 1;
 }
 
@@ -150,7 +150,7 @@
     opacity: 0.8;
     right: 19px;
     top: 45%;
-    background-color: lighten($red,10%);
+    background-color: $purple;
     -webkit-transition: all 300ms linear 0ms;
     -moz-transition: all 300ms linear 0ms;
     -ms-transition: all 300ms linear 0ms;

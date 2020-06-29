@@ -12,13 +12,8 @@
                 <div class="col-sm-12 col-md-12 col-lg-12">
                     <div class="top-number">
                         <p class="font-weight-bold ">
-                            <a href="#" class="text-white" target="_blank">
-
-                            </a>
+                            ¡Llámanos ahora ó envía Whats!
                         </p>
-
-
-                        </a>
                     </div>
 
 
@@ -26,10 +21,9 @@
 
                         <i class="mr-5 fa fa-facebook"></i>
 
-                        ¡Llámanos ahora ó envía Whats!
-                        <a href="tel:+52 5582861860" class="text-white">
-                            &nbsp;&nbsp;&nbsp;
-                            <i class="fa fa-whatsapp"></i> &nbsp;55 8286 1860
+                        <i class="fa fa-whatsapp"></i> 
+                        <a href="tel:+52 5582861860" class="text-white">                            
+                            &nbsp;55 8286 1860
                         </a>
                     </div>
                 </div>
@@ -63,9 +57,9 @@
                             <ul class="navigation navbar-nav mr-auto mt-2 mt-md-0">
                                 <li class="main-menu-link "><a href="index.php">Inicio</a></li>
 
-                                <li class="main-menu-link"><a href="index.php#contact-home-area">Contacto</a></li>
+                                <li class="main-menu-link"><a href="index.php#map">Contacto</a></li>
 
-                                <li class="main-menu-link"><a href="index.php">Productos</a></li>
+                                <li class="main-menu-link"><a href="/shop">Productos</a></li>
                             </ul>
                         </div>
                     </nav>
