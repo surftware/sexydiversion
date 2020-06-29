@@ -101,14 +101,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion1.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion4.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Ella</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más Vendidos</span></a>
                         </div>
                     </div>
                 </div>
@@ -116,14 +115,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion2.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion2.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    &Eacute;l</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar catálogos</span></a>
                         </div>
                     </div>
                 </div>
@@ -131,14 +129,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion3.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion3.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
-                            <h5 class="icou-sub-title">Lencer&iacute;a</h5>
+                            <h5 class="icou-sub-title">Fetish</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Lencer&iacute;a</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra tienda</span></a>
                         </div>
                     </div>
                 </div>
@@ -146,14 +143,13 @@
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
-                            <img src="assets/img/index/sex-shop-sexy-diversion4.jpeg" alt="awesome-image"
+                            <img src="assets/img/index/sex-shop-sexy-diversion1.jpg" alt="awesome-image"
                                 class="img-fluid" />
                         </div>
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#"><span> Productos
-                                    Salud</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu pedido</span></a>
                         </div>
                     </div>
                 </div>
@@ -161,7 +157,7 @@
         </div>
         <!-- / Intro Tables -->
         <!-- Our Work Section -->
-        <div class="portfolio-section-home-area">
+        <div class="portfolio-section-home-area" id="mas-vendidos">
             <!-- SECTION HEADER -->
             <div class="container">
                 <!-- SECTION HEADER -->
@@ -183,7 +179,7 @@
                         <!-- Right Area -->
                         <div class="right-area col-md-6">
                             <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
-                                href="3column.html"><span>Ver m&aacute;s productos</span></a>
+                                href="/shop"><span>Ver m&aacute;s productos</span></a>
                         </div>
                         <!-- End Right Area -->
                         <span class="section-header__separate-line-basement clearfix"></span>
@@ -429,7 +425,7 @@
     <!-- / Intro Tables and Our Work -->
 
     <!-- Our Team -->
-    <section id="feature-team" class="feature-team s-padding s-bg-white">
+    <section id="catalogos" class="feature-team s-padding s-bg-white">
         <div class="container">
             <!-- SECTION HEADER -->
             <div class="col-md-12">
@@ -437,7 +433,7 @@
                     <!-- Left Area -->
                     <div class="left-area col-md-6">
                         <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-right"
-                            href="team.html"><span>Ver más productos</span></a>
+                            href="/shop"><span>Ver más productos</span></a>
                     </div>
                     <!-- End Left Area -->
                     <div class="right-area col-md-6">
@@ -445,9 +441,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Todas las
-                                            categorías</span></h2>
-                                    <p>Nuestros Productos</p>
+                                            class="section-header__section-header-title-right">Descarga nuestros cat&aacute;logos.</span></h2>
+                                    <p>Todos Nuestros Productos</p>
 
                                 </div>
                             </div>
@@ -473,7 +468,7 @@
                             <img src="assets/img/Categorias/vibrador-recargable.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/10"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -496,7 +491,7 @@
                             <img src="assets/img/Categorias/estimulante.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/5"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -519,7 +514,7 @@
                             <img src="assets/img/Categorias/juego.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/7"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -542,7 +537,7 @@
                             <img src="assets/img/Categorias/anal.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/8"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -565,7 +560,7 @@
                             <img src="assets/img/Categorias/alargador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/1"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -588,7 +583,7 @@
                             <img src="assets/img/Categorias/bala.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/3"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -611,7 +606,7 @@
                             <img src="assets/img/Categorias/doble.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/4"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -634,7 +629,7 @@
                             <img src="assets/img/Categorias/anillo.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/2"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -657,7 +652,7 @@
                             <img src="assets/img/Categorias/masturbador.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/11"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -680,7 +675,7 @@
                             <img src="assets/img/Categorias/fetish.jpeg" alt="awesome-team-member" />
                             <figcaption>
                                 <p>
-                                    <a href="team-single.html"><i class="fa fa-fw fa-link"></i></a>
+                                    <a href="/shop/index.php?/category/6"><i class="fa fa-fw fa-link"></i></a>
                                 </p>
                             </figcaption>
                         </figure>
@@ -733,7 +728,7 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre completo" name="nombre" id="nombre"
+                                                    placeholder="*Nombre" name="nombre" id="nombre"
                                                     maxlength="50" require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
@@ -791,8 +786,7 @@
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                             aria-hidden="true"></i></p>
-                                    <p class="icou-t-white address-item"><i class="fa fa-user-o" aria-hidden="true"></i>
-                                        Jack Smith</p>
+                                    
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
