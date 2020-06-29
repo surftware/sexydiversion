@@ -65,7 +65,7 @@ if (!empty($_POST)) {
         }
         else
         {
-            //2
+            //2 
             $acceso= "Error!";
             $mensaje = "Llene el recaptcha";
             $tipoAlerta="warning";
