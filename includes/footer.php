@@ -2,7 +2,7 @@
     <div class="container">
         <div class="footer-wrapper row">
             <div class="col-sm-6 col-md-4">
-                <h4 class="footer-col-title icou-brand-title logotipo">
+                <h4 class="footer-col-title icou-brand-title logotipo ">
                     <span class="text-white">Sexy Diversi&oacute;n |</span>
                     <span> Sex Shop </span></h4>
                 
@@ -49,6 +49,11 @@
                     <a href="#map">
                         <p class=" text-white">
                             Hagan su pedido
+                        </p>
+                    </a> 
+                    <a href="http://sexydiversion.com.mx/shop/">
+                        <p class=" text-white">
+                            Productos
                         </p>
                     </a>
                 </div>
