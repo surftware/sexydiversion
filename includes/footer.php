@@ -1,14 +1,15 @@
 <footer id="main-footer">
     <div class="container">
         <div class="footer-wrapper row">
-            <div class="footer-col col-sm-6 col-md-3 mr-5">
-
+            
+            <div class="col-sm-6 col-md-4 ">
+             <span class= "text-white"> Sex Shop </span><span>| Sexy Diversión </span>
                 <a class="navbar-brand" href="#">
                     <div> <img src="assets/img/global/logo.png" height="200" width="211"
                             alt="Sexy-Diversion-Sex-Shop-logo">
                         <a class="footer-logo ">
                             
-                        <spam class= "text-white"> Sex Shop </spam>  <spam>| Sexy Diversión </spam>
+                       
                         
                         </a>
                         
@@ -19,7 +20,7 @@
                 </a>
             </div>
 
-            <div class="footer-col col-sm-6 col-md-3 ml-5">
+            <div class="col-sm-6 col-md-4  ">
                 <h4 class="footer-col-title icou-brand-title mt-3">Cat&aacutelogos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
                     <ul class="list-unstyled col-sm-6 mr-auto p-0">
@@ -39,7 +40,8 @@
 
                 </div>
             </div>
-            <div class="footer-col col-sm-6 col-md-3 ml-5">
+            
+            <div class="col-sm-6 col-md-4  ">
                 <h4 class="footer-col-title icou-brand-title mt-3">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <a href="tel:+52 5582861860">
@@ -55,6 +57,7 @@
                     </a>
                 </div>
             </div>
+            
         </div>
     </div>
 </footer>
