@@ -1,59 +1,68 @@
 <footer id="main-footer">
     <div class="container">
         <div class="footer-wrapper row">
-            <div class="footer-col col-sm-6 col-md-3">
-
-                <a class="navbar-brand" href="#">
-                    <div> <img src="assets/img/global/logo.png" height="200" width="211"
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title logotipo ">
+                    <span class="text-white">Sexy Diversi&oacute;n |</span>
+                    <span> Sex Shop </span></h4>
+                
+                    <a class="navbar-brand" href="#">
+                 <img src="assets/img/global/logo.png" height="200" width="211"
                             alt="Sexy-Diversion-Sex-Shop-logo">
-                        <p class="footer-logo text-white">Sex Shop | Sexy Diversión</p>
-                    </div>
+                       
                 </a>
             </div>
-            <div class="footer-col col-sm-6 col-md-3">
-                <h4 class="footer-col-title icou-brand-title mt-3">Latest Posts</h4>
-                <div class="latest-posts-footer clearfix">
-                    <div class="latest-post-details">
-                        <i class="fa fa-image"></i>
-                        <p class="footer-link"><a href="blog.html">Revealed: How to set goals for you and your
-                                team</a></p>
-                        <p class="footer-post-date">Jan 14, 2017</p>
-                    </div>
-                    <div class="latest-post-details latest-post-details-no-border">
-                        <i class="fa fa-briefcase"></i>
-                        <p class="footer-link"><a href="blog.html">Five ways to improve as a business
-                                professional!</a></p>
-                        <p class="footer-post-date">Jan 20, 2017</p>
-                    </div>
-                </div>
-            </div>
-            <div class="footer-col col-sm-6 col-md-3">
-                <h4 class="footer-col-title icou-brand-title mt-3">Our Services</h4>
+
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title">Cat&aacutelogos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
-                    <ul class="list-unstyled col-sm-6 mr-auto p-0">
-                        <li><a href="services.html">All Services</a></li>
-                        <li><a href="service-single-one.html">Service One</a></li>
-                        <li><a href="service-single-two.html">Service Two</a></li>
-                        <li><a href="service-single-three.html">Service Three</a></li>
+                    <ul class="list-unstyled col-sm-6 p-0">
+                        <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Vibradores Recargables</a></li>
+                        <li><a class="text-white" href="catalogo/estimulantes.pdf" target="_blank">Estimulantes</a></li>
+                        <li><a class="text-white" href="catalogo/juegos.pdf" target="_blank">Juegos</a></li>
+                        <li><a class="text-white" href="catalogo/anal.pdf" target="_blank">Juguetes Anales</a></li>
+                        <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Alargadores</a></li>
                     </ul>
                     <ul class="list-unstyled col-sm-6 p-0">
-                        <li><a href="service-single-four.html">Service Four</a></li>
-                        <li><a href="service-single-five.html">Service Five</a></li>
-                        <li><a href="service-single-six.html">Service Six</a></li>
-                        <li><a href="index.php#contacto">Contacto</a></li>
+
+                        <li><a class="text-white" href="catalogo/balas.pdf" target="_blank">Balas</a></li>
+                        <li><a class="text-white" href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
+                        <li><a class="text-white" href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
+                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
+                        <li><a class="text-white" href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
+
                     </ul>
-                </div>
-            </div>
-            <div class="footer-col col-sm-6 col-md-3">
-                <h4 class="footer-col-title icou-brand-title mt-3">Contacto</h4>
-                <div class="newsletter-footer-content">
-                    <p>Don't miss to subscribe to our news feeds, kindly fill the form below.</p>
+
 
                 </div>
             </div>
+
+            <div class="col-sm-6 col-md-4">
+                <h4 class="footer-col-title icou-brand-title">Contacto</h4>
+                <div class="newsletter-footer-content">
+                    <a href="tel:+52 5582861860">
+                        <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
+                            55 8286 1860</p>
+                    </a>
+                    <p class="icou-t-white address-item"><i class="fa fa-envelope-open" aria-hidden="true"></i>
+                        ventas@sexydiversion.com</p>
+                    <a href="#map">
+                        <p class=" text-white">
+                            Hagan su pedido
+                        </p>
+                    </a> 
+                    <a href="http://sexydiversion.com.mx/shop/">
+                        <p class=" text-white">
+                            Productos
+                        </p>
+                    </a>
+                </div>
+            </div>
+            
         </div>
     </div>
 </footer>
+
 <div class="bottom">
     <div class="container">
         <div class="bottom-wrapper row">

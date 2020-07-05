@@ -33,7 +33,7 @@
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Todos los Productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="contact.html" data-wow-duration="1.2s">Contáctanos</a>
+                            href="#map" data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -56,8 +56,8 @@
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp" href="about.html"
                             data-wow-duration="1s">Todos los productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="3column.html"
-                            data-wow-duration="1.2s">Contacto</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -81,7 +81,7 @@
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Read More</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="contact.html" data-wow-duration="1.2s">Contactanos</a>
+                            href="#map" data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -753,8 +753,7 @@
                                             <div class="col-sm-12 col-md-12 form-item">
                                                 <textarea class="form-control form-item text-area"
                                                     id="mensaje" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require>
-                                                    </textarea>
+                                                    name="mensaje" maxlength="50" require></textarea>
                                             </div>
                                         </div>
                                         <div class="row">
