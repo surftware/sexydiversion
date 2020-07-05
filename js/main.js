@@ -556,6 +556,7 @@ var inputImage;
       'Los formatos apropiados son:<br/>'+
       '-jpg\n'+
       '-jpeg\n'+
+      '-png\n'+
       '-pdf\n'+
       '-docx\n'+
       '-doc\n'+

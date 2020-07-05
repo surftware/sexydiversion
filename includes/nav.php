@@ -22,7 +22,7 @@
                         <i class="mr-5 fa fa-facebook"></i>
 
                         <i class="fa fa-whatsapp"></i> 
-                        <a href="tel:+52 5582861860" class="text-white">                            
+                        <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop" class="text-white" target="_blank">                            
                             &nbsp;55 8286 1860
                         </a>
                     </div>

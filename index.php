@@ -22,16 +22,17 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Sex Shop Sexy Diversi&oacute;n</h2>
+                                        <h2>Sexy Diversi&oacute;n <br> Sex Shop</h2>
                                     </a>
-                                    <p>Sex Shop con los mejores precios.</p>
+                                    <p class="">Sex Shop con los mejores precios.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Todos los Productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
+                            Productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -48,14 +49,15 @@
                                     <a href="#">
                                         <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
                                     </a>
-                                    <p>Conoce nuestras formas de pago.</p>
+                                    <p class="">Conoce nuestras formas de pago.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp" href="about.html"
-                            data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp"
+                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
+                            Productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -63,7 +65,7 @@
             </li>
 
             <li>
-                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
+                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="sexy-diversion">
                 <div class="container transparent rounded">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -72,14 +74,15 @@
                                     <a href="#">
                                         <h2>Promoci&oacute;n del mes</h2>
                                     </a>
-                                    <p>En la compra de X productos te regalamos X cosa.</p>
+                                    <p class="">En la compra de X productos te regalamos X cosa.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Read More</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
+                            productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -437,7 +440,7 @@
                     <!-- Left Area -->
                     <div class="left-area col-md-6">
                         <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-right"
-                            href="/shop"><span>Ver más productos</span></a>
+                            href="/shop"><span>Ver m&aacute;s productos</span></a>
                     </div>
                     <!-- End Left Area -->
                     <div class="right-area col-md-6">
@@ -752,7 +755,7 @@
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="Dirección" name="direccion" id="direccion"
+                                                    placeholder="Direcci&oacute;n" name="direccion" id="direccion"
                                                     maxlength="100" require>
                                             </div>
                                         </div>
@@ -765,8 +768,8 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                                Sube un archivo (baucher o comprobante de pago, El peso del archivo no
-                                                puede exceder los 15360kb o 15mb):
+                                                Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del archivo no
+                                                debe exceder 15000 Kb &oacute; 15 Mb):
                                                 <input type="file" id="adjunto" name="adjunto" class="form-control"
                                                     onchange="validarArchivo(this);" />
                                             </div>

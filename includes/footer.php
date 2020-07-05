@@ -12,7 +12,7 @@
             </div>
 
             <div class="col-sm-6 col-md-4">
-                <h4 class="footer-col-title icou-brand-title">Cat&aacutelogos</h4>
+                <h4 class="footer-col-title icou-brand-title">Cat&aacute;logos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
                     <ul class="list-unstyled col-sm-6 p-0">
                         <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Vibradores
