@@ -100,11 +100,10 @@ function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
         $mail->AddAttachment($archivo['tmp_name'], $archivo['name']);
     }
     $mail->IsSMTP(); 
-    $mail->Host = "ssl://smtp.gmail.com:465";  // Servidor de Salida.
+    $mail->Host = "ssl://mx98.hostgator.mx:465";  // Servidor de Salida.
     $mail->SMTPAuth = true; 
-    $mail->Username = "armando.moreno.tolentino@gmail.com";  // Correo Electrónico
-    $mail->Password = "capcom12"; // Contraseña
-
+    $mail->Username = "ventas@sexydiversion.com.mx";  // Correo Electrónico
+    $mail->Password = "\$M1r1am\$"; // Contraseña
     $mail->Send();                
 }
 function is_valid_email($str)
