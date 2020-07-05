@@ -53,7 +53,7 @@
                             Realiza tu pedido
                         </p>
                     </a>
-                    <a href="http://sexydiversion.com.mx/shop/">
+                    <a href="http://sexydiversion.com.mx/shop/" target="_blank">
                         <p class=" text-white">
                             Productos
                         </p>
@@ -71,8 +71,8 @@
             <div class="bottom-left col-sm-12 col-md-6">
                 <div class="social-footer">
                     <ul class="social-share">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, deseo informes sobre páginas web y soporte técnico profesional" class="text-white" target="_blank"> <i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, deseo informes sobre páginas web y soporte técnico profesional" class="text-white" target="_blank"> <i class="fa fa-whatsapp"></i></a></li>
 
                     </ul>
                 </div>

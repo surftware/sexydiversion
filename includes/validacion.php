@@ -87,7 +87,7 @@ function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
                         
     $mail->WordWrap = 50; 
     $mail->IsHTML(true);     
-    $mail->Subject  =  "sexydiversi&oacute;n contacto";
+    $mail->Subject  =  "Contacto Sexydiversión";
     $mail->Body     =  
         "Nombre: $nombre \n<br />".   
         "Email: $correo \n<br />".  
