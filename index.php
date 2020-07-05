@@ -32,8 +32,8 @@
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Todos los Productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="#map" data-wow-duration="1.2s">Pedidos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -80,8 +80,8 @@
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
                             data-wow-duration="1s">Read More</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="#map" data-wow-duration="1.2s">Pedidos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -107,7 +107,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más Vendidos</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más
+                                    Vendidos</span></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +122,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar catálogos</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar
+                                    catálogos</span></a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +137,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Fetish</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra tienda</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra
+                                    tienda</span></a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +152,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu pedido</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu
+                                    pedido</span></a>
                         </div>
                     </div>
                 </div>
@@ -313,12 +317,12 @@
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
+                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    </a>
+                                    <a href="portfolio-single.html">
+                                        <i class="fa fa-fw fa-link"></i>
+                                    </a>
+                                </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -441,7 +445,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Descarga nuestros cat&aacute;logos.</span></h2>
+                                            class="section-header__section-header-title-right">Descarga nuestros
+                                            cat&aacute;logos.</span></h2>
                                     <p>Todos Nuestros Productos</p>
 
                                 </div>
@@ -473,9 +478,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                            <div class="social-team-member text-center">
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -497,8 +502,9 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/estimulantes.pdf" 
-                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded"
+                                    href="catalogo/estimulantes.pdf" target="_blank"> <span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -520,8 +526,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf" 
-                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf"
+                                    target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -543,8 +549,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -566,8 +572,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -589,8 +595,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -612,8 +618,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -635,8 +641,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -658,8 +664,9 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded"
+                                    href="catalogo/masturbadores.pdf" target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -681,15 +688,15 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                
 
-               
+
+
             </div>
             <div class="team-dots"></div>
         </div>
@@ -728,8 +735,8 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre" name="nombre" id="nombre"
-                                                    maxlength="50" require>
+                                                    placeholder="*Nombre" name="nombre" id="nombre" maxlength="50"
+                                                    require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
@@ -751,15 +758,17 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                                <textarea class="form-control form-item text-area"
-                                                    id="mensaje" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require></textarea>
+                                                <textarea class="form-control form-item text-area" id="mensaje" rows="3"
+                                                    placeholder="Lista de productos:" name="mensaje" maxlength="50"
+                                                    require></textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago, El peso del archivo no puede exceder los 15360kb o 15mb):
-                                            <input type="file" id="adjunto" name="adjunto" class="form-control" onchange="validarArchivo(this);"/>
+                                                Sube un archivo (baucher o comprobante de pago, El peso del archivo no
+                                                puede exceder los 15360kb o 15mb):
+                                                <input type="file" id="adjunto" name="adjunto" class="form-control"
+                                                    onchange="validarArchivo(this);" />
                                             </div>
                                         </div>
 
@@ -784,15 +793,17 @@
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
                                     <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i></p>
-                                    
+                                            aria-hidden="true"></i>Ubicaci&oacute;n</p>
+
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
                                             55 8286 1860</p>
                                     </a>
-                                    <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                            aria-hidden="true"></i> ventas@sexydiversion.com</p>
+                                    <a href="mailto:ventas@sexydiversion.com.mx">
+                                        <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
+                                                aria-hidden="true"></i> ventas@sexydiversion.com.mx</p>
+                                    </a>
                                 </div>
                                 <div class="contact-block-social">
                                     <ul class="social-share">
@@ -812,36 +823,32 @@
 
         <div class="our-partners-component container">
             <div class="partners-row row align-items-center">
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca1.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca1.jpg" class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                       
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca2.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca2.jpg" class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca3.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca3.jpg" class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                     
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca4.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca4.jpg" class="figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                     
+
                     </figure>
                 </div>
             </div>
