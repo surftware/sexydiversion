@@ -61,11 +61,10 @@
                     </div>
                 </div>
             </li>
-
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
-                <div class="container transparent rounded">
-                    <div class="row">
+                <div class="container transparent rounded ">
+                    <div class="row cards_sexy">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
@@ -79,7 +78,7 @@
                     </div>
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Read More</a>
+                            data-wow-duration="1s">Todos los productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
                             href="#map" data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -697,6 +696,7 @@
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
         <div id="map"></div>
+        
         <div class="inset-content">
             <div class="container">
                 <div class="col-md-12">
@@ -809,6 +809,7 @@
                                 <div class="contact-block-social">
                                     
                                 </div>
+                                
                             </div>
                         </div>
                         <!-- Right Area Ends -->

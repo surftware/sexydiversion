@@ -457,10 +457,13 @@ $('.portfolio-image-holder').slick({
 /*---------------------------------------
   Scrollup
 -----------------------------------------*/
+//  Surftware (colaboradores): 
+
+//  -José Armando Moreno Tolentino.
+//  -Juan Miguel Días Teran.
+
 
 function initScrollTop() {
-
-  //Check to see if the window is top if not then display button
   $(window).on("scroll", function () {
 
     if ($(this).scrollTop() > 100) {
@@ -475,7 +478,6 @@ function initScrollTop() {
 
   });
 
-  //Click event to scroll to top
   $('.scrollup').on('click', function () {
 
     $('html, body').animate({ scrollTop: 0 }, 800);
@@ -506,14 +508,17 @@ $( "#post" ).click(function() {
 
       var form = $('form')[0]; // You need to use standard javascript object here
       var formData = new FormData(form);
+
       formData.append('captcha',grecaptcha.getResponse());
+
       $.ajax({
           url: "includes/validacion.php",
           type: "POST",
           data: formData,
           contentType: false,
           processData: false,
-          success: function (alerta) { 
+          success: function (alerta) {
+             
               alerta = $.parseJSON(alerta);
               console.log(alerta);
               Swal.fire(
