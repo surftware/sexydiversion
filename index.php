@@ -783,21 +783,31 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i></p>
-                                    
+                                <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                <p class="icou-t-white address-item"><i class="fa fa-map-marker"
+                                            aria-hidden="true"></i> 
+                                            Edo. de Jalisco 243
+                                            Providencia
+                                            Gustavo A. Madero
+                                            07550 Ciudad de México, CDMX</p></a>
+                                     
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
                                             55 8286 1860</p>
                                     </a>
+                                    <a href="mailto:ventas@sexydiversion.com">
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                            aria-hidden="true"></i> ventas@sexydiversion.com</p>
+                                            aria-hidden="true"></i> ventas@sexydiversion.com</p></a>
+                                    <ul class="social-share">
+                                        <li><a href="https://www.facebook.com/sexydiverssion/"target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share"> 
+                                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                    </ul>      
                                 </div>
                                 <div class="contact-block-social">
-                                    <ul class="social-share">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                         </div>
