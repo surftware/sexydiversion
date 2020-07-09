@@ -69,9 +69,10 @@
             <div class="bottom-left col-sm-12 col-md-6">
                 <div class="social-footer">
                     <ul class="social-share">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-
+                        <li><a href="https://www.facebook.com/sexydiverssion"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
+                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
+                        
                     </ul>
                 </div>
             </div>

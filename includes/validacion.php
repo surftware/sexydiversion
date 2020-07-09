@@ -1,9 +1,14 @@
 <?php
-// creador Moreno Tolentino Jose Armando 
+//  Surftware (colaboradores): 
+
+//  -José Armando Moreno Tolentino.
+//  -Juan Miguel Días Teran.
+
 require("archivosformulario/class.phpmailer.php");
 $acceso = "";   
 $mensaje ="";
 $tipoAlerta="";
+
 if (!empty($_POST)) {
     $nombre             = $_POST["nombre"];
     $telefono           = $_POST["telefono"];
@@ -11,16 +16,16 @@ if (!empty($_POST)) {
     $texto              = $_POST["mensaje"];
     $correo             = $_POST["correo"];
     $archivo = $_FILES['adjunto'];
-    $recaptchaPrueba    = '22222222';
+    
+    $recaptchaPrueba    = '22222222';// se comenta solo en caso de pruebas
         if (!empty($_POST['captcha'])) {
-        //if (!empty($recaptchaPrueba)) {
+        //if (!empty($recaptchaPrueba)) { // se comenta solo en caso de pruebas
+        // importan aqui se hacen pruebas "no se quitara" 
             if ($nombre == "" || $telefono== "" || $correo == "" || $texto == "" || strlen($telefono) != 10 || is_valid_email($correo) != true ) 
             {
-                //echo "datos no llenados";
                 $acceso= "Error!";
                 $mensaje = "<b>Faltan o llene correctamente los datos indicados</b></br>";
                 $mensaje .= "<b>Estas son las causas que impiden el correcto llenado del formulario:</b></br>";
-                
                 if ($nombre == "") 
                 {
                     $mensaje .="-Falta llenar <b>Nombre</b>.</br>";
@@ -35,7 +40,6 @@ if (!empty($_POST)) {
                     {
                         $mensaje .="-Ponga 10 dígitos como mínimo en <b>Teléfono</b>.</br>";
                     }
-                    
                 }
                 if ($correo == "" || is_valid_email($correo) != true) 
                 {
@@ -65,7 +69,6 @@ if (!empty($_POST)) {
         }
         else
         {
-            //2 
             $acceso= "Error!";
             $mensaje = "Llene el recaptcha";
             $tipoAlerta="warning";
@@ -73,7 +76,6 @@ if (!empty($_POST)) {
 }
 else
 {
-    //1
     $acceso= "Error!";
     $mensaje = "Llene los datos";
     $tipoAlerta="warning";
@@ -115,7 +117,4 @@ $return_arr = array("acceso" => $acceso,
                     "mensaje" => $mensaje,
                     "tipoAlerta" => $tipoAlerta);
 echo json_encode($return_arr);
-//$emisor="ventassexydiversion@gmail.com";
-//$pass="admin2020";
-//$destinatario = 'armando.moreno.tolentino@gmail.com'; // en esta línea va el mail del destinatario.
 ?>
