@@ -63,11 +63,10 @@
                     </div>
                 </div>
             </li>
-
             <li>
-                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="sexy-diversion">
-                <div class="container transparent rounded">
-                    <div class="row">
+                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
+                <div class="container transparent rounded ">
+                    <div class="row cards_sexy">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
@@ -80,11 +79,10 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
-                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
-                            productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
-                            data-wow-duration="1.2s">Pedidos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
+                            data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
+                            href="#map" data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -707,6 +705,7 @@
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
         <div id="map"></div>
+        
         <div class="inset-content">
             <div class="container">
                 <div class="col-md-12">
@@ -795,24 +794,33 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i>Ubicaci&oacute;n</p>
-
+                                <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                <p class="icou-t-white address-item"><i class="fa fa-map-marker"
+                                            aria-hidden="true"></i> 
+                                            Edo. de Jalisco 243
+                                            Providencia
+                                            Gustavo A. Madero
+                                            07550 Ciudad de México, CDMX</p></a>
+                                     
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
                                             55 8286 1860</p>
                                     </a>
-                                    <a href="mailto:ventas@sexydiversion.com.mx">
-                                        <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                                aria-hidden="true"></i> ventas@sexydiversion.com.mx</p>
-                                    </a>
+                                    <a href="mailto:ventas@sexydiversion.com">
+                                    <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
+                                            aria-hidden="true"></i> ventas@sexydiversion.com</p></a>
+                                    <ul class="social-share">
+                                        <li><a href="https://www.facebook.com/sexydiverssion/"target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share"> 
+                                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                    </ul>      
                                 </div>
                                 <div class="contact-block-social">
-                                    <ul class="social-share">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                    </ul>
+                                    
                                 </div>
+                                
                             </div>
                         </div>
                         <!-- Right Area Ends -->

@@ -71,9 +71,16 @@
             <div class="bottom-left col-sm-12 col-md-6">
                 <div class="social-footer">
                     <ul class="social-share">
-                        <li><a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, deseo informes sobre p&aacute;ginas web y soporte t&eacute;cnico profesional" class="text-white" target="_blank"> <i class="fa fa-facebook"></i></a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=+525511894621&text=Hola, deseo informes sobre p&aacute;ginas web y soporte t&eacute;cnico profesional" class="text-white" target="_blank"> <i class="fa fa-whatsapp"></i></a></li>
+<<<<<<< HEAD
+                        <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i class="fa fa-whatsapp"></i></a></li>
 
+=======
+                        <li><a href="https://www.facebook.com/sexydiverssion"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href=""><i class="fa fa-whatsapp"></i></a></li>
+                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i class="fa fa-instagram"></i></a></li>
+                        
+>>>>>>> aed44cc1f32907a5538b356052d8d1e9bfff85ae
                     </ul>
                 </div>
             </div>
