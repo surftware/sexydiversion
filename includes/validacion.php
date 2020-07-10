@@ -34,11 +34,11 @@ if (!empty($_POST)) {
                 {
                     if ($telefono == "") 
                     {
-                        $mensaje .="-Falta llenar <b>Teléfono</b>.</br>";
+                        $mensaje .="-Falta llenar <b>Tel&eacute;fono</b>.</br>";
                     }
                     if (strlen($telefono) != 10) 
                     {
-                        $mensaje .="-Ponga 10 dígitos como mínimo en <b>Teléfono</b>.</br>";
+                        $mensaje .="-Ponga 10 d&iacute;gitos como m&iacute;nimo en <b>Tel&eacute;fono</b>.</br>";
                     }
                 }
                 if ($correo == "" || is_valid_email($correo) != true) 
@@ -49,7 +49,7 @@ if (!empty($_POST)) {
                     }
                     if (is_valid_email($correo) != true) 
                     {
-                        $mensaje .="-Ingreso un <b>Correo</b> valido!.</br>";
+                        $mensaje .="-Ingreso un <b>Correo</b> v&aacute;lido!.</br>";
                     }
                 }
                 if ($texto == "") 
@@ -61,7 +61,7 @@ if (!empty($_POST)) {
             else
             {
                 enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto);    
-                $acceso= "Exito!";
+                $acceso= "&Eacute;xito!";
                 $mensaje = "Mensaje enviado exitosamente";
                 $tipoAlerta="success";
             
@@ -89,12 +89,12 @@ function enviarMail($archivo,$nombre,$telefono,$correo,$direccion,$texto){
                         
     $mail->WordWrap = 50; 
     $mail->IsHTML(true);     
-    $mail->Subject  =  "sexydiversion contacto";
+    $mail->Subject  =  "Contacto Sexydiversión";
     $mail->Body     =  
         "Nombre: $nombre \n<br />".   
         "Email: $correo \n<br />".  
-        "Telefono: $telefono \n<br />".   
-        "Direccion: $direccion \n<br />". 
+        "Tel&eacute;fono: $telefono \n<br />".   
+        "Direcci&oacute;n: $direccion \n<br />". 
         "Mensaje: $texto";
     if ($archivo['name'] == null || $archivo['name'] == "") {
         // pasa sin archivo
