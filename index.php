@@ -16,7 +16,7 @@
         <ul class="slides-container">
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
-                <div class="container transparent rounded">
+                <div class="container transparent rounded juan">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
@@ -40,7 +40,7 @@
 
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion2.jpg" alt="home-slide-two">
-                <div class="container transparent rounded">
+                <div class="container transparent rounded juan">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
@@ -63,7 +63,7 @@
             </li>
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
-                <div class="container transparent rounded ">
+                <div class="container transparent rounded juan ">
                     <div class="row cards_sexy">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
@@ -804,7 +804,10 @@
                                     </ul>
                                     <ul class="social-share"> 
                                         <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank"><i class="fa fa-whatsapp"></i></a></li>
-                                    </ul>      
+                                    </ul>
+                                    <ul class="social-share"> 
+                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"target="_blank"><i class="fa fa-instagram"></i></a></li>  
+                                    </ul>       
                                 </div>
                                 <div class="contact-block-social">
                                     

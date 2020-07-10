@@ -15395,8 +15395,9 @@ p.team-member-text {
   font-size: 23px;
   font-weight: bold; }
 /****************************************************************************/
-@media only screen and (max-width: 400px) {
-  .cards_sexy{
-    
+@media(min-width: 354px) and (max-width: 500px) {
+  .juan{
+    width: 80%;
+    margin-left: 50px;
   }
 }
