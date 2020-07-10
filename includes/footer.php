@@ -7,7 +7,8 @@
                     <span> Sex Shop </span></h4>
 
                 <a class="navbar-brand d-block mx-auto" href="#">
-                    <img class="d-block mx-auto" src="assets/img/global/logo.png" height="200" width="211" alt="Sexy-Diversion-Sex-Shop-logo">
+                    <img class="d-block mx-auto" src="assets/img/global/logo.png" height="200" width="211"
+                        alt="Sexy-Diversion-Sex-Shop-logo">
                 </a>
             </div>
 
@@ -27,8 +28,7 @@
                         <li><a class="text-white" href="catalogo/balas.pdf" target="_blank">Balas</a></li>
                         <li><a class="text-white" href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
                         <li><a class="text-white" href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
-                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a>
-                        </li>
+                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
                         <li><a class="text-white" href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
 
                     </ul>
@@ -62,6 +62,26 @@
             </div>
 
         </div>
+        <div class="bottom-wrapper row">
+            <div class="bottom-left col-sm-12 col-md-6">
+                <div class="social-footer">
+                    <ul class="social-share">
+
+                        <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook"
+                                    target="_blank"></i></a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i
+                                    class="fa fa-whatsapp" target="_blank"></i></a></li>
+                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
+                                    class="fa fa-instagram" target="_blank"></i></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="bottom-right col-sm-12 col-md-6">
+                
+            </div>
+        </div>
+        
     </div>
 </footer>
 
@@ -71,10 +91,14 @@
             <div class="bottom-left col-sm-12 col-md-6">
                 <div class="social-footer">
                     <ul class="social-share">
-                    <!-- <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook" target="_blank"></i></a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i class="fa fa-whatsapp" target="_blank"></i></a></li>
-                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i class="fa fa-instagram" target="_blank"></i></a></li> -->
-                        
+
+                        <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook"
+                                    target="_blank"></i></a></li>
+                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i
+                                    class="fa fa-whatsapp" target="_blank"></i></a></li>
+                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
+                                    class="fa fa-instagram" target="_blank"></i></a></li>
+
                     </ul>
                 </div>
             </div>
