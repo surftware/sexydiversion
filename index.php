@@ -16,8 +16,8 @@
         <ul class="slides-container">
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
-                <div class="container transparent rounded juan">
-                    <div class="row">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
@@ -40,8 +40,8 @@
 
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion2.jpg" alt="home-slide-two">
-                <div class="container transparent rounded juan">
-                    <div class="row">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
@@ -63,11 +63,11 @@
             </li>
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
-                <div class="container transparent rounded juan ">
-                    <div class="row cards_sexy">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <div class="caption-wrapper">
-                                <div class="slide-caption">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                            <div class="caption-wrapper ">
+                                <div class="slide-caption ">
                                     <a href="#">
                                         <h2>Promoci&oacute;n del mes</h2>
                                     </a>
