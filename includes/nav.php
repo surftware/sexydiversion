@@ -22,6 +22,10 @@
                         <i class="mr-5 fa fa-facebook"></i>
                         </a>
                         
+                        <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"target="_blank" class="text-white">
+                        <i class="mr-5 fa fa-instagram"></i>                             
+                        </a>
+                        
                         <a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank" class="text-white">
                         <i class="fa fa-whatsapp"></i>                             
                             &nbsp;55 8286 1860
