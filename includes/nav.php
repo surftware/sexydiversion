@@ -20,7 +20,7 @@
                         <i class="mr-5 fa fa-facebook"></i>
                         </a>
                         
-                        <a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank" class="text-white">
+                        <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"target="_blank" class="text-white">
                         <i class="fa fa-whatsapp"></i>                             
                             &nbsp;55 8286 1860
                         </a>
