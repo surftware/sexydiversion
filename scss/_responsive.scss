@@ -163,6 +163,12 @@
         display: table-cell;
         word-wrap: break-word;
     }
+    .banner .transparent{
+        background-color: rgba(97,61,124,0.2);
+        margin-top: 15%;
+        margin-left: 5%;
+        width: 35%;
+    }
     .blog-section .blog-section-container .blog-post .post-content .post-content-icons {
         display: block;
     }
@@ -355,6 +361,9 @@
 
 
 // Media Queries Between breakpoints
+@include media-breakpoint-between(xs, sm) {
+
+}
 
 
 @include media-breakpoint-between(xs, md) {

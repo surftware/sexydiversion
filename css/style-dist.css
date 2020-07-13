@@ -15425,3 +15425,6 @@ p.team-member-text {
     -ms-transform: scale(1.1) rotate(6deg);
     transform: scale(1.1) rotate(6deg);
     }
+.centrado{
+  margin-left: 35% !important;
+}

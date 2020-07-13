@@ -63,9 +63,17 @@
                     </a>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="col-sm-6 col-md-3">
                 <h4 class="footer-col-title icou-brand-title">Redes Sociales</h4>
                 <div class="newsletter-footer-content">
+=======
+
+        </div>
+        <div class="bottom-wrapper row">
+            <div class="bottom-left col-sm-12 col-md-12">
+                <div class="social-footer">
+>>>>>>> 9590d5d3b2404cb678876c2a274e05147e891118
                     <ul class="social-share">
 
                         <li ><a href="https://www.facebook.com/sexydiverssion/"><i
