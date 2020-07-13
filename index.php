@@ -916,6 +916,7 @@
     ?>
     <!-- / Footer -->
 
+<<<<<<< HEAD
     <!-- Whats App Flotante 
     <div class="whatsFlot">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
@@ -933,6 +934,9 @@
      Instagram Flotante 
 
      SCROLL TO TOP  
+=======
+    <!-- SCROLL TO TOP  -->
+>>>>>>> 2105666630934f13086bfca38b8707241e4ce50b
     <div class="scrollup">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>

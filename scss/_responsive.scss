@@ -78,7 +78,28 @@
 // Media Queries Down breakpoint
 
 
-@include media-breakpoint-down(xs) {}
+@include media-breakpoint-down(xs) {
+    .banner h2 {
+        min-width: 100px;
+        width: 180px;
+        font-size: 10px;
+        display: table-cell;
+        word-wrap: break-word;
+    }
+    .banner p {
+        min-width: 100px;
+        width: 180px;
+        font-size: 5px;
+        display: table-cell;
+        word-wrap: break-word;
+    }
+    .banner .transparent{
+        background-color:red;
+        margin-top: 15%;
+        margin-left: 5%;
+        width: 35%;
+    }
+}
 @include media-breakpoint-down(md) {
     .main-menu .navigation{
         left:0%;
@@ -362,6 +383,26 @@
 
 // Media Queries Between breakpoints
 @include media-breakpoint-between(xs, sm) {
+    .banner h2 {
+        min-width: 100px;
+        width: 180px;
+        font-size: 10px;
+        display: table-cell;
+        word-wrap: break-word;
+    }
+    .banner p {
+        min-width: 100px;
+        width: 180px;
+        font-size: 5px;
+        display: table-cell;
+        word-wrap: break-word;
+    }
+    .banner .transparent{
+        background-color:red;
+        margin-top: 15%;
+        margin-left: 5%;
+        width: 35%;
+    }
 
 }
 
