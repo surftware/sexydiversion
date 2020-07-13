@@ -16,72 +16,73 @@
         <ul class="slides-container">
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
-                <div class="container transparent rounded">
-                    <div class="row">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Sex Shop Sexy Diversi&oacute;n</h2>
+                                        <h2>Sexy Diversi&oacute;n <br> Sex Shop</h2>
                                     </a>
-                                    <p>Sex Shop con los mejores precios.</p>
+                                    <p class="">Sex Shop con los mejores precios.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Todos los Productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="#map" data-wow-duration="1.2s">Pedidos</a>
-                    </div>
-                </div>
-            </li>
-
-            <li>
-                <img src="assets/img/carrusel/sex-shop-sexy-diversion2.jpg" alt="home-slide-two">
-                <div class="container transparent rounded">
-                    <div class="row">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                            <div class="caption-wrapper">
-                                <div class="slide-caption">
-                                    <a href="#">
-                                        <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
-                                    </a>
-                                    <p>Conoce nuestras formas de pago.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp" href="about.html"
-                            data-wow-duration="1s">Todos los productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="#map"
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
+                            Productos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
 
             <li>
-                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
-                <div class="container transparent rounded">
-                    <div class="row">
+                <img src="assets/img/carrusel/sex-shop-sexy-diversion2.jpg" alt="home-slide-two">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
                         <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
+                                        <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
+                                    </a>
+                                    <p class="">Conoce nuestras formas de pago.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slider-button-wrapper">
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp"
+                            href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
+                            Productos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <img src="assets/img/carrusel/sex-shop-sexy-diversion3.jpg" alt="home-slide-three">
+                <div class="container transparent rounded card-banner">
+                    <div class="row ">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
+                            <div class="caption-wrapper ">
+                                <div class="slide-caption ">
+                                    <a href="#">
                                         <h2>Promoci&oacute;n del mes</h2>
                                     </a>
-                                    <p>En la compra de X productos te regalamos X cosa.</p>
+                                    <p class="">En la compra de X productos te regalamos X cosa.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Read More</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="#map" data-wow-duration="1.2s">Pedidos</a>
+                            data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -107,7 +108,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Ella</h5>
                             <p></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más Vendidos</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#mas-vendidos"><span> Más
+                                    Vendidos</span></a>
                         </div>
                     </div>
                 </div>
@@ -121,7 +123,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Juguetes para Él</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar catálogos</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#catalogos"><span> Descargar
+                                    catálogos</span></a>
                         </div>
                     </div>
                 </div>
@@ -135,7 +138,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Fetish</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra tienda</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Ubica nuestra
+                                    tienda</span></a>
                         </div>
                     </div>
                 </div>
@@ -149,7 +153,8 @@
                         <div class="intro-table-footer">
                             <h5 class="icou-sub-title">Salud Sexual</h5>
                             <p class=""></p>
-                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu pedido</span></a>
+                            <a class="btn btn-primary btn-block icou-button rounded" href="#map"><span> Envía tu
+                                    pedido</span></a>
                         </div>
                     </div>
                 </div>
@@ -313,12 +318,12 @@
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
+                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    </a>
+                                    <a href="portfolio-single.html">
+                                        <i class="fa fa-fw fa-link"></i>
+                                    </a>
+                                </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -433,7 +438,7 @@
                     <!-- Left Area -->
                     <div class="left-area col-md-6">
                         <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-right"
-                            href="/shop"><span>Ver más productos</span></a>
+                            href="/shop"><span>Ver m&aacute;s productos</span></a>
                     </div>
                     <!-- End Left Area -->
                     <div class="right-area col-md-6">
@@ -441,7 +446,8 @@
                             <div class="row">
                                 <div class="container">
                                     <h2 class="icou-brand-title"><span
-                                            class="section-header__section-header-title-right">Descarga nuestros cat&aacute;logos.</span></h2>
+                                            class="section-header__section-header-title-right">Descarga nuestros
+                                            cat&aacute;logos.</span></h2>
                                     <p>Todos Nuestros Productos</p>
 
                                 </div>
@@ -473,9 +479,9 @@
                             </figcaption>
                         </figure>
                         <div class="card-block">
-                            <div class="social-team-member text-center">   
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                            <div class="social-team-member text-center">
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -497,8 +503,9 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/estimulantes.pdf" 
-                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded"
+                                    href="catalogo/estimulantes.pdf" target="_blank"> <span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -520,8 +527,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf" 
-                            target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/juegos.pdf"
+                                    target="_blank"> <span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -543,8 +550,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anal.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -566,8 +573,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf" 
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -589,8 +596,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/balas.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -612,8 +619,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/doble.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -635,8 +642,8 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/anillos.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -658,8 +665,9 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/masturbadores.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded"
+                                    href="catalogo/masturbadores.pdf" target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -681,15 +689,15 @@
                         </figure>
                         <div class="card-block">
                             <div class="social-team-member text-center">
-                            <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
-                            target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/fetish.pdf"
+                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                
 
-               
+
+
             </div>
             <div class="team-dots"></div>
         </div>
@@ -697,6 +705,7 @@
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
         <div id="map"></div>
+
         <div class="inset-content">
             <div class="container">
                 <div class="col-md-12">
@@ -728,8 +737,8 @@
 
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="*Nombre" name="nombre" id="nombre"
-                                                    maxlength="50" require>
+                                                    placeholder="*Nombre" name="nombre" id="nombre" maxlength="50"
+                                                    require>
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
@@ -745,21 +754,24 @@
                                             </div>
                                             <div class="col-sm-12 col-md-6 form-item">
                                                 <input type="text" class="form-control bordesInputContacto m-3"
-                                                    placeholder="Dirección" name="direccion" id="direccion"
+                                                    placeholder="Direcci&oacute;n" name="direccion" id="direccion"
                                                     maxlength="100" require>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                                <textarea class="form-control form-item text-area"
-                                                    id="mensaje" rows="3" placeholder="Lista de productos:"
-                                                    name="mensaje" maxlength="50" require></textarea>
+                                                <textarea class="form-control form-item text-area" id="mensaje" rows="3"
+                                                    placeholder="Lista de productos:" name="mensaje" maxlength="50"
+                                                    require></textarea>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                            Sube un archivo (baucher o comprobante de pago, El peso del archivo no puede exceder los 15360kb o 15mb):
-                                            <input type="file" id="adjunto" name="adjunto" class="form-control" onchange="validarArchivo(this);"/>
+                                                Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del
+                                                archivo no
+                                                debe exceder 15000 Kb &oacute; 15 Mb):
+                                                <input type="file" id="adjunto" name="adjunto" class="form-control"
+                                                    onchange="validarArchivo(this);" />
                                             </div>
                                         </div>
 
@@ -783,22 +795,43 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i></p>
-                                    
+                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                        <p class="icou-t-white address-item"><i class="fa fa-map-marker"
+                                                aria-hidden="true"></i>
+                                            Edo. de Jalisco 243
+                                            Providencia
+                                            Gustavo A. Madero
+                                            07550 Ciudad de México, CDMX</p>
+                                    </a>
+
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
                                             55 8286 1860</p>
                                     </a>
-                                    <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                            aria-hidden="true"></i> ventas@sexydiversion.com</p>
-                                </div>
-                                <div class="contact-block-social">
+                                    <a href="mailto:ventas@sexydiversion.com">
+                                        <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
+                                                aria-hidden="true"></i> ventas@sexydiversion.com</p>
+                                    </a>
+
                                     <ul class="social-share">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a href="https://www.facebook.com/sexydiverssion/" target="_blank"><i
+                                                    class="fa fa-facebook"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share">
+                                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
+                                                target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share">
+                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
+                                                target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
                                 </div>
+
+                                <div class="contact-block-social">
+
+                                </div>
+
                             </div>
                         </div>
                         <!-- Right Area Ends -->
@@ -811,44 +844,67 @@
         </div>
 
         <div class="our-partners-component container">
-            <div class="partners-row row align-items-center">
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+            <div class="partners-row row align-items-center ">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3 ">
                     <figure class="">
                         <img src="assets/img/marcas/marca1.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                       
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
                         <img src="assets/img/marcas/marca2.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                        
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
                         <img src="assets/img/marcas/marca3.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                     
+
                     </figure>
                 </div>
-                <div class=" col-xs-12 col-sm-6 col-md-6 col-xl-3">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
                         <img src="assets/img/marcas/marca4.jpg"
-                            class="figure-img img-fluid rounded partner-block"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
-                     
+
                     </figure>
                 </div>
             </div>
         </div>
     </section>
+    <div class='redes-flotantes'>
 
 
+        <div class="separator" style="clear: both; text-align: left;">
+        </div>
+        <div class="separator" style="clear: both; text-align: center;">
+        </div>
+        <div class="separator" style="clear: both; text-align: center;">
+        </div>
+        <div class="separator" style="clear: both; text-align: left;">
+            <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
+                style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img border="0"
+                    data-original-height="59" data-original-width="59"
+                    src="https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png" /></a>
+        </div>
+        <div class="separator" style="clear: both; text-align: center;">
+            <a href="https://www.facebook.com/sexydiverssion/"
+                style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img border="0"
+                    data-original-height="59" data-original-width="59"
+                    src="https://3.bp.blogspot.com/-SK4W7Kmjoh8/XOQj5wjwERI/AAAAAAABT1g/2i3wxgGTwdU8v67F1rMOAe3ooWu9f2fEACLcBGAs/s1600/facebook%2Bmessenger%2Bicono.png" /></a>
+        </div>
+    </div>
+    <div class="separator" style="clear: both; text-align: left;">
+
+    </div>
 
 
     <!-- Footer -->
