@@ -41,11 +41,13 @@
                 <h4 class="footer-col-title icou-brand-title">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <a href="tel:+52 5582861860">
-                        <p class="icou-t-white address-item"><i class="fa fa-phone" aria-hidden="true"></i>
+                        <p class="icou-t-white address-item">
+                            <i class="fa fa-phone" aria-hidden="true"></i>
                             55 8286 1860</p>
                     </a>
                     <a href="mailto:ventas@sexydiversion.com.mx">
-                        <p class="icou-t-white address-item"><i class="fa fa-envelope-open" aria-hidden="true"></i>
+                        <p class="icou-t-white address-item">
+                            <i class="fa fa-envelope-open" aria-hidden="true"></i>
                             ventas@sexydiversion.com.mx</p>
                     </a>
                     <a href="#map">
@@ -69,11 +71,11 @@
 
                         <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook"
                                     target="_blank"></i></a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i
+                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"><i
                                     class="fa fa-whatsapp" target="_blank"></i></a></li>
                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
                                     class="fa fa-instagram" target="_blank"></i></a></li>
-
+                                    
                     </ul>
                 </div>
             </div>
@@ -88,24 +90,23 @@
 <div class="bottom">
     <div class="container">
         <div class="bottom-wrapper row">
-            <div class="bottom-left col-sm-12 col-md-6">
+            <div class="bottom-left col-sm-12 col-md-12">
                 <div class="social-footer">
                     <ul class="social-share">
 
-                        <li><a href="https://www.facebook.com/sexydiverssion/"><i class="fa fa-facebook"
+                        <li><a href="https://www.facebook.com/AnDmanDo/"><i class="fa fa-facebook"
                                     target="_blank"></i></a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"><i
+                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+en+la+creacion+de+una+pagina"><i
                                     class="fa fa-whatsapp" target="_blank"></i></a></li>
-                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
+                        <li><a href="https://www.instagram.com/"><i
                                     class="fa fa-instagram" target="_blank"></i></a></li>
 
                     </ul>
-                </div>
-            </div>
-            <div class="bottom-right col-sm-12 col-md-6">
-                <div class="copyright">
                     <p>&copy; Realizado por: <a href="">!#Surftware | Desarrollo de páginas web.</a></p>
                 </div>
+            
+               
+                        
             </div>
         </div>
     </div>

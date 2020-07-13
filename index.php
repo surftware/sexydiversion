@@ -810,16 +810,21 @@
                                     <a href="mailto:ventas@sexydiversion.com">
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
                                             aria-hidden="true"></i> ventas@sexydiversion.com</p></a>
-                                    <ul class="social-share">
-                                        <li><a href="https://www.facebook.com/sexydiverssion/"target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    </ul>
-                                    <ul class="social-share"> 
-                                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank"><i class="fa fa-whatsapp"></i></a></li>
-                                    </ul>
-                                    <ul class="social-share"> 
-                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"target="_blank"><i class="fa fa-instagram"></i></a></li>  
-                                    </ul>       
+                                     
+                                     <ul class="social-share">
+                                        <li><a href="https://www.facebook.com/sexydiverssion/"
+                                         target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                     </ul>
+                                     <ul class="social-share"> 
+                                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"
+                                         target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                     </ul>
+                                     <ul class="social-share"> 
+                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
+                                         target="_blank"><i class="fa fa-instagram"></i></a></li>  
+                                     </ul>       
                                 </div>
+
                                 <div class="contact-block-social">
                                     
                                 </div>
