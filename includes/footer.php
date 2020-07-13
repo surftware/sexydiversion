@@ -71,17 +71,20 @@
         <div class="bottom-wrapper row">
             <div class="bottom-left col-xs-12 col-sm-12 col-md-12">
                 <div class="social-footer">
-                    <ul class="social-share">
+                        <ul class="social-share">
 
-                        <li><a href="https://www.facebook.com/sexydiverssion/"><i
-                                    class="fa fa-facebook fa-lg redes-footer text-white" target="_blank"></i></a></li>
-                        <li><a
-                                href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"><i
-                                    class="fa fa-whatsapp fa-lg redes-footer text-white" target="_blank"></i></a></li>
-                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
-                                    class="fa fa-instagram fa-lg redes-footer text-white" target="_blank"></i></a></li>
+                            <li><a href="https://www.facebook.com/sexydiverssion/"><i
+                                        class="fa fa-facebook fa-lg redes-footer text-white" target="_blank"></i></a>
+                            </li>
+                            <li><a
+                                    href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"><i
+                                        class="fa fa-whatsapp fa-lg redes-footer text-white" target="_blank"></i></a>
+                            </li>
+                            <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
+                                        class="fa fa-instagram fa-lg redes-footer text-white" target="_blank"></i></a>
+                            </li>
 
-                    </ul>
+                        </ul>
                 </div>
             </div>
 
@@ -95,10 +98,10 @@
     <div class="container">
         <div class="bottom-wrapper row">
             <div class="bottom-left col-sm-12 col-md-12 text-center">
-                <div class="copyright">
+                
                     <p>&copy; Realizado por: <a href="https://surftware.company">!#Surftware | Desarrollo de páginas
                             web.</a></p>
-                </div>
+                
 
             </div>
         </div>

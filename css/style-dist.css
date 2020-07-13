@@ -15099,8 +15099,6 @@ p.team-member-text {
     width: calc(100% / 2); }
   .bottom-wrapper .copyright {
     float: right; }
-  .bottom-wrapper .social-footer {
-    float: left; }
   .teaser-text-container {
     min-width: 325px; } }
 
@@ -15439,4 +15437,33 @@ p.team-member-text {
   font-size: 23px;
   font-weight: bold; }
 
+/* --------------------------------------------------------
+ Redes Flotantes
+-------------------------------------------------------- */
+.redes-flotantes {
+  position: fixed;
+  right: 8px;
+  top: 75%;
+  z-index: 20; }
 
+.redes-flotantes img {
+  float: right;
+  clear: right;
+  margin: 5px;
+  margin-bottom: 10%;
+  -moz-transform: scale(0.8);
+  -webkit-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -ms-transform: scale(0.8);
+  transform: scale(0.8);
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out; }
+
+.redes-flotantes img:hover {
+  -moz-transform: scale(1.1) rotate(6deg);
+  -webkit-transform: scale(1.1) rotate(6deg);
+  -o-transform: scale(1.1) rotate(6deg);
+  -ms-transform: scale(1.1) rotate(6deg);
+  transform: scale(1.1) rotate(6deg); }
