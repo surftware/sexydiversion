@@ -814,6 +814,9 @@
                                                 aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                     </a>
 
+                                </div>
+
+                                <div class="contact-block-social">
                                     <ul class="social-share">
                                         <li><a href="https://www.facebook.com/sexydiverssion/" target="_blank"><i
                                                     class="fa fa-facebook"></i></a></li>
@@ -826,9 +829,6 @@
                                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
                                                 target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
-                                </div>
-
-                                <div class="contact-block-social">
 
                                 </div>
 

@@ -1,7 +1,8 @@
 <footer id="main-footer">
     <div class="container">
+
         <div class="footer-wrapper row">
-            <div class="col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                 <h4 class="footer-col-title icou-brand-title logotipo ">
                     <span class="text-white">Sexy Diversi&oacute;n |</span>
                     <span> Sex Shop </span></h4>
@@ -10,9 +11,10 @@
                     <img class="d-block mx-auto" src="assets/img/global/logo.png" height="200" width="211"
                         alt="Sexy-Diversion-Sex-Shop-logo">
                 </a>
+
             </div>
 
-            <div class="col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                 <h4 class="footer-col-title icou-brand-title">Cat&aacute;logos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
                     <ul class="list-unstyled col-sm-6 p-0">
@@ -38,7 +40,7 @@
                 </div>
             </div>
 
-            <div class="col-sm-6 col-md-3">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                 <h4 class="footer-col-title icou-brand-title">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <a href="tel:+52 5582861860">
@@ -63,24 +65,34 @@
                     </a>
                 </div>
             </div>
+<<<<<<< HEAD
             <div class="col-sm-12 col-md-3">
                 <h4 class="footer-col-title icou-brand-title">Redes Sociales</h4>
                 <div class="newsletter-footer-content">
+=======
+
+        </div>
+
+        <div class="bottom-wrapper row">
+            <div class="bottom-left col-xs-12 col-sm-12 col-md-12">
+                <div class="social-footer">
+>>>>>>> 656985061dcee63d50e81fa6fe82cc1f4ea25d39
                     <ul class="social-share">
 
-                        <li ><a href="https://www.facebook.com/sexydiverssion/"><i
-                                    class="fa fa-facebook redes-footer text-white ml-4 mr-4" target="_blank"></i></a></li>
-                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"><i
-                                    class="fa fa-whatsapp redes-footer text-white  ml-4 mr-4" target="_blank"></i></a></li>
+                        <li><a href="https://www.facebook.com/sexydiverssion/"><i
+                                    class="fa fa-facebook fa-lg redes-footer text-white" target="_blank"></i></a></li>
+                        <li><a
+                                href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"><i
+                                    class="fa fa-whatsapp fa-lg redes-footer text-white" target="_blank"></i></a></li>
                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"><i
-                                    class="fa fa-instagram redes-footer text-white ml-4" target="_blank"></i></a></li>
+                                    class="fa fa-instagram fa-lg redes-footer text-white" target="_blank"></i></a></li>
 
                     </ul>
                 </div>
             </div>
 
         </div>
-        
+
 
     </div>
 </footer>
@@ -88,9 +100,10 @@
 <div class="bottom">
     <div class="container">
         <div class="bottom-wrapper row">
-            <div class="bottom-left col-sm-12 col-md-6 centrado">
+            <div class="bottom-left col-sm-12 col-md-12 text-center">
                 <div class="copyright">
-                    <p>&copy; Realizado por: <a href="https://surftware.company">!#Surftware | Desarrollo de páginas web.</a></p>
+                    <p>&copy; Realizado por: <a href="https://surftware.company">!#Surftware | Desarrollo de páginas
+                            web.</a></p>
                 </div>
 
             </div>
