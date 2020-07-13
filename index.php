@@ -814,6 +814,9 @@
                                                 aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                     </a>
 
+                                </div>
+
+                                <div class="contact-block-social">
                                     <ul class="social-share">
                                         <li><a href="https://www.facebook.com/sexydiverssion/" target="_blank"><i
                                                     class="fa fa-facebook"></i></a></li>
@@ -826,9 +829,6 @@
                                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
                                                 target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
-                                </div>
-
-                                <div class="contact-block-social">
 
                                 </div>
 
@@ -916,31 +916,11 @@
     ?>
     <!-- / Footer -->
 
-<<<<<<< HEAD
-    <!-- Whats App Flotante 
-    <div class="whatsFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     Whats App Flotante  -->
-    <!-- FaceBook Flotante
-    <div class="faceFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     FaceBook  Flotante  -->
-    <!-- Instagram Flotante 
-    <div class="instagramFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     Instagram Flotante 
-
-     SCROLL TO TOP  
-=======
     <!-- SCROLL TO TOP  -->
->>>>>>> 2105666630934f13086bfca38b8707241e4ce50b
     <div class="scrollup">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-     SCROLL TO TOP ENDS -->
+     <!-- SCROLL TO TOP ENDS -->
 
     <!-- JS -->
     <?php	       
