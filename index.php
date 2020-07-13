@@ -828,9 +828,6 @@
                                     </ul>
                                 </div>
 
-                                <div class="contact-block-social">
-
-                                </div>
 
                             </div>
                         </div>
