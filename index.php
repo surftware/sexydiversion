@@ -79,10 +79,10 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Todos los productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"
-                            href="#map" data-wow-duration="1.2s">Pedidos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
+                            data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>
             </li>
@@ -705,7 +705,7 @@
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
         <div id="map"></div>
-        
+
         <div class="inset-content">
             <div class="container">
                 <div class="col-md-12">
@@ -767,7 +767,8 @@
                                         </div>
                                         <div class="row">
                                             <div class="col-sm-12 col-md-12 form-item">
-                                                Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del archivo no
+                                                Sube un archivo (V&aacute;ucher o comprobante de pago, el peso del
+                                                archivo no
                                                 debe exceder 15000 Kb &oacute; 15 Mb):
                                                 <input type="file" id="adjunto" name="adjunto" class="form-control"
                                                     onchange="validarArchivo(this);" />
@@ -794,41 +795,43 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
-                                <p class="icou-t-white address-item"><i class="fa fa-map-marker"
-                                            aria-hidden="true"></i> 
+                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                        <p class="icou-t-white address-item"><i class="fa fa-map-marker"
+                                                aria-hidden="true"></i>
                                             Edo. de Jalisco 243
                                             Providencia
                                             Gustavo A. Madero
-                                            07550 Ciudad de México, CDMX</p></a>
-                                     
+                                            07550 Ciudad de México, CDMX</p>
+                                    </a>
+
                                     <a href="tel:+52 5582861860">
                                         <p class="icou-t-white address-item"><i class="fa fa-phone"
                                                 aria-hidden="true"></i>
                                             55 8286 1860</p>
                                     </a>
                                     <a href="mailto:ventas@sexydiversion.com">
-                                    <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
-                                            aria-hidden="true"></i> ventas@sexydiversion.com</p></a>
-                                     
-                                     <ul class="social-share">
-                                        <li><a href="https://www.facebook.com/sexydiverssion/"
-                                         target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                     </ul>
-                                     <ul class="social-share"> 
+                                        <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
+                                                aria-hidden="true"></i> ventas@sexydiversion.com</p>
+                                    </a>
+
+                                    <ul class="social-share">
+                                        <li><a href="https://www.facebook.com/sexydiverssion/" target="_blank"><i
+                                                    class="fa fa-facebook"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share">
                                         <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"
-                                         target="_blank"><i class="fa fa-whatsapp"></i></a></li>
-                                     </ul>
-                                     <ul class="social-share"> 
+                                                target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                    </ul>
+                                    <ul class="social-share">
                                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
-                                         target="_blank"><i class="fa fa-instagram"></i></a></li>  
-                                     </ul>       
+                                                target="_blank"><i class="fa fa-instagram"></i></a></li>
+                                    </ul>
                                 </div>
 
                                 <div class="contact-block-social">
-                                    
+
                                 </div>
-                                
+
                             </div>
                         </div>
                         <!-- Right Area Ends -->
@@ -844,28 +847,32 @@
             <div class="partners-row row align-items-center ">
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3 ">
                     <figure class="">
-                        <img src="assets/img/marcas/marca1.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca1.jpg"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca2.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca2.jpg"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca3.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca3.jpg"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca4.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca4.jpg"
+                            class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
