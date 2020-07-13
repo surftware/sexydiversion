@@ -20,15 +20,11 @@
                         <i class="mr-5 fa fa-facebook"></i>
                         </a>
                         
-<<<<<<< HEAD
-                        <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"target="_blank" class="text-white">
-=======
                         <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"target="_blank" class="text-white">
                         <i class="mr-5 fa fa-instagram"></i>                             
                         </a>
                         
                         <a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank" class="text-white">
->>>>>>> 9590d5d3b2404cb678876c2a274e05147e891118
                         <i class="fa fa-whatsapp"></i>                             
                             &nbsp;55 8286 1860
                         </a>
