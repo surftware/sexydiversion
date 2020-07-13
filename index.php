@@ -916,27 +916,27 @@
     ?>
     <!-- / Footer -->
 
-    <!-- Whats App Flotante -->
+    <!-- Whats App Flotante 
     <div class="whatsFlot">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-    <!-- Whats App Flotante  -->
-    <!-- FaceBook Flotante -->
+     Whats App Flotante  -->
+    <!-- FaceBook Flotante
     <div class="faceFlot">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-    <!-- FaceBook  Flotante  -->
-    <!-- Instagram Flotante -->
+     FaceBook  Flotante  -->
+    <!-- Instagram Flotante 
     <div class="instagramFlot">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-    <!-- Instagram Flotante  -->
+     Instagram Flotante 
 
-    <!-- SCROLL TO TOP  -->
+     SCROLL TO TOP  
     <div class="scrollup">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-    <!-- SCROLL TO TOP ENDS -->
+     SCROLL TO TOP ENDS -->
 
     <!-- JS -->
     <?php	       

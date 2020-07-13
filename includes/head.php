@@ -41,4 +41,6 @@
 
     <!-- Custom Template CSS -->
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/_custom.css">
+
 </head>
