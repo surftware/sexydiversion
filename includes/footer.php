@@ -2,6 +2,7 @@
     <div class="container">
 
         <div class="footer-wrapper row">
+
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                 <h4 class="footer-col-title icou-brand-title logotipo ">
                     <span class="text-white">Sexy Diversi&oacute;n |</span>
@@ -64,7 +65,7 @@
                         </p>
                     </a>
                 </div>
-            </div>
+            </div>            
 
         </div>
 
