@@ -15,8 +15,6 @@
                             ¡Llámanos ahora ó envía Whats!
                         </p>
                     </div>
-
-
                     <div class="social text-white font-weight-bold">
                         <a href="https://www.facebook.com/sexydiverssion/"target="_blank" class="text-white">   
                         <i class="mr-5 fa fa-facebook"></i>
