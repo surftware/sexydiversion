@@ -810,16 +810,21 @@
                                     <a href="mailto:ventas@sexydiversion.com">
                                     <p class="icou-t-white address-item"><i class="fa fa-envelope-open"
                                             aria-hidden="true"></i> ventas@sexydiversion.com</p></a>
-                                    <ul class="social-share">
-                                        <li><a href="https://www.facebook.com/sexydiverssion/"target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                    </ul>
-                                    <ul class="social-share"> 
-                                        <li><a href="https://api.whatsapp.com/send?phone=+5215582861860&text=hola+estoy+interasado+"target="_blank"><i class="fa fa-whatsapp"></i></a></li>
-                                    </ul>
-                                    <ul class="social-share"> 
-                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"target="_blank"><i class="fa fa-instagram"></i></a></li>  
-                                    </ul>       
+                                     
+                                     <ul class="social-share">
+                                        <li><a href="https://www.facebook.com/sexydiverssion/"
+                                         target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                     </ul>
+                                     <ul class="social-share"> 
+                                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"
+                                         target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                     </ul>
+                                     <ul class="social-share"> 
+                                        <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
+                                         target="_blank"><i class="fa fa-instagram"></i></a></li>  
+                                     </ul>       
                                 </div>
+
                                 <div class="contact-block-social">
                                     
                                 </div>
@@ -836,31 +841,31 @@
         </div>
 
         <div class="our-partners-component container">
-            <div class="partners-row row align-items-center">
-                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
+            <div class="partners-row row align-items-center ">
+                <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3 ">
                     <figure class="">
-                        <img src="assets/img/marcas/marca1.jpg" class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca1.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca2.jpg" class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca2.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca3.jpg" class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca3.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
                 </div>
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
-                        <img src="assets/img/marcas/marca4.jpg" class="figure-img img-fluid rounded partner-block"
+                        <img src="assets/img/marcas/marca4.jpg" class="d-block mx-auto figure-img img-fluid rounded partner-block"
                             alt="A generic square placeholder image with rounded corners in a figure.">
 
                     </figure>
@@ -868,6 +873,7 @@
             </div>
         </div>
     </section>
+
 
 
 

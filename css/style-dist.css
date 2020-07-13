@@ -15394,3 +15394,7 @@ p.team-member-text {
 .footer-logo {
   font-size: 23px;
   font-weight: bold; }
+
+.centrado{
+  margin-left: 35% !important;
+}
