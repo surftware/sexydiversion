@@ -77,28 +77,32 @@
 
 // Media Queries Down breakpoint
 
-
 @include media-breakpoint-down(xs) {
-    .banner h2 {
-        min-width: 100px;
-        width: 180px;
-        font-size: 10px;
-        display: table-cell;
-        word-wrap: break-word;
+    .banner h2  {
+        min-width: 50px  !important;
+        width: 80px !important;
+        font-size: 20px !important;
+        display: table-cell !important;
+        word-wrap: break-word !important;
     }
     .banner p {
-        min-width: 100px;
-        width: 180px;
-        font-size: 5px;
-        display: table-cell;
-        word-wrap: break-word;
+        min-width: 0px;
+        width: 0px;
+        font-size: 0px;
+        display: table-cell !important;
+        word-wrap: break-word !important;
     }
     .banner .transparent{
-        background-color:red;
-        margin-top: 15%;
-        margin-left: 5%;
-        width: 35%;
+        //background-color:blue !important;
+        margin-top: 15% !important;
+        margin-left: 5% !important;
+        width: 35% !important;
     }
+    /*.banner a{
+        //background-color: silver;
+    }
+    */
+
 }
 @include media-breakpoint-down(md) {
     .main-menu .navigation{
@@ -170,22 +174,22 @@
     .slides-pagination {
         display: none;
     }
-    .banner h2 {
-        min-width: 200px;
-        width: 280px;
-        font-size: 20px;
-        display: table-cell;
-        word-wrap: break-word;
+    .banner h2  {
+        min-width: 200px  !important;
+        width: 280px !important;
+        font-size: 20px !important;
+        display: table-cell !important;
+        word-wrap: break-word !important;
     }
     .banner p {
-        min-width: 200px;
-        width: 280px;
-        font-size: 12px;
+        min-width: 100px;
+        width: 180px;
+        font-size: 10px;
         display: table-cell;
         word-wrap: break-word;
     }
     .banner .transparent{
-        background-color: rgba(97,61,124,0.2);
+        //background-color: rgba(97,61,124,0.2);
         margin-top: 15%;
         margin-left: 5%;
         width: 35%;
@@ -384,26 +388,25 @@
 // Media Queries Between breakpoints
 @include media-breakpoint-between(xs, sm) {
     .banner h2 {
-        min-width: 100px;
-        width: 180px;
-        font-size: 10px;
-        display: table-cell;
-        word-wrap: break-word;
+        min-width: 100px  !important;
+        width: 180px !important;
+        font-size: 20px !important;
+        display: table-cell !important;
+        word-wrap: break-word !important;
     }
     .banner p {
-        min-width: 100px;
-        width: 180px;
-        font-size: 5px;
+        min-width: 0px;
+        width: 0px;
+        font-size: 0px;
         display: table-cell;
         word-wrap: break-word;
     }
     .banner .transparent{
-        background-color:red;
-        margin-top: 15%;
-        margin-left: 5%;
-        width: 35%;
+        //background-color:blue !important;
+        margin-top: 15% !important;
+        margin-left: 5% !important;
+        width: 35% !important;
     }
-
 }
 
 

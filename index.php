@@ -59,7 +59,8 @@
                             href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
                             Productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp" href="#map"
-                            data-wow-duration="1.2s">Pedidos</a>
+                            data-wow-duration="1.2s">Pedidos
+                        </a>
                     </div>
                 </div>
             </li>
