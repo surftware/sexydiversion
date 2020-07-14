@@ -234,10 +234,6 @@
     .shop-page .item-content-wrapper .item-content-info .shop-item-qty {
         margin-bottom: 1rem;
     }
-
-    .textSmallFooter {
-        text-align: center;
-    }
 }
 
 @include media-breakpoint-down(md) {
@@ -503,6 +499,10 @@
         -moz-transition: all 300ms linear 0ms;
         -ms-transition: all 300ms linear 0ms;
         transition: all 300ms linear 0ms;
+    }
+
+    .textSmallFooter {
+        text-align: center;
     }
 
 
