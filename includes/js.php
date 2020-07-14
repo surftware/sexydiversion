@@ -15,5 +15,8 @@
     <script src='https://www.google.com/recaptcha/api.js'></script>
     <!--<script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>-->
     <script src="js/sweetalert2.js"></script>
+ 
+    <!--Contenedores multiples-->
+    <script src="js/contenedorMultiple/banner.js"></script>
     <!-- Custom JS -->
     <script src="js/main.js"></script>

@@ -502,6 +502,8 @@ $(document).ready(function () {
           hashchange: false,
           scrollable: true
   });
+  contenedorMultipleIndex();
+
 });
 
 $( "#post" ).click(function() {
@@ -602,3 +604,19 @@ var inputImage;
       img.src = URL.createObjectURL(uploadFile);
   }                 
 }
+///*********************************** */
+    /*
+    function contenedorMultipleIndex(){   
+        var arrayBanner = arrayContenedorBanner();    
+        cicloContenedor(arrayBanner,'bannerContenedor');
+    }
+    function cicloContenedor(array,div){
+        var contenedorHtml =""; 
+        for (let index = 0; index < array.length; index++)
+        {
+            contenedorHtml += ContenedorBanner(array[index]);
+        }
+        console.log(contenedorHtml);
+        document.getElementById(div).innerHTML = contenedorHtml;    
+    }
+    */

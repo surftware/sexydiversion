@@ -1,5 +1,4 @@
 
-
 function ContenedorBanner(array){
     var contenido =
             '<li>'+
@@ -27,9 +26,6 @@ function ContenedorBanner(array){
             '</li>';
     return contenido;
     
-}
-function hola(){
-    console.log('222');
 }
 function arrayContenedorBanner(){
     var array = [

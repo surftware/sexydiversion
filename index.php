@@ -14,6 +14,7 @@
     <!-- Stage -->
     <section id="slides" class="section banner" data-slide="1">
         <ul class="slides-container">
+            <!--<div id="bannerContenedor"></div>-->
             <li>
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
                 <div class="container transparent rounded card-banner">
@@ -87,6 +88,8 @@
                     </div>
                 </div>
             </li>
+            
+            
         </ul>
         <nav class="slides-navigation">
             <a href="#" class="next"></a>
@@ -843,6 +846,8 @@
 
         <div class="our-partners-component container">
             <div class="partners-row row align-items-center ">
+
+
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3 ">
                     <figure class="">
                         <img src="assets/img/marcas/marca1.jpg"
@@ -851,6 +856,7 @@
 
                     </figure>
                 </div>
+                
                 <div class=" col-xs-12 col-sm-12 col-md-3 col-xl-3">
                     <figure class="">
                         <img src="assets/img/marcas/marca2.jpg"
