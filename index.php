@@ -79,8 +79,8 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="https://sexydiversion.com.mx/shop"
+                            data-wow-duration="1s" target="_blank">Todos los productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
