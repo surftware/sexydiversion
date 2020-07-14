@@ -27,7 +27,7 @@
     }
 
     .portfolio-section-home-area .portfolio-grid li {
-        width: 50%;
+        width: 100%;
         /* Fallback */
         width: -webkit-calc(100% / 2);
         width: calc(100% / 2);
@@ -541,6 +541,7 @@
         -ms-transition: none !important;
         -o-transition: none !important;
         -moz-transition: none !important;
+        
     }
 }
 

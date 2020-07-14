@@ -464,7 +464,7 @@
         <div class="container">
             <div class="team-slides team-container row">
                 <!--/1-->
-                <div class="col-xs-12 p-2">
+                <div class="col-xs-12 col-sm-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
