@@ -886,18 +886,22 @@
     <div class="redes-flotantes">
 
         <div class="">
-            <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la" target="_blank"><img
-                    data-original-height="59" data-original-width="59"
-                    src="assets/img/global/instagram-sexydiversion-sexshop.png" /></a>
+            <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/instagram-sexydiversion-sexshop.png" />
+            </a>
         </div>
         <div class="">
             <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
-                target="_blank"><img data-original-height="59" data-original-width="59"
-                    src="assets/img/global/whatsapp-sexydiversion-sexshop.png" /></a>
+                target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/whatsapp-sexydiversion-sexshop.png" />
+            </a>
         </div>
         <div class="">
-            <a href="https://www.facebook.com/sexydiverssion/" target="_blank"><img data-original-height="59"
-                    data-original-width="59" src="assets/img/global/facebook-sexydiversion-sexshop.png" /></a>
+            <a href="https://www.facebook.com/sexydiverssion/" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/facebook-sexydiversion-sexshop.png" /></a>
         </div>
 
     </div>
