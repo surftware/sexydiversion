@@ -96,7 +96,7 @@
         //background-color:blue !important;
         margin-top: 15% !important;
         margin-left: 5% !important;
-        width: 35% !important;
+        width: 91% !important;
     }
     /*.banner a{
         //background-color: silver;
@@ -192,7 +192,7 @@
         //background-color: rgba(97,61,124,0.2);
         margin-top: 15%;
         margin-left: 5%;
-        width: 35%;
+        width: 80%;
     }
     .blog-section .blog-section-container .blog-post .post-content .post-content-icons {
         display: block;
@@ -387,26 +387,30 @@
 
 // Media Queries Between breakpoints
 @include media-breakpoint-between(xs, sm) {
-    .banner h2 {
+    .banner h2
+    {
         min-width: 100px  !important;
         width: 180px !important;
         font-size: 20px !important;
         display: table-cell !important;
         word-wrap: break-word !important;
     }
-    .banner p {
+    .banner p
+    {
         min-width: 0px;
         width: 0px;
         font-size: 0px;
         display: table-cell;
         word-wrap: break-word;
     }
-    .banner .transparent{
+    .banner .transparent
+    {
         //background-color:blue !important;
         margin-top: 15% !important;
         margin-left: 5% !important;
-        width: 35% !important;
+        width: 91% !important;
     }
+
 }
 
 

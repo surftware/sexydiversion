@@ -8,8 +8,10 @@
 <body>
     <h1>hola</h1>
 </body>
-<script src='js/contenedorMultiple/banner.js'></script>
 <script>
-    ContenedorBanner();
+    //ContenedorBanner();
 </script>
+<?php	       
+     include ("js/contenedorMultiple/index.php");
+?>
 </html>

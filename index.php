@@ -30,10 +30,10 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated botonR"
                             href="https://sexydiversion.com.mx/shop" target="_blank" data-wow-duration="1s">Todos los
                             Productos</a>
-                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
+                        <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated botonR" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
                 </div>

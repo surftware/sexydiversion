@@ -1,10 +1,10 @@
 
 
-function ContenedorBanner(){
+function ContenedorBanner(array){
     var contenido="";
-    var array =arrayContenedorBanner();
+    //var array =arrayContenedorBanner();
     //console.log(array);
-    for (let index = 0; index < array.length; index++) {
+    /*for (let index = 0; index < array.length; index++) {
          contenido +=
             '<li>'+
                 '<img src="'+array[0].imagen+'" alt="home-slide-one">'+
@@ -29,9 +29,36 @@ function ContenedorBanner(){
                     '</div>'+
                 '</div>'+
             '</li>'        
-    }
+    }*/
+    var contenido =
+            '<li>'+
+                '<img src="'+array[0].imagen+'" alt="home-slide-one">'+
+                '<div class="container transparent rounded jose">'+
+                    '<div class="row ">'+
+                        '<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">'+
+                            '<div class="caption-wrapper">'+
+                                '<div class="slide-caption">'+
+                                    '<a href="#">'+
+                                        '<h2>'+array[0].titulo+'</h2>'+
+                                    '</a>'+
+                                    '<p>'+array[0].subTitulo+'</p>'+
+                                '</div>'+
+                            '</div>'+
+                        '</div>'+
+                    '</div>'+
+                    '<div class="slider-button-wrapper">'+
+                        '<a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="'+array[0].urlBoton1+'"'+
+                            'data-wow-duration="1s">'+array[0].nomvreBoton1+'</a>'+
+                        '<a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated"'+
+                            'href="'+array[0].urlBoton2+'" data-wow-duration="1.2s">'+array[0].nomvreBoton2+'</a>'+
+                    '</div>'+
+                '</div>'+
+            '</li>';
     return contenido;
     
+}
+function hola(){
+    console.log('222');
 }
 function arrayContenedorBanner(){
     var array = [
