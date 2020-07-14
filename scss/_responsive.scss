@@ -1,18 +1,17 @@
-
 // Media Queries Up breakpoint
 
 
 @include media-breakpoint-up(xs) {
-    .mainmeu-area {
-    }
+    .mainmeu-area {}
+
     .portfolio-section-home-area .portfolio-grid li {
         width: 100%;
     }
 }
 
 @include media-breakpoint-up(sm) {
-    .mainmeu-area {
-    }
+    .mainmeu-area {}
+
     .portfolio-section-home-area .portfolio-grid li {
         width: 50%;
     }
@@ -22,22 +21,24 @@
     .top-number {
         float: left;
     }
+
     .social {
         float: right;
     }
+
     .portfolio-section-home-area .portfolio-grid li {
         width: 50%;
         /* Fallback */
         width: -webkit-calc(100% / 2);
         width: calc(100% / 2);
     }
+
     .bottom-wrapper .copyright {
         float: right;
     }
-    .bottom-wrapper .social-footer {
-        
-        
-    }
+
+    .bottom-wrapper .social-footer {}
+
     .teaser-text-container {
         min-width: 325px;
     }
@@ -47,16 +48,20 @@
     .team-member-profile {
         float: left;
     }
+
     .team-member-info {
         float: right;
     }
+
     .team-member-profile {
         padding-right: 1.8rem;
     }
+
     .main-menu .navigation>li>ul {
         display: block;
         background-color: #f7f7f9;
     }
+
     .portfolio-section-home-area .portfolio-grid li {
         width: 33.33333333333333%;
         /* Fallback */
@@ -87,6 +92,7 @@
         display: table-cell;
         word-wrap: break-word;
     }
+
     .banner p {
         min-width: 100px;
         width: 180px;
@@ -94,16 +100,18 @@
         display: table-cell;
         word-wrap: break-word;
     }
-    .banner .transparent{
-        background-color:red;
+
+    .banner .transparent {
+        background-color: red;
         margin-top: 15%;
         margin-left: 5%;
         width: 35%;
     }
 }
+
 @include media-breakpoint-down(md) {
-    .main-menu .navigation{
-        left:0%;
+    .main-menu .navigation {
+        left: 0%;
 
     }
 }
@@ -112,65 +120,82 @@
     .top-number {
         display: none;
     }
+
     .social {
         text-align: center;
     }
+
     .offset-center {
         margin: 0;
     }
+
     .page-header .container {
         width: 576px;
         max-width: 100%;
     }
+
     .slider-button-wrapper .icou-button {
-        margin-bottom: 0.8rem; 
+        margin-bottom: 0.8rem;
     }
+
     .about-footer {
         padding-top: 2rem;
     }
+
     .our-partners-component .wrapper {
         @include opacity-background(1);
     }
+
     .footer-col {
         text-align: center;
         margin-bottom: 1rem;
     }
+
     .footer-link {
         text-align: left;
     }
+
     .footer-post-date {
         text-align: left;
     }
+
     .main-menu-wrapper-outer .container {
         width: 100%;
         max-width: none;
     }
+
     .left-area {
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
     }
+
     .right-area {
         display: flex;
         justify-content: center;
         align-items: center;
         text-align: center;
     }
+
     .shop-page .item-content-wrapper .item-content-info {
         padding-left: 0.3rem;
     }
+
     .portfolio-section-area .portfolio-filter ul,
     .portfolio-gallery-section .portfolio-filter ul {
         display: inline-block;
     }
+
     .portfolio-section-area .portfolio-filter ul li,
     .portfolio-gallery-section .portfolio-filter ul li {
         margin-bottom: 1rem;
     }
+
     .slides-pagination {
         display: none;
     }
+
     .banner h2 {
         min-width: 200px;
         width: 280px;
@@ -178,6 +203,7 @@
         display: table-cell;
         word-wrap: break-word;
     }
+
     .banner p {
         min-width: 200px;
         width: 280px;
@@ -185,21 +211,26 @@
         display: table-cell;
         word-wrap: break-word;
     }
-    .banner .transparent{
-        background-color: rgba(97,61,124,0.2);
+
+    .banner .transparent {
+        background-color: rgba(97, 61, 124, 0.2);
         margin-top: 15%;
         margin-left: 5%;
         width: 35%;
     }
+
     .blog-section .blog-section-container .blog-post .post-content .post-content-icons {
         display: block;
     }
-    .page-header-bottom-no-header .container{
+
+    .page-header-bottom-no-header .container {
         width: 100%;
     }
+
     .shop-page .item-content-wrapper .item-content-info .shop-input-button-wrapper {
         display: block;
     }
+
     .shop-page .item-content-wrapper .item-content-info .shop-item-qty {
         margin-bottom: 1rem;
     }
@@ -212,30 +243,38 @@
         left: 7px;
         margin-bottom: 14px;
     }
+
     .paralax {
-        background: cover!important;
+        background: cover !important;
     }
+
     .search-area {
         display: none;
     }
+
     .slider-button-wrapper .icou-button:last-child {
         margin-bottom: 10px;
     }
+
     .main-menu-wrapper {
         display: block;
         position: relative;
         padding-bottom: 0;
     }
+
     .main-menu .navigation li {
         position: relative;
         display: block;
     }
+
     .main-menu .navigation {
         width: 100%;
     }
+
     .mainmeu-area ul {
         width: 100%
     }
+
     .main-menu {
         display: inline-block;
         padding-bottom: 12px;
@@ -244,6 +283,7 @@
         z-index: 5;
         width: 100%;
     }
+
     .main-menu .collapse {
         position: relative;
         float: none;
@@ -253,6 +293,7 @@
         padding: 0;
         width: 100%;
     }
+
     .main-menu .collapse>.navigation>li>a,
     .main-menu .navbar-collapse>.navigation>li>ul>li>a {
         background: #292929 none repeat scroll 0 0;
@@ -262,6 +303,7 @@
         text-align: left;
         font-weight: 600;
     }
+
     .main-menu .navigation li a {
         background: #292929;
         color: $gray-lightest;
@@ -279,20 +321,24 @@
         -ms-transition: all 500ms ease;
         -o-transition: all 500ms ease;
     }
+
     .main-menu .collapse>.navigation {
         float: none !important;
         margin: 0 !important;
         width: 100% !important;
         background: #292929;
     }
+
     .main-menu .collapse>.navigation>li {
         margin: 0px !important;
         float: none !important;
         width: 100%;
     }
+
     .main-menu .collapse>.navigation>li>ul {
         border-top: 0px solid rgba(255, 255, 255, 1) !important;
     }
+
     .main-menu .collapse>.navigation>li,
     .main-menu .collapse>.navigation>li>ul>li {
         border-top: 1px solid rgba(14, 14, 14, .7) !important;
@@ -301,12 +347,15 @@
         left: 0px !important;
         visibility: visible !important;
     }
+
     .main-menu .navigation>li>ul>li {
         border-bottom: none;
     }
+
     .main-menu .collapse>.navigation>li:first-child {
         border: none;
     }
+
     .main-menu .collapse>.navigation>li>a,
     .main-menu .collapse>.navigation>li>ul>li>a {
         background: #292929 none repeat scroll 0 0;
@@ -316,6 +365,7 @@
         text-align: left;
         font-weight: 600;
     }
+
     .main-menu .collapse>.navigation>li:hover>a,
     .main-menu .collapse>.navigation>li>ul>li:hover>a,
     .main-menu .collapse>.navigation>li.current>a {
@@ -323,26 +373,33 @@
         color: $gray-lightest !important;
         box-shadow: 2px 1px 2px #fff;
     }
+
     .main-menu .collapse>.navigation li.dropdown .dropdown-btn {
         display: flex;
         justify-content: center;
         align-items: center;
     }
+
     .intro-tables .intro-table {
         padding-bottom: 20;
     }
+
     .main-menu .navigation>li.dropdown>a:after {
         display: none;
     }
+
     #feature-intro .intro-tables .intro-table {
         margin-bottom: 4rem;
     }
+
     .shop-page .my-account .my-account-wrapper .account-block-wrapper:first-child {
         margin-bottom: 34px;
     }
+
     .shop-page .checkout .address-wrapper .address-block-wrapper:first-child {
         margin-bottom: 25px;
     }
+
     .shop-page .checkout .summary-payment-wrapper .summary-payment-block:first-child {
         margin-bottom: 25px;
     }
@@ -352,9 +409,11 @@
     .team-member-profile img {
         width: 100%;
     }
+
     .teaser-box .teaser-image-container {
         display: none;
     }
+
     .teaser-text-container {
         text-align: center;
         padding: 24px;
@@ -384,26 +443,68 @@
 
 // Media Queries Between breakpoints
 @include media-breakpoint-between(xs, sm) {
-    .banner h2 {
-        min-width: 100px;
-        width: 180px;
-        font-size: 10px;
-        display: table-cell;
-        word-wrap: break-word;
-    }
-    .banner p {
-        min-width: 100px;
-        width: 180px;
-        font-size: 5px;
-        display: table-cell;
-        word-wrap: break-word;
-    }
-    .banner .transparent{
-        background-color:red;
+
+
+    .banner .transparent {
+
+        display: block !important;
+        margin-right: auto !important;
+        margin-left: auto !important;
+
         margin-top: 15%;
-        margin-left: 5%;
-        width: 35%;
+        width: 500px;
+
     }
+
+    .banner h2 {
+        min-width: 470px;
+        width: 520px;
+        border-style: none;
+        border-color: transparent;
+        background-color: transparent;
+        color: $pink;
+        display: block;
+        padding: 15px 0;
+        font-size: 50px;
+        font-family: $font-family-title;
+        font-weight: 600;
+        text-transform: uppercase;
+        margin: 0;
+        text-decoration: none;
+        line-height: 50px;
+        //-webkit-text-stroke: 0.4px $purple;
+        -webkit-transition: all 300ms linear 0ms;
+        -moz-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+        transition: all 300ms linear 0ms;
+    }
+    .banner h2:hover {
+        color: $orange;
+    }
+    
+    .banner p {
+        min-width: 470px;
+        border-style: none;
+        display: inline-block;
+        border-color: transparent;
+        background-color: transparent;
+        color: #fff;
+        font-size: 15px;
+        font-weight: bold;
+        padding: 15px 0;
+        float: left;
+        width: 610px;
+        margin: 0;
+        -webkit-transition: all 300ms linear 0ms;
+        -moz-transition: all 300ms linear 0ms;
+        -ms-transition: all 300ms linear 0ms;
+        transition: all 300ms linear 0ms;
+    }
+
+    .textSmallFooter {
+        text-align: center;
+    }
+
 
 }
 
@@ -412,9 +513,11 @@
     .main-menu .navigation>li {
         padding: 0;
     }
+
     .main-menu .navigation>li>a:before {
         background: none;
     }
+
     .main-menu .navigation>li>ul {
         position: relative;
         border: none;

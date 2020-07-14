@@ -13,9 +13,10 @@
     font-weight: bold;
 }
 
-.footer-logo{
-   // position:absolute;
+.logotipoFooter{
+    //position:absolute;
     //z-index:1;
+    //left:10%;
     font-size: 23px;
     font-weight: bold;
 }
@@ -26,13 +27,15 @@
 .redes-flotantes {
     position: fixed;
     right: 8px;
-    top: 75%;
-    z-index: 20;
+    bottom: 13%;
+    z-index: 2;
     }
     .redes-flotantes img {
     float: right; clear: right;
      margin: 5px;
      margin-bottom: 10%;
+     height: 59px;
+     width: 59px;
     -moz-transform: scale(.8) ;
     -webkit-transform: scale(.8) ;
     -o-transform: scale(.8) ;

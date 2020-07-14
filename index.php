@@ -18,7 +18,7 @@
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
                 <div class="container transparent rounded card-banner">
                     <div class="row ">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
@@ -79,8 +79,8 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="about.html"
-                            data-wow-duration="1s">Todos los productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="https://sexydiversion.com.mx/shop"
+                            data-wow-duration="1s" target="_blank">Todos los productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -883,36 +883,26 @@
     <!----------------------------------------------------------
                        Redes Flotantes
     -------------------------------------------------------- -->
-    <div class='redes-flotantes'>
+    <div class="redes-flotantes">
 
-
-        <div class="separator" style="clear: both; text-align: left;">
+        <div class="">
+            <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/instagram-sexydiversion-sexshop.png" />
+            </a>
         </div>
-        <div class="separator" style="clear: both; text-align: center;">
-        </div>
-        <div class="separator" style="clear: both; text-align: center;">
-        </div>
-        <div class="separator" style="clear: both; text-align: center;">
-            <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
-                style="clear: left; float: left; margin-bottom: 0em; margin-right: 1em;" target="_blank"><img border="0"
-                    data-original-height="59" data-original-width="59"
-                    src="assets/img/marcas/insta.png" /></a>
-        </div>
-        <div class="separator" style="clear: both; text-align: left;">
+        <div class="">
             <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
-                style="clear: left; float: left; margin-bottom: 0em; margin-right: 1em;" target="_blank"><img border="0"
-                    data-original-height="59" data-original-width="59"
-                    src="https://1.bp.blogspot.com/-q3Dot9N2qac/XOQgr9etVpI/AAAAAAABT1M/6V4Bqaqr-6UQcl9Fy2_CaVgex0N_OYuQgCLcBGAs/s1600/whatsapp%2Bicono.png" /></a>
+                target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/whatsapp-sexydiversion-sexshop.png" />
+            </a>
         </div>
-        <div class="separator" style="clear: both; text-align: center;">
-            <a href="https://www.facebook.com/sexydiverssion/"
-                style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" target="_blank"><img border="0"
-                    data-original-height="59" data-original-width="59"
-                    src="https://3.bp.blogspot.com/-SK4W7Kmjoh8/XOQj5wjwERI/AAAAAAABT1g/2i3wxgGTwdU8v67F1rMOAe3ooWu9f2fEACLcBGAs/s1600/facebook%2Bmessenger%2Bicono.png" /></a>
+        <div class="">
+            <a href="https://www.facebook.com/sexydiverssion/" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/facebook-sexydiversion-sexshop.png" /></a>
         </div>
-        
-    </div>
-    <div class="separator" style="clear: both; text-align: left;">
 
     </div>
 
@@ -921,29 +911,13 @@
     <?php	       
      include ("includes/footer.php");
     ?>
-    <!-- / Footer -->
 
-    <!-- Whats App Flotante 
-    <div class="whatsFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     Whats App Flotante  -->
-    <!-- FaceBook Flotante
-    <div class="faceFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     FaceBook  Flotante  -->
-    <!-- Instagram Flotante 
-    <div class="instagramFlot">
-        <a href="#"><i class="fa fa-chevron-up"></i></a>
-    </div>
-     Instagram Flotante 
 
-     SCROLL TO TOP  
+    <!-- SCROLL TO TOP -->
     <div class="scrollup">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
-     SCROLL TO TOP ENDS -->
+    <!-- SCROLL TO TOP ENDS -->
 
     <!-- JS -->
     <?php	       
