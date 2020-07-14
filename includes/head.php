@@ -4,7 +4,10 @@
     <meta name="author" content="Surftware">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+    
+    <!-- google propiedad -->
+    <meta name="google-site-verification" content="a40NsxytBXGUKFXLpIL2Mi8dxaGbvtRRgtOHZJTbI3c" />
+    
     <!--Open Graphs Facebook Meta  -->
     <meta property="og:locale" content="es_MX" />
     <meta property="og:title" content="La mejor Sex Shop | Sexy Diversión." />
@@ -42,5 +45,5 @@
     <!-- Custom Template CSS -->
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/_custom.css">
-
+    
 </head>
