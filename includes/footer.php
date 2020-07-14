@@ -4,9 +4,10 @@
         <div class="footer-wrapper row">
 
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                <h4 class="footer-col-title icou-brand-title logotipo ">
+                <h4 class="footer-col-title icou-brand-title logotipo">
                     <span class="text-white">Sexy Diversi&oacute;n |</span>
-                    <span> Sex Shop </span></h4>
+                    <span> Sex Shop </span>
+                </h4>
 
                 <a class="navbar-brand d-block mx-auto" href="#">
                     <img class="d-block mx-auto" src="assets/img/global/logo.png" height="200" width="211"
