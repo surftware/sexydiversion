@@ -203,6 +203,10 @@
     .shop-page .item-content-wrapper .item-content-info .shop-item-qty {
         margin-bottom: 1rem;
     }
+
+    .textSmallFooter{
+        text-align: center;
+    }
 }
 
 @include media-breakpoint-down(md) {
@@ -399,7 +403,6 @@
         word-wrap: break-word;
     }
     .banner .transparent{
-        background-color:red;
         margin-top: 15%;
         margin-left: 5%;
         width: 35%;

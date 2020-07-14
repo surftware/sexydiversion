@@ -16,8 +16,8 @@
 
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                <h4 class="footer-col-title icou-brand-title">Cat&aacute;logos</h4>
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 textSmallFooter">
+                <h4 class="footer-col-title icou-brand-title ">Cat&aacute;logos</h4>
                 <div class="services-footer d-flex justify-content-end clearfix">
                     <ul class="list-unstyled col-sm-6 p-0">
                         <li><a class="text-white" href="catalogo/recargables.pdf" target="_blank">Vibradores
@@ -32,8 +32,7 @@
                         <li><a class="text-white" href="catalogo/balas.pdf" target="_blank">Balas</a></li>
                         <li><a class="text-white" href="catalogo/doble.pdf" target="_blank">Vibradores Dobles</a></li>
                         <li><a class="text-white" href="catalogo/anillos.pdf" target="_blank">Anillos</a></li>
-                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a>
-                        </li>
+                        <li><a class="text-white" href="catalogo/masturbadores.pdf" target="_blank">Masturbadores</a></li>
                         <li><a class="text-white" href="catalogo/fetish.pdf" target="_blank">Fetish</a></li>
 
                     </ul>
@@ -42,7 +41,7 @@
                 </div>
             </div>
 
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 textSmallFooter">
                 <h4 class="footer-col-title icou-brand-title">Contacto</h4>
                 <div class="newsletter-footer-content">
                     <a href="tel:+52 5582861860">
