@@ -88,7 +88,9 @@
                         </ul>
                 </div>
             </div>
+            <div class="bottom-right col-sm-12 col-md-6">
 
+            </div>
         </div>
 
 
@@ -98,11 +100,13 @@
 <div class="bottom">
     <div class="container">
         <div class="bottom-wrapper row">
-            <div class="bottom-left col-sm-12 col-md-12 text-center">
-                
-                    <p>&copy; Realizado por: <a href="https://surftware.company">!#Surftware | Desarrollo de páginas
-                            web.</a></p>
-                
+            <div class="bottom-left col-sm-12 col-md-12">
+                <div class="social-footer">
+                    <p>&copy; Realizado por: <a href="https://surftware.company" target="_blank">!#Surftware |
+                            Desarrollo de páginas web.</a></p>
+                </div>
+
+
 
             </div>
         </div>
