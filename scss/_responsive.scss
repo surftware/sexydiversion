@@ -40,9 +40,7 @@
     .teaser-text-container {
         min-width: 325px;
     }
-    .portfolio-item img{
-        margin-left: 13%;
-    }
+    
 }
 
 @include media-breakpoint-up(lg) {
@@ -101,14 +99,7 @@
         margin-left: 5% !important;
         width: 91% !important;
     }
-    .portfolio-item img{
-        margin-left: 13%;
-    }
-    /*.banner a{
-        //background-color: silver;
-    }
-    */
-
+    
 }
 @include media-breakpoint-down(md) {
     .main-menu .navigation{
@@ -411,15 +402,11 @@
     }
     .banner .transparent
     {
-        //background-color:blue !important;
         margin-top: 15% !important;
         margin-left: 5% !important;
         width: 91% !important;
     }
-    .portfolio-item img{
-        margin-left: 13%;
-    }
-
+    
 }
 
 
