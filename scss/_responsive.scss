@@ -40,6 +40,9 @@
     .teaser-text-container {
         min-width: 325px;
     }
+    .portfolio-item img{
+        margin-left: 13%;
+    }
 }
 
 @include media-breakpoint-up(lg) {
@@ -98,6 +101,9 @@
         margin-left: 5% !important;
         width: 91% !important;
     }
+    .portfolio-item img{
+        margin-left: 13%;
+    }
     /*.banner a{
         //background-color: silver;
     }
@@ -142,10 +148,10 @@
         text-align: left;
     }
     .footer-post-date {
+        width: 100%;
         text-align: left;
     }
     .main-menu-wrapper-outer .container {
-        width: 100%;
         max-width: none;
     }
     .left-area {
@@ -409,6 +415,9 @@
         margin-top: 15% !important;
         margin-left: 5% !important;
         width: 91% !important;
+    }
+    .portfolio-item img{
+        margin-left: 13%;
     }
 
 }
