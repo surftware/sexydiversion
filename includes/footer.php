@@ -4,7 +4,7 @@
         <div class="footer-wrapper row">
 
             <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                <h4 class="footer-col-title icou-brand-title logotipo">
+                <h4 class="footer-col-title icou-brand-title logotipoFooter mb-0 text-center">
                     <span class="text-white">Sexy Diversi&oacute;n |</span>
                     <span> Sex Shop </span>
                 </h4>
