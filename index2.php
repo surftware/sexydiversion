@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>hola</h1>
+    <div id="banner"></div>
 </body>
 <script>
     //ContenedorBanner();
