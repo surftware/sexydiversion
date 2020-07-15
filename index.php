@@ -79,8 +79,9 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="https://sexydiversion.com.mx/shop"
-                            data-wow-duration="1s" target="_blank">Todos los productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" data-wow-duration="1s" target="_blank">Todos los
+                            productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -220,7 +221,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img  src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
+                            <img src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
@@ -337,12 +338,12 @@
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
+                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    </a>
+                                    <a href="portfolio-single.html">
+                                        <i class="fa fa-fw fa-link"></i>
+                                    </a>
+                                </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -352,16 +353,16 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo"  />
+                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
+                                        <i class="fa fa-fw fa-search-plus"></i>
+                                    </a>
+                                    <a href="portfolio-single.html">
+                                        <i class="fa fa-fw fa-link"></i>
+                                    </a>
+                                </p>
                             </figcaption>
                         </figure>
                     </li>
@@ -702,9 +703,26 @@
             <div class="team-dots"></div>
         </div>
     </section>
+
+
+
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
+
+        <!-- Section title Map -->
+        <div class="section-header mb-0">
+            <div class="row">
+                <div class="container">
+                    <h2 class="icou-brand-title"><span class="section-header__section-header-title-left">Ubicaci&oacute;n</span>
+                    </h2>
+                    <p>B&uacute;scanos en el mapa</p>
+                    <span class="section-header__separate-line-basement clearfix"></span>
+                </div>
+            </div>
+        </div>
         <div id="map"></div>
+        <!-- Section title Ends Map-->
+        
 
         <div class="inset-content">
             <div class="container">
@@ -795,7 +813,7 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9" target="_blank">
                                         <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                                 aria-hidden="true"></i>
                                             Edo. de Jalisco 243
