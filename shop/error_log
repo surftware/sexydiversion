@@ -1,0 +1,2 @@
+[10-Jul-2020 20:13:01 America/Mexico_City] PHP Notice:  Undefined index: date_type in /home4/sexydive/public_html/shop/search.php on line 106
+[10-Jul-2020 20:13:01 America/Mexico_City] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home4/sexydive/public_html/shop/search.php:106) in /home4/sexydive/public_html/shop/include/page_header.php on line 86
