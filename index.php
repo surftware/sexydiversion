@@ -220,7 +220,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img " src=" assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
+                            <img  src="assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
@@ -333,7 +333,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.15s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
+                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" />
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
@@ -352,7 +352,7 @@
                     <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
                         data-wow-delay="0.25s">
                         <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
+                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo"  />
                             <figcaption>
                                 <p>
                                     <a href=" assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
