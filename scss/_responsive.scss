@@ -84,29 +84,8 @@
 // Media Queries Down breakpoint
 
 
-@include media-breakpoint-down(xs) {
-    .banner h2 {
-        min-width: 100px;
-        width: 180px;
-        font-size: 10px;
-        display: table-cell;
-        word-wrap: break-word;
-    }
-
-    .banner p {
-        min-width: 100px;
-        width: 180px;
-        font-size: 5px;
-        display: table-cell;
-        word-wrap: break-word;
-    }
-
-    .banner .transparent {
-        background-color: red;
-        margin-top: 15%;
-        margin-left: 5%;
-        width: 35%;
-    }
+@include media-breakpoint-down(xs) {    
+    
 }
 
 @include media-breakpoint-down(md) {
@@ -542,6 +521,13 @@
         -o-transition: none !important;
         -moz-transition: none !important;
         
+    }
+    
+    //imagenes centradas de más vendidos cuando son una sola columna
+    .portfolio-grid .portfolio-item img {
+        display:block;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
