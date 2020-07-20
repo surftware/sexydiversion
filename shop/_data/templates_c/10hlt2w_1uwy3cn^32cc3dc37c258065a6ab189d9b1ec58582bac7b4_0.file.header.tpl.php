@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:05:11
+/* Smarty version 3.1.29, created on 2020-07-20 14:33:12
   from "/home4/sexydive/public_html/shop/themes/modus/template/header.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70bc76cc743_20333298',
+  'unifunc' => 'content_5f15f1785e2a62_09058297',
   'file_dependency' => 
   array (
     '32cc3dc37c258065a6ab189d9b1ec58582bac7b4' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70bc76cc743_20333298 ($_smarty_tpl) {
+function content_5f15f1785e2a62_09058297 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang=<?php echo $_smarty_tpl->tpl_vars['lang_info']->value['code'];?>
@@ -36,6 +36,7 @@ echo $_smarty_tpl->tpl_vars['themeconf']->value['icon_dir'];?>
 /favicon.ico">
 <link rel="stylesheet" type="text/css" href="themes/<?php echo $_smarty_tpl->tpl_vars['themeconf']->value['id'];?>
 /css/open-sans/open-sans.css"> 
+<?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['combine_css'][0][0]->func_combine_css(array('path'=>'local/css/modus-rules.css','order'=>10),$_smarty_tpl);?>
 <!-- COMBINED_CSS --><?php echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['combine_css'][0][0]->func_combine_css(array('path'=>"themes/".((string)$_smarty_tpl->tpl_vars['themeconf']->value['id'])."/css/base.css.tpl",'version'=>$_smarty_tpl->tpl_vars['MODUS_CSS_VERSION']->value,'template'=>true,'order'=>-10),$_smarty_tpl);
 echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['combine_css'][0][0]->func_combine_css(array('path'=>"themes/".((string)$_smarty_tpl->tpl_vars['themeconf']->value['id'])."/css/iconfontello.css.tpl",'version'=>$_smarty_tpl->tpl_vars['MODUS_CSS_VERSION']->value,'template'=>true,'order'=>-10),$_smarty_tpl);
 echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['combine_css'][0][0]->func_combine_css(array('path'=>"themes/".((string)$_smarty_tpl->tpl_vars['themeconf']->value['id'])."/css/menuh.css.tpl",'version'=>$_smarty_tpl->tpl_vars['MODUS_CSS_VERSION']->value,'template'=>true,'order'=>-10),$_smarty_tpl);

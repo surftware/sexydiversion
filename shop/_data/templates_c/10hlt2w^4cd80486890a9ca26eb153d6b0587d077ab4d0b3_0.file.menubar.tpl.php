@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:05:11
+/* Smarty version 3.1.29, created on 2020-07-20 14:33:12
   from "/home4/sexydive/public_html/shop/themes/modus/template/menubar.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70bc76a16a7_14251158',
+  'unifunc' => 'content_5f15f1785846c8_22268378',
   'file_dependency' => 
   array (
     '4cd80486890a9ca26eb153d6b0587d077ab4d0b3' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70bc76a16a7_14251158 ($_smarty_tpl) {
+function content_5f15f1785846c8_22268378 ($_smarty_tpl) {
 $_smarty_tpl->smarty->_cache['tag_stack'][] = array('footer_script', array('require'=>'jquery')); $_block_repeat=true; echo $_smarty_tpl->smarty->registered_plugins['block']['footer_script'][0][0]->block_footer_script(array('require'=>'jquery'), null, $_smarty_tpl, $_block_repeat);while ($_block_repeat) { ob_start();?>
 
 		var h = jQuery("#theHeader div.banner").css("height");
