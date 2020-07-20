@@ -177,7 +177,7 @@
                                     <div class="container">
                                         <h2 class="icou-brand-title"><span
                                                 class="section-header__section-header-title-left">Productos
-                                                más vendidos</span></h2>
+                                                más populares</span></h2>
                                         <p>Todas tus compras est&aacute;n protegidas.</p>
                                     </div>
                                 </div>
@@ -198,7 +198,7 @@
             <!-- / END SECTION HEADER -->
             <!-- PORTFOLIO ITEMS-->
             <div class="portfolio-grid clearfix">
-                <iframe style="width:100%; height:1100px; border:none;" src="https://sexydiversion.com.mx/shop/"
+                <iframe style="width:100%; height:1000px; border:none;" src="https://sexydiversion.com.mx/shop/index.php?/most_visited"
                     title="W3Schools Free Online Web Tutorials">
                 </iframe>
             </div>
