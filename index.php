@@ -470,30 +470,7 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <!--/11-->
-                <div class="col-xs-12 p-2">
-                    <div class="card team-member-card">
-                        <div class="card-block">
-                            <h5 class="card-title icou-brand-title">Condones</h5>
-                            <h6 class="card-subtitle icou-sub-title">Sexy Diversi&oacute;n</h6>
-                        </div>
-                        <figure class="effect-team">
-                            <img src="assets/img/Categorias/condones.jpeg" alt="awesome-team-member" />
-                            <figcaption>
-                                <p>
-                                    <a href="http://sexydiversion.com.mx/shop/index.php?/category/12"><i class="fa fa-fw fa-link"></i></a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                        <div class="card-block">
-                            <div class="social-team-member text-center">
-                                <a class="btn btn-primary btn-block icou-button rounded" href="#"
-                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                
 
 
 
