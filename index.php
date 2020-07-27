@@ -199,7 +199,7 @@
             <!-- PORTFOLIO ITEMS-->
             <div class="portfolio-grid clearfix">
                 <iframe style="width:100%; height:1000px; border:none;" src="https://sexydiversion.com.mx/shop/index.php?/most_visited"
-                    title="W3Schools Free Online Web Tutorials">
+                    title="">
                 </iframe>
             </div>
     </section>
