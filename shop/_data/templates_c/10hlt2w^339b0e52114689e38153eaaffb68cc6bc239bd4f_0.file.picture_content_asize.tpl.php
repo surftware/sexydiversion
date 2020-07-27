@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:17:46
+/* Smarty version 3.1.29, created on 2020-07-27 05:28:07
   from "/home4/sexydive/public_html/shop/themes/modus/template/picture_content_asize.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70eba2a90e7_78122078',
+  'unifunc' => 'content_5f1eac3721a995_23150977',
   'file_dependency' => 
   array (
     '339b0e52114689e38153eaaffb68cc6bc239bd4f' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70eba2a90e7_78122078 ($_smarty_tpl) {
+function content_5f1eac3721a995_23150977 ($_smarty_tpl) {
 if (!is_callable('smarty_modifier_replace')) require_once '/home4/sexydive/public_html/shop/include/smarty/libs/plugins/modifier.replace.php';
 echo $_smarty_tpl->smarty->registered_plugins[Smarty::PLUGIN_FUNCTION]['combine_script'][0][0]->func_combine_script(array('id'=>'photo.autosize','path'=>"themes/".((string)$_smarty_tpl->tpl_vars['themeconf']->value['id'])."/js/photo.autosize.min.js",'load'=>'footer','require'=>'jquery'),$_smarty_tpl);?>
 

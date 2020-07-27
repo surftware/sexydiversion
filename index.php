@@ -79,8 +79,9 @@
                         </div>
                     </div>
                     <div class="slider-button-wrapper">
-                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated" href="https://sexydiversion.com.mx/shop"
-                            data-wow-duration="1s" target="_blank">Todos los productos</a>
+                        <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
+                            href="https://sexydiversion.com.mx/shop" data-wow-duration="1s" target="_blank">Todos los
+                            productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -93,8 +94,9 @@
         </nav>
     </section>
     <!-- / Stage -->
-    <!-- Intro Tables and Our Work -->
-    <section id="feature-intro" class="s-padding s-bg-white">
+
+    <!-- Section Catálogo -->
+    <section id="feature-intro" class=" s-bg-white">
         <div class="container">
             <!-- Intro Tables-->
             <div class="intro-tables row">
@@ -175,7 +177,7 @@
                                     <div class="container">
                                         <h2 class="icou-brand-title"><span
                                                 class="section-header__section-header-title-left">Productos
-                                                más vendidos</span></h2>
+                                                más populares</span></h2>
                                         <p>Todas tus compras est&aacute;n protegidas.</p>
                                     </div>
                                 </div>
@@ -196,238 +198,12 @@
             <!-- / END SECTION HEADER -->
             <!-- PORTFOLIO ITEMS-->
             <div class="portfolio-grid clearfix">
-                <ul class="container">
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class=" more gallery2">
-                                        <i class="  fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class=" fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img " src=" assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
-                                        <i class="  fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="  fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-3.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-3.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-4.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-5.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-6.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-10.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-10.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-11.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-12.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-12.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-                </ul>
+                <iframe style="width:100%; height:1000px; border:none;" src="https://sexydiversion.com.mx/shop/index.php?/most_visited"
+                    title="">
+                </iframe>
             </div>
-        </div>
     </section>
-    <!-- / Intro Tables and Our Work -->
+    <!-- / Section Catálogo  -->
 
     <!-- Our Team -->
     <section id="catalogos" class="feature-team s-padding s-bg-white">
@@ -702,9 +478,27 @@
             <div class="team-dots"></div>
         </div>
     </section>
+
+
+
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
+
+        <!-- Section title Map -->
+        <div class="section-header mb-0">
+            <div class="row">
+                <div class="container">
+                    <h2 class="icou-brand-title"><span
+                            class="section-header__section-header-title-left">Ubicaci&oacute;n</span>
+                    </h2>
+                    <p>B&uacute;scanos en el mapa</p>
+                    <span class="section-header__separate-line-basement clearfix"></span>
+                </div>
+            </div>
+        </div>
         <div id="map"></div>
+        <!-- Section title Ends Map-->
+
 
         <div class="inset-content">
             <div class="container">
@@ -795,7 +589,7 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9" target="_blank">
                                         <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                                 aria-hidden="true"></i>
                                             Edo. de Jalisco 243

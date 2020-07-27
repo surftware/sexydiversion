@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:05:11
+/* Smarty version 3.1.29, created on 2020-07-27 05:27:14
   from "/home4/sexydive/public_html/shop/themes/modus/template/footer.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70bc7f33ed2_88309773',
+  'unifunc' => 'content_5f1eac0278c209_90327308',
   'file_dependency' => 
   array (
     '91684c4cf4bfd750b789d0cd13d077b2d99c1e3f' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70bc7f33ed2_88309773 ($_smarty_tpl) {
+function content_5f1eac0278c209_90327308 ($_smarty_tpl) {
 ?>
 <div id="copyright">
 <?php if (isset($_smarty_tpl->tpl_vars['debug']->value['TIME'])) {
