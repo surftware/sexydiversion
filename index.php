@@ -22,7 +22,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Sexy Diversi&oacute;n <br> Sex Shop</h2>
+                                        <h2 class="animated bounceInLeft">Sexy Diversi&oacute;n <br> Sex Shop</h2>
                                     </a>
                                     <p class="">Sex Shop con los mejores precios.</p>
                                 </div>
@@ -47,7 +47,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
+                                        <h2 class="animated bounceInLeft">Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
                                     </a>
                                     <p class="">Conoce nuestras formas de pago.</p>
                                 </div>
@@ -71,7 +71,7 @@
                             <div class="caption-wrapper ">
                                 <div class="slide-caption ">
                                     <a href="#">
-                                        <h2>Promoci&oacute;n del mes</h2>
+                                        <h2 class="animated bounceInLeft">Promoci&oacute;n del mes</h2>
                                     </a>
                                     <p class="">En la compra de X productos te regalamos X cosa.</p>
                                 </div>
@@ -100,7 +100,7 @@
         <div class="container">
             <!-- Intro Tables-->
             <div class="intro-tables row">
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box1 coordenadaZ" data-wow-offset="200" data-wow-delay="0.2s">
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -115,7 +115,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box2 coordenadaZ" data-wow-offset="200" data-wow-delay="0.8s"> 
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -130,7 +130,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box3 coordenadaZ" data-wow-offset="200" data-wow-delay="1.4s">
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -145,7 +145,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box4 coordenadaZ" data-wow-offset="200" data-wow-delay="1.8s"> 
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
