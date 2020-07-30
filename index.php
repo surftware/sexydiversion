@@ -485,7 +485,7 @@
     <section id="contact-home-area" class="contact-home-area s-bg-white">
 
         <!-- Section title Map -->
-        <div class="section-header mb-0">
+        <div class="section-header mb-4">
             <div class="row">
                 <div class="container">
                     <h2 class="icou-brand-title"><span
