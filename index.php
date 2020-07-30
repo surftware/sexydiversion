@@ -176,10 +176,10 @@
                 <div class="row">
 
                     <div class="left-area col-md-6">
-                        <div class="section-header section-header--left-position col-md-12">
+                        <div class="section-header section-header--left-position col-md-12 ">
                             <div class="row">
                                 <div class="container">
-                                    <h2 class="icou-brand-title"><span
+                                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
                                             class="section-header__section-header-title-left">Productos
                                             más populares</span></h2>
                                     <p>Todas tus compras est&aacute;n protegidas.</p>
@@ -226,7 +226,7 @@
                         <div class="section-header section-header--right-position col-md-12">
                             <div class="row">
                                 <div class="container">
-                                    <h2 class="icou-brand-title"><span
+                                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
                                             class="section-header__section-header-title-right">Descarga nuestros
                                             cat&aacute;logos.</span></h2>
                                     <p>Todos Nuestros Productos</p>
@@ -493,7 +493,7 @@
         <div class="section-header">
             <div class="row">
                 <div class="container">
-                    <h2 class="icou-brand-title"><span
+                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
                             class="section-header__section-header-title-left">Ubicaci&oacute;n</span>
                     </h2>
                     <p>B&uacute;scanos en el mapa</p>
