@@ -168,7 +168,7 @@
 
 
     <!-- Catálogo Piwigo -->
-    <div class="portfolio-section-home-area" id="mas-vendidos">
+    <div id="mas-vendidos" class="portfolio-section-home-area s-padding" >
         <!-- SECTION HEADER -->
         <div class="container">
             <!-- SECTION HEADER -->
