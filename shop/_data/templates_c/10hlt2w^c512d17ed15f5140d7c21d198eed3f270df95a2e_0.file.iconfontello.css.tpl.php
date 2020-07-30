@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-07-20 14:33:12
+/* Smarty version 3.1.29, created on 2020-07-27 05:27:14
   from "/home4/sexydive/public_html/shop/themes/modus/css/iconfontello.css.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f15f1786ad1e3_64429597',
+  'unifunc' => 'content_5f1eac02725bf2_43261061',
   'file_dependency' => 
   array (
     'c512d17ed15f5140d7c21d198eed3f270df95a2e' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f15f1786ad1e3_64429597 ($_smarty_tpl) {
+function content_5f1eac02725bf2_43261061 ($_smarty_tpl) {
 ?>
 @import "fontello/css/modus.css";
 

@@ -95,7 +95,7 @@
     </section>
     <!-- / Stage -->
 
-    <!-- Section Catálogo -->
+    <!-- Intro Fichas -->
     <section id="feature-intro" class=" s-bg-white">
         <div class="container">
             <!-- Intro Tables-->
@@ -162,50 +162,55 @@
                 </div>
             </div>
         </div>
-        <!-- / Intro Tables -->
-        <!-- Our Work Section -->
-        <div class="portfolio-section-home-area" id="mas-vendidos">
-            <!-- SECTION HEADER -->
-            <div class="container">
-                <!-- SECTION HEADER -->
-                <div class="col-md-12">
-                    <div class="row">
+    </section>
+    <!-- / Intro Fichas -->
 
-                        <div class="left-area col-md-6">
-                            <div class="section-header section-header--left-position col-md-12">
-                                <div class="row">
-                                    <div class="container">
-                                        <h2 class="icou-brand-title"><span
-                                                class="section-header__section-header-title-left">Productos
-                                                más populares</span></h2>
-                                        <p>Todas tus compras est&aacute;n protegidas.</p>
-                                    </div>
+
+
+    <!-- Catálogo Piwigo -->
+    <div id="mas-vendidos" class="portfolio-section-home-area s-padding" >
+        <!-- SECTION HEADER -->
+        <div class="container">
+            <!-- SECTION HEADER -->
+            <div class="col-md-12">
+                <div class="row">
+
+                    <div class="left-area col-md-6">
+                        <div class="section-header section-header--left-position col-md-12">
+                            <div class="row">
+                                <div class="container">
+                                    <h2 class="icou-brand-title"><span
+                                            class="section-header__section-header-title-left">Productos
+                                            más populares</span></h2>
+                                    <p>Todas tus compras est&aacute;n protegidas.</p>
                                 </div>
                             </div>
                         </div>
-                        <!-- Right Area -->
-                        <div class="right-area col-md-6">
-                            <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
-                                href="/shop"><span>Ver m&aacute;s productos</span></a>
-                        </div>
-                        <!-- End Right Area -->
-                        <span class="section-header__separate-line-basement clearfix"></span>
                     </div>
+                    <!-- Right Area -->
+                    <div class="right-area col-md-6">
+                        <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
+                            href="/shop"><span>Ver m&aacute;s productos</span></a>
+                    </div>
+                    <!-- End Right Area -->
+                    <span class="section-header__separate-line-basement clearfix"></span>
                 </div>
-                <span class="section-header__separate-line-basement mb-4"></span>
             </div>
+            <span class="section-header__separate-line-basement mb-4"></span>
+        </div>
 
-            <!-- / END SECTION HEADER -->
-            <!-- PORTFOLIO ITEMS-->
-            <div class="portfolio-grid clearfix">
-                <iframe style="width:100%; height:1000px; border:none;" src="https://sexydiversion.com.mx/shop/index.php?/most_visited"
-                    title="W3Schools Free Online Web Tutorials">
-                </iframe>
-            </div>
-    </section>
-    <!-- / Section Catálogo  -->
+        <!-- / END SECTION HEADER -->
+        <!-- PORTFOLIO ITEMS-->
+        <div class="portfolio-grid clearfix">
+            <iframe style="width:100%; height:1000px; border:none;"
+                src="https://sexydiversion.com.mx/shop/index.php?/most_visited" title="">
+            </iframe>
+        </div>
+    </div>
+    <!-- /Catálogo Piwigo -->
 
-    <!-- Our Team -->
+
+    <!-- Catálogos para Descarga -->
     <section id="catalogos" class="feature-team s-padding s-bg-white">
         <div class="container">
             <!-- SECTION HEADER -->
@@ -257,7 +262,8 @@
                         <div class="card-block">
                             <div class="social-team-member text-center">
                                 <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
-                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                    target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -350,7 +356,8 @@
                         <div class="card-block">
                             <div class="social-team-member text-center">
                                 <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
-                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                    target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -470,14 +477,12 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-
-
+                </div>                
             </div>
             <div class="team-dots"></div>
         </div>
     </section>
+    <!-- /Catálogos para Descarga -->
 
 
 
@@ -485,7 +490,7 @@
     <section id="contact-home-area" class="contact-home-area s-bg-white">
 
         <!-- Section title Map -->
-        <div class="section-header mb-0">
+        <div class="section-header">
             <div class="row">
                 <div class="container">
                     <h2 class="icou-brand-title"><span

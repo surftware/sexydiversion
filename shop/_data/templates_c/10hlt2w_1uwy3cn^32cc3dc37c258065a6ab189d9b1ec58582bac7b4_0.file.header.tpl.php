@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-07-20 14:33:12
+/* Smarty version 3.1.29, created on 2020-07-27 05:27:14
   from "/home4/sexydive/public_html/shop/themes/modus/template/header.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5f15f1785e2a62_09058297',
+  'unifunc' => 'content_5f1eac026a5007_65413996',
   'file_dependency' => 
   array (
     '32cc3dc37c258065a6ab189d9b1ec58582bac7b4' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5f15f1785e2a62_09058297 ($_smarty_tpl) {
+function content_5f1eac026a5007_65413996 ($_smarty_tpl) {
 ?>
 <!DOCTYPE html>
 <html lang=<?php echo $_smarty_tpl->tpl_vars['lang_info']->value['code'];?>
