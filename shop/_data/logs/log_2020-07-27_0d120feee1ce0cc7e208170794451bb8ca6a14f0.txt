@@ -1,0 +1,3041 @@
+[2020-07-27 2:27:58]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:02]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:03]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:04]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:13]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:14]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:16]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:18]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:18]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:19]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:20]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:20]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:21]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:24]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:24]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:28:25]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:28:28]	[DEBUG]	[i.php]	
+  src_path: '20200725213030-459dbb82-la.jpg'
+  derivative_path: '20200725213030-459dbb82-xs.jpg'
+  o_size: '586 756 443016'
+  d_size: '251 324 81324'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 19,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 45,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 0,
+    'total' => 74,
+  )
+[2020-07-27 2:28:49]	[DEBUG]	[i.php]	
+  src_path: '20200627041250-f71c6561.jpg'
+  derivative_path: '20200627041250-f71c6561-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-27 2:29:29]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:29:46]	[DEBUG]	taglist_before
+  164: array(
+    0 => '20',
+    1 => '21',
+    2 => '22',
+  )
+[2020-07-27 2:29:46]	[DEBUG]	taglist_after
+  164: array(
+    0 => '20',
+    1 => '21',
+    2 => '22',
+  )
+[2020-07-27 2:29:46]	[DEBUG]	$images_to_update
+[2020-07-27 2:29:46]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:29:50]	[DEBUG]	taglist_before
+  164: array(
+    0 => '20',
+    1 => '21',
+    2 => '22',
+  )
+[2020-07-27 2:29:50]	[DEBUG]	taglist_after
+  164: array(
+    0 => '20',
+    1 => '21',
+    2 => '22',
+  )
+[2020-07-27 2:29:50]	[DEBUG]	$images_to_update
+[2020-07-27 2:29:51]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:29:55]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:29:56]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:29:58]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:30:02]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213030-5b2e1ae0-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213030-5b2e1ae0-sm.jpg'
+[2020-07-27 2:30:02]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:30:03]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/25/20200725213029-cce70f80-me.jpg
+  url: '/shop/i.php?/upload/2020/07/25/20200725213029-cce70f80-xs.jpg'
+[2020-07-27 2:31:25]	[DEBUG]	taglist_before
+  126: array(
+    0 => '5',
+  )
+[2020-07-27 2:31:25]	[DEBUG]	taglist_after
+  126: array(
+    0 => '5',
+  )
+[2020-07-27 2:31:25]	[DEBUG]	$images_to_update
+[2020-07-27 2:31:54]	[DEBUG]	taglist_before
+  123: array(
+    0 => '5',
+  )
+[2020-07-27 2:31:54]	[DEBUG]	taglist_after
+  123: array(
+    0 => '5',
+  )
+[2020-07-27 2:31:54]	[DEBUG]	$images_to_update
+[2020-07-27 2:33:28]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727023328-4063ddcf.jpg, $representative_ext = 
+[2020-07-27 2:33:28]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727023328-4063ddcf.jpg, $representative_ext = 
+[2020-07-27 2:33:28]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727023328-4063ddcf.jpg, $representative_ext = 
+[2020-07-27 2:33:28]	[INFO]	Handling ././upload/2020/07/27/20200727023328-4063ddcf.jpg got 
+[2020-07-27 2:33:28]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727023328-4063ddcf-me.jpg
+[2020-07-27 2:33:29]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-me.jpg'
+  o_size: '723 1024 740352'
+  d_size: '419 594 248886'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 18,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 87,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 15,
+    'send' => 0,
+    'total' => 125,
+  )
+[2020-07-27 2:33:29]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 42,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 71,
+  )
+[2020-07-27 2:33:29]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727023329-fcc291b7.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727023329-fcc291b7.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727023329-fcc291b7.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	Handling ././upload/2020/07/27/20200727023329-fcc291b7.jpg got 
+[2020-07-27 2:33:29]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727023329-fcc291b7-me.jpg
+[2020-07-27 2:33:29]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-fcc291b7.jpg'
+  derivative_path: '20200727023329-fcc291b7-me.jpg'
+  o_size: '500 500 250000'
+  d_size: '500 500 250000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 4,
+    'save' => 5,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-27 2:33:29]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-fcc291b7.jpg'
+  derivative_path: '20200727023329-fcc291b7-sq.jpg'
+  o_size: '500 500 250000'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 1,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-27 2:33:29]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727023329-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727023329-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727023329-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 2:33:29]	[INFO]	Handling ././upload/2020/07/27/20200727023329-7aedbc16.jpg got 
+[2020-07-27 2:33:29]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727023329-7aedbc16-me.jpg
+[2020-07-27 2:33:30]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-7aedbc16.jpg'
+  derivative_path: '20200727023329-7aedbc16-me.jpg'
+  o_size: '640 640 409600'
+  d_size: '594 594 352836'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 16,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 61,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 23,
+    'send' => 0,
+    'total' => 105,
+  )
+[2020-07-27 2:33:30]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-7aedbc16.jpg'
+  derivative_path: '20200727023329-7aedbc16-sq.jpg'
+  o_size: '640 640 409600'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 18,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-27 2:33:46]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-fcc291b7-me.jpg'
+  derivative_path: '20200727023329-fcc291b7-th.jpg'
+  o_size: '500 500 250000'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-27 2:33:46]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf-me.jpg'
+  derivative_path: '20200727023328-4063ddcf-th.jpg'
+  o_size: '419 594 248886'
+  d_size: '101 144 14544'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 21,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 2:33:46]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-7aedbc16-me.jpg'
+  derivative_path: '20200727023329-7aedbc16-th.jpg'
+  o_size: '594 594 352836'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-27 2:34:30]	[DEBUG]	taglist_before
+  167: array()
+[2020-07-27 2:34:30]	[DEBUG]	taglist_after
+  167: array(
+    0 => '12',
+    1 => '26',
+  )
+[2020-07-27 2:34:30]	[DEBUG]	$images_to_update
+  0: 167
+[2020-07-27 2:34:56]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-fcc291b7.jpg'
+  derivative_path: '20200727023329-fcc291b7-cu_e250.jpg'
+  o_size: '500 500 250000'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 25,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-27 2:35:06]	[DEBUG]	[i.php]	
+  src_path: '20200727023329-fcc291b7-me.jpg'
+  derivative_path: '20200727023329-fcc291b7-2s.jpg'
+  o_size: '500 500 250000'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 29,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 41,
+  )
+[2020-07-27 2:35:06]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf-me.jpg'
+  derivative_path: '20200727023328-4063ddcf-2s.jpg'
+  o_size: '419 594 248886'
+  d_size: '169 240 40560'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 25,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-27 2:35:10]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-la.jpg'
+  o_size: '723 1024 740352'
+  d_size: '533 756 402948'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 100,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 22,
+    'send' => 0,
+    'total' => 146,
+  )
+[2020-07-27 2:35:52]	[DEBUG]	taglist_before
+  166: array()
+[2020-07-27 2:35:52]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 2:35:52]	[DEBUG]	$images_to_update
+  0: 166
+[2020-07-27 2:48:00]	[DEBUG]	taglist_before
+  68: array(
+    0 => '12',
+  )
+[2020-07-27 2:48:00]	[DEBUG]	taglist_after
+  68: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 2:48:00]	[DEBUG]	$images_to_update
+  0: 68
+[2020-07-27 2:48:31]	[DEBUG]	taglist_before
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 2:48:31]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 2:48:31]	[DEBUG]	$images_to_update
+[2020-07-27 2:49:55]	[DEBUG]	taglist_before
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 2:49:55]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 2:49:55]	[DEBUG]	$images_to_update
+[2020-07-27 2:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sm.jpg'
+  o_size: '723 1024 740352'
+  d_size: '305 432 131760'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 18,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 75,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 10,
+    'send' => 0,
+    'total' => 113,
+  )
+[2020-07-27 2:53:55]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf-la.jpg'
+  derivative_path: '20200727023328-4063ddcf-xs.jpg'
+  o_size: '533 756 402948'
+  d_size: '228 324 73872'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 41,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 62,
+  )
+[2020-07-27 2:55:32]	[DEBUG]	taglist_before
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:55:32]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:55:32]	[DEBUG]	$images_to_update
+[2020-07-27 2:55:53]	[DEBUG]	taglist_before
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:55:53]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:55:53]	[DEBUG]	$images_to_update
+[2020-07-27 2:56:36]	[DEBUG]	taglist_before
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:56:36]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 2:56:36]	[DEBUG]	$images_to_update
+[2020-07-27 2:57:02]	[DEBUG]	taglist_before
+  72: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:02]	[DEBUG]	taglist_after
+  72: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:02]	[DEBUG]	$images_to_update
+[2020-07-27 2:57:17]	[DEBUG]	taglist_before
+  73: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:17]	[DEBUG]	taglist_after
+  73: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:17]	[DEBUG]	$images_to_update
+[2020-07-27 2:57:33]	[DEBUG]	taglist_before
+  74: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:33]	[DEBUG]	taglist_after
+  74: array(
+    0 => '12',
+  )
+[2020-07-27 2:57:33]	[DEBUG]	$images_to_update
+[2020-07-27 2:58:13]	[DEBUG]	taglist_before
+  75: array(
+    0 => '12',
+  )
+[2020-07-27 2:58:13]	[DEBUG]	taglist_after
+  75: array(
+    0 => '12',
+  )
+[2020-07-27 2:58:13]	[DEBUG]	$images_to_update
+[2020-07-27 2:59:07]	[DEBUG]	taglist_before
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 2:59:07]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 2:59:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:00:04]	[DEBUG]	taglist_before
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:04]	[DEBUG]	taglist_after
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:04]	[DEBUG]	$images_to_update
+[2020-07-27 3:00:24]	[DEBUG]	taglist_before
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:24]	[DEBUG]	taglist_after
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:24]	[DEBUG]	$images_to_update
+[2020-07-27 3:00:40]	[DEBUG]	taglist_before
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:40]	[DEBUG]	taglist_after
+  86: array(
+    0 => '12',
+  )
+[2020-07-27 3:00:40]	[DEBUG]	$images_to_update
+[2020-07-27 3:01:53]	[DEBUG]	taglist_before
+  85: array(
+    0 => '12',
+  )
+[2020-07-27 3:01:53]	[DEBUG]	taglist_after
+  85: array(
+    0 => '12',
+  )
+[2020-07-27 3:01:53]	[DEBUG]	$images_to_update
+[2020-07-27 3:02:36]	[DEBUG]	taglist_before
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 3:02:36]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 3:02:36]	[DEBUG]	$images_to_update
+[2020-07-27 3:02:52]	[DEBUG]	taglist_before
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 3:02:52]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-27 3:02:52]	[DEBUG]	$images_to_update
+[2020-07-27 3:03:12]	[DEBUG]	taglist_before
+  83: array(
+    0 => '12',
+  )
+[2020-07-27 3:03:12]	[DEBUG]	taglist_after
+  83: array(
+    0 => '12',
+  )
+[2020-07-27 3:03:12]	[DEBUG]	$images_to_update
+[2020-07-27 3:03:35]	[DEBUG]	taglist_before
+  82: array(
+    0 => '12',
+  )
+[2020-07-27 3:03:35]	[DEBUG]	taglist_after
+  82: array(
+    0 => '12',
+  )
+[2020-07-27 3:03:35]	[DEBUG]	$images_to_update
+[2020-07-27 3:04:02]	[DEBUG]	taglist_before
+  81: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:02]	[DEBUG]	taglist_after
+  81: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:02]	[DEBUG]	$images_to_update
+[2020-07-27 3:04:24]	[DEBUG]	taglist_before
+  80: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:24]	[DEBUG]	taglist_after
+  80: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:24]	[DEBUG]	$images_to_update
+[2020-07-27 3:04:49]	[DEBUG]	taglist_before
+  79: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:49]	[DEBUG]	taglist_after
+  79: array(
+    0 => '12',
+  )
+[2020-07-27 3:04:49]	[DEBUG]	$images_to_update
+[2020-07-27 3:05:10]	[DEBUG]	taglist_before
+  78: array(
+    0 => '12',
+  )
+[2020-07-27 3:05:10]	[DEBUG]	taglist_after
+  78: array(
+    0 => '12',
+  )
+[2020-07-27 3:05:10]	[DEBUG]	$images_to_update
+[2020-07-27 3:05:40]	[DEBUG]	taglist_before
+  72: array(
+    0 => '12',
+  )
+[2020-07-27 3:05:40]	[DEBUG]	taglist_after
+  72: array(
+    0 => '12',
+  )
+[2020-07-27 3:05:40]	[DEBUG]	$images_to_update
+[2020-07-27 3:06:09]	[DEBUG]	taglist_before
+  77: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:09]	[DEBUG]	taglist_after
+  77: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:09]	[DEBUG]	$images_to_update
+[2020-07-27 3:06:33]	[DEBUG]	taglist_before
+  76: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:33]	[DEBUG]	taglist_after
+  76: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:33]	[DEBUG]	$images_to_update
+[2020-07-27 3:06:49]	[DEBUG]	taglist_before
+  75: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:49]	[DEBUG]	taglist_after
+  75: array(
+    0 => '12',
+  )
+[2020-07-27 3:06:49]	[DEBUG]	$images_to_update
+[2020-07-27 3:07:08]	[DEBUG]	taglist_before
+  74: array(
+    0 => '12',
+  )
+[2020-07-27 3:07:08]	[DEBUG]	taglist_after
+  74: array(
+    0 => '12',
+  )
+[2020-07-27 3:07:08]	[DEBUG]	$images_to_update
+[2020-07-27 3:07:35]	[DEBUG]	taglist_before
+  73: array(
+    0 => '12',
+  )
+[2020-07-27 3:07:35]	[DEBUG]	taglist_after
+  73: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:07:35]	[DEBUG]	$images_to_update
+  0: 73
+[2020-07-27 3:07:53]	[DEBUG]	taglist_before
+  166: array(
+    0 => '12',
+  )
+[2020-07-27 3:07:53]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:07:53]	[DEBUG]	$images_to_update
+  0: 166
+[2020-07-27 3:08:37]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 42,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 72,
+  )
+[2020-07-27 3:08:40]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 42,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 71,
+  )
+[2020-07-27 3:09:06]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 18,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 42,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 72,
+  )
+[2020-07-27 3:09:14]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 41,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 70,
+  )
+[2020-07-27 3:09:20]	[DEBUG]	taglist_before
+  166: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:09:20]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:09:20]	[DEBUG]	$images_to_update
+[2020-07-27 3:09:57]	[DEBUG]	taglist_before
+  68: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:09:57]	[DEBUG]	taglist_after
+  68: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:09:57]	[DEBUG]	$images_to_update
+[2020-07-27 3:21:09]	[DEBUG]	taglist_before
+  71: array(
+    0 => '12',
+  )
+[2020-07-27 3:21:09]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:21:09]	[DEBUG]	$images_to_update
+  0: 71
+[2020-07-27 3:22:06]	[DEBUG]	taglist_before
+  69: array(
+    0 => '12',
+  )
+[2020-07-27 3:22:06]	[DEBUG]	taglist_after
+  69: array(
+    0 => '12',
+    1 => '26',
+  )
+[2020-07-27 3:22:06]	[DEBUG]	$images_to_update
+  0: 69
+[2020-07-27 3:31:35]	[DEBUG]	[i.php]	
+  src_path: '20200725210721-c34f2357.jpg'
+  derivative_path: '20200725210721-c34f2357-la.jpg'
+  o_size: '720 720 518400'
+  d_size: '720 720 518400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 7,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-27 3:31:35]	[DEBUG]	[i.php]	
+  src_path: '20200725210720-b05fd538.jpg'
+  derivative_path: '20200725210720-b05fd538-la.jpg'
+  o_size: '720 720 518400'
+  d_size: '720 720 518400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 8,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-27 3:33:46]	[DEBUG]	taglist_before
+  66: array(
+    0 => '8',
+  )
+[2020-07-27 3:33:46]	[DEBUG]	taglist_after
+  66: array(
+    0 => '8',
+  )
+[2020-07-27 3:33:46]	[DEBUG]	$images_to_update
+[2020-07-27 3:34:44]	[DEBUG]	taglist_before
+  159: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:34:44]	[DEBUG]	taglist_after
+  159: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:34:44]	[DEBUG]	$images_to_update
+[2020-07-27 3:34:47]	[DEBUG]	[i.php]	
+  src_path: '20200725210737-c34f2357.jpg'
+  derivative_path: '20200725210737-c34f2357-la.jpg'
+  o_size: '720 720 518400'
+  d_size: '720 720 518400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 7,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_before
+  155: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_after
+  155: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	$images_to_update
+[2020-07-27 3:36:50]	[DEBUG]	taglist_before
+  156: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_after
+  156: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	$images_to_update
+[2020-07-27 3:36:50]	[DEBUG]	taglist_before
+  157: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_after
+  157: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	$images_to_update
+[2020-07-27 3:36:50]	[DEBUG]	taglist_before
+  158: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_after
+  158: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	$images_to_update
+[2020-07-27 3:36:50]	[DEBUG]	taglist_before
+  159: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	taglist_after
+  159: array(
+    0 => '16',
+    1 => '17',
+  )
+[2020-07-27 3:36:50]	[DEBUG]	$images_to_update
+[2020-07-27 3:36:57]	[DEBUG]	[i.php]	
+  src_path: '20200725210736-d02d0a5b.jpg'
+  derivative_path: '20200725210736-d02d0a5b-la.jpg'
+  o_size: '720 717 516240'
+  d_size: '720 717 516240'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 8,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-27 3:37:01]	[DEBUG]	[i.php]	
+  src_path: '20200725210735-f7b16687.jpg'
+  derivative_path: '20200725210735-f7b16687-la.jpg'
+  o_size: '720 720 518400'
+  d_size: '720 720 518400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 15,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 8,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-27 3:38:13]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-sq.jpg'
+  o_size: '723 1024 740352'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 21,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 42,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 74,
+  )
+[2020-07-27 3:38:22]	[DEBUG]	taglist_before
+  166: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:38:22]	[DEBUG]	taglist_after
+  166: array(
+    0 => '12',
+    1 => '27',
+  )
+[2020-07-27 3:38:22]	[DEBUG]	$images_to_update
+[2020-07-27 3:40:54]	[DEBUG]	taglist_before
+  135: array()
+[2020-07-27 3:40:54]	[DEBUG]	taglist_after
+  135: array(
+    0 => '10',
+  )
+[2020-07-27 3:40:54]	[DEBUG]	$images_to_update
+  0: 135
+[2020-07-27 3:41:36]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-sq.jpg'
+  o_size: '791 1024 809984'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 19,
+    'rotate' => '',
+    'crop' => 3,
+    'scale' => 50,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 82,
+  )
+[2020-07-27 3:41:42]	[DEBUG]	taglist_before
+  135: array(
+    0 => '10',
+  )
+[2020-07-27 3:41:42]	[DEBUG]	taglist_after
+  135: array(
+    0 => '10',
+  )
+[2020-07-27 3:41:42]	[DEBUG]	$images_to_update
+[2020-07-27 3:44:04]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727034404-39d848a8.jpg, $representative_ext = 
+[2020-07-27 3:44:04]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727034404-39d848a8.jpg, $representative_ext = 
+[2020-07-27 3:44:04]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727034404-39d848a8.jpg, $representative_ext = 
+[2020-07-27 3:44:04]	[INFO]	Handling ././upload/2020/07/27/20200727034404-39d848a8.jpg got 
+[2020-07-27 3:44:04]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727034404-39d848a8-me.jpg
+[2020-07-27 3:44:04]	[DEBUG]	[i.php]	
+  src_path: '20200727034404-39d848a8.jpg'
+  derivative_path: '20200727034404-39d848a8-me.jpg'
+  o_size: '560 560 313600'
+  d_size: '560 560 313600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 5,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-27 3:44:04]	[DEBUG]	[i.php]	
+  src_path: '20200727034404-39d848a8.jpg'
+  derivative_path: '20200727034404-39d848a8-sq.jpg'
+  o_size: '560 560 313600'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-27 3:44:07]	[DEBUG]	[i.php]	
+  src_path: '20200727034404-39d848a8-me.jpg'
+  derivative_path: '20200727034404-39d848a8-th.jpg'
+  o_size: '560 560 313600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-27 3:46:51]	[DEBUG]	taglist_before
+  169: array()
+[2020-07-27 3:46:51]	[DEBUG]	taglist_after
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:46:51]	[DEBUG]	$images_to_update
+  0: 169
+[2020-07-27 3:48:07]	[DEBUG]	taglist_before
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	taglist_after
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:48:07]	[DEBUG]	taglist_before
+  132: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	taglist_after
+  132: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:48:07]	[DEBUG]	taglist_before
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	taglist_after
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:48:07]	[DEBUG]	taglist_before
+  134: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	taglist_after
+  134: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:48:07]	[DEBUG]	taglist_before
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	taglist_after
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:48:07]	[DEBUG]	$images_to_update
+[2020-07-27 3:48:58]	[DEBUG]	taglist_before
+  134: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:58]	[DEBUG]	taglist_after
+  134: array(
+    0 => '11',
+  )
+[2020-07-27 3:48:58]	[DEBUG]	$images_to_update
+[2020-07-27 3:49:09]	[DEBUG]	taglist_before
+  132: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:09]	[DEBUG]	taglist_after
+  132: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:09]	[DEBUG]	$images_to_update
+[2020-07-27 3:49:17]	[DEBUG]	taglist_before
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:17]	[DEBUG]	taglist_after
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:17]	[DEBUG]	$images_to_update
+[2020-07-27 3:49:24]	[DEBUG]	taglist_before
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:24]	[DEBUG]	taglist_after
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:24]	[DEBUG]	$images_to_update
+[2020-07-27 3:49:38]	[DEBUG]	taglist_before
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:38]	[DEBUG]	taglist_after
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:38]	[DEBUG]	$images_to_update
+[2020-07-27 3:49:49]	[DEBUG]	taglist_before
+  128: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:49]	[DEBUG]	taglist_after
+  128: array(
+    0 => '11',
+  )
+[2020-07-27 3:49:49]	[DEBUG]	$images_to_update
+[2020-07-27 3:50:01]	[DEBUG]	taglist_before
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:50:01]	[DEBUG]	taglist_after
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:50:01]	[DEBUG]	$images_to_update
+[2020-07-27 3:50:25]	[DEBUG]	taglist_before
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:50:25]	[DEBUG]	taglist_after
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:50:25]	[DEBUG]	$images_to_update
+[2020-07-27 3:52:08]	[DEBUG]	taglist_before
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:52:08]	[DEBUG]	taglist_after
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:52:08]	[DEBUG]	$images_to_update
+[2020-07-27 3:52:41]	[DEBUG]	taglist_before
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:52:41]	[DEBUG]	taglist_after
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:52:41]	[DEBUG]	$images_to_update
+[2020-07-27 3:52:59]	[DEBUG]	taglist_before
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:52:59]	[DEBUG]	taglist_after
+  169: array(
+    0 => '11',
+    1 => '28',
+  )
+[2020-07-27 3:52:59]	[DEBUG]	$images_to_update
+[2020-07-27 3:54:04]	[DEBUG]	taglist_before
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:54:04]	[DEBUG]	taglist_after
+  133: array(
+    0 => '11',
+  )
+[2020-07-27 3:54:04]	[DEBUG]	$images_to_update
+[2020-07-27 3:54:38]	[DEBUG]	taglist_before
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:54:38]	[DEBUG]	taglist_after
+  130: array(
+    0 => '11',
+  )
+[2020-07-27 3:54:38]	[DEBUG]	$images_to_update
+[2020-07-27 3:55:32]	[DEBUG]	taglist_before
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:55:32]	[DEBUG]	taglist_after
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:55:32]	[DEBUG]	$images_to_update
+[2020-07-27 3:55:49]	[DEBUG]	taglist_before
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:55:49]	[DEBUG]	taglist_after
+  131: array(
+    0 => '11',
+  )
+[2020-07-27 3:55:49]	[DEBUG]	$images_to_update
+[2020-07-27 3:56:11]	[DEBUG]	taglist_before
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:11]	[DEBUG]	taglist_after
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:11]	[DEBUG]	$images_to_update
+[2020-07-27 3:56:35]	[DEBUG]	taglist_before
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:35]	[DEBUG]	taglist_after
+  127: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:35]	[DEBUG]	$images_to_update
+[2020-07-27 3:56:58]	[DEBUG]	taglist_before
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:58]	[DEBUG]	taglist_after
+  129: array(
+    0 => '11',
+  )
+[2020-07-27 3:56:58]	[DEBUG]	$images_to_update
+[2020-07-27 3:58:00]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727035800-179bf439.jpg, $representative_ext = 
+[2020-07-27 3:58:00]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727035800-179bf439.jpg, $representative_ext = 
+[2020-07-27 3:58:00]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727035800-179bf439.jpg, $representative_ext = 
+[2020-07-27 3:58:00]	[INFO]	Handling ././upload/2020/07/27/20200727035800-179bf439.jpg got 
+[2020-07-27 3:58:00]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727035800-179bf439-me.jpg
+[2020-07-27 3:58:00]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439.jpg'
+  derivative_path: '20200727035800-179bf439-me.jpg'
+  o_size: '431 679 292649'
+  d_size: '377 594 223938'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 45,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 18,
+    'send' => 0,
+    'total' => 80,
+  )
+[2020-07-27 3:58:00]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439.jpg'
+  derivative_path: '20200727035800-179bf439-sq.jpg'
+  o_size: '431 679 292649'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-27 3:58:04]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439-me.jpg'
+  derivative_path: '20200727035800-179bf439-th.jpg'
+  o_size: '377 594 223938'
+  d_size: '91 144 13104'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-27 3:58:45]	[DEBUG]	taglist_before
+  156: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:58:45]	[DEBUG]	taglist_after
+  156: array(
+    0 => '16',
+    1 => '17',
+    2 => '18',
+  )
+[2020-07-27 3:58:45]	[DEBUG]	$images_to_update
+[2020-07-27 4:00:02]	[DEBUG]	taglist_before
+  170: array()
+[2020-07-27 4:00:02]	[DEBUG]	taglist_after
+  170: array(
+    0 => '29',
+    1 => '30',
+  )
+[2020-07-27 4:00:02]	[DEBUG]	$images_to_update
+  0: 170
+[2020-07-27 4:00:29]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439.jpg'
+  derivative_path: '20200727035800-179bf439-la.jpg'
+  o_size: '431 679 292649'
+  d_size: '431 679 292649'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 6,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-27 4:08:52]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040852-3c2ddb31.jpg, $representative_ext = 
+[2020-07-27 4:08:52]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040852-3c2ddb31.jpg, $representative_ext = 
+[2020-07-27 4:08:52]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040852-3c2ddb31.jpg, $representative_ext = 
+[2020-07-27 4:08:52]	[INFO]	Handling ././upload/2020/07/27/20200727040852-3c2ddb31.jpg got 
+[2020-07-27 4:08:52]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040852-3c2ddb31-me.jpg
+[2020-07-27 4:08:52]	[DEBUG]	[i.php]	
+  src_path: '20200727040852-3c2ddb31.jpg'
+  derivative_path: '20200727040852-3c2ddb31-me.jpg'
+  o_size: '314 629 197506'
+  d_size: '296 594 175824'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 13,
+    'send' => 0,
+    'total' => 62,
+  )
+[2020-07-27 4:08:53]	[DEBUG]	[i.php]	
+  src_path: '20200727040852-3c2ddb31.jpg'
+  derivative_path: '20200727040852-3c2ddb31-sq.jpg'
+  o_size: '314 629 197506'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => 0,
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-27 4:08:53]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040853-3a198c2c.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040853-3a198c2c.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040853-3a198c2c.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	Handling ././upload/2020/07/27/20200727040853-3a198c2c.jpg got 
+[2020-07-27 4:08:53]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040853-3a198c2c-me.jpg
+[2020-07-27 4:08:53]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-3a198c2c.jpg'
+  derivative_path: '20200727040853-3a198c2c-me.jpg'
+  o_size: '500 500 250000'
+  d_size: '500 500 250000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 5,
+    'send' => 0,
+    'total' => 18,
+  )
+[2020-07-27 4:08:53]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-3a198c2c.jpg'
+  derivative_path: '20200727040853-3a198c2c-sq.jpg'
+  o_size: '500 500 250000'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-27 4:08:53]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040853-58526b70.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040853-58526b70.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040853-58526b70.jpg, $representative_ext = 
+[2020-07-27 4:08:53]	[INFO]	Handling ././upload/2020/07/27/20200727040853-58526b70.jpg got 
+[2020-07-27 4:08:53]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040853-58526b70-me.jpg
+[2020-07-27 4:08:54]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70.jpg'
+  derivative_path: '20200727040853-58526b70-me.jpg'
+  o_size: '800 800 640000'
+  d_size: '594 594 352836'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 15,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 83,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 21,
+    'send' => 0,
+    'total' => 124,
+  )
+[2020-07-27 4:08:54]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70.jpg'
+  derivative_path: '20200727040853-58526b70-sq.jpg'
+  o_size: '800 800 640000'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 15,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 27,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 51,
+  )
+[2020-07-27 4:08:54]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040854-60a38cdd.jpg, $representative_ext = 
+[2020-07-27 4:08:54]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040854-60a38cdd.jpg, $representative_ext = 
+[2020-07-27 4:08:54]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040854-60a38cdd.jpg, $representative_ext = 
+[2020-07-27 4:08:54]	[INFO]	Handling ././upload/2020/07/27/20200727040854-60a38cdd.jpg got 
+[2020-07-27 4:08:54]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040854-60a38cdd-me.jpg
+[2020-07-27 4:08:54]	[DEBUG]	[i.php]	
+  src_path: '20200727040854-60a38cdd.jpg'
+  derivative_path: '20200727040854-60a38cdd-me.jpg'
+  o_size: '359 679 243761'
+  d_size: '314 594 186516'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 36,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 19,
+    'send' => 0,
+    'total' => 77,
+  )
+[2020-07-27 4:08:55]	[DEBUG]	[i.php]	
+  src_path: '20200727040854-60a38cdd.jpg'
+  derivative_path: '20200727040854-60a38cdd-sq.jpg'
+  o_size: '359 679 243761'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => 0,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-27 4:08:55]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040855-8c573ceb.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040855-8c573ceb.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040855-8c573ceb.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	Handling ././upload/2020/07/27/20200727040855-8c573ceb.jpg got 
+[2020-07-27 4:08:55]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040855-8c573ceb-me.jpg
+[2020-07-27 4:08:55]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-8c573ceb.jpg'
+  derivative_path: '20200727040855-8c573ceb-me.jpg'
+  o_size: '406 550 223300'
+  d_size: '406 550 223300'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 4,
+    'send' => 0,
+    'total' => 18,
+  )
+[2020-07-27 4:08:55]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-8c573ceb.jpg'
+  derivative_path: '20200727040855-8c573ceb-sq.jpg'
+  o_size: '406 550 223300'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 8,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-27 4:08:55]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040855-96fa5411.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040855-96fa5411.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040855-96fa5411.jpg, $representative_ext = 
+[2020-07-27 4:08:55]	[INFO]	Handling ././upload/2020/07/27/20200727040855-96fa5411.jpg got 
+[2020-07-27 4:08:55]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040855-96fa5411-me.jpg
+[2020-07-27 4:08:55]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-96fa5411.jpg'
+  derivative_path: '20200727040855-96fa5411-me.jpg'
+  o_size: '276 500 138000'
+  d_size: '276 500 138000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-27 4:08:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-96fa5411.jpg'
+  derivative_path: '20200727040855-96fa5411-sq.jpg'
+  o_size: '276 500 138000'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => 0,
+    'scale' => 8,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-27 4:08:56]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040856-ecb64115.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040856-ecb64115.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040856-ecb64115.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	Handling ././upload/2020/07/27/20200727040856-ecb64115.jpg got 
+[2020-07-27 4:08:56]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040856-ecb64115-me.jpg
+[2020-07-27 4:08:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-ecb64115.jpg'
+  derivative_path: '20200727040856-ecb64115-me.jpg'
+  o_size: '437 458 200146'
+  d_size: '437 458 200146'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 4,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-27 4:08:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-ecb64115.jpg'
+  derivative_path: '20200727040856-ecb64115-sq.jpg'
+  o_size: '437 458 200146'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 17,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-27 4:08:56]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040856-cae4703b.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040856-cae4703b.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040856-cae4703b.jpg, $representative_ext = 
+[2020-07-27 4:08:56]	[INFO]	Handling ././upload/2020/07/27/20200727040856-cae4703b.jpg got 
+[2020-07-27 4:08:56]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+[2020-07-27 4:08:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-cae4703b.jpg'
+  derivative_path: '20200727040856-cae4703b-me.jpg'
+  o_size: '300 300 90000'
+  d_size: '300 300 90000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 18,
+  )
+[2020-07-27 4:08:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-cae4703b.jpg'
+  derivative_path: '20200727040856-cae4703b-sq.jpg'
+  o_size: '300 300 90000'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-27 4:08:57]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727040857-51fe6eee.png, $representative_ext = 
+[2020-07-27 4:08:57]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727040857-51fe6eee.png, $representative_ext = 
+[2020-07-27 4:08:57]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727040857-51fe6eee.png, $representative_ext = 
+[2020-07-27 4:08:57]	[INFO]	Handling ././upload/2020/07/27/20200727040857-51fe6eee.png got 
+[2020-07-27 4:08:57]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727040857-51fe6eee-me.png
+[2020-07-27 4:08:57]	[DEBUG]	[i.php]	
+  src_path: '20200727040857-51fe6eee.png'
+  derivative_path: '20200727040857-51fe6eee-me.png'
+  o_size: '350 390 136500'
+  d_size: '350 390 136500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 70,
+    'send' => 0,
+    'total' => 85,
+  )
+[2020-07-27 4:08:58]	[DEBUG]	[i.php]	
+  src_path: '20200727040857-51fe6eee.png'
+  derivative_path: '20200727040857-51fe6eee-sq.png'
+  o_size: '350 390 136500'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => 0,
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 9,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040857-51fe6eee-me.png'
+  derivative_path: '20200727040857-51fe6eee-th.png'
+  o_size: '350 390 136500'
+  d_size: '129 144 18576'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 11,
+    'send' => 0,
+    'total' => 39,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-3a198c2c-me.jpg'
+  derivative_path: '20200727040853-3a198c2c-th.jpg'
+  o_size: '500 500 250000'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040854-60a38cdd-me.jpg'
+  derivative_path: '20200727040854-60a38cdd-th.jpg'
+  o_size: '314 594 186516'
+  d_size: '76 144 10944'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-96fa5411-me.jpg'
+  derivative_path: '20200727040855-96fa5411-th.jpg'
+  o_size: '276 500 138000'
+  d_size: '79 144 11376'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 7,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70-me.jpg'
+  derivative_path: '20200727040853-58526b70-th.jpg'
+  o_size: '594 594 352836'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-cae4703b-me.jpg'
+  derivative_path: '20200727040856-cae4703b-th.jpg'
+  o_size: '300 300 90000'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-ecb64115-me.jpg'
+  derivative_path: '20200727040856-ecb64115-th.jpg'
+  o_size: '437 458 200146'
+  d_size: '137 144 19728'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040852-3c2ddb31-me.jpg'
+  derivative_path: '20200727040852-3c2ddb31-th.jpg'
+  o_size: '296 594 175824'
+  d_size: '71 144 10224'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 8,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 1,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-27 4:09:02]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-8c573ceb-me.jpg'
+  derivative_path: '20200727040855-8c573ceb-th.jpg'
+  o_size: '406 550 223300'
+  d_size: '106 144 15264'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-cae4703b-me.jpg'
+  derivative_path: '20200727040856-cae4703b-2s.jpg'
+  o_size: '300 300 90000'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-8c573ceb-me.jpg'
+  derivative_path: '20200727040855-8c573ceb-2s.jpg'
+  o_size: '406 550 223300'
+  d_size: '177 240 42480'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 28,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040857-51fe6eee-me.png'
+  derivative_path: '20200727040857-51fe6eee-2s.png'
+  o_size: '350 390 136500'
+  d_size: '215 240 51600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 18,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 28,
+    'send' => 0,
+    'total' => 60,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040856-ecb64115-me.jpg'
+  derivative_path: '20200727040856-ecb64115-2s.jpg'
+  o_size: '437 458 200146'
+  d_size: '228 240 54720'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 22,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040854-60a38cdd-me.jpg'
+  derivative_path: '20200727040854-60a38cdd-2s.jpg'
+  o_size: '314 594 186516'
+  d_size: '126 240 30240'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70-me.jpg'
+  derivative_path: '20200727040853-58526b70-2s.jpg'
+  o_size: '594 594 352836'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 36,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 55,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040852-3c2ddb31-me.jpg'
+  derivative_path: '20200727040852-3c2ddb31-2s.jpg'
+  o_size: '296 594 175824'
+  d_size: '119 240 28560'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 17,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040855-96fa5411-me.jpg'
+  derivative_path: '20200727040855-96fa5411-2s.jpg'
+  o_size: '276 500 138000'
+  d_size: '132 240 31680'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-27 4:10:30]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-3a198c2c-me.jpg'
+  derivative_path: '20200727040853-3a198c2c-2s.jpg'
+  o_size: '500 500 250000'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 27,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 41,
+  )
+[2020-07-27 4:11:43]	[DEBUG]	taglist_before
+  44: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:11:43]	[DEBUG]	taglist_after
+  44: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:11:43]	[DEBUG]	$images_to_update
+[2020-07-27 4:12:43]	[DEBUG]	taglist_before
+  171: array()
+[2020-07-27 4:12:43]	[DEBUG]	taglist_after
+  171: array(
+    0 => '7',
+    1 => '31',
+  )
+[2020-07-27 4:12:43]	[DEBUG]	$images_to_update
+  0: 171
+[2020-07-27 4:12:46]	[DEBUG]	[i.php]	
+  src_path: '20200727040852-3c2ddb31.jpg'
+  derivative_path: '20200727040852-3c2ddb31-la.jpg'
+  o_size: '314 629 197506'
+  d_size: '314 629 197506'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 4,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-27 4:13:53]	[DEBUG]	taglist_before
+  173: array()
+[2020-07-27 4:13:53]	[DEBUG]	taglist_after
+  173: array(
+    0 => '7',
+    1 => '14',
+  )
+[2020-07-27 4:13:53]	[DEBUG]	$images_to_update
+  0: 173
+[2020-07-27 4:13:56]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70.jpg'
+  derivative_path: '20200727040853-58526b70-xl.jpg'
+  o_size: '800 800 640000'
+  d_size: '800 800 640000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 21,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 10,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 4:21:01]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:21:01]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:21:01]	[DEBUG]	$images_to_update
+[2020-07-27 4:22:32]	[DEBUG]	taglist_before
+  172: array()
+[2020-07-27 4:22:32]	[DEBUG]	taglist_after
+  172: array(
+    0 => '7',
+    1 => '14',
+    2 => '31',
+  )
+[2020-07-27 4:22:32]	[DEBUG]	$images_to_update
+  0: 172
+[2020-07-27 4:23:24]	[DEBUG]	taglist_before
+  67: array(
+    0 => '8',
+    1 => '25',
+  )
+[2020-07-27 4:23:24]	[DEBUG]	taglist_after
+  67: array(
+    0 => '8',
+    1 => '25',
+  )
+[2020-07-27 4:23:24]	[DEBUG]	$images_to_update
+[2020-07-27 4:24:14]	[DEBUG]	taglist_before
+  174: array()
+[2020-07-27 4:24:14]	[DEBUG]	taglist_after
+  174: array(
+    0 => '6',
+    1 => '7',
+    2 => '14',
+  )
+[2020-07-27 4:24:14]	[DEBUG]	$images_to_update
+  0: 174
+[2020-07-27 4:24:18]	[DEBUG]	[i.php]	
+  src_path: '20200727040854-60a38cdd.jpg'
+  derivative_path: '20200727040854-60a38cdd-la.jpg'
+  o_size: '359 679 243761'
+  d_size: '359 679 243761'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 6,
+    'send' => 4,
+    'total' => 25,
+  )
+[2020-07-27 4:25:50]	[DEBUG]	taglist_before
+  66: array(
+    0 => '8',
+  )
+[2020-07-27 4:25:50]	[DEBUG]	taglist_after
+  66: array(
+    0 => '8',
+    1 => '32',
+  )
+[2020-07-27 4:25:50]	[DEBUG]	$images_to_update
+  0: 66
+[2020-07-27 4:26:28]	[DEBUG]	taglist_before
+  176: array()
+[2020-07-27 4:26:28]	[DEBUG]	taglist_after
+  176: array(
+    0 => '7',
+    1 => '14',
+    2 => '31',
+  )
+[2020-07-27 4:26:28]	[DEBUG]	$images_to_update
+  0: 176
+[2020-07-27 4:27:43]	[DEBUG]	taglist_before
+  61: array(
+    0 => '8',
+  )
+[2020-07-27 4:27:43]	[DEBUG]	taglist_after
+  61: array(
+    0 => '8',
+    1 => '32',
+  )
+[2020-07-27 4:27:43]	[DEBUG]	$images_to_update
+  0: 61
+[2020-07-27 4:29:09]	[DEBUG]	taglist_before
+  175: array()
+[2020-07-27 4:29:09]	[DEBUG]	taglist_after
+  175: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:29:09]	[DEBUG]	$images_to_update
+  0: 175
+[2020-07-27 4:29:45]	[DEBUG]	taglist_before
+  175: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:29:45]	[DEBUG]	taglist_after
+  175: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:29:45]	[DEBUG]	$images_to_update
+[2020-07-27 4:29:57]	[DEBUG]	taglist_before
+  175: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:29:57]	[DEBUG]	taglist_after
+  175: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-27 4:29:57]	[DEBUG]	$images_to_update
+[2020-07-27 4:31:00]	[DEBUG]	taglist_before
+  58: array(
+    0 => '8',
+  )
+[2020-07-27 4:31:00]	[DEBUG]	taglist_after
+  58: array(
+    0 => '8',
+  )
+[2020-07-27 4:31:00]	[DEBUG]	$images_to_update
+[2020-07-27 4:31:26]	[DEBUG]	taglist_before
+  58: array(
+    0 => '8',
+  )
+[2020-07-27 4:31:26]	[DEBUG]	taglist_after
+  58: array(
+    0 => '8',
+  )
+[2020-07-27 4:31:26]	[DEBUG]	$images_to_update
+[2020-07-27 4:31:45]	[DEBUG]	taglist_before
+  178: array()
+[2020-07-27 4:31:45]	[DEBUG]	taglist_after
+  178: array(
+    0 => '7',
+  )
+[2020-07-27 4:31:45]	[DEBUG]	$images_to_update
+  0: 178
+[2020-07-27 4:32:08]	[DEBUG]	taglist_before
+  178: array(
+    0 => '7',
+  )
+[2020-07-27 4:32:08]	[DEBUG]	taglist_after
+  178: array(
+    0 => '7',
+  )
+[2020-07-27 4:32:08]	[DEBUG]	$images_to_update
+[2020-07-27 4:32:26]	[DEBUG]	taglist_before
+  178: array(
+    0 => '7',
+  )
+[2020-07-27 4:32:26]	[DEBUG]	taglist_after
+  178: array(
+    0 => '7',
+  )
+[2020-07-27 4:32:26]	[DEBUG]	$images_to_update
+[2020-07-27 4:33:05]	[DEBUG]	taglist_before
+  177: array()
+[2020-07-27 4:33:05]	[DEBUG]	taglist_after
+  177: array(
+    0 => '7',
+  )
+[2020-07-27 4:33:05]	[DEBUG]	$images_to_update
+  0: 177
+[2020-07-27 4:33:08]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:11]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:13]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:15]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:20]	[DEBUG]	[i.php]	
+  src_path: '20200727040853-58526b70-xl.jpg'
+  derivative_path: '20200727040853-58526b70-la.jpg'
+  o_size: '800 800 640000'
+  d_size: '756 756 571536'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 100,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 32,
+    'send' => 2,
+    'total' => 147,
+  )
+[2020-07-27 4:33:29]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:30]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:30]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040857-51fe6eee-me.png
+  url: '/shop/i.php?/upload/2020/07/27/20200727040857-51fe6eee-sm.png'
+[2020-07-27 4:33:33]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:33:34]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:34:24]	[DEBUG]	taglist_before
+  179: array()
+[2020-07-27 4:34:24]	[DEBUG]	taglist_after
+  179: array(
+    0 => '7',
+    1 => '14',
+  )
+[2020-07-27 4:34:24]	[DEBUG]	$images_to_update
+  0: 179
+[2020-07-27 4:34:26]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040857-51fe6eee-me.png
+  url: '/shop/i.php?/upload/2020/07/27/20200727040857-51fe6eee-sm.png'
+[2020-07-27 4:34:38]	[DEBUG]	taglist_before
+  179: array(
+    0 => '7',
+    1 => '14',
+  )
+[2020-07-27 4:34:38]	[DEBUG]	taglist_after
+  179: array(
+    0 => '7',
+    1 => '14',
+  )
+[2020-07-27 4:34:38]	[DEBUG]	$images_to_update
+[2020-07-27 4:34:38]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040857-51fe6eee-me.png
+  url: '/shop/i.php?/upload/2020/07/27/20200727040857-51fe6eee-sm.png'
+[2020-07-27 4:34:43]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:34:44]	[DEBUG]	[i.php]	301 ./_data/i/upload/2020/07/27/20200727040856-cae4703b-me.jpg
+  url: '/shop/i.php?/upload/2020/07/27/20200727040856-cae4703b-xs.jpg'
+[2020-07-27 4:37:03]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439.jpg'
+  derivative_path: '20200727035800-179bf439-cu_e250.jpg'
+  o_size: '431 679 292649'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 22,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-27 4:37:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-cu_e250.jpg'
+  o_size: '791 1024 809984'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 21,
+    'rotate' => '',
+    'crop' => 3,
+    'scale' => 58,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 6,
+    'send' => 0,
+    'total' => 98,
+  )
+[2020-07-27 4:37:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-66781919.jpg'
+  derivative_path: '20200627041127-66781919-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 5,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-27 4:37:03]	[DEBUG]	[i.php]	
+  src_path: '20200727023328-4063ddcf.jpg'
+  derivative_path: '20200727023328-4063ddcf-cu_e250.jpg'
+  o_size: '723 1024 740352'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 21,
+    'rotate' => '',
+    'crop' => 3,
+    'scale' => 51,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 89,
+  )
+[2020-07-27 4:37:03]	[DEBUG]	[i.php]	
+  src_path: '20200727040857-51fe6eee.png'
+  derivative_path: '20200727040857-51fe6eee-cu_e250.png'
+  o_size: '350 390 136500'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 16,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 38,
+    'send' => 1,
+    'total' => 85,
+  )
+[2020-07-27 4:41:22]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:41:22]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:41:22]	[DEBUG]	$images_to_update
+[2020-07-27 4:43:51]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727044351-0af7728d.jpg, $representative_ext = 
+[2020-07-27 4:43:51]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727044351-0af7728d.jpg, $representative_ext = 
+[2020-07-27 4:43:51]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727044351-0af7728d.jpg, $representative_ext = 
+[2020-07-27 4:43:51]	[INFO]	Handling ././upload/2020/07/27/20200727044351-0af7728d.jpg got 
+[2020-07-27 4:43:51]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727044351-0af7728d-me.jpg
+[2020-07-27 4:43:51]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d.jpg'
+  derivative_path: '20200727044351-0af7728d-me.jpg'
+  o_size: '570 750 427500'
+  d_size: '451 594 267894'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 58,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 15,
+    'send' => 0,
+    'total' => 91,
+  )
+[2020-07-27 4:43:51]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d.jpg'
+  derivative_path: '20200727044351-0af7728d-sq.jpg'
+  o_size: '570 750 427500'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-27 4:43:52]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727044352-ee29658e.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727044352-ee29658e.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727044352-ee29658e.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	Handling ././upload/2020/07/27/20200727044352-ee29658e.jpg got 
+[2020-07-27 4:43:52]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727044352-ee29658e-me.jpg
+[2020-07-27 4:43:52]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-ee29658e.jpg'
+  derivative_path: '20200727044352-ee29658e-me.jpg'
+  o_size: '450 577 259650'
+  d_size: '450 577 259650'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 5,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-27 4:43:52]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-ee29658e.jpg'
+  derivative_path: '20200727044352-ee29658e-sq.jpg'
+  o_size: '450 577 259650'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-27 4:43:52]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727044352-83c69e5f.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727044352-83c69e5f.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727044352-83c69e5f.jpg, $representative_ext = 
+[2020-07-27 4:43:52]	[INFO]	Handling ././upload/2020/07/27/20200727044352-83c69e5f.jpg got 
+[2020-07-27 4:43:52]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727044352-83c69e5f-me.jpg
+[2020-07-27 4:43:52]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-83c69e5f.jpg'
+  derivative_path: '20200727044352-83c69e5f-me.jpg'
+  o_size: '510 550 280500'
+  d_size: '510 550 280500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 5,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-27 4:43:52]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-83c69e5f.jpg'
+  derivative_path: '20200727044352-83c69e5f-sq.jpg'
+  o_size: '510 550 280500'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-27 4:43:56]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-83c69e5f-me.jpg'
+  derivative_path: '20200727044352-83c69e5f-th.jpg'
+  o_size: '510 550 280500'
+  d_size: '133 144 19152'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-27 4:43:56]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-ee29658e-me.jpg'
+  derivative_path: '20200727044352-ee29658e-th.jpg'
+  o_size: '450 577 259650'
+  d_size: '112 144 16128'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 23,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-27 4:43:56]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d-me.jpg'
+  derivative_path: '20200727044351-0af7728d-th.jpg'
+  o_size: '451 594 267894'
+  d_size: '109 144 15696'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 23,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 4:45:32]	[DEBUG]	taglist_before
+  181: array()
+[2020-07-27 4:45:32]	[DEBUG]	taglist_after
+  181: array(
+    0 => '6',
+    1 => '8',
+  )
+[2020-07-27 4:45:32]	[DEBUG]	$images_to_update
+  0: 181
+[2020-07-27 4:48:01]	[DEBUG]	taglist_before
+  182: array()
+[2020-07-27 4:48:01]	[DEBUG]	taglist_after
+  182: array(
+    0 => '6',
+    1 => '8',
+  )
+[2020-07-27 4:48:01]	[DEBUG]	$images_to_update
+  0: 182
+[2020-07-27 4:48:05]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d.jpg'
+  derivative_path: '20200727044351-0af7728d-la.jpg'
+  o_size: '570 750 427500'
+  d_size: '570 750 427500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 16,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 4,
+    'save' => 6,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-27 4:48:37]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:48:37]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-27 4:48:37]	[DEBUG]	$images_to_update
+[2020-07-27 4:48:46]	[DEBUG]	taglist_before
+  63: array(
+    0 => '8',
+  )
+[2020-07-27 4:48:46]	[DEBUG]	taglist_after
+  63: array(
+    0 => '8',
+  )
+[2020-07-27 4:48:46]	[DEBUG]	$images_to_update
+[2020-07-27 4:50:25]	[DEBUG]	taglist_before
+  180: array()
+[2020-07-27 4:50:25]	[DEBUG]	taglist_after
+  180: array(
+    0 => '8',
+  )
+[2020-07-27 4:50:25]	[DEBUG]	$images_to_update
+  0: 180
+[2020-07-27 4:50:44]	[DEBUG]	taglist_before
+  180: array(
+    0 => '8',
+  )
+[2020-07-27 4:50:44]	[DEBUG]	taglist_after
+  180: array(
+    0 => '8',
+  )
+[2020-07-27 4:50:44]	[DEBUG]	$images_to_update
+[2020-07-27 4:50:48]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d-la.jpg'
+  derivative_path: '20200727044351-0af7728d-2s.jpg'
+  o_size: '570 750 427500'
+  d_size: '182 240 43680'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 21,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-27 4:52:04]	[DEBUG]	taglist_before
+  180: array(
+    0 => '8',
+  )
+[2020-07-27 4:52:04]	[DEBUG]	taglist_after
+  180: array(
+    0 => '8',
+  )
+[2020-07-27 4:52:04]	[DEBUG]	$images_to_update
+[2020-07-27 4:54:22]	[DEBUG]	[i.php]	
+  src_path: '20200727044351-0af7728d.jpg'
+  derivative_path: '20200727044351-0af7728d-cu_e250.jpg'
+  o_size: '570 750 427500'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 33,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 60,
+  )
+[2020-07-27 4:54:51]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-ee29658e-me.jpg'
+  derivative_path: '20200727044352-ee29658e-2s.jpg'
+  o_size: '450 577 259650'
+  d_size: '187 240 44880'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 27,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 41,
+  )
+[2020-07-27 4:54:51]	[DEBUG]	[i.php]	
+  src_path: '20200727044352-83c69e5f-me.jpg'
+  derivative_path: '20200727044352-83c69e5f-2s.jpg'
+  o_size: '510 550 280500'
+  d_size: '222 240 53280'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 30,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-27 5:01:35]	[DEBUG]	[i.php]	
+  src_path: '20200725210736-d02d0a5b-la.jpg'
+  derivative_path: '20200725210736-d02d0a5b-sm.jpg'
+  o_size: '720 717 516240'
+  d_size: '433 432 187056'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 61,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 12,
+    'send' => 0,
+    'total' => 84,
+  )
+[2020-07-27 5:01:48]	[DEBUG]	[i.php]	
+  src_path: '20200725210735-0d281192-la.jpg'
+  derivative_path: '20200725210735-0d281192-xs.jpg'
+  o_size: '720 720 518400'
+  d_size: '324 324 104976'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 55,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 0,
+    'total' => 75,
+  )
+[2020-07-27 5:03:52]	[DEBUG]	[i.php]	
+  src_path: '20200725210737-cbc7c274-la.jpg'
+  derivative_path: '20200725210737-cbc7c274-sm.jpg'
+  o_size: '720 720 518400'
+  d_size: '432 432 186624'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 15,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 67,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 14,
+    'send' => 0,
+    'total' => 98,
+  )
+[2020-07-27 5:12:30]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727051230-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727051230-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727051230-7aedbc16.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	Handling ././upload/2020/07/27/20200727051230-7aedbc16.jpg got 
+[2020-07-27 5:12:30]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727051230-7aedbc16-me.jpg
+[2020-07-27 5:12:30]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-7aedbc16.jpg'
+  derivative_path: '20200727051230-7aedbc16-me.jpg'
+  o_size: '640 640 409600'
+  d_size: '594 594 352836'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 60,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 24,
+    'send' => 3,
+    'total' => 104,
+  )
+[2020-07-27 5:12:30]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-7aedbc16.jpg'
+  derivative_path: '20200727051230-7aedbc16-sq.jpg'
+  o_size: '640 640 409600'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 18,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-27 5:12:30]	[INFO]	upload_file_pdf, $file_path = ././upload/2020/07/27/20200727051230-5f204564.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	upload_file_tiff, $file_path = ././upload/2020/07/27/20200727051230-5f204564.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	upload_file_video, $file_path = ././upload/2020/07/27/20200727051230-5f204564.jpg, $representative_ext = 
+[2020-07-27 5:12:30]	[INFO]	Handling ././upload/2020/07/27/20200727051230-5f204564.jpg got 
+[2020-07-27 5:12:30]	[INFO]	add_uploaded_file : force cache generation, derivative_url = https://sexydiversion.com.mx/shop/i.php?/upload/2020/07/27/20200727051230-5f204564-me.jpg
+[2020-07-27 5:12:31]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-5f204564.jpg'
+  derivative_path: '20200727051230-5f204564-me.jpg'
+  o_size: '750 745 558750'
+  d_size: '597 594 354618'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 77,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 22,
+    'send' => 0,
+    'total' => 118,
+  )
+[2020-07-27 5:12:31]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-5f204564.jpg'
+  derivative_path: '20200727051230-5f204564-sq.jpg'
+  o_size: '750 745 558750'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 44,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 70,
+  )
+[2020-07-27 5:12:35]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-7aedbc16-me.jpg'
+  derivative_path: '20200727051230-7aedbc16-th.jpg'
+  o_size: '594 594 352836'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 17,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-27 5:12:35]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-5f204564-me.jpg'
+  derivative_path: '20200727051230-5f204564-th.jpg'
+  o_size: '597 594 354618'
+  d_size: '144 143 20592'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 32,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-27 5:13:00]	[DEBUG]	taglist_before
+  184: array()
+[2020-07-27 5:13:00]	[DEBUG]	taglist_after
+  184: array(
+    0 => '33',
+  )
+[2020-07-27 5:13:00]	[DEBUG]	$images_to_update
+  0: 184
+[2020-07-27 5:13:56]	[DEBUG]	taglist_before
+  183: array()
+[2020-07-27 5:13:56]	[DEBUG]	taglist_after
+  183: array(
+    0 => '33',
+  )
+[2020-07-27 5:13:56]	[DEBUG]	$images_to_update
+  0: 183
+[2020-07-27 5:14:16]	[DEBUG]	taglist_before
+  184: array(
+    0 => '33',
+  )
+[2020-07-27 5:14:16]	[DEBUG]	taglist_after
+  184: array(
+    0 => '33',
+  )
+[2020-07-27 5:14:16]	[DEBUG]	$images_to_update
+[2020-07-27 5:14:27]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-7aedbc16.jpg'
+  derivative_path: '20200727051230-7aedbc16-la.jpg'
+  o_size: '640 640 409600'
+  d_size: '640 640 409600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 7,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-27 5:14:50]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-5f204564-me.jpg'
+  derivative_path: '20200727051230-5f204564-2s.jpg'
+  o_size: '597 594 354618'
+  d_size: '240 238 57120'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 37,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 57,
+  )
+[2020-07-27 5:21:38]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-7aedbc16-la.jpg'
+  derivative_path: '20200727051230-7aedbc16-2s.jpg'
+  o_size: '640 640 409600'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 41,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 56,
+  )
+[2020-07-27 5:21:40]	[DEBUG]	[i.php]	
+  src_path: '20200727051230-5f204564.jpg'
+  derivative_path: '20200727051230-5f204564-cu_e250.jpg'
+  o_size: '750 745 558750'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 51,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 81,
+  )
+[2020-07-27 5:30:07]	[DEBUG]	[i.php]	
+  src_path: '20200727035800-179bf439-la.jpg'
+  derivative_path: '20200727035800-179bf439-2s.jpg'
+  o_size: '431 679 292649'
+  d_size: '152 240 36480'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 29,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 44,
+  )

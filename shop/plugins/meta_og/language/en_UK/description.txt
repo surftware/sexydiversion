@@ -1,0 +1,1 @@
+Allows to add metadata Open Graph

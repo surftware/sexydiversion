@@ -1,0 +1,95 @@
+/* El archivo no existe y será creado la primera vez que lo guarde */
+
+.titulo{
+  font-size: 30px;
+  font-weight: bold; 
+  color:#ff5b77; 
+  text-align:center; 
+  margin-left:35px; 
+  margin-right:35px; 
+  margin-top:0px !important; 
+  margin-bottom:0px !important;
+}
+
+ @media only screen and (max-width: 600px) {
+  .descripcion{
+  margin-left:50px !important;
+  margin-right:50px !important;
+}
+}
+
+.descripcion{
+  font-size: 15px;
+  font-weight: bold; 
+  color:#613d7c; 
+  text-align:justify; 
+  margin-left:200px;
+  margin-right:200px;
+  margin-top:0px; 
+  margin-bottom:0px;
+}
+
+.precio{
+  font-size: 20px;
+  font-weight: bold;
+  color:#ff5b77;
+  text-align:center;
+  margin-left:35px;
+  margin-right:35px;
+  margin-top:0px; 
+  margin-bottom:0px;
+}
+
+.pwg-icon {
+    font-size: 32px !important;
+}
+
+wide .imageInfoTable, .wide #imageInfos {
+  background-color: #ff5b77 !important;
+  border-radius: 15px;
+  margin-right: 20px;
+}
+
+wide .imageInfoTable, .wide #standard {
+  background-color: #ff5b77 !important;
+  
+
+}
+
+#thePicturePage .titrePage {
+    background-color: #613d7c;
+}
+.titrePage {
+    background-color: white;
+    color: black;
+}
+
+#menubar {
+    background-color: #613d7c;
+}
+  
+  
+#imageInfos {
+  background-color: #ff5b77 !important;
+  color: white;
+  font-weight: bold;
+}
+
+
+/*Colores de los comentarios*/
+#contentid{
+background-color:#613d7c !important; 
+}
+
+#website_url{
+  background-color:#613d7c !important;
+}
+
+#commentAdd input{
+  background-color:#613d7c !important;
+}
+
+
+
+
+

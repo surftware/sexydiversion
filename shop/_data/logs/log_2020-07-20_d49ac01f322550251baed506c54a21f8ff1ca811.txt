@@ -1,0 +1,4623 @@
+[2020-07-20 12:15:57]	[DEBUG]	taglist_before
+  67: array(
+    0 => '8',
+  )
+[2020-07-20 12:15:57]	[DEBUG]	taglist_after
+  67: array(
+    0 => '8',
+  )
+[2020-07-20 12:15:57]	[DEBUG]	$images_to_update
+[2020-07-20 12:23:00]	[DEBUG]	taglist_before
+  131: array()
+[2020-07-20 12:23:00]	[DEBUG]	taglist_after
+  131: array(
+    0 => '11',
+  )
+[2020-07-20 12:23:00]	[DEBUG]	$images_to_update
+  0: 131
+[2020-07-20 12:24:06]	[DEBUG]	taglist_before
+  132: array()
+[2020-07-20 12:24:06]	[DEBUG]	taglist_after
+  132: array(
+    0 => '11',
+  )
+[2020-07-20 12:24:06]	[DEBUG]	$images_to_update
+  0: 132
+[2020-07-20 12:24:53]	[DEBUG]	taglist_before
+  133: array()
+[2020-07-20 12:24:53]	[DEBUG]	taglist_after
+  133: array(
+    0 => '11',
+  )
+[2020-07-20 12:24:53]	[DEBUG]	$images_to_update
+  0: 133
+[2020-07-20 12:25:51]	[DEBUG]	taglist_before
+  130: array()
+[2020-07-20 12:25:51]	[DEBUG]	taglist_after
+  130: array(
+    0 => '11',
+  )
+[2020-07-20 12:25:51]	[DEBUG]	$images_to_update
+  0: 130
+[2020-07-20 12:26:58]	[DEBUG]	taglist_before
+  147: array()
+[2020-07-20 12:26:58]	[DEBUG]	taglist_after
+  147: array(
+    0 => '10',
+  )
+[2020-07-20 12:26:58]	[DEBUG]	$images_to_update
+  0: 147
+[2020-07-20 12:27:04]	[DEBUG]	taglist_before
+  129: array()
+[2020-07-20 12:27:04]	[DEBUG]	taglist_after
+  129: array(
+    0 => '11',
+  )
+[2020-07-20 12:27:04]	[DEBUG]	$images_to_update
+  0: 129
+[2020-07-20 12:27:46]	[DEBUG]	taglist_before
+  127: array()
+[2020-07-20 12:27:46]	[DEBUG]	taglist_after
+  127: array(
+    0 => '11',
+  )
+[2020-07-20 12:27:46]	[DEBUG]	$images_to_update
+  0: 127
+[2020-07-20 12:28:52]	[DEBUG]	taglist_before
+  134: array()
+[2020-07-20 12:28:52]	[DEBUG]	taglist_after
+  134: array(
+    0 => '11',
+  )
+[2020-07-20 12:28:52]	[DEBUG]	$images_to_update
+  0: 134
+[2020-07-20 12:28:55]	[DEBUG]	taglist_before
+  148: array()
+[2020-07-20 12:28:55]	[DEBUG]	taglist_after
+  148: array(
+    0 => '10',
+  )
+[2020-07-20 12:28:55]	[DEBUG]	$images_to_update
+  0: 148
+[2020-07-20 12:31:27]	[DEBUG]	taglist_before
+  144: array()
+[2020-07-20 12:31:27]	[DEBUG]	taglist_after
+  144: array(
+    0 => '10',
+  )
+[2020-07-20 12:31:27]	[DEBUG]	$images_to_update
+  0: 144
+[2020-07-20 12:35:58]	[DEBUG]	taglist_before
+  145: array()
+[2020-07-20 12:35:58]	[DEBUG]	taglist_after
+  145: array(
+    0 => '10',
+  )
+[2020-07-20 12:35:58]	[DEBUG]	$images_to_update
+  0: 145
+[2020-07-20 12:37:42]	[DEBUG]	taglist_before
+  141: array()
+[2020-07-20 12:37:42]	[DEBUG]	taglist_after
+  141: array(
+    0 => '10',
+  )
+[2020-07-20 12:37:42]	[DEBUG]	$images_to_update
+  0: 141
+[2020-07-20 12:39:46]	[DEBUG]	taglist_before
+  142: array()
+[2020-07-20 12:39:46]	[DEBUG]	taglist_after
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 12:39:46]	[DEBUG]	$images_to_update
+  0: 142
+[2020-07-20 12:41:07]	[DEBUG]	taglist_before
+  143: array()
+[2020-07-20 12:41:07]	[DEBUG]	taglist_after
+  143: array(
+    0 => '10',
+  )
+[2020-07-20 12:41:07]	[DEBUG]	$images_to_update
+  0: 143
+[2020-07-20 12:42:33]	[DEBUG]	taglist_before
+  139: array()
+[2020-07-20 12:42:33]	[DEBUG]	taglist_after
+  139: array(
+    0 => '10',
+  )
+[2020-07-20 12:42:33]	[DEBUG]	$images_to_update
+  0: 139
+[2020-07-20 12:43:55]	[DEBUG]	taglist_before
+  140: array()
+[2020-07-20 12:43:55]	[DEBUG]	taglist_after
+  140: array(
+    0 => '10',
+  )
+[2020-07-20 12:43:55]	[DEBUG]	$images_to_update
+  0: 140
+[2020-07-20 12:46:21]	[DEBUG]	taglist_before
+  138: array()
+[2020-07-20 12:46:21]	[DEBUG]	taglist_after
+  138: array(
+    0 => '10',
+  )
+[2020-07-20 12:46:21]	[DEBUG]	$images_to_update
+  0: 138
+[2020-07-20 12:48:47]	[DEBUG]	[i.php]	
+  src_path: '20200627041211-dd8d2117-xs.jpg'
+  derivative_path: '20200627041211-dd8d2117-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-15b10b2a-xs.jpg'
+  derivative_path: '20200627041219-15b10b2a-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041220-05b082e2-xs.jpg'
+  derivative_path: '20200627041220-05b082e2-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-c5bc2ccd-xs.jpg'
+  derivative_path: '20200627041219-c5bc2ccd-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-95b80ce2-xs.jpg'
+  derivative_path: '20200627041219-95b80ce2-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041218-cb75e693-xs.jpg'
+  derivative_path: '20200627041218-cb75e693-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041215-8dbd1bff-xs.jpg'
+  derivative_path: '20200627041215-8dbd1bff-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-4f8468b8-xs.jpg'
+  derivative_path: '20200627041213-4f8468b8-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-be09aa09-xs.jpg'
+  derivative_path: '20200627041214-be09aa09-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 12:48:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041218-acc7b372-xs.jpg'
+  derivative_path: '20200627041218-acc7b372-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-e371441a-xs.jpg'
+  derivative_path: '20200627041217-e371441a-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 15,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 32,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-c1ee732e-xs.jpg'
+  derivative_path: '20200627041213-c1ee732e-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 17,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 32,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-40cea92e-xs.jpg'
+  derivative_path: '20200627041217-40cea92e-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041216-f9ecbaa2-xs.jpg'
+  derivative_path: '20200627041216-f9ecbaa2-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-488371a2-xs.jpg'
+  derivative_path: '20200627041214-488371a2-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-b89d3d6c-xs.jpg'
+  derivative_path: '20200627041214-b89d3d6c-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041216-1f1de333-xs.jpg'
+  derivative_path: '20200627041216-1f1de333-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041215-aee6d01c-xs.jpg'
+  derivative_path: '20200627041215-aee6d01c-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-d7e24df9-xs.jpg'
+  derivative_path: '20200627041217-d7e24df9-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-cb61567a-xs.jpg'
+  derivative_path: '20200627041212-cb61567a-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:48:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-b07266a5-xs.jpg'
+  derivative_path: '20200627041212-b07266a5-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 12:53:39]	[DEBUG]	taglist_before
+  88: array()
+[2020-07-20 12:53:39]	[DEBUG]	taglist_after
+  88: array(
+    0 => '12',
+  )
+[2020-07-20 12:53:39]	[DEBUG]	$images_to_update
+  0: 88
+[2020-07-20 12:55:03]	[DEBUG]	taglist_before
+  85: array()
+[2020-07-20 12:55:03]	[DEBUG]	taglist_after
+  85: array(
+    0 => '12',
+  )
+[2020-07-20 12:55:03]	[DEBUG]	$images_to_update
+  0: 85
+[2020-07-20 12:56:02]	[DEBUG]	taglist_before
+  117: array()
+[2020-07-20 12:56:02]	[DEBUG]	taglist_after
+  117: array(
+    0 => '13',
+  )
+[2020-07-20 12:56:02]	[DEBUG]	$images_to_update
+  0: 117
+[2020-07-20 12:57:04]	[DEBUG]	taglist_before
+  114: array()
+[2020-07-20 12:57:04]	[DEBUG]	taglist_after
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 12:57:04]	[DEBUG]	$images_to_update
+  0: 114
+[2020-07-20 12:57:23]	[DEBUG]	taglist_before
+  86: array()
+[2020-07-20 12:57:23]	[DEBUG]	taglist_after
+  86: array(
+    0 => '12',
+  )
+[2020-07-20 12:57:23]	[DEBUG]	$images_to_update
+  0: 86
+[2020-07-20 12:58:20]	[DEBUG]	taglist_before
+  115: array()
+[2020-07-20 12:58:20]	[DEBUG]	taglist_after
+  115: array(
+    0 => '13',
+  )
+[2020-07-20 12:58:20]	[DEBUG]	$images_to_update
+  0: 115
+[2020-07-20 12:58:50]	[DEBUG]	taglist_before
+  87: array()
+[2020-07-20 12:58:50]	[DEBUG]	taglist_after
+  87: array(
+    0 => '12',
+  )
+[2020-07-20 12:58:50]	[DEBUG]	$images_to_update
+  0: 87
+[2020-07-20 12:59:45]	[DEBUG]	taglist_before
+  116: array()
+[2020-07-20 12:59:45]	[DEBUG]	taglist_after
+  116: array(
+    0 => '13',
+  )
+[2020-07-20 12:59:45]	[DEBUG]	$images_to_update
+  0: 116
+[2020-07-20 12:59:54]	[DEBUG]	taglist_before
+  83: array()
+[2020-07-20 12:59:54]	[DEBUG]	taglist_after
+  83: array(
+    0 => '12',
+  )
+[2020-07-20 12:59:54]	[DEBUG]	$images_to_update
+  0: 83
+[2020-07-20 13:00:40]	[DEBUG]	taglist_before
+  112: array()
+[2020-07-20 13:00:40]	[DEBUG]	taglist_after
+  112: array(
+    0 => '13',
+  )
+[2020-07-20 13:00:40]	[DEBUG]	$images_to_update
+  0: 112
+[2020-07-20 13:01:42]	[DEBUG]	taglist_before
+  113: array()
+[2020-07-20 13:01:42]	[DEBUG]	taglist_after
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 13:01:42]	[DEBUG]	$images_to_update
+  0: 113
+[2020-07-20 13:01:54]	[DEBUG]	taglist_before
+  84: array()
+[2020-07-20 13:01:54]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-20 13:01:54]	[DEBUG]	$images_to_update
+  0: 84
+[2020-07-20 13:01:59]	[DEBUG]	taglist_before
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 13:01:59]	[DEBUG]	taglist_after
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 13:01:59]	[DEBUG]	$images_to_update
+[2020-07-20 13:04:01]	[DEBUG]	taglist_before
+  109: array()
+[2020-07-20 13:04:01]	[DEBUG]	taglist_after
+  109: array(
+    0 => '13',
+  )
+[2020-07-20 13:04:01]	[DEBUG]	$images_to_update
+  0: 109
+[2020-07-20 13:04:35]	[DEBUG]	taglist_before
+  80: array()
+[2020-07-20 13:04:35]	[DEBUG]	taglist_after
+  80: array(
+    0 => '12',
+  )
+[2020-07-20 13:04:35]	[DEBUG]	$images_to_update
+  0: 80
+[2020-07-20 13:04:54]	[DEBUG]	taglist_before
+  110: array()
+[2020-07-20 13:04:54]	[DEBUG]	taglist_after
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 13:04:54]	[DEBUG]	$images_to_update
+  0: 110
+[2020-07-20 13:05:11]	[DEBUG]	taglist_before
+  80: array(
+    0 => '12',
+  )
+[2020-07-20 13:05:11]	[DEBUG]	taglist_after
+  80: array(
+    0 => '12',
+  )
+[2020-07-20 13:05:11]	[DEBUG]	$images_to_update
+[2020-07-20 13:05:59]	[DEBUG]	taglist_before
+  111: array()
+[2020-07-20 13:05:59]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 13:05:59]	[DEBUG]	$images_to_update
+  0: 111
+[2020-07-20 13:06:57]	[DEBUG]	taglist_before
+  107: array()
+[2020-07-20 13:06:57]	[DEBUG]	taglist_after
+  107: array(
+    0 => '13',
+  )
+[2020-07-20 13:06:57]	[DEBUG]	$images_to_update
+  0: 107
+[2020-07-20 13:06:59]	[DEBUG]	taglist_before
+  81: array()
+[2020-07-20 13:06:59]	[DEBUG]	taglist_after
+  81: array(
+    0 => '12',
+  )
+[2020-07-20 13:06:59]	[DEBUG]	$images_to_update
+  0: 81
+[2020-07-20 13:09:37]	[DEBUG]	taglist_before
+  108: array()
+[2020-07-20 13:09:37]	[DEBUG]	taglist_after
+  108: array(
+    0 => '13',
+  )
+[2020-07-20 13:09:37]	[DEBUG]	$images_to_update
+  0: 108
+[2020-07-20 13:10:14]	[DEBUG]	taglist_before
+  82: array()
+[2020-07-20 13:10:14]	[DEBUG]	taglist_after
+  82: array(
+    0 => '12',
+  )
+[2020-07-20 13:10:14]	[DEBUG]	$images_to_update
+  0: 82
+[2020-07-20 13:10:33]	[DEBUG]	taglist_before
+  105: array()
+[2020-07-20 13:10:33]	[DEBUG]	taglist_after
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 13:10:33]	[DEBUG]	$images_to_update
+  0: 105
+[2020-07-20 13:11:59]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-0a45a2c0.jpg'
+  derivative_path: '20200627041454-0a45a2c0-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-20 13:11:59]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-40cea92e.jpg'
+  derivative_path: '20200627041217-40cea92e-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-20 13:12:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041432-5e9ff3be.jpg'
+  derivative_path: '20200627041432-5e9ff3be-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 13:12:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041433-fe4fd260.jpg'
+  derivative_path: '20200627041433-fe4fd260-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 13:12:36]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-c5bc2ccd.jpg'
+  derivative_path: '20200627041219-c5bc2ccd-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 13:12:36]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-15b10b2a.jpg'
+  derivative_path: '20200627041219-15b10b2a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 13:12:41]	[DEBUG]	[i.php]	
+  src_path: '20200627041216-1f1de333.jpg'
+  derivative_path: '20200627041216-1f1de333-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-20 13:12:41]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-d7e24df9.jpg'
+  derivative_path: '20200627041217-d7e24df9-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-20 13:12:52]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-e371441a.jpg'
+  derivative_path: '20200627041217-e371441a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 13:12:52]	[DEBUG]	[i.php]	
+  src_path: '20200627041217-40cea92e.jpg'
+  derivative_path: '20200627041217-40cea92e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 13:13:14]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-30ccd478.jpg'
+  derivative_path: '20200627040919-30ccd478-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 13:13:14]	[DEBUG]	[i.php]	
+  src_path: '20200627040920-b9176982.jpg'
+  derivative_path: '20200627040920-b9176982-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 13:13:20]	[DEBUG]	taglist_before
+  106: array()
+[2020-07-20 13:13:20]	[DEBUG]	taglist_after
+  106: array(
+    0 => '13',
+  )
+[2020-07-20 13:13:20]	[DEBUG]	$images_to_update
+  0: 106
+[2020-07-20 13:14:19]	[DEBUG]	taglist_before
+  102: array()
+[2020-07-20 13:14:19]	[DEBUG]	taglist_after
+  102: array(
+    0 => '13',
+  )
+[2020-07-20 13:14:19]	[DEBUG]	$images_to_update
+  0: 102
+[2020-07-20 13:14:38]	[DEBUG]	taglist_before
+  78: array()
+[2020-07-20 13:14:38]	[DEBUG]	taglist_after
+  78: array(
+    0 => '12',
+  )
+[2020-07-20 13:14:38]	[DEBUG]	$images_to_update
+  0: 78
+[2020-07-20 13:15:05]	[DEBUG]	taglist_before
+  103: array()
+[2020-07-20 13:15:05]	[DEBUG]	taglist_after
+  103: array(
+    0 => '13',
+  )
+[2020-07-20 13:15:05]	[DEBUG]	$images_to_update
+  0: 103
+[2020-07-20 13:15:26]	[DEBUG]	taglist_before
+  78: array(
+    0 => '12',
+  )
+[2020-07-20 13:15:26]	[DEBUG]	taglist_after
+  78: array(
+    0 => '12',
+  )
+[2020-07-20 13:15:26]	[DEBUG]	$images_to_update
+[2020-07-20 13:15:40]	[DEBUG]	taglist_before
+  104: array()
+[2020-07-20 13:15:40]	[DEBUG]	taglist_after
+  104: array(
+    0 => '13',
+  )
+[2020-07-20 13:15:40]	[DEBUG]	$images_to_update
+  0: 104
+[2020-07-20 13:16:48]	[DEBUG]	taglist_before
+  100: array()
+[2020-07-20 13:16:48]	[DEBUG]	taglist_after
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 13:16:48]	[DEBUG]	$images_to_update
+  0: 100
+[2020-07-20 13:17:04]	[DEBUG]	taglist_before
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 13:17:04]	[DEBUG]	taglist_after
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 13:17:04]	[DEBUG]	$images_to_update
+[2020-07-20 13:17:36]	[DEBUG]	taglist_before
+  79: array()
+[2020-07-20 13:17:36]	[DEBUG]	taglist_after
+  79: array(
+    0 => '12',
+  )
+[2020-07-20 13:17:36]	[DEBUG]	$images_to_update
+  0: 79
+[2020-07-20 13:19:22]	[DEBUG]	taglist_before
+  76: array()
+[2020-07-20 13:19:22]	[DEBUG]	taglist_after
+  76: array()
+[2020-07-20 13:19:22]	[DEBUG]	$images_to_update
+[2020-07-20 13:19:26]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-74193dab.jpg'
+  derivative_path: '20200627040918-74193dab-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-20 13:19:50]	[DEBUG]	taglist_before
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 13:19:50]	[DEBUG]	taglist_after
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 13:19:50]	[DEBUG]	$images_to_update
+[2020-07-20 13:19:55]	[DEBUG]	taglist_before
+  76: array()
+[2020-07-20 13:19:55]	[DEBUG]	taglist_after
+  76: array(
+    0 => '12',
+  )
+[2020-07-20 13:19:55]	[DEBUG]	$images_to_update
+  0: 76
+[2020-07-20 13:20:14]	[DEBUG]	taglist_before
+  101: array()
+[2020-07-20 13:20:14]	[DEBUG]	taglist_after
+  101: array(
+    0 => '13',
+  )
+[2020-07-20 13:20:14]	[DEBUG]	$images_to_update
+  0: 101
+[2020-07-20 13:20:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041215-8dbd1bff.jpg'
+  derivative_path: '20200627041215-8dbd1bff-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-20 13:20:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041216-f9ecbaa2.jpg'
+  derivative_path: '20200627041216-f9ecbaa2-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-20 13:21:45]	[DEBUG]	taglist_before
+  98: array()
+[2020-07-20 13:21:45]	[DEBUG]	taglist_after
+  98: array(
+    0 => '13',
+  )
+[2020-07-20 13:21:45]	[DEBUG]	$images_to_update
+  0: 98
+[2020-07-20 13:22:38]	[DEBUG]	taglist_before
+  99: array()
+[2020-07-20 13:22:38]	[DEBUG]	taglist_after
+  99: array(
+    0 => '13',
+  )
+[2020-07-20 13:22:38]	[DEBUG]	$images_to_update
+  0: 99
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041242-2bdc76ee-xs.jpg'
+  derivative_path: '20200627041242-2bdc76ee-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041242-8634b56a-xs.jpg'
+  derivative_path: '20200627041242-8634b56a-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041243-a7f5494e-xs.jpg'
+  derivative_path: '20200627041243-a7f5494e-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041241-792d0fc4-xs.jpg'
+  derivative_path: '20200627041241-792d0fc4-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041241-7e721917-xs.jpg'
+  derivative_path: '20200627041241-7e721917-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-a749eca9-xs.jpg'
+  derivative_path: '20200627041240-a749eca9-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-a009420d-xs.jpg'
+  derivative_path: '20200627041240-a009420d-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041239-f50053c3-xs.jpg'
+  derivative_path: '20200627041239-f50053c3-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-20 13:22:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-de06a263-xs.jpg'
+  derivative_path: '20200627041240-de06a263-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-20 13:23:31]	[DEBUG]	[i.php]	
+  src_path: '20200627041215-8dbd1bff.jpg'
+  derivative_path: '20200627041215-8dbd1bff-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 13:25:15]	[DEBUG]	taglist_before
+  97: array()
+[2020-07-20 13:25:15]	[DEBUG]	taglist_after
+  97: array(
+    0 => '13',
+  )
+[2020-07-20 13:25:15]	[DEBUG]	$images_to_update
+  0: 97
+[2020-07-20 13:25:51]	[DEBUG]	taglist_before
+  95: array()
+[2020-07-20 13:25:51]	[DEBUG]	taglist_after
+  95: array(
+    0 => '13',
+  )
+[2020-07-20 13:25:51]	[DEBUG]	$images_to_update
+  0: 95
+[2020-07-20 13:26:32]	[DEBUG]	taglist_before
+  96: array()
+[2020-07-20 13:26:32]	[DEBUG]	taglist_after
+  96: array(
+    0 => '13',
+  )
+[2020-07-20 13:26:32]	[DEBUG]	$images_to_update
+  0: 96
+[2020-07-20 13:27:21]	[DEBUG]	taglist_before
+  93: array()
+[2020-07-20 13:27:21]	[DEBUG]	taglist_after
+  93: array(
+    0 => '13',
+  )
+[2020-07-20 13:27:21]	[DEBUG]	$images_to_update
+  0: 93
+[2020-07-20 13:27:58]	[DEBUG]	taglist_before
+  94: array()
+[2020-07-20 13:27:58]	[DEBUG]	taglist_after
+  94: array(
+    0 => '13',
+  )
+[2020-07-20 13:27:58]	[DEBUG]	$images_to_update
+  0: 94
+[2020-07-20 13:28:41]	[DEBUG]	taglist_before
+  90: array()
+[2020-07-20 13:28:41]	[DEBUG]	taglist_after
+  90: array(
+    0 => '13',
+  )
+[2020-07-20 13:28:41]	[DEBUG]	$images_to_update
+  0: 90
+[2020-07-20 13:29:19]	[DEBUG]	taglist_before
+  91: array()
+[2020-07-20 13:29:19]	[DEBUG]	taglist_after
+  91: array(
+    0 => '13',
+  )
+[2020-07-20 13:29:19]	[DEBUG]	$images_to_update
+  0: 91
+[2020-07-20 13:29:54]	[DEBUG]	taglist_before
+  92: array()
+[2020-07-20 13:29:54]	[DEBUG]	taglist_after
+  92: array(
+    0 => '13',
+  )
+[2020-07-20 13:29:54]	[DEBUG]	$images_to_update
+  0: 92
+[2020-07-20 13:30:33]	[DEBUG]	taglist_before
+  89: array()
+[2020-07-20 13:30:33]	[DEBUG]	taglist_after
+  89: array(
+    0 => '13',
+  )
+[2020-07-20 13:30:33]	[DEBUG]	$images_to_update
+  0: 89
+[2020-07-20 13:32:08]	[DEBUG]	taglist_before
+  133: array(
+    0 => '11',
+  )
+[2020-07-20 13:32:08]	[DEBUG]	taglist_after
+  133: array(
+    0 => '11',
+  )
+[2020-07-20 13:32:08]	[DEBUG]	$images_to_update
+[2020-07-20 13:33:23]	[DEBUG]	taglist_before
+  128: array()
+[2020-07-20 13:33:23]	[DEBUG]	taglist_after
+  128: array(
+    0 => '11',
+  )
+[2020-07-20 13:33:23]	[DEBUG]	$images_to_update
+  0: 128
+[2020-07-20 13:57:06]	[DEBUG]	taglist_before
+  26: array()
+[2020-07-20 13:57:06]	[DEBUG]	taglist_after
+  26: array(
+    0 => '14',
+  )
+[2020-07-20 13:57:06]	[DEBUG]	$images_to_update
+  0: 26
+[2020-07-20 13:58:50]	[DEBUG]	taglist_before
+  25: array(
+    0 => '9',
+  )
+[2020-07-20 13:58:50]	[DEBUG]	taglist_after
+  25: array(
+    0 => '9',
+  )
+[2020-07-20 13:58:50]	[DEBUG]	$images_to_update
+[2020-07-20 13:59:13]	[DEBUG]	taglist_before
+  23: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:13]	[DEBUG]	taglist_after
+  23: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:13]	[DEBUG]	$images_to_update
+[2020-07-20 13:59:42]	[DEBUG]	taglist_before
+  24: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:42]	[DEBUG]	taglist_after
+  24: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:42]	[DEBUG]	$images_to_update
+[2020-07-20 13:59:57]	[DEBUG]	taglist_before
+  20: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:57]	[DEBUG]	taglist_after
+  20: array(
+    0 => '9',
+  )
+[2020-07-20 13:59:57]	[DEBUG]	$images_to_update
+[2020-07-20 14:00:26]	[DEBUG]	taglist_before
+  21: array(
+    0 => '9',
+  )
+[2020-07-20 14:00:26]	[DEBUG]	taglist_after
+  21: array(
+    0 => '9',
+  )
+[2020-07-20 14:00:26]	[DEBUG]	$images_to_update
+[2020-07-20 14:00:40]	[DEBUG]	taglist_before
+  22: array(
+    0 => '9',
+  )
+[2020-07-20 14:00:40]	[DEBUG]	taglist_after
+  22: array(
+    0 => '9',
+  )
+[2020-07-20 14:00:40]	[DEBUG]	$images_to_update
+[2020-07-20 14:01:01]	[DEBUG]	taglist_before
+  18: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:01]	[DEBUG]	taglist_after
+  18: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:01]	[DEBUG]	$images_to_update
+[2020-07-20 14:01:14]	[DEBUG]	taglist_before
+  19: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:14]	[DEBUG]	taglist_after
+  19: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:14]	[DEBUG]	$images_to_update
+[2020-07-20 14:01:27]	[DEBUG]	taglist_before
+  17: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:27]	[DEBUG]	taglist_after
+  17: array(
+    0 => '9',
+  )
+[2020-07-20 14:01:27]	[DEBUG]	$images_to_update
+[2020-07-20 14:07:35]	[DEBUG]	taglist_before
+  16: array()
+[2020-07-20 14:07:35]	[DEBUG]	taglist_after
+  16: array(
+    0 => '15',
+  )
+[2020-07-20 14:07:35]	[DEBUG]	$images_to_update
+  0: 16
+[2020-07-20 14:08:27]	[DEBUG]	taglist_before
+  13: array()
+[2020-07-20 14:08:27]	[DEBUG]	taglist_after
+  13: array(
+    0 => '15',
+  )
+[2020-07-20 14:08:27]	[DEBUG]	$images_to_update
+  0: 13
+[2020-07-20 14:09:03]	[DEBUG]	taglist_before
+  10: array()
+[2020-07-20 14:09:03]	[DEBUG]	taglist_after
+  10: array(
+    0 => '15',
+  )
+[2020-07-20 14:09:03]	[DEBUG]	$images_to_update
+  0: 10
+[2020-07-20 14:09:45]	[DEBUG]	taglist_before
+  9: array()
+[2020-07-20 14:09:45]	[DEBUG]	taglist_after
+  9: array(
+    0 => '15',
+  )
+[2020-07-20 14:09:45]	[DEBUG]	$images_to_update
+  0: 9
+[2020-07-20 14:10:05]	[DEBUG]	taglist_before
+  62: array(
+    0 => '8',
+  )
+[2020-07-20 14:10:05]	[DEBUG]	taglist_after
+  62: array(
+    0 => '8',
+  )
+[2020-07-20 14:10:05]	[DEBUG]	$images_to_update
+[2020-07-20 14:10:15]	[DEBUG]	taglist_before
+  7: array()
+[2020-07-20 14:10:15]	[DEBUG]	taglist_after
+  7: array(
+    0 => '15',
+  )
+[2020-07-20 14:10:15]	[DEBUG]	$images_to_update
+  0: 7
+[2020-07-20 14:10:49]	[DEBUG]	taglist_before
+  8: array()
+[2020-07-20 14:10:49]	[DEBUG]	taglist_after
+  8: array(
+    0 => '15',
+  )
+[2020-07-20 14:10:49]	[DEBUG]	$images_to_update
+  0: 8
+[2020-07-20 14:11:30]	[DEBUG]	taglist_before
+  4: array()
+[2020-07-20 14:11:30]	[DEBUG]	taglist_after
+  4: array(
+    0 => '15',
+  )
+[2020-07-20 14:11:30]	[DEBUG]	$images_to_update
+  0: 4
+[2020-07-20 14:12:29]	[DEBUG]	taglist_before
+  77: array()
+[2020-07-20 14:12:29]	[DEBUG]	taglist_after
+  77: array(
+    0 => '12',
+  )
+[2020-07-20 14:12:29]	[DEBUG]	$images_to_update
+  0: 77
+[2020-07-20 14:12:30]	[DEBUG]	taglist_before
+  5: array()
+[2020-07-20 14:12:30]	[DEBUG]	taglist_after
+  5: array(
+    0 => '15',
+  )
+[2020-07-20 14:12:30]	[DEBUG]	$images_to_update
+  0: 5
+[2020-07-20 14:13:02]	[DEBUG]	taglist_before
+  6: array()
+[2020-07-20 14:13:02]	[DEBUG]	taglist_after
+  6: array(
+    0 => '15',
+  )
+[2020-07-20 14:13:02]	[DEBUG]	$images_to_update
+  0: 6
+[2020-07-20 14:13:36]	[DEBUG]	taglist_before
+  2: array()
+[2020-07-20 14:13:36]	[DEBUG]	taglist_after
+  2: array(
+    0 => '15',
+  )
+[2020-07-20 14:13:36]	[DEBUG]	$images_to_update
+  0: 2
+[2020-07-20 14:14:11]	[DEBUG]	taglist_before
+  3: array()
+[2020-07-20 14:14:11]	[DEBUG]	taglist_after
+  3: array(
+    0 => '15',
+  )
+[2020-07-20 14:14:11]	[DEBUG]	$images_to_update
+  0: 3
+[2020-07-20 14:14:42]	[DEBUG]	taglist_before
+  1: array()
+[2020-07-20 14:14:42]	[DEBUG]	taglist_after
+  1: array(
+    0 => '15',
+  )
+[2020-07-20 14:14:42]	[DEBUG]	$images_to_update
+  0: 1
+[2020-07-20 14:14:56]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-3f3baff2-xs.jpg'
+  derivative_path: '20200627041123-3f3baff2-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 14:15:43]	[DEBUG]	taglist_before
+  73: array()
+[2020-07-20 14:15:43]	[DEBUG]	taglist_after
+  73: array(
+    0 => '12',
+  )
+[2020-07-20 14:15:43]	[DEBUG]	$images_to_update
+  0: 73
+[2020-07-20 14:16:33]	[DEBUG]	taglist_before
+  46: array()
+[2020-07-20 14:16:33]	[DEBUG]	taglist_after
+  46: array(
+    0 => '8',
+  )
+[2020-07-20 14:16:33]	[DEBUG]	$images_to_update
+  0: 46
+[2020-07-20 14:17:13]	[DEBUG]	taglist_before
+  48: array()
+[2020-07-20 14:17:13]	[DEBUG]	taglist_after
+  48: array(
+    0 => '8',
+  )
+[2020-07-20 14:17:13]	[DEBUG]	$images_to_update
+  0: 48
+[2020-07-20 14:17:17]	[DEBUG]	taglist_before
+  74: array()
+[2020-07-20 14:17:17]	[DEBUG]	taglist_after
+  74: array(
+    0 => '12',
+  )
+[2020-07-20 14:17:17]	[DEBUG]	$images_to_update
+  0: 74
+[2020-07-20 14:19:52]	[DEBUG]	taglist_before
+  75: array()
+[2020-07-20 14:19:52]	[DEBUG]	taglist_after
+  75: array(
+    0 => '12',
+  )
+[2020-07-20 14:19:52]	[DEBUG]	$images_to_update
+  0: 75
+[2020-07-20 14:21:35]	[DEBUG]	taglist_before
+  71: array()
+[2020-07-20 14:21:35]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+  )
+[2020-07-20 14:21:35]	[DEBUG]	$images_to_update
+  0: 71
+[2020-07-20 14:24:29]	[DEBUG]	taglist_before
+  68: array()
+[2020-07-20 14:24:29]	[DEBUG]	taglist_after
+  68: array(
+    0 => '12',
+  )
+[2020-07-20 14:24:29]	[DEBUG]	$images_to_update
+  0: 68
+[2020-07-20 14:24:57]	[DEBUG]	taglist_before
+  72: array()
+[2020-07-20 14:24:57]	[DEBUG]	taglist_after
+  72: array(
+    0 => '12',
+  )
+[2020-07-20 14:24:57]	[DEBUG]	$images_to_update
+  0: 72
+[2020-07-20 14:25:09]	[DEBUG]	taglist_before
+  87: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:09]	[DEBUG]	taglist_after
+  87: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:09]	[DEBUG]	$images_to_update
+[2020-07-20 14:25:20]	[DEBUG]	taglist_before
+  83: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:20]	[DEBUG]	taglist_after
+  83: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:20]	[DEBUG]	$images_to_update
+[2020-07-20 14:25:32]	[DEBUG]	taglist_before
+  84: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:32]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:32]	[DEBUG]	$images_to_update
+[2020-07-20 14:25:49]	[DEBUG]	taglist_before
+  80: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:49]	[DEBUG]	taglist_after
+  80: array(
+    0 => '12',
+  )
+[2020-07-20 14:25:49]	[DEBUG]	$images_to_update
+[2020-07-20 14:26:01]	[DEBUG]	taglist_before
+  81: array(
+    0 => '12',
+  )
+[2020-07-20 14:26:01]	[DEBUG]	taglist_after
+  81: array(
+    0 => '12',
+  )
+[2020-07-20 14:26:01]	[DEBUG]	$images_to_update
+[2020-07-20 14:27:03]	[DEBUG]	taglist_before
+  82: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:03]	[DEBUG]	taglist_after
+  82: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:03]	[DEBUG]	$images_to_update
+[2020-07-20 14:27:03]	[DEBUG]	taglist_before
+  69: array()
+[2020-07-20 14:27:03]	[DEBUG]	taglist_after
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:03]	[DEBUG]	$images_to_update
+  0: 69
+[2020-07-20 14:27:13]	[DEBUG]	taglist_before
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:13]	[DEBUG]	taglist_after
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:13]	[DEBUG]	$images_to_update
+[2020-07-20 14:27:23]	[DEBUG]	taglist_before
+  78: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:23]	[DEBUG]	taglist_after
+  78: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:23]	[DEBUG]	$images_to_update
+[2020-07-20 14:27:35]	[DEBUG]	taglist_before
+  88: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:35]	[DEBUG]	taglist_after
+  88: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:35]	[DEBUG]	$images_to_update
+[2020-07-20 14:27:48]	[DEBUG]	taglist_before
+  85: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:48]	[DEBUG]	taglist_after
+  85: array(
+    0 => '12',
+  )
+[2020-07-20 14:27:48]	[DEBUG]	$images_to_update
+[2020-07-20 14:28:00]	[DEBUG]	taglist_before
+  86: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:00]	[DEBUG]	taglist_after
+  86: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:00]	[DEBUG]	$images_to_update
+[2020-07-20 14:28:27]	[DEBUG]	taglist_before
+  79: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:27]	[DEBUG]	taglist_after
+  79: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:27]	[DEBUG]	$images_to_update
+[2020-07-20 14:28:40]	[DEBUG]	taglist_before
+  76: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:40]	[DEBUG]	taglist_after
+  76: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:40]	[DEBUG]	$images_to_update
+[2020-07-20 14:28:41]	[DEBUG]	taglist_before
+  70: array()
+[2020-07-20 14:28:41]	[DEBUG]	taglist_after
+  70: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:41]	[DEBUG]	$images_to_update
+  0: 70
+[2020-07-20 14:28:50]	[DEBUG]	taglist_before
+  77: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:50]	[DEBUG]	taglist_after
+  77: array(
+    0 => '12',
+  )
+[2020-07-20 14:28:50]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:03]	[DEBUG]	taglist_before
+  73: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:03]	[DEBUG]	taglist_after
+  73: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:03]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:13]	[DEBUG]	taglist_before
+  74: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:13]	[DEBUG]	taglist_after
+  74: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:13]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:24]	[DEBUG]	taglist_before
+  75: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:24]	[DEBUG]	taglist_after
+  75: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:24]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:34]	[DEBUG]	taglist_before
+  71: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:34]	[DEBUG]	taglist_after
+  71: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:34]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:45]	[DEBUG]	taglist_before
+  72: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:45]	[DEBUG]	taglist_after
+  72: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:45]	[DEBUG]	$images_to_update
+[2020-07-20 14:29:58]	[DEBUG]	taglist_before
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:58]	[DEBUG]	taglist_after
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 14:29:58]	[DEBUG]	$images_to_update
+[2020-07-20 14:30:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-cb61567a.jpg'
+  derivative_path: '20200627041212-cb61567a-cu_e250.jpg'
+  o_size: '315 315 99225'
+  d_size: '250 250 62500'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-20 14:30:49]	[DEBUG]	[i.php]	
+  src_path: '20200627041248-cf07b1d5.jpg'
+  derivative_path: '20200627041248-cf07b1d5-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:30:49]	[DEBUG]	[i.php]	
+  src_path: '20200627041248-d3191958.jpg'
+  derivative_path: '20200627041248-d3191958-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:30:49]	[DEBUG]	[i.php]	
+  src_path: '20200627041248-ef7db265.jpg'
+  derivative_path: '20200627041248-ef7db265-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:31:48]	[DEBUG]	taglist_before
+  70: array(
+    0 => '12',
+  )
+[2020-07-20 14:31:48]	[DEBUG]	taglist_after
+  70: array(
+    0 => '12',
+  )
+[2020-07-20 14:31:48]	[DEBUG]	$images_to_update
+[2020-07-20 14:34:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041250-f71c6561.jpg'
+  derivative_path: '20200627041250-f71c6561-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-20 14:34:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041251-7da4a381.jpg'
+  derivative_path: '20200627041251-7da4a381-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:34:38]	[DEBUG]	[i.php]	
+  src_path: '20200627041250-a32c15b8.jpg'
+  derivative_path: '20200627041250-a32c15b8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 14:34:43]	[DEBUG]	[i.php]	
+  src_path: '20200627041250-45fec584.jpg'
+  derivative_path: '20200627041250-45fec584-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 32,
+  )
+[2020-07-20 14:34:45]	[DEBUG]	[i.php]	
+  src_path: '20200627041249-32553db4.jpg'
+  derivative_path: '20200627041249-32553db4-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:34:47]	[DEBUG]	[i.php]	
+  src_path: '20200627041249-bac2e59a.jpg'
+  derivative_path: '20200627041249-bac2e59a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 14:34:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041247-690d31d8.jpg'
+  derivative_path: '20200627041247-690d31d8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-20 14:34:52]	[DEBUG]	[i.php]	
+  src_path: '20200627041247-eb17be96.jpg'
+  derivative_path: '20200627041247-eb17be96-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 12,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-20 14:34:54]	[DEBUG]	[i.php]	
+  src_path: '20200627041246-79dfb28e.jpg'
+  derivative_path: '20200627041246-79dfb28e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:34:55]	[DEBUG]	[i.php]	
+  src_path: '20200627041246-1bec0256.jpg'
+  derivative_path: '20200627041246-1bec0256-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:34:56]	[DEBUG]	[i.php]	
+  src_path: '20200627041245-931243f8.jpg'
+  derivative_path: '20200627041245-931243f8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 32,
+  )
+[2020-07-20 14:34:57]	[DEBUG]	[i.php]	
+  src_path: '20200627041245-81d88638.jpg'
+  derivative_path: '20200627041245-81d88638-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:34:58]	[DEBUG]	[i.php]	
+  src_path: '20200627041245-e3a077bd.jpg'
+  derivative_path: '20200627041245-e3a077bd-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 14:34:59]	[DEBUG]	[i.php]	
+  src_path: '20200627041244-b7c8a1bc.jpg'
+  derivative_path: '20200627041244-b7c8a1bc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:35:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041244-2458d685.jpg'
+  derivative_path: '20200627041244-2458d685-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:35:01]	[DEBUG]	[i.php]	
+  src_path: '20200627041243-2c4bed11.jpg'
+  derivative_path: '20200627041243-2c4bed11-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:35:01]	[DEBUG]	[i.php]	
+  src_path: '20200627041243-a8e928cc.jpg'
+  derivative_path: '20200627041243-a8e928cc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 5,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-20 14:35:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041243-a7f5494e.jpg'
+  derivative_path: '20200627041243-a7f5494e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:35:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041242-8634b56a.jpg'
+  derivative_path: '20200627041242-8634b56a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 14:35:11]	[DEBUG]	[i.php]	
+  src_path: '20200627041242-2bdc76ee.jpg'
+  derivative_path: '20200627041242-2bdc76ee-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:35:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041241-792d0fc4.jpg'
+  derivative_path: '20200627041241-792d0fc4-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:35:13]	[DEBUG]	[i.php]	
+  src_path: '20200627041241-7e721917.jpg'
+  derivative_path: '20200627041241-7e721917-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-20 14:35:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-a009420d.jpg'
+  derivative_path: '20200627041240-a009420d-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:35:15]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-a749eca9.jpg'
+  derivative_path: '20200627041240-a749eca9-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 1,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:35:16]	[DEBUG]	[i.php]	
+  src_path: '20200627041240-de06a263.jpg'
+  derivative_path: '20200627041240-de06a263-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 14:36:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041432-10953ee1.jpg'
+  derivative_path: '20200627041432-10953ee1-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:36:16]	[DEBUG]	[i.php]	
+  src_path: '20200627041431-44001083.jpg'
+  derivative_path: '20200627041431-44001083-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:36:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041431-78e66330.jpg'
+  derivative_path: '20200627041431-78e66330-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:36:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041430-55ee9887.jpg'
+  derivative_path: '20200627041430-55ee9887-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 14:36:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041430-e4b2def8.jpg'
+  derivative_path: '20200627041430-e4b2def8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:36:42]	[DEBUG]	[i.php]	
+  src_path: '20200627040917-83d5e027.jpg'
+  derivative_path: '20200627040917-83d5e027-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:36:42]	[DEBUG]	[i.php]	
+  src_path: '20200627040917-db8a828c.jpg'
+  derivative_path: '20200627040917-db8a828c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:36:49]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-6d2e8a6a.jpg'
+  derivative_path: '20200627040919-6d2e8a6a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 14:39:30]	[DEBUG]	taglist_before
+  101: array(
+    0 => '13',
+  )
+[2020-07-20 14:39:30]	[DEBUG]	taglist_after
+  101: array(
+    0 => '13',
+  )
+[2020-07-20 14:39:30]	[DEBUG]	$images_to_update
+[2020-07-20 14:43:20]	[DEBUG]	taglist_before
+  149: array(
+    0 => '10',
+  )
+[2020-07-20 14:43:20]	[DEBUG]	taglist_after
+  149: array(
+    0 => '10',
+  )
+[2020-07-20 14:43:20]	[DEBUG]	$images_to_update
+[2020-07-20 14:43:56]	[DEBUG]	taglist_before
+  146: array()
+[2020-07-20 14:43:56]	[DEBUG]	taglist_after
+  146: array()
+[2020-07-20 14:43:56]	[DEBUG]	$images_to_update
+[2020-07-20 14:44:05]	[DEBUG]	taglist_before
+  146: array()
+[2020-07-20 14:44:05]	[DEBUG]	taglist_after
+  146: array(
+    0 => '10',
+  )
+[2020-07-20 14:44:05]	[DEBUG]	$images_to_update
+  0: 146
+[2020-07-20 14:44:23]	[DEBUG]	taglist_before
+  147: array(
+    0 => '10',
+  )
+[2020-07-20 14:44:23]	[DEBUG]	taglist_after
+  147: array(
+    0 => '10',
+  )
+[2020-07-20 14:44:23]	[DEBUG]	$images_to_update
+[2020-07-20 14:44:39]	[DEBUG]	taglist_before
+  148: array(
+    0 => '10',
+  )
+[2020-07-20 14:44:39]	[DEBUG]	taglist_after
+  148: array(
+    0 => '10',
+  )
+[2020-07-20 14:44:39]	[DEBUG]	$images_to_update
+[2020-07-20 14:45:05]	[DEBUG]	taglist_before
+  144: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:05]	[DEBUG]	taglist_after
+  144: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:05]	[DEBUG]	$images_to_update
+[2020-07-20 14:45:16]	[DEBUG]	taglist_before
+  145: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:17]	[DEBUG]	taglist_after
+  145: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:17]	[DEBUG]	$images_to_update
+[2020-07-20 14:45:31]	[DEBUG]	taglist_before
+  141: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:31]	[DEBUG]	taglist_after
+  141: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:31]	[DEBUG]	$images_to_update
+[2020-07-20 14:45:42]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-427c20bd.jpg'
+  derivative_path: '20200627041458-427c20bd-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:45:42]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-b3522485.jpg'
+  derivative_path: '20200627041457-b3522485-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:45:42]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-956cb288.jpg'
+  derivative_path: '20200627041457-956cb288-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-20 14:45:45]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-b3522485.jpg'
+  derivative_path: '20200627041457-b3522485-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-20 14:45:45]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-956cb288.jpg'
+  derivative_path: '20200627041457-956cb288-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:45:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c86d6e3c.jpg'
+  derivative_path: '20200627041456-c86d6e3c-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-20 14:45:46]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c86d6e3c.jpg'
+  derivative_path: '20200627041456-c86d6e3c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:45:48]	[DEBUG]	taglist_before
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:48]	[DEBUG]	taglist_after
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 14:45:48]	[DEBUG]	$images_to_update
+[2020-07-20 14:46:04]	[DEBUG]	taglist_before
+  143: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:04]	[DEBUG]	taglist_after
+  143: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:04]	[DEBUG]	$images_to_update
+[2020-07-20 14:46:21]	[DEBUG]	taglist_before
+  139: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:21]	[DEBUG]	taglist_after
+  139: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:21]	[DEBUG]	$images_to_update
+[2020-07-20 14:46:33]	[DEBUG]	taglist_before
+  140: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:33]	[DEBUG]	taglist_after
+  140: array(
+    0 => '10',
+  )
+[2020-07-20 14:46:33]	[DEBUG]	$images_to_update
+[2020-07-20 14:46:59]	[DEBUG]	taglist_before
+  136: array()
+[2020-07-20 14:46:59]	[DEBUG]	taglist_after
+  136: array()
+[2020-07-20 14:46:59]	[DEBUG]	$images_to_update
+[2020-07-20 14:47:05]	[DEBUG]	taglist_before
+  137: array()
+[2020-07-20 14:47:05]	[DEBUG]	taglist_after
+  137: array()
+[2020-07-20 14:47:05]	[DEBUG]	$images_to_update
+[2020-07-20 14:47:16]	[DEBUG]	taglist_before
+  138: array(
+    0 => '10',
+  )
+[2020-07-20 14:47:16]	[DEBUG]	taglist_after
+  138: array(
+    0 => '10',
+  )
+[2020-07-20 14:47:16]	[DEBUG]	$images_to_update
+[2020-07-20 14:47:25]	[DEBUG]	taglist_before
+  135: array()
+[2020-07-20 14:47:25]	[DEBUG]	taglist_after
+  135: array()
+[2020-07-20 14:47:25]	[DEBUG]	$images_to_update
+[2020-07-20 14:47:36]	[DEBUG]	taglist_before
+  149: array(
+    0 => '10',
+  )
+[2020-07-20 14:47:36]	[DEBUG]	taglist_after
+  149: array(
+    0 => '10',
+  )
+[2020-07-20 14:47:36]	[DEBUG]	$images_to_update
+[2020-07-20 14:48:39]	[DEBUG]	taglist_before
+  126: array(
+    0 => '5',
+  )
+[2020-07-20 14:48:39]	[DEBUG]	taglist_after
+  126: array(
+    0 => '5',
+  )
+[2020-07-20 14:48:39]	[DEBUG]	$images_to_update
+[2020-07-20 14:48:49]	[DEBUG]	taglist_before
+  123: array(
+    0 => '5',
+  )
+[2020-07-20 14:48:49]	[DEBUG]	taglist_after
+  123: array(
+    0 => '5',
+  )
+[2020-07-20 14:48:49]	[DEBUG]	$images_to_update
+[2020-07-20 14:49:03]	[DEBUG]	taglist_before
+  124: array(
+    0 => '5',
+  )
+[2020-07-20 14:49:03]	[DEBUG]	taglist_after
+  124: array(
+    0 => '5',
+  )
+[2020-07-20 14:49:03]	[DEBUG]	$images_to_update
+[2020-07-20 14:49:18]	[DEBUG]	taglist_before
+  125: array(
+    0 => '5',
+  )
+[2020-07-20 14:49:18]	[DEBUG]	taglist_after
+  125: array(
+    0 => '5',
+  )
+[2020-07-20 14:49:18]	[DEBUG]	$images_to_update
+[2020-07-20 14:51:11]	[DEBUG]	taglist_before
+  22: array(
+    0 => '9',
+  )
+[2020-07-20 14:51:11]	[DEBUG]	taglist_after
+  22: array(
+    0 => '9',
+  )
+[2020-07-20 14:51:11]	[DEBUG]	$images_to_update
+[2020-07-20 14:52:16]	[DEBUG]	taglist_before
+  11: array(
+    0 => '3',
+    1 => '4',
+  )
+[2020-07-20 14:52:16]	[DEBUG]	taglist_after
+  11: array(
+    0 => '3',
+    1 => '4',
+  )
+[2020-07-20 14:52:16]	[DEBUG]	$images_to_update
+[2020-07-20 14:52:28]	[DEBUG]	taglist_before
+  12: array(
+    0 => '3',
+    1 => '4',
+  )
+[2020-07-20 14:52:28]	[DEBUG]	taglist_after
+  12: array(
+    0 => '3',
+    1 => '4',
+  )
+[2020-07-20 14:52:28]	[DEBUG]	$images_to_update
+[2020-07-20 14:53:20]	[DEBUG]	taglist_before
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:53:20]	[DEBUG]	taglist_after
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:53:20]	[DEBUG]	$images_to_update
+[2020-07-20 14:53:50]	[DEBUG]	taglist_before
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:53:50]	[DEBUG]	taglist_after
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:53:50]	[DEBUG]	$images_to_update
+[2020-07-20 14:54:19]	[DEBUG]	taglist_before
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:54:19]	[DEBUG]	taglist_after
+  42: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:54:19]	[DEBUG]	$images_to_update
+[2020-07-20 14:54:24]	[DEBUG]	[i.php]	
+  src_path: '20200627041055-5f8d5fb0.jpg'
+  derivative_path: '20200627041055-5f8d5fb0-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:54:26]	[DEBUG]	[i.php]	
+  src_path: '20200627041055-ad424afe.jpg'
+  derivative_path: '20200627041055-ad424afe-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-20 14:54:27]	[DEBUG]	[i.php]	
+  src_path: '20200627041054-be1a559e.jpg'
+  derivative_path: '20200627041054-be1a559e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:54:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041054-c2d1fc3e.jpg'
+  derivative_path: '20200627041054-c2d1fc3e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:54:31]	[DEBUG]	[i.php]	
+  src_path: '20200627041054-ca91af8d.jpg'
+  derivative_path: '20200627041054-ca91af8d-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-20 14:55:20]	[DEBUG]	taglist_before
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:55:20]	[DEBUG]	taglist_after
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:55:20]	[DEBUG]	$images_to_update
+[2020-07-20 14:56:03]	[DEBUG]	taglist_before
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:56:03]	[DEBUG]	taglist_after
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:56:03]	[DEBUG]	$images_to_update
+[2020-07-20 14:56:36]	[DEBUG]	taglist_before
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:56:36]	[DEBUG]	taglist_after
+  37: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:56:36]	[DEBUG]	$images_to_update
+[2020-07-20 14:56:41]	[DEBUG]	[i.php]	
+  src_path: '20200627041053-1d3f73a1.jpg'
+  derivative_path: '20200627041053-1d3f73a1-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 14:58:44]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:58:44]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:58:44]	[DEBUG]	$images_to_update
+[2020-07-20 14:58:49]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:58:49]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:58:49]	[DEBUG]	$images_to_update
+[2020-07-20 14:59:44]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:59:44]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:59:44]	[DEBUG]	$images_to_update
+[2020-07-20 14:59:47]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:59:47]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 14:59:47]	[DEBUG]	$images_to_update
+[2020-07-20 15:00:16]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:00:16]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:00:16]	[DEBUG]	$images_to_update
+[2020-07-20 15:00:17]	[DEBUG]	taglist_before
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:00:17]	[DEBUG]	taglist_after
+  38: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:00:17]	[DEBUG]	$images_to_update
+[2020-07-20 15:01:27]	[DEBUG]	taglist_before
+  35: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:01:27]	[DEBUG]	taglist_after
+  35: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:01:27]	[DEBUG]	$images_to_update
+[2020-07-20 15:01:36]	[DEBUG]	[i.php]	
+  src_path: '20200627041052-cba0039c.jpg'
+  derivative_path: '20200627041052-cba0039c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:02:24]	[DEBUG]	taglist_before
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:24]	[DEBUG]	taglist_after
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:24]	[DEBUG]	$images_to_update
+[2020-07-20 15:02:25]	[DEBUG]	taglist_before
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:25]	[DEBUG]	taglist_after
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:25]	[DEBUG]	$images_to_update
+[2020-07-20 15:02:29]	[DEBUG]	taglist_before
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:29]	[DEBUG]	taglist_after
+  32: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:02:29]	[DEBUG]	$images_to_update
+[2020-07-20 15:02:43]	[DEBUG]	[i.php]	
+  src_path: '20200627041051-0e7d1c89.jpg'
+  derivative_path: '20200627041051-0e7d1c89-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-20 15:03:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041051-3c9ba3a9.jpg'
+  derivative_path: '20200627041051-3c9ba3a9-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:03:32]	[DEBUG]	[i.php]	
+  src_path: '20200627041050-1ba838ee.jpg'
+  derivative_path: '20200627041050-1ba838ee-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:08:43]	[DEBUG]	taglist_before
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:08:43]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:08:43]	[DEBUG]	$images_to_update
+[2020-07-20 15:08:46]	[DEBUG]	taglist_before
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:08:46]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:08:46]	[DEBUG]	$images_to_update
+[2020-07-20 15:09:08]	[DEBUG]	taglist_before
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:08]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:08]	[DEBUG]	$images_to_update
+[2020-07-20 15:09:11]	[DEBUG]	taglist_before
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:11]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:11]	[DEBUG]	$images_to_update
+[2020-07-20 15:09:57]	[DEBUG]	taglist_before
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:57]	[DEBUG]	taglist_after
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:09:57]	[DEBUG]	$images_to_update
+[2020-07-20 15:10:02]	[DEBUG]	taglist_before
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:02]	[DEBUG]	taglist_after
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:02]	[DEBUG]	$images_to_update
+[2020-07-20 15:10:31]	[DEBUG]	taglist_before
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:31]	[DEBUG]	taglist_after
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:31]	[DEBUG]	$images_to_update
+[2020-07-20 15:10:32]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:10:32]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:10:32]	[DEBUG]	$images_to_update
+[2020-07-20 15:10:34]	[DEBUG]	taglist_before
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:34]	[DEBUG]	taglist_after
+  105: array(
+    0 => '13',
+  )
+[2020-07-20 15:10:34]	[DEBUG]	$images_to_update
+[2020-07-20 15:11:13]	[DEBUG]	taglist_before
+  61: array(
+    0 => '8',
+  )
+[2020-07-20 15:11:13]	[DEBUG]	taglist_after
+  61: array(
+    0 => '8',
+  )
+[2020-07-20 15:11:13]	[DEBUG]	$images_to_update
+[2020-07-20 15:11:44]	[DEBUG]	taglist_before
+  62: array(
+    0 => '8',
+  )
+[2020-07-20 15:11:44]	[DEBUG]	taglist_after
+  62: array(
+    0 => '8',
+  )
+[2020-07-20 15:11:44]	[DEBUG]	$images_to_update
+[2020-07-20 15:12:15]	[DEBUG]	taglist_before
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 15:12:15]	[DEBUG]	taglist_after
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 15:12:15]	[DEBUG]	$images_to_update
+[2020-07-20 15:12:30]	[DEBUG]	taglist_before
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 15:12:30]	[DEBUG]	taglist_after
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 15:12:30]	[DEBUG]	$images_to_update
+[2020-07-20 15:13:05]	[DEBUG]	taglist_before
+  58: array(
+    0 => '8',
+  )
+[2020-07-20 15:13:05]	[DEBUG]	taglist_after
+  58: array(
+    0 => '8',
+  )
+[2020-07-20 15:13:05]	[DEBUG]	$images_to_update
+[2020-07-20 15:13:43]	[DEBUG]	taglist_before
+  58: array(
+    0 => '8',
+  )
+[2020-07-20 15:13:43]	[DEBUG]	taglist_after
+  58: array(
+    0 => '8',
+  )
+[2020-07-20 15:13:43]	[DEBUG]	$images_to_update
+[2020-07-20 15:14:33]	[DEBUG]	taglist_before
+  44: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:14:33]	[DEBUG]	taglist_after
+  44: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:14:33]	[DEBUG]	$images_to_update
+[2020-07-20 15:14:49]	[DEBUG]	taglist_before
+  45: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:14:49]	[DEBUG]	taglist_after
+  45: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:14:49]	[DEBUG]	$images_to_update
+[2020-07-20 15:15:08]	[DEBUG]	taglist_before
+  45: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:15:08]	[DEBUG]	taglist_after
+  45: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:15:08]	[DEBUG]	$images_to_update
+[2020-07-20 15:15:44]	[DEBUG]	taglist_before
+  41: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:15:44]	[DEBUG]	taglist_after
+  41: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:15:44]	[DEBUG]	$images_to_update
+[2020-07-20 15:16:00]	[DEBUG]	taglist_before
+  43: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:16:00]	[DEBUG]	taglist_after
+  43: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:16:00]	[DEBUG]	$images_to_update
+[2020-07-20 15:16:47]	[DEBUG]	taglist_before
+  40: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:16:47]	[DEBUG]	taglist_after
+  40: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:16:47]	[DEBUG]	$images_to_update
+[2020-07-20 15:17:40]	[DEBUG]	taglist_before
+  36: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:17:40]	[DEBUG]	taglist_after
+  36: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 15:17:40]	[DEBUG]	$images_to_update
+[2020-07-20 15:19:39]	[DEBUG]	[i.php]	
+  src_path: '20200627041219-95b80ce2.jpg'
+  derivative_path: '20200627041219-95b80ce2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 15:19:39]	[DEBUG]	[i.php]	
+  src_path: '20200627041220-05b082e2.jpg'
+  derivative_path: '20200627041220-05b082e2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:26:43]	[DEBUG]	taglist_before
+  119: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:26:43]	[DEBUG]	taglist_after
+  119: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:26:43]	[DEBUG]	$images_to_update
+[2020-07-20 15:26:47]	[DEBUG]	taglist_before
+  119: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:26:47]	[DEBUG]	taglist_after
+  119: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:26:47]	[DEBUG]	$images_to_update
+[2020-07-20 15:28:36]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:28:36]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:28:36]	[DEBUG]	$images_to_update
+[2020-07-20 15:28:39]	[DEBUG]	taglist_before
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:28:39]	[DEBUG]	taglist_after
+  64: array(
+    0 => '8',
+  )
+[2020-07-20 15:28:39]	[DEBUG]	$images_to_update
+[2020-07-20 15:36:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041218-cb75e693.jpg'
+  derivative_path: '20200627041218-cb75e693-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 15:43:41]	[DEBUG]	[i.php]	
+  src_path: '20200627041218-acc7b372.jpg'
+  derivative_path: '20200627041218-acc7b372-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 3,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-20 15:43:53]	[DEBUG]	[i.php]	
+  src_path: '20200627041216-f9ecbaa2.jpg'
+  derivative_path: '20200627041216-f9ecbaa2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-20 15:43:55]	[DEBUG]	[i.php]	
+  src_path: '20200627041215-aee6d01c.jpg'
+  derivative_path: '20200627041215-aee6d01c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:43:56]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-be09aa09.jpg'
+  derivative_path: '20200627041214-be09aa09-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:43:57]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-b89d3d6c.jpg'
+  derivative_path: '20200627041214-b89d3d6c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:43:58]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-488371a2.jpg'
+  derivative_path: '20200627041214-488371a2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:43:58]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-4f8468b8.jpg'
+  derivative_path: '20200627041213-4f8468b8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:44:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-c1ee732e.jpg'
+  derivative_path: '20200627041213-c1ee732e-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:44:04]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-cb61567a.jpg'
+  derivative_path: '20200627041212-cb61567a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-20 15:44:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-b07266a5.jpg'
+  derivative_path: '20200627041212-b07266a5-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:45:02]	[DEBUG]	taglist_before
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 15:45:02]	[DEBUG]	taglist_after
+  69: array(
+    0 => '12',
+  )
+[2020-07-20 15:45:02]	[DEBUG]	$images_to_update
+[2020-07-20 15:45:20]	[DEBUG]	taglist_before
+  68: array(
+    0 => '12',
+  )
+[2020-07-20 15:45:20]	[DEBUG]	taglist_after
+  68: array(
+    0 => '12',
+  )
+[2020-07-20 15:45:20]	[DEBUG]	$images_to_update
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041214-488371a2-xs.jpg'
+  derivative_path: '20200627041214-488371a2-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-cb61567a-xs.jpg'
+  derivative_path: '20200627041212-cb61567a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041212-b07266a5-xs.jpg'
+  derivative_path: '20200627041212-b07266a5-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 9,
+    'send' => 0,
+    'total' => 32,
+  )
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-4f8468b8-xs.jpg'
+  derivative_path: '20200627041213-4f8468b8-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041213-c1ee732e-xs.jpg'
+  derivative_path: '20200627041213-c1ee732e-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-20 15:45:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041211-dd8d2117-xs.jpg'
+  derivative_path: '20200627041211-dd8d2117-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-20 15:46:03]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:46:03]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-20 15:46:03]	[DEBUG]	$images_to_update
+[2020-07-20 15:47:04]	[DEBUG]	taglist_before
+  115: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:04]	[DEBUG]	taglist_after
+  115: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:04]	[DEBUG]	$images_to_update
+[2020-07-20 15:47:32]	[DEBUG]	taglist_before
+  112: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:32]	[DEBUG]	taglist_after
+  112: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:32]	[DEBUG]	$images_to_update
+[2020-07-20 15:47:58]	[DEBUG]	taglist_before
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:58]	[DEBUG]	taglist_after
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:47:58]	[DEBUG]	$images_to_update
+[2020-07-20 15:48:15]	[DEBUG]	taglist_before
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:48:15]	[DEBUG]	taglist_after
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:48:15]	[DEBUG]	$images_to_update
+[2020-07-20 15:48:34]	[DEBUG]	taglist_before
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:48:34]	[DEBUG]	taglist_after
+  113: array(
+    0 => '13',
+  )
+[2020-07-20 15:48:34]	[DEBUG]	$images_to_update
+[2020-07-20 15:49:01]	[DEBUG]	taglist_before
+  109: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:01]	[DEBUG]	taglist_after
+  109: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:01]	[DEBUG]	$images_to_update
+[2020-07-20 15:49:25]	[DEBUG]	taglist_before
+  109: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:25]	[DEBUG]	taglist_after
+  109: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:25]	[DEBUG]	$images_to_update
+[2020-07-20 15:49:42]	[DEBUG]	taglist_before
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:42]	[DEBUG]	taglist_after
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:42]	[DEBUG]	$images_to_update
+[2020-07-20 15:49:58]	[DEBUG]	taglist_before
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:58]	[DEBUG]	taglist_after
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 15:49:58]	[DEBUG]	$images_to_update
+[2020-07-20 15:50:14]	[DEBUG]	taglist_before
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:14]	[DEBUG]	taglist_after
+  111: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:14]	[DEBUG]	$images_to_update
+[2020-07-20 15:50:29]	[DEBUG]	taglist_before
+  108: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:29]	[DEBUG]	taglist_after
+  108: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:29]	[DEBUG]	$images_to_update
+[2020-07-20 15:50:47]	[DEBUG]	taglist_before
+  106: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:47]	[DEBUG]	taglist_after
+  106: array(
+    0 => '13',
+  )
+[2020-07-20 15:50:47]	[DEBUG]	$images_to_update
+[2020-07-20 15:51:02]	[DEBUG]	taglist_before
+  102: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:02]	[DEBUG]	taglist_after
+  102: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:02]	[DEBUG]	$images_to_update
+[2020-07-20 15:51:18]	[DEBUG]	taglist_before
+  104: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:18]	[DEBUG]	taglist_after
+  104: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:18]	[DEBUG]	$images_to_update
+[2020-07-20 15:51:28]	[DEBUG]	taglist_before
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:28]	[DEBUG]	taglist_after
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:28]	[DEBUG]	$images_to_update
+[2020-07-20 15:51:38]	[DEBUG]	taglist_before
+  101: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:38]	[DEBUG]	taglist_after
+  101: array(
+    0 => '13',
+  )
+[2020-07-20 15:51:38]	[DEBUG]	$images_to_update
+[2020-07-20 15:52:00]	[DEBUG]	taglist_before
+  92: array(
+    0 => '13',
+  )
+[2020-07-20 15:52:00]	[DEBUG]	taglist_after
+  92: array(
+    0 => '13',
+  )
+[2020-07-20 15:52:00]	[DEBUG]	$images_to_update
+[2020-07-20 16:01:33]	[DEBUG]	taglist_before
+  123: array(
+    0 => '5',
+  )
+[2020-07-20 16:01:33]	[DEBUG]	taglist_after
+  123: array(
+    0 => '5',
+  )
+[2020-07-20 16:01:33]	[DEBUG]	$images_to_update
+[2020-07-20 16:03:38]	[DEBUG]	taglist_before
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:03:38]	[DEBUG]	taglist_after
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:03:38]	[DEBUG]	$images_to_update
+[2020-07-20 16:04:47]	[DEBUG]	taglist_before
+  67: array(
+    0 => '8',
+  )
+[2020-07-20 16:04:47]	[DEBUG]	taglist_after
+  67: array(
+    0 => '8',
+  )
+[2020-07-20 16:04:47]	[DEBUG]	$images_to_update
+[2020-07-20 16:06:04]	[DEBUG]	taglist_before
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 16:06:04]	[DEBUG]	taglist_after
+  59: array(
+    0 => '8',
+  )
+[2020-07-20 16:06:04]	[DEBUG]	$images_to_update
+[2020-07-20 16:06:59]	[DEBUG]	taglist_before
+  60: array(
+    0 => '8',
+  )
+[2020-07-20 16:06:59]	[DEBUG]	taglist_after
+  60: array(
+    0 => '8',
+  )
+[2020-07-20 16:06:59]	[DEBUG]	$images_to_update
+[2020-07-20 16:07:32]	[DEBUG]	taglist_before
+  57: array(
+    0 => '8',
+  )
+[2020-07-20 16:07:32]	[DEBUG]	taglist_after
+  57: array(
+    0 => '8',
+  )
+[2020-07-20 16:07:32]	[DEBUG]	$images_to_update
+[2020-07-20 16:07:58]	[DEBUG]	taglist_before
+  54: array(
+    0 => '8',
+  )
+[2020-07-20 16:07:58]	[DEBUG]	taglist_after
+  54: array(
+    0 => '8',
+  )
+[2020-07-20 16:07:58]	[DEBUG]	$images_to_update
+[2020-07-20 16:10:21]	[DEBUG]	taglist_before
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:10:21]	[DEBUG]	taglist_after
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:10:21]	[DEBUG]	$images_to_update
+[2020-07-20 16:14:06]	[DEBUG]	taglist_before
+  40: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:14:06]	[DEBUG]	taglist_after
+  40: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:14:06]	[DEBUG]	$images_to_update
+[2020-07-20 16:15:05]	[DEBUG]	taglist_before
+  34: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:15:05]	[DEBUG]	taglist_after
+  34: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:15:05]	[DEBUG]	$images_to_update
+[2020-07-20 16:18:02]	[DEBUG]	taglist_before
+  33: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:18:02]	[DEBUG]	taglist_after
+  33: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:18:02]	[DEBUG]	$images_to_update
+[2020-07-20 16:18:33]	[DEBUG]	taglist_before
+  30: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:18:33]	[DEBUG]	taglist_after
+  30: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:18:33]	[DEBUG]	$images_to_update
+[2020-07-20 16:19:32]	[DEBUG]	taglist_before
+  31: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:19:32]	[DEBUG]	taglist_after
+  31: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:19:32]	[DEBUG]	$images_to_update
+[2020-07-20 16:20:25]	[DEBUG]	taglist_before
+  27: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:20:25]	[DEBUG]	taglist_after
+  27: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:20:25]	[DEBUG]	$images_to_update
+[2020-07-20 16:21:09]	[DEBUG]	taglist_before
+  29: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:21:09]	[DEBUG]	taglist_after
+  29: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:21:09]	[DEBUG]	$images_to_update
+[2020-07-20 16:22:42]	[DEBUG]	taglist_before
+  84: array(
+    0 => '12',
+  )
+[2020-07-20 16:22:42]	[DEBUG]	taglist_after
+  84: array(
+    0 => '12',
+  )
+[2020-07-20 16:22:42]	[DEBUG]	$images_to_update
+[2020-07-20 16:26:37]	[DEBUG]	taglist_before
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:26:37]	[DEBUG]	taglist_after
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:26:37]	[DEBUG]	$images_to_update
+[2020-07-20 16:27:59]	[DEBUG]	taglist_before
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:27:59]	[DEBUG]	taglist_after
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:27:59]	[DEBUG]	$images_to_update
+[2020-07-20 16:28:38]	[DEBUG]	taglist_before
+  115: array(
+    0 => '13',
+  )
+[2020-07-20 16:28:38]	[DEBUG]	taglist_after
+  115: array(
+    0 => '13',
+  )
+[2020-07-20 16:28:38]	[DEBUG]	$images_to_update
+[2020-07-20 16:29:06]	[DEBUG]	taglist_before
+  116: array(
+    0 => '13',
+  )
+[2020-07-20 16:29:06]	[DEBUG]	taglist_after
+  116: array(
+    0 => '13',
+  )
+[2020-07-20 16:29:06]	[DEBUG]	$images_to_update
+[2020-07-20 16:29:27]	[DEBUG]	taglist_before
+  116: array(
+    0 => '13',
+  )
+[2020-07-20 16:29:27]	[DEBUG]	taglist_after
+  116: array(
+    0 => '13',
+  )
+[2020-07-20 16:29:27]	[DEBUG]	$images_to_update
+[2020-07-20 16:30:01]	[DEBUG]	taglist_before
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 16:30:01]	[DEBUG]	taglist_after
+  110: array(
+    0 => '13',
+  )
+[2020-07-20 16:30:01]	[DEBUG]	$images_to_update
+[2020-07-20 16:31:16]	[DEBUG]	taglist_before
+  106: array(
+    0 => '13',
+  )
+[2020-07-20 16:31:16]	[DEBUG]	taglist_after
+  106: array(
+    0 => '13',
+  )
+[2020-07-20 16:31:16]	[DEBUG]	$images_to_update
+[2020-07-20 16:31:49]	[DEBUG]	taglist_before
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 16:31:49]	[DEBUG]	taglist_after
+  100: array(
+    0 => '13',
+  )
+[2020-07-20 16:31:49]	[DEBUG]	$images_to_update
+[2020-07-20 16:33:12]	[DEBUG]	taglist_before
+  125: array(
+    0 => '5',
+  )
+[2020-07-20 16:33:12]	[DEBUG]	taglist_after
+  125: array(
+    0 => '5',
+  )
+[2020-07-20 16:33:12]	[DEBUG]	$images_to_update
+[2020-07-20 16:34:27]	[DEBUG]	taglist_before
+  128: array(
+    0 => '11',
+  )
+[2020-07-20 16:34:27]	[DEBUG]	taglist_after
+  128: array(
+    0 => '11',
+  )
+[2020-07-20 16:34:27]	[DEBUG]	$images_to_update
+[2020-07-20 16:35:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-06b52df8.jpg'
+  derivative_path: '20200627041458-06b52df8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 16:35:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-06b52df8.jpg'
+  derivative_path: '20200627041458-06b52df8-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-20 16:35:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-c0b4ad04.jpg'
+  derivative_path: '20200627041458-c0b4ad04-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 16:35:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-c0b4ad04.jpg'
+  derivative_path: '20200627041458-c0b4ad04-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-20 16:35:24]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-427c20bd.jpg'
+  derivative_path: '20200627041458-427c20bd-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-20 16:35:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c3e4f98a.jpg'
+  derivative_path: '20200627041456-c3e4f98a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 16:35:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c3e4f98a.jpg'
+  derivative_path: '20200627041456-c3e4f98a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 16:35:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-900ff01c.jpg'
+  derivative_path: '20200627041456-900ff01c-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 16:35:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-900ff01c.jpg'
+  derivative_path: '20200627041456-900ff01c-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 16:35:54]	[DEBUG]	taglist_before
+  141: array(
+    0 => '10',
+  )
+[2020-07-20 16:35:54]	[DEBUG]	taglist_after
+  141: array(
+    0 => '10',
+  )
+[2020-07-20 16:35:54]	[DEBUG]	$images_to_update
+[2020-07-20 16:36:22]	[DEBUG]	taglist_before
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:22]	[DEBUG]	taglist_after
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:22]	[DEBUG]	$images_to_update
+[2020-07-20 16:36:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-4000a1f9.jpg'
+  derivative_path: '20200627041455-4000a1f9-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-20 16:36:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-4000a1f9.jpg'
+  derivative_path: '20200627041455-4000a1f9-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 16:36:42]	[DEBUG]	taglist_before
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:42]	[DEBUG]	taglist_after
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:42]	[DEBUG]	$images_to_update
+[2020-07-20 16:36:59]	[DEBUG]	taglist_before
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:59]	[DEBUG]	taglist_after
+  142: array(
+    0 => '10',
+  )
+[2020-07-20 16:36:59]	[DEBUG]	$images_to_update
+[2020-07-20 16:37:07]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-99e6edf8.jpg'
+  derivative_path: '20200627041455-99e6edf8-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-20 16:37:07]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-99e6edf8.jpg'
+  derivative_path: '20200627041455-99e6edf8-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-20 16:37:09]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae.jpg'
+  derivative_path: '20200627041454-4c4badae-sq.jpg'
+  o_size: '496 489 242544'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => 1,
+    'scale' => 20,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-20 16:37:09]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae.jpg'
+  derivative_path: '20200627041454-4c4badae-me.jpg'
+  o_size: '496 489 242544'
+  d_size: '496 489 242544'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 4,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-20 16:37:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4848faca.jpg'
+  derivative_path: '20200627041454-4848faca-sq.jpg'
+  o_size: '240 310 74400'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => 0,
+    'scale' => 5,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-20 16:37:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4848faca.jpg'
+  derivative_path: '20200627041454-4848faca-xs.jpg'
+  o_size: '240 310 74400'
+  d_size: '240 310 74400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-20 16:37:13]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-0a45a2c0.jpg'
+  derivative_path: '20200627041454-0a45a2c0-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 10,
+    'save' => 2,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-20 16:37:56]	[DEBUG]	taglist_before
+  26: array(
+    0 => '14',
+  )
+[2020-07-20 16:37:56]	[DEBUG]	taglist_after
+  26: array(
+    0 => '14',
+  )
+[2020-07-20 16:37:56]	[DEBUG]	$images_to_update
+[2020-07-20 16:38:08]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-09cc30e2.jpg'
+  derivative_path: '20200627040918-09cc30e2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-20 16:38:27]	[DEBUG]	taglist_before
+  24: array(
+    0 => '9',
+  )
+[2020-07-20 16:38:27]	[DEBUG]	taglist_after
+  24: array(
+    0 => '9',
+  )
+[2020-07-20 16:38:27]	[DEBUG]	$images_to_update
+[2020-07-20 16:38:34]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-5c925518.jpg'
+  derivative_path: '20200627040918-5c925518-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 3,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-20 16:38:56]	[DEBUG]	taglist_before
+  18: array(
+    0 => '9',
+  )
+[2020-07-20 16:38:56]	[DEBUG]	taglist_after
+  18: array(
+    0 => '9',
+  )
+[2020-07-20 16:38:56]	[DEBUG]	$images_to_update
+[2020-07-20 16:39:54]	[DEBUG]	taglist_before
+  17: array(
+    0 => '9',
+  )
+[2020-07-20 16:39:54]	[DEBUG]	taglist_after
+  17: array(
+    0 => '9',
+  )
+[2020-07-20 16:39:54]	[DEBUG]	$images_to_update
+[2020-07-20 16:41:34]	[DEBUG]	taglist_before
+  9: array(
+    0 => '15',
+  )
+[2020-07-20 16:41:34]	[DEBUG]	taglist_after
+  9: array(
+    0 => '15',
+  )
+[2020-07-20 16:41:34]	[DEBUG]	$images_to_update
+[2020-07-20 16:42:27]	[DEBUG]	taglist_before
+  4: array(
+    0 => '15',
+  )
+[2020-07-20 16:42:27]	[DEBUG]	taglist_after
+  4: array(
+    0 => '15',
+  )
+[2020-07-20 16:42:27]	[DEBUG]	$images_to_update
+[2020-07-20 16:44:46]	[DEBUG]	taglist_before
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:44:46]	[DEBUG]	taglist_after
+  66: array(
+    0 => '8',
+  )
+[2020-07-20 16:44:46]	[DEBUG]	$images_to_update
+[2020-07-20 16:47:01]	[DEBUG]	taglist_before
+  28: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:47:01]	[DEBUG]	taglist_after
+  28: array(
+    0 => '6',
+    1 => '7',
+  )
+[2020-07-20 16:47:01]	[DEBUG]	$images_to_update
+[2020-07-20 16:49:56]	[DEBUG]	taglist_before
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:49:56]	[DEBUG]	taglist_after
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:49:56]	[DEBUG]	$images_to_update
+[2020-07-20 16:50:23]	[DEBUG]	taglist_before
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:50:23]	[DEBUG]	taglist_after
+  114: array(
+    0 => '13',
+  )
+[2020-07-20 16:50:23]	[DEBUG]	$images_to_update
+[2020-07-20 23:43:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-xs.jpg'
+  o_size: '791 1024 809984'
+  d_size: '250 324 81000'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 18,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 76,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 110,
+  )
+[2020-07-20 23:45:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-la.jpg'
+  o_size: '791 1024 809984'
+  d_size: '583 756 440748'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 22,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 111,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 25,
+    'send' => 1,
+    'total' => 164,
+  )

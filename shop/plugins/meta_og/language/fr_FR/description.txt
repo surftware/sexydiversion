@@ -1,0 +1,1 @@
+Permet d'ajouter des balises métadonnées Open Graph

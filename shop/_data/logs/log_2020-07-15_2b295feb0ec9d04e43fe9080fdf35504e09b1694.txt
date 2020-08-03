@@ -1,0 +1,75 @@
+[2020-07-15 3:53:11]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 3:53:11]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 3:53:11]	[DEBUG]	$images_to_update
+[2020-07-15 3:53:11]	[DEBUG]	taglist_before
+  119: array()
+[2020-07-15 3:53:11]	[DEBUG]	taglist_after
+  119: array()
+[2020-07-15 3:53:11]	[DEBUG]	$images_to_update
+[2020-07-15 3:53:11]	[DEBUG]	taglist_before
+  120: array()
+[2020-07-15 3:53:11]	[DEBUG]	taglist_after
+  120: array()
+[2020-07-15 3:53:11]	[DEBUG]	$images_to_update
+[2020-07-15 3:53:11]	[DEBUG]	taglist_before
+  121: array()
+[2020-07-15 3:53:11]	[DEBUG]	taglist_after
+  121: array()
+[2020-07-15 3:53:11]	[DEBUG]	$images_to_update
+[2020-07-15 3:53:11]	[DEBUG]	taglist_before
+  122: array()
+[2020-07-15 3:53:11]	[DEBUG]	taglist_after
+  122: array()
+[2020-07-15 3:53:11]	[DEBUG]	$images_to_update
+[2020-07-15 4:15:47]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 4:15:47]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 4:15:47]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:21]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 19:59:21]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 19:59:21]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:21]	[DEBUG]	taglist_before
+  119: array()
+[2020-07-15 19:59:21]	[DEBUG]	taglist_after
+  119: array()
+[2020-07-15 19:59:21]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:21]	[DEBUG]	taglist_before
+  120: array()
+[2020-07-15 19:59:21]	[DEBUG]	taglist_after
+  120: array()
+[2020-07-15 19:59:21]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:21]	[DEBUG]	taglist_before
+  121: array()
+[2020-07-15 19:59:21]	[DEBUG]	taglist_after
+  121: array()
+[2020-07-15 19:59:21]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:21]	[DEBUG]	taglist_before
+  122: array()
+[2020-07-15 19:59:21]	[DEBUG]	taglist_after
+  122: array()
+[2020-07-15 19:59:21]	[DEBUG]	$images_to_update
+[2020-07-15 19:59:52]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 19:59:52]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 19:59:52]	[DEBUG]	$images_to_update
+[2020-07-15 20:00:41]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 20:00:41]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 20:00:41]	[DEBUG]	$images_to_update
+[2020-07-15 20:01:11]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 20:01:11]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 20:01:11]	[DEBUG]	$images_to_update
+[2020-07-15 20:29:45]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-15 20:29:45]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-15 20:29:45]	[DEBUG]	$images_to_update

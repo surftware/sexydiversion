@@ -1,0 +1,17 @@
+[2020-07-24 20:25:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae-me.jpg'
+  derivative_path: '20200627041454-4c4badae-sm.jpg'
+  o_size: '496 489 242544'
+  d_size: '438 432 189216'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 35,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 12,
+    'send' => 0,
+    'total' => 59,
+  )

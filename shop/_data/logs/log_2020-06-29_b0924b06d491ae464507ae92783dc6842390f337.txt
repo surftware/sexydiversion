@@ -1,0 +1,153 @@
+[2020-06-29 16:42:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae.jpg'
+  derivative_path: '20200627041454-4c4badae-2s.jpg'
+  o_size: '496 489 242544'
+  d_size: '240 236 56640'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 29,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 47,
+  )
+[2020-06-29 16:42:46]	[DEBUG]	[i.php]	
+  src_path: '20200627040757-17ad5285.jpg'
+  derivative_path: '20200627040757-17ad5285-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-2a1b7785.jpg'
+  derivative_path: '20200627041123-2a1b7785-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009.jpg'
+  derivative_path: '20200627041125-70bbe009-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-320d3733.jpg'
+  derivative_path: '20200627041124-320d3733-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-3f3baff2.jpg'
+  derivative_path: '20200627041123-3f3baff2-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d7293c97.jpg'
+  derivative_path: '20200627041124-d7293c97-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4.jpg'
+  derivative_path: '20200627041124-d3ca36d4-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 8,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-06-29 17:55:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30.jpg'
+  derivative_path: '20200627041122-80f57a30-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 7,
+    'send' => 0,
+    'total' => 31,
+  )

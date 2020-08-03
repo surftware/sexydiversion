@@ -1,0 +1,3415 @@
+[2020-07-16 12:48:39]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-16 12:48:39]	[DEBUG]	taglist_after
+  118: array()
+[2020-07-16 12:48:39]	[DEBUG]	$images_to_update
+[2020-07-16 14:24:15]	[DEBUG]	taglist_before
+  118: array()
+[2020-07-16 14:24:15]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:24:15]	[DEBUG]	$images_to_update
+  0: 118
+[2020-07-16 14:25:03]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:25:03]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:25:03]	[DEBUG]	$images_to_update
+[2020-07-16 14:26:01]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:01]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:01]	[DEBUG]	$images_to_update
+[2020-07-16 14:26:37]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:37]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:37]	[DEBUG]	$images_to_update
+[2020-07-16 14:26:58]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:58]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:26:58]	[DEBUG]	$images_to_update
+[2020-07-16 14:27:21]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:27:21]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:27:21]	[DEBUG]	$images_to_update
+[2020-07-16 14:27:50]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:27:50]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:27:50]	[DEBUG]	$images_to_update
+[2020-07-16 14:28:27]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:28:27]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:28:27]	[DEBUG]	$images_to_update
+[2020-07-16 14:29:35]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:29:35]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:29:35]	[DEBUG]	$images_to_update
+[2020-07-16 14:30:18]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:30:18]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:30:18]	[DEBUG]	$images_to_update
+[2020-07-16 14:31:32]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:31:32]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:31:32]	[DEBUG]	$images_to_update
+[2020-07-16 14:33:35]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:33:35]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:33:35]	[DEBUG]	$images_to_update
+[2020-07-16 14:33:58]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:33:58]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 14:33:58]	[DEBUG]	$images_to_update
+[2020-07-16 15:21:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-0da4c02a.jpg'
+  derivative_path: '20200627041130-0da4c02a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 30,
+    'save' => 2,
+    'send' => 0,
+    'total' => 56,
+  )
+[2020-07-16 15:21:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-1fb0fd6a.jpg'
+  derivative_path: '20200627041130-1fb0fd6a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 47,
+  )
+[2020-07-16 15:21:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041131-b568bc00.jpg'
+  derivative_path: '20200627041131-b568bc00-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:21:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-0da4c02a.jpg'
+  derivative_path: '20200627041130-0da4c02a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 15:21:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-1fb0fd6a.jpg'
+  derivative_path: '20200627041130-1fb0fd6a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 36,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:21:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-0da4c02a.jpg'
+  derivative_path: '20200627041130-0da4c02a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 26,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:21:50]	[DEBUG]	[i.php]	
+  src_path: '20200627041131-b568bc00.jpg'
+  derivative_path: '20200627041131-b568bc00-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 15:21:51]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-0da4c02a.jpg'
+  derivative_path: '20200627041130-0da4c02a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:22:01]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-156089bc.jpg'
+  derivative_path: '20200627041129-156089bc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 31,
+    'save' => 4,
+    'send' => 0,
+    'total' => 61,
+  )
+[2020-07-16 15:22:01]	[DEBUG]	[i.php]	
+  src_path: '20200627041130-1fb0fd6a.jpg'
+  derivative_path: '20200627041130-1fb0fd6a-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 27,
+    'save' => 3,
+    'send' => 0,
+    'total' => 55,
+  )
+[2020-07-16 15:22:02]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-156089bc.jpg'
+  derivative_path: '20200627041129-156089bc-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 47,
+  )
+[2020-07-16 15:22:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-a37a3259.jpg'
+  derivative_path: '20200627041129-a37a3259-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 26,
+    'save' => 3,
+    'send' => 0,
+    'total' => 49,
+  )
+[2020-07-16 15:22:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-a37a3259.jpg'
+  derivative_path: '20200627041129-a37a3259-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 15:22:04]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-02b174fd.jpg'
+  derivative_path: '20200627041129-02b174fd-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 15:22:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041129-02b174fd.jpg'
+  derivative_path: '20200627041129-02b174fd-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 36,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:22:06]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-c8868f15.jpg'
+  derivative_path: '20200627041128-c8868f15-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 26,
+    'save' => 2,
+    'send' => 0,
+    'total' => 49,
+  )
+[2020-07-16 15:22:06]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-c8868f15.jpg'
+  derivative_path: '20200627041128-c8868f15-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 14,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 44,
+    'save' => 4,
+    'send' => 0,
+    'total' => 63,
+  )
+[2020-07-16 15:22:08]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-e5494991.jpg'
+  derivative_path: '20200627041128-e5494991-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 15:22:09]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-e5494991.jpg'
+  derivative_path: '20200627041128-e5494991-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:26:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 1,
+    'total' => 47,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30.jpg'
+  derivative_path: '20200627041122-80f57a30-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 28,
+    'save' => 3,
+    'send' => 0,
+    'total' => 55,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041050-956cb288.jpg'
+  derivative_path: '20200627041050-956cb288-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 29,
+    'save' => 6,
+    'send' => 0,
+    'total' => 59,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041211-dd8d2117.jpg'
+  derivative_path: '20200627041211-dd8d2117-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 30,
+    'save' => 3,
+    'send' => 0,
+    'total' => 57,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041239-f50053c3.jpg'
+  derivative_path: '20200627041239-f50053c3-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 26,
+    'save' => 3,
+    'send' => 0,
+    'total' => 52,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5.jpg'
+  derivative_path: '20200627041305-7824b9a5-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 25,
+    'save' => 2,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-d6b563fc.jpg'
+  derivative_path: '20200627041408-d6b563fc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 31,
+    'save' => 2,
+    'send' => 0,
+    'total' => 56,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041429-77e17f42.jpg'
+  derivative_path: '20200627041429-77e17f42-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 29,
+    'save' => 3,
+    'send' => 0,
+    'total' => 52,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627040757-17ad5285.jpg'
+  derivative_path: '20200627040757-17ad5285-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 26,
+    'save' => 3,
+    'send' => 0,
+    'total' => 47,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627040916-b06f42f1.jpg'
+  derivative_path: '20200627040916-b06f42f1-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 25,
+    'save' => 2,
+    'send' => 0,
+    'total' => 51,
+  )
+[2020-07-16 15:31:10]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-sq.jpg'
+  o_size: '791 1024 809984'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 20,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 51,
+    'sharpen' => '',
+    'watermark' => 28,
+    'save' => 4,
+    'send' => 0,
+    'total' => 108,
+  )
+[2020-07-16 15:31:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-701f9d37.jpg'
+  derivative_path: '20200627041408-701f9d37-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 31,
+    'save' => 6,
+    'send' => 0,
+    'total' => 61,
+  )
+[2020-07-16 15:31:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-a3a2b722.jpg'
+  derivative_path: '20200627041408-a3a2b722-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 32,
+    'save' => 6,
+    'send' => 0,
+    'total' => 63,
+  )
+[2020-07-16 15:31:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041409-a2fbed2f.jpg'
+  derivative_path: '20200627041409-a2fbed2f-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 31,
+    'save' => 6,
+    'send' => 0,
+    'total' => 60,
+  )
+[2020-07-16 15:31:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-d6b563fc.jpg'
+  derivative_path: '20200627041408-d6b563fc-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 31,
+    'save' => 6,
+    'send' => 0,
+    'total' => 59,
+  )
+[2020-07-16 15:31:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-701f9d37.jpg'
+  derivative_path: '20200627041408-701f9d37-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 15:31:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-d6b563fc.jpg'
+  derivative_path: '20200627041408-d6b563fc-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 37,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:31:21]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-a3a2b722.jpg'
+  derivative_path: '20200627041408-a3a2b722-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 35,
+    'save' => 3,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:32:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-a3a2b722.jpg'
+  derivative_path: '20200627041408-a3a2b722-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-16 15:32:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-701f9d37.jpg'
+  derivative_path: '20200627041408-701f9d37-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 49,
+  )
+[2020-07-16 15:33:23]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 24,
+    'save' => 2,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 15:36:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-e5494991.jpg'
+  derivative_path: '20200627041128-e5494991-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 3,
+    'send' => 0,
+    'total' => 15,
+  )
+[2020-07-16 15:36:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-c8868f15.jpg'
+  derivative_path: '20200627041128-c8868f15-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 15:36:05]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 15:36:06]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 14,
+  )
+[2020-07-16 15:46:15]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 1,
+    'save' => 2,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-16 15:46:15]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-e5494991.jpg'
+  derivative_path: '20200627041128-e5494991-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 3,
+    'send' => 0,
+    'total' => 16,
+  )
+[2020-07-16 15:46:15]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-c8868f15.jpg'
+  derivative_path: '20200627041128-c8868f15-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-16 15:46:15]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-7cb06caf.jpg'
+  derivative_path: '20200627041127-7cb06caf-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 14,
+  )
+[2020-07-16 15:46:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-66781919.jpg'
+  derivative_path: '20200627041127-66781919-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 2,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-16 15:46:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041128-e5494991.jpg'
+  derivative_path: '20200627041128-e5494991-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-16 15:46:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041127-66781919.jpg'
+  derivative_path: '20200627041127-66781919-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 3,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-16 15:46:23]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-3d31d5da.jpg'
+  derivative_path: '20200627041126-3d31d5da-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-16 15:46:24]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-3d31d5da.jpg'
+  derivative_path: '20200627041126-3d31d5da-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 13,
+  )
+[2020-07-16 15:46:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-26cd0eec.jpg'
+  derivative_path: '20200627041126-26cd0eec-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-16 15:46:28]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-26cd0eec.jpg'
+  derivative_path: '20200627041126-26cd0eec-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 14,
+  )
+[2020-07-16 15:46:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-17765d1b.jpg'
+  derivative_path: '20200627041126-17765d1b-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 15:46:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041126-17765d1b.jpg'
+  derivative_path: '20200627041126-17765d1b-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 13,
+  )
+[2020-07-16 15:46:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-636a6978.jpg'
+  derivative_path: '20200627041125-636a6978-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 1,
+    'save' => 2,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-16 15:46:34]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-636a6978.jpg'
+  derivative_path: '20200627041125-636a6978-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 1,
+    'save' => 2,
+    'send' => 0,
+    'total' => 12,
+  )
+[2020-07-16 15:46:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009.jpg'
+  derivative_path: '20200627041125-70bbe009-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 15:46:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009.jpg'
+  derivative_path: '20200627041125-70bbe009-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 3,
+    'send' => 0,
+    'total' => 13,
+  )
+[2020-07-16 15:46:37]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4.jpg'
+  derivative_path: '20200627041124-d3ca36d4-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 15:46:37]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4.jpg'
+  derivative_path: '20200627041124-d3ca36d4-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 2,
+    'save' => 2,
+    'send' => 0,
+    'total' => 13,
+  )
+[2020-07-16 15:51:16]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009.jpg'
+  derivative_path: '20200627041125-70bbe009-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-16 15:51:16]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-636a6978.jpg'
+  derivative_path: '20200627041125-636a6978-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 15:51:16]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4.jpg'
+  derivative_path: '20200627041124-d3ca36d4-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 25,
+  )
+[2020-07-16 15:51:17]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4.jpg'
+  derivative_path: '20200627041124-d3ca36d4-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 15:51:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d7293c97.jpg'
+  derivative_path: '20200627041124-d7293c97-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 15:51:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009.jpg'
+  derivative_path: '20200627041125-70bbe009-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 15:51:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d7293c97.jpg'
+  derivative_path: '20200627041124-d7293c97-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 15:51:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-320d3733.jpg'
+  derivative_path: '20200627041124-320d3733-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-16 15:51:22]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-320d3733.jpg'
+  derivative_path: '20200627041124-320d3733-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 15:51:24]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-2a1b7785.jpg'
+  derivative_path: '20200627041123-2a1b7785-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 4,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 15:51:24]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-2a1b7785.jpg'
+  derivative_path: '20200627041123-2a1b7785-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-16 15:51:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-3f3baff2.jpg'
+  derivative_path: '20200627041123-3f3baff2-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 15:51:25]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-3f3baff2.jpg'
+  derivative_path: '20200627041123-3f3baff2-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 15:51:26]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30.jpg'
+  derivative_path: '20200627041122-80f57a30-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 15:51:26]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30.jpg'
+  derivative_path: '20200627041122-80f57a30-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041125-70bbe009-xs.jpg'
+  derivative_path: '20200627041125-70bbe009-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 7,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d7293c97-xs.jpg'
+  derivative_path: '20200627041124-d7293c97-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-d3ca36d4-xs.jpg'
+  derivative_path: '20200627041124-d3ca36d4-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041124-320d3733-xs.jpg'
+  derivative_path: '20200627041124-320d3733-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-2a1b7785-xs.jpg'
+  derivative_path: '20200627041123-2a1b7785-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041123-3f3baff2-xs.jpg'
+  derivative_path: '20200627041123-3f3baff2-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 5,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 15:51:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30-xs.jpg'
+  derivative_path: '20200627041122-80f57a30-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 15:51:48]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-7cf0786f.jpg'
+  derivative_path: '20200627041306-7cf0786f-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 41,
+  )
+[2020-07-16 15:51:48]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-29eb6fe9.jpg'
+  derivative_path: '20200627041307-29eb6fe9-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 7,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-16 15:51:48]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5.jpg'
+  derivative_path: '20200627041305-7824b9a5-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 17,
+    'sharpen' => '',
+    'watermark' => 10,
+    'save' => 9,
+    'send' => 0,
+    'total' => 48,
+  )
+[2020-07-16 15:51:48]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-264e1fcc.jpg'
+  derivative_path: '20200627041306-264e1fcc-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-16 15:51:48]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-9db5f927.jpg'
+  derivative_path: '20200627041307-9db5f927-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 7,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-06b52df8.jpg'
+  derivative_path: '20200627041458-06b52df8-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-c0b4ad04.jpg'
+  derivative_path: '20200627041458-c0b4ad04-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 7,
+    'send' => 0,
+    'total' => 43,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-b3522485.jpg'
+  derivative_path: '20200627041457-b3522485-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041459-da9f9ffe.jpg'
+  derivative_path: '20200627041459-da9f9ffe-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-427c20bd.jpg'
+  derivative_path: '20200627041458-427c20bd-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 6,
+    'send' => 0,
+    'total' => 43,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c86d6e3c.jpg'
+  derivative_path: '20200627041456-c86d6e3c-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 10,
+    'save' => 6,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-956cb288.jpg'
+  derivative_path: '20200627041457-956cb288-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 6,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-4000a1f9.jpg'
+  derivative_path: '20200627041455-4000a1f9-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4848faca.jpg'
+  derivative_path: '20200627041454-4848faca-2s.jpg'
+  o_size: '240 310 74400'
+  d_size: '185 240 44400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 5,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-0a45a2c0.jpg'
+  derivative_path: '20200627041454-0a45a2c0-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 36,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-2s.jpg'
+  o_size: '791 1024 809984'
+  d_size: '185 240 44400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 21,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 76,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 9,
+    'send' => 0,
+    'total' => 115,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c3e4f98a.jpg'
+  derivative_path: '20200627041456-c3e4f98a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-900ff01c.jpg'
+  derivative_path: '20200627041456-900ff01c-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-99e6edf8.jpg'
+  derivative_path: '20200627041455-99e6edf8-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 15:52:00]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae.jpg'
+  derivative_path: '20200627041454-4c4badae-xs.jpg'
+  o_size: '496 489 242544'
+  d_size: '328 324 106272'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 31,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 7,
+    'send' => 0,
+    'total' => 51,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041459-da9f9ffe.jpg'
+  derivative_path: '20200627041459-da9f9ffe-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 6,
+    'send' => 0,
+    'total' => 41,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-b3522485.jpg'
+  derivative_path: '20200627041457-b3522485-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 7,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-06b52df8.jpg'
+  derivative_path: '20200627041458-06b52df8-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 19,
+    'sharpen' => '',
+    'watermark' => 28,
+    'save' => 11,
+    'send' => 0,
+    'total' => 68,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-c0b4ad04.jpg'
+  derivative_path: '20200627041458-c0b4ad04-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 8,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041458-427c20bd.jpg'
+  derivative_path: '20200627041458-427c20bd-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 5,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041457-956cb288.jpg'
+  derivative_path: '20200627041457-956cb288-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 8,
+    'send' => 0,
+    'total' => 47,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-99e6edf8.jpg'
+  derivative_path: '20200627041455-99e6edf8-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 7,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041455-4000a1f9.jpg'
+  derivative_path: '20200627041455-4000a1f9-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 10,
+    'save' => 8,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c86d6e3c.jpg'
+  derivative_path: '20200627041456-c86d6e3c-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 16,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 7,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-900ff01c.jpg'
+  derivative_path: '20200627041456-900ff01c-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 39,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041456-c3e4f98a.jpg'
+  derivative_path: '20200627041456-c3e4f98a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 7,
+    'send' => 0,
+    'total' => 44,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4848faca.jpg'
+  derivative_path: '20200627041454-4848faca-2s.jpg'
+  o_size: '240 310 74400'
+  d_size: '185 240 44400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-4c4badae.jpg'
+  derivative_path: '20200627041454-4c4badae-xs.jpg'
+  o_size: '496 489 242544'
+  d_size: '328 324 106272'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 13,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 33,
+    'sharpen' => '',
+    'watermark' => 4,
+    'save' => 10,
+    'send' => 0,
+    'total' => 62,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-0a45a2c0.jpg'
+  derivative_path: '20200627041454-0a45a2c0-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 15:52:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-2s.jpg'
+  o_size: '791 1024 809984'
+  d_size: '185 240 44400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 23,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 70,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 4,
+    'send' => 0,
+    'total' => 105,
+  )
+[2020-07-16 15:52:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041454-0a45a2c0.jpg'
+  derivative_path: '20200627041454-0a45a2c0-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-16 15:52:20]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-sm.jpg'
+  o_size: '791 1024 809984'
+  d_size: '333 432 143856'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 18,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 83,
+    'sharpen' => '',
+    'watermark' => 3,
+    'save' => 10,
+    'send' => 0,
+    'total' => 115,
+  )
+[2020-07-16 15:58:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-264e1fcc.jpg'
+  derivative_path: '20200627041306-264e1fcc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-16 15:58:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5.jpg'
+  derivative_path: '20200627041305-7824b9a5-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 15:59:03]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5-xs.jpg'
+  derivative_path: '20200627041305-7824b9a5-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 21,
+  )
+[2020-07-16 16:00:07]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:00:07]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:00:07]	[DEBUG]	$images_to_update
+[2020-07-16 16:00:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5.jpg'
+  derivative_path: '20200627041305-7824b9a5-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 16:00:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-7cf0786f.jpg'
+  derivative_path: '20200627041306-7cf0786f-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-16 16:00:30]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-264e1fcc.jpg'
+  derivative_path: '20200627041306-264e1fcc-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 4,
+    'send' => 0,
+    'total' => 23,
+  )
+[2020-07-16 16:00:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-29eb6fe9.jpg'
+  derivative_path: '20200627041307-29eb6fe9-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 9,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 26,
+  )
+[2020-07-16 16:00:33]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-7cf0786f.jpg'
+  derivative_path: '20200627041306-7cf0786f-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 16:00:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-29eb6fe9.jpg'
+  derivative_path: '20200627041307-29eb6fe9-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 16:00:35]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-9db5f927.jpg'
+  derivative_path: '20200627041307-9db5f927-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 3,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 16:00:37]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-9db5f927.jpg'
+  derivative_path: '20200627041307-9db5f927-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 16:02:40]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:02:40]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:02:40]	[DEBUG]	$images_to_update
+[2020-07-16 16:03:53]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:03:53]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:03:53]	[DEBUG]	$images_to_update
+[2020-07-16 16:04:14]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:14]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:14]	[DEBUG]	$images_to_update
+[2020-07-16 16:04:31]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:31]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:31]	[DEBUG]	$images_to_update
+[2020-07-16 16:04:51]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:51]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:04:51]	[DEBUG]	$images_to_update
+[2020-07-16 16:05:34]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:05:34]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:05:34]	[DEBUG]	$images_to_update
+[2020-07-16 16:05:43]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:05:43]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:05:43]	[DEBUG]	$images_to_update
+[2020-07-16 16:06:30]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:06:30]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:06:30]	[DEBUG]	$images_to_update
+[2020-07-16 16:07:10]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:07:10]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:07:10]	[DEBUG]	$images_to_update
+[2020-07-16 16:07:37]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:07:37]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 16:07:37]	[DEBUG]	$images_to_update
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041122-80f57a30.jpg'
+  derivative_path: '20200627041122-80f57a30-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041050-956cb288.jpg'
+  derivative_path: '20200627041050-956cb288-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 30,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041211-dd8d2117.jpg'
+  derivative_path: '20200627041211-dd8d2117-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-d6b563fc.jpg'
+  derivative_path: '20200627041408-d6b563fc-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041239-f50053c3.jpg'
+  derivative_path: '20200627041239-f50053c3-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041429-77e17f42.jpg'
+  derivative_path: '20200627041429-77e17f42-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627040916-b06f42f1.jpg'
+  derivative_path: '20200627040916-b06f42f1-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627040757-17ad5285.jpg'
+  derivative_path: '20200627040757-17ad5285-sq.jpg'
+  o_size: '315 315 99225'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => 6,
+    'save' => 2,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 22:16:18]	[DEBUG]	[i.php]	
+  src_path: '20200627041453-fc4b143d.jpg'
+  derivative_path: '20200627041453-fc4b143d-sq.jpg'
+  o_size: '791 1024 809984'
+  d_size: '120 120 14400'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 19,
+    'rotate' => '',
+    'crop' => 2,
+    'scale' => 50,
+    'sharpen' => '',
+    'watermark' => 5,
+    'save' => 2,
+    'send' => 0,
+    'total' => 80,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040804-0c6c2933.jpg'
+  derivative_path: '20200627040804-0c6c2933-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040803-1fceca6e.jpg'
+  derivative_path: '20200627040803-1fceca6e-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040802-06bbf587.jpg'
+  derivative_path: '20200627040802-06bbf587-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040802-814168a2.jpg'
+  derivative_path: '20200627040802-814168a2-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 33,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040802-1324336a.jpg'
+  derivative_path: '20200627040802-1324336a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-16 22:16:50]	[DEBUG]	[i.php]	
+  src_path: '20200627040803-e273bcc5.jpg'
+  derivative_path: '20200627040803-e273bcc5-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040801-7715bcd3.jpg'
+  derivative_path: '20200627040801-7715bcd3-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040801-a83c2980.jpg'
+  derivative_path: '20200627040801-a83c2980-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 11,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 7,
+    'send' => 0,
+    'total' => 43,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040800-260476ed.jpg'
+  derivative_path: '20200627040800-260476ed-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040759-450d87cc.jpg'
+  derivative_path: '20200627040759-450d87cc-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 8,
+    'send' => 0,
+    'total' => 46,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040759-bf96f5c3.jpg'
+  derivative_path: '20200627040759-bf96f5c3-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 9,
+    'save' => 8,
+    'send' => 0,
+    'total' => 45,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040800-ee3e8e4a.jpg'
+  derivative_path: '20200627040800-ee3e8e4a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 5,
+    'send' => 0,
+    'total' => 40,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040759-49155452.jpg'
+  derivative_path: '20200627040759-49155452-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 6,
+    'send' => 0,
+    'total' => 39,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040758-0472d9f4.jpg'
+  derivative_path: '20200627040758-0472d9f4-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 37,
+  )
+[2020-07-16 22:16:51]	[DEBUG]	[i.php]	
+  src_path: '20200627040758-572c064d.jpg'
+  derivative_path: '20200627040758-572c064d-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 12,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 5,
+    'send' => 0,
+    'total' => 42,
+  )
+[2020-07-16 22:17:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-29eb6fe9-xs.jpg'
+  derivative_path: '20200627041307-29eb6fe9-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 29,
+  )
+[2020-07-16 22:17:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-264e1fcc-xs.jpg'
+  derivative_path: '20200627041306-264e1fcc-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 22:17:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-9db5f927-xs.jpg'
+  derivative_path: '20200627041307-9db5f927-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 27,
+  )
+[2020-07-16 22:17:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041305-7824b9a5-xs.jpg'
+  derivative_path: '20200627041305-7824b9a5-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 15,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 6,
+    'send' => 0,
+    'total' => 31,
+  )
+[2020-07-16 22:17:14]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-7cf0786f-xs.jpg'
+  derivative_path: '20200627041306-7cf0786f-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 7,
+    'send' => 0,
+    'total' => 28,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040920-b9176982.jpg'
+  derivative_path: '20200627040920-b9176982-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 7,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-74193dab.jpg'
+  derivative_path: '20200627040918-74193dab-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-6d2e8a6a.jpg'
+  derivative_path: '20200627040919-6d2e8a6a-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 10,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-09cc30e2.jpg'
+  derivative_path: '20200627040918-09cc30e2-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 14,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 6,
+    'send' => 0,
+    'total' => 38,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-30ccd478.jpg'
+  derivative_path: '20200627040919-30ccd478-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 4,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-5c925518.jpg'
+  derivative_path: '20200627040918-5c925518-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040917-83d5e027.jpg'
+  derivative_path: '20200627040917-83d5e027-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040917-db8a828c.jpg'
+  derivative_path: '20200627040917-db8a828c-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 35,
+  )
+[2020-07-16 22:17:38]	[DEBUG]	[i.php]	
+  src_path: '20200627040916-b06f42f1.jpg'
+  derivative_path: '20200627040916-b06f42f1-2s.jpg'
+  o_size: '315 315 99225'
+  d_size: '240 240 57600'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 13,
+    'sharpen' => '',
+    'watermark' => 7,
+    'save' => 5,
+    'send' => 0,
+    'total' => 34,
+  )
+[2020-07-16 22:17:41]	[DEBUG]	[i.php]	
+  src_path: '20200627040916-b06f42f1.jpg'
+  derivative_path: '20200627040916-b06f42f1-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 9,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 22:17:41]	[DEBUG]	[i.php]	
+  src_path: '20200627040920-b9176982.jpg'
+  derivative_path: '20200627040920-b9176982-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 22:17:44]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-6d2e8a6a.jpg'
+  derivative_path: '20200627040919-6d2e8a6a-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 20,
+  )
+[2020-07-16 22:17:46]	[DEBUG]	[i.php]	
+  src_path: '20200627040919-30ccd478.jpg'
+  derivative_path: '20200627040919-30ccd478-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 22:17:47]	[DEBUG]	[i.php]	
+  src_path: '20200627040918-09cc30e2.jpg'
+  derivative_path: '20200627040918-09cc30e2-xs.jpg'
+  o_size: '315 315 99225'
+  d_size: '315 315 99225'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => '',
+    'sharpen' => '',
+    'watermark' => 8,
+    'save' => 3,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-16 23:38:17]	[DEBUG]	extract_plugin_files, $main_filepath = meta_og/main.inc.php
+[2020-07-16 23:38:17]	[DEBUG]	extract_plugin_files, $extract_path = ./plugins/meta_og
+[2020-07-16 23:41:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-29eb6fe9-xs.jpg'
+  derivative_path: '20200627041307-29eb6fe9-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 10,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-16 23:41:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041307-9db5f927-xs.jpg'
+  derivative_path: '20200627041307-9db5f927-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 4,
+    'send' => 0,
+    'total' => 24,
+  )
+[2020-07-16 23:41:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-7cf0786f-xs.jpg'
+  derivative_path: '20200627041306-7cf0786f-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-16 23:41:12]	[DEBUG]	[i.php]	
+  src_path: '20200627041306-264e1fcc-xs.jpg'
+  derivative_path: '20200627041306-264e1fcc-th.jpg'
+  o_size: '315 315 99225'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 11,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 3,
+    'send' => 0,
+    'total' => 22,
+  )
+[2020-07-16 23:44:03]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:44:03]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:44:03]	[DEBUG]	$images_to_update
+[2020-07-16 23:45:07]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:45:07]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:45:07]	[DEBUG]	$images_to_update
+[2020-07-16 23:46:33]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:46:33]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:46:33]	[DEBUG]	$images_to_update
+[2020-07-16 23:47:24]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:47:24]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:47:24]	[DEBUG]	$images_to_update
+[2020-07-16 23:49:21]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:49:21]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:49:21]	[DEBUG]	$images_to_update
+[2020-07-16 23:59:01]	[DEBUG]	taglist_before
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:59:01]	[DEBUG]	taglist_after
+  118: array(
+    0 => '1',
+    1 => '2',
+  )
+[2020-07-16 23:59:01]	[DEBUG]	$images_to_update
+[2020-07-16 23:59:01]	[DEBUG]	taglist_before
+  119: array()
+[2020-07-16 23:59:01]	[DEBUG]	taglist_after
+  119: array()
+[2020-07-16 23:59:01]	[DEBUG]	$images_to_update
+[2020-07-16 23:59:01]	[DEBUG]	taglist_before
+  120: array()
+[2020-07-16 23:59:01]	[DEBUG]	taglist_after
+  120: array()
+[2020-07-16 23:59:01]	[DEBUG]	$images_to_update
+[2020-07-16 23:59:01]	[DEBUG]	taglist_before
+  121: array()
+[2020-07-16 23:59:01]	[DEBUG]	taglist_after
+  121: array()
+[2020-07-16 23:59:01]	[DEBUG]	$images_to_update
+[2020-07-16 23:59:01]	[DEBUG]	taglist_before
+  122: array()
+[2020-07-16 23:59:01]	[DEBUG]	taglist_after
+  122: array()
+[2020-07-16 23:59:01]	[DEBUG]	$images_to_update

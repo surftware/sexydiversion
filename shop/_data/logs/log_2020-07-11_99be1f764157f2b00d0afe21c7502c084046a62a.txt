@@ -1,0 +1,102 @@
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041408-d6b563fc-2s.jpg'
+  derivative_path: '20200627041408-d6b563fc-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 6,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627040916-b06f42f1-2s.jpg'
+  derivative_path: '20200627040916-b06f42f1-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 7,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 19,
+  )
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041429-77e17f42-2s.jpg'
+  derivative_path: '20200627041429-77e17f42-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 6,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 6,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 16,
+  )
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041239-f50053c3-2s.jpg'
+  derivative_path: '20200627041239-f50053c3-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 6,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627041211-dd8d2117-2s.jpg'
+  derivative_path: '20200627041211-dd8d2117-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 7,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 7,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
+[2020-07-11 17:27:29]	[DEBUG]	[i.php]	
+  src_path: '20200627040757-17ad5285-2s.jpg'
+  derivative_path: '20200627040757-17ad5285-th.jpg'
+  o_size: '240 240 57600'
+  d_size: '144 144 20736'
+  mem_usage: 0.90000000000000002220446049250313080847263336181640625
+  timing: array(
+    'load' => 8,
+    'rotate' => '',
+    'crop' => '',
+    'scale' => 6,
+    'sharpen' => '',
+    'watermark' => '',
+    'save' => 2,
+    'send' => 0,
+    'total' => 17,
+  )
