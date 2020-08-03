@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:05:11
+/* Smarty version 3.1.29, created on 2020-07-27 05:27:14
   from "/home4/sexydive/public_html/shop/themes/modus/css/base.css.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70bc7729e14_69899251',
+  'unifunc' => 'content_5f1eac02703e34_24295434',
   'file_dependency' => 
   array (
     '413353f6c8fcf45a084dad7e8132029a1e73eba5' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70bc7729e14_69899251 ($_smarty_tpl) {
+function content_5f1eac02703e34_24295434 ($_smarty_tpl) {
 ?>
 BODY {
 	margin: 0;

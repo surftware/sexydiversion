@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:07:02
+/* Smarty version 3.1.29, created on 2020-07-27 05:28:54
   from "/home4/sexydive/public_html/shop/admin/themes/default/template/include/colorbox.inc.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70c36c9ed45_58791243',
+  'unifunc' => 'content_5f1eac6612b639_85170508',
   'file_dependency' => 
   array (
     '6d3c140aa539620e0e4509a49a05bbc2517ee1b2' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70c36c9ed45_58791243 ($_smarty_tpl) {
+function content_5f1eac6612b639_85170508 ($_smarty_tpl) {
 if (empty($_smarty_tpl->tpl_vars['load_mode']->value)) {
 $_smarty_tpl->tpl_vars['load_mode'] = new Smarty_Variable('footer', null);
 $_smarty_tpl->ext->_updateScope->updateScope($_smarty_tpl, 'load_mode', 0);

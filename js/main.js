@@ -460,7 +460,7 @@ $('.portfolio-image-holder').slick({
 //  Surftware (colaboradores): 
 
 //  -José Armando Moreno Tolentino.
-//  -Juan Miguel Días Teran.
+//  -Juan Miguel Díaz Teran.
 
 
 function initScrollTop() {

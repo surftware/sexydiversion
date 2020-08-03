@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.29, created on 2020-06-27 04:17:43
+/* Smarty version 3.1.29, created on 2020-07-27 05:27:26
   from "/home4/sexydive/public_html/shop/themes/modus/template/thumbnails.tpl" */
 
 if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl, array (
   'has_nocache_code' => false,
   'version' => '3.1.29',
-  'unifunc' => 'content_5ef70eb7267649_95126915',
+  'unifunc' => 'content_5f1eac0e37e850_10748755',
   'file_dependency' => 
   array (
     '9835263f0dda24435464dad14b29fdfc66e4d2bc' => 
@@ -19,7 +19,7 @@ if ($_smarty_tpl->smarty->ext->_validateCompiled->decodeProperties($_smarty_tpl,
   array (
   ),
 ),false)) {
-function content_5ef70eb7267649_95126915 ($_smarty_tpl) {
+function content_5f1eac0e37e850_10748755 ($_smarty_tpl) {
 if (!empty($_smarty_tpl->tpl_vars['thumbnails']->value)) {
 if ($_smarty_tpl->tpl_vars['derivative_params']->value->max_width()/$_smarty_tpl->tpl_vars['derivative_params']->value->max_height() > 1.5 || ($_smarty_tpl->tpl_vars['derivative_params']->value->max_height() < 400 && !$_smarty_tpl->tpl_vars['derivative_params']->value->sizing->max_crop)) {
 echo modus_thumbs(array(),$_smarty_tpl);

@@ -19,11 +19,11 @@
                 <img src="assets/img/carrusel/sex-shop-sexy-diversion1.jpg" alt="home-slide-one">
                 <div class="container transparent rounded card-banner">
                     <div class="row ">
-                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Sexy Diversi&oacute;n <br> Sex Shop</h2>
+                                        <h2 class="animated bounceInLeft">Sexy Diversi&oacute;n <br> Sex Shop</h2>
                                     </a>
                                     <p class="">Sex Shop con los mejores precios.</p>
                                 </div>
@@ -48,7 +48,7 @@
                             <div class="caption-wrapper">
                                 <div class="slide-caption">
                                     <a href="#">
-                                        <h2>Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
+                                        <h2 class="animated bounceInLeft">Env&iacute;os a toda la Rep&uacute;blica Mexicana</h2>
                                     </a>
                                     <p class="">Conoce nuestras formas de pago.</p>
                                 </div>
@@ -73,7 +73,7 @@
                             <div class="caption-wrapper ">
                                 <div class="slide-caption ">
                                     <a href="#">
-                                        <h2>Promoci&oacute;n del mes</h2>
+                                        <h2 class="animated bounceInLeft">Promoci&oacute;n del mes</h2>
                                     </a>
                                     <p class="">En la compra de X productos te regalamos X cosa.</p>
                                 </div>
@@ -82,7 +82,8 @@
                     </div>
                     <div class="slider-button-wrapper">
                         <a class="btn btn-primary btn-lg icou-button wow fadeInUp animated"
-                            href="https://sexydiversion.com.mx/shop" data-wow-duration="1s">Todos los productos</a>
+                            href="https://sexydiversion.com.mx/shop" data-wow-duration="1s" target="_blank">Todos los
+                            productos</a>
                         <a class="btn btn-lg icou-button icou-button--white-outline wow fadeInUp animated" href="#map"
                             data-wow-duration="1.2s">Pedidos</a>
                     </div>
@@ -97,12 +98,13 @@
         </nav>
     </section>
     <!-- / Stage -->
-    <!-- Intro Tables and Our Work -->
-    <section id="feature-intro" class="s-padding s-bg-white">
+
+    <!-- Intro Fichas -->
+    <section id="feature-intro" class=" s-bg-white">
         <div class="container">
             <!-- Intro Tables-->
             <div class="intro-tables row">
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box1 coordenadaZ" data-wow-offset="200" data-wow-delay="0.2s">
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -117,7 +119,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box2 coordenadaZ" data-wow-offset="200" data-wow-delay="0.8s"> 
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -132,7 +134,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box3 coordenadaZ" data-wow-offset="200" data-wow-delay="1.4s">
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -147,7 +149,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-3 wow animated bounceInLeft box4 coordenadaZ" data-wow-offset="200" data-wow-delay="1.8s"> 
                     <div class="intro-table intro-table-hover">
 
                         <div class="img-holder img-fluid">
@@ -164,276 +166,55 @@
                 </div>
             </div>
         </div>
-        <!-- / Intro Tables -->
-        <!-- Our Work Section -->
-        <div class="portfolio-section-home-area" id="mas-vendidos">
-            <!-- SECTION HEADER -->
-            <div class="container">
-                <!-- SECTION HEADER -->
-                <div class="col-md-12">
-                    <div class="row">
+    </section>
+    <!-- / Intro Fichas -->
 
-                        <div class="left-area col-md-6">
-                            <div class="section-header section-header--left-position col-md-12">
-                                <div class="row">
-                                    <div class="container">
-                                        <h2 class="icou-brand-title"><span
-                                                class="section-header__section-header-title-left">Productos
-                                                más vendidos</span></h2>
-                                        <p>Todas tus compras est&aacute;n protegidas.</p>
-                                    </div>
+
+
+    <!-- Catálogo Piwigo -->
+    <div id="mas-vendidos" class="portfolio-section-home-area s-padding" >
+        <!-- SECTION HEADER -->
+        <div class="container">
+            <!-- SECTION HEADER -->
+            <div class="col-md-12">
+                <div class="row">
+
+                    <div class="left-area col-md-6">
+                        <div class="section-header section-header--left-position col-md-12 ">
+                            <div class="row">
+                                <div class="container">
+                                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
+                                            class="section-header__section-header-title-left">Productos
+                                            más populares</span></h2>
+                                    <p>Todas tus compras est&aacute;n protegidas.</p>
                                 </div>
                             </div>
                         </div>
-                        <!-- Right Area -->
-                        <div class="right-area col-md-6">
-                            <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
-                                href="/shop"><span>Ver m&aacute;s productos</span></a>
-                        </div>
-                        <!-- End Right Area -->
-                        <span class="section-header__separate-line-basement clearfix"></span>
                     </div>
+                    <!-- Right Area -->
+                    <div class="right-area col-md-6">
+                        <a class="btn btn-outline-secondary btn-md icou-button icou-button--see-more-left"
+                            href="/shop"><span>Ver m&aacute;s productos</span></a>
+                    </div>
+                    <!-- End Right Area -->
+                    <span class="section-header__separate-line-basement clearfix"></span>
                 </div>
-                <span class="section-header__separate-line-basement mb-4"></span>
             </div>
-
-            <!-- / END SECTION HEADER -->
-            <!-- PORTFOLIO ITEMS-->
-            <div class="portfolio-grid clearfix">
-                <ul class="container">
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-1.jpeg" alt="awesome-portfolio" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-1.jpeg" class=" more gallery2">
-                                        <i class="  fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class=" fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img " src=" assets/img/+vendidos/sexydiversion-2.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-2.jpeg" class="  more gallery2">
-                                        <i class="  fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="  fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-3.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-3.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-4.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-4.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-5.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-5.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-6.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-6.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-7.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-7.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.15s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-8.jpeg" alt="awesome-photo" "/>
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-8.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-9.jpeg" alt="awesome-photo" " />
-                            <figcaption>
-                                <p>
-                                    <a href=" assets/img/+vendidos/sexydiversion-9.jpeg" class="more gallery2">
-                            <i class="fa fa-fw fa-search-plus"></i>
-                            </a>
-                            <a href="portfolio-single.html">
-                                <i class="fa fa-fw fa-link"></i>
-                            </a>
-                            </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-10.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-10.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-11.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-11.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-
-                    <!-- PROJECT -->
-                    <li class="wow fadeIn animated" data-wow-offset="30" data-wow-duration="0.75s"
-                        data-wow-delay="0.25s">
-                        <figure class="portfolio-item ">
-                            <img src="assets/img/+vendidos/sexydiversion-12.jpeg" alt="awesome-photo" />
-                            <figcaption>
-                                <p>
-                                    <a href="assets/img/+vendidos/sexydiversion-12.jpeg" class="more gallery2">
-                                        <i class="fa fa-fw fa-search-plus"></i>
-                                    </a>
-                                    <a href="portfolio-single.html">
-                                        <i class="fa fa-fw fa-link"></i>
-                                    </a>
-                                </p>
-                            </figcaption>
-                        </figure>
-                    </li>
-                    <!-- / PROJECT -->
-                </ul>
-            </div>
+            <span class="section-header__separate-line-basement mb-4"></span>
         </div>
-    </section>
-    <!-- / Intro Tables and Our Work -->
 
-    <!-- Our Team -->
+        <!-- / END SECTION HEADER -->
+        <!-- PORTFOLIO ITEMS-->
+        <div class="portfolio-grid clearfix">
+            <iframe style="width:100%; height:1000px; border:none;"
+                src="https://sexydiversion.com.mx/shop/index.php?/most_visited" title="">
+            </iframe>
+        </div>
+    </div>
+    <!-- /Catálogo Piwigo -->
+
+
+    <!-- Catálogos para Descarga -->
     <section id="catalogos" class="feature-team s-padding s-bg-white">
         <div class="container">
             <!-- SECTION HEADER -->
@@ -449,7 +230,7 @@
                         <div class="section-header section-header--right-position col-md-12">
                             <div class="row">
                                 <div class="container">
-                                    <h2 class="icou-brand-title"><span
+                                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
                                             class="section-header__section-header-title-right">Descarga nuestros
                                             cat&aacute;logos.</span></h2>
                                     <p>Todos Nuestros Productos</p>
@@ -468,7 +249,7 @@
         <div class="container">
             <div class="team-slides team-container row">
                 <!--/1-->
-                <div class="col-xs-12 p-2">
+                <div class="col-xs-12 col-sm-12 p-2">
                     <div class="card team-member-card">
                         <div class="card-block">
                             <h5 class="card-title icou-brand-title">Vibradores Recargables</h5>
@@ -485,7 +266,8 @@
                         <div class="card-block">
                             <div class="social-team-member text-center">
                                 <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
-                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                    target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -578,7 +360,8 @@
                         <div class="card-block">
                             <div class="social-team-member text-center">
                                 <a class="btn btn-primary btn-block icou-button rounded" href="catalogo/recargables.pdf"
-                                    target="_blank"><span> Descargar el cat&aacute;logo </span></a>
+                                    target="_blank"><span> Descargar el
+                                        cat&aacute;logo </span></a>
                             </div>
                         </div>
                     </div>
@@ -698,17 +481,33 @@
                             </div>
                         </div>
                     </div>
-                </div>
-
-
-
+                </div>                
             </div>
             <div class="team-dots"></div>
         </div>
     </section>
+    <!-- /Catálogos para Descarga -->
+
+
+
     <!-- Contact Home Area -->
     <section id="contact-home-area" class="contact-home-area s-bg-white">
+
+        <!-- Section title Map -->
+        <div class="section-header">
+            <div class="row">
+                <div class="container">
+                    <h2 class="icou-brand-title wow bounce animated" data-wow-delay="1s" data-wow-iteration="infinite" data-wow-duration="3s"><span
+                            class="section-header__section-header-title-left">Ubicaci&oacute;n</span>
+                    </h2>
+                    <p>B&uacute;scanos en el mapa</p>
+                    <span class="section-header__separate-line-basement clearfix"></span>
+                </div>
+            </div>
+        </div>
         <div id="map"></div>
+        <!-- Section title Ends Map-->
+
 
         <div class="inset-content">
             <div class="container">
@@ -799,7 +598,7 @@
                                 <h4 class="icou-sub-title icou-sub-title--white contact-title">Para ventas <br>
                                     ¡Cont&aacute;ctanos ahora!</h4>
                                 <div class="address-item-wrapper">
-                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9">
+                                    <a href="https://goo.gl/maps/d2x91vRRqw6dAvsJ9" target="_blank">
                                         <p class="icou-t-white address-item"><i class="fa fa-map-marker"
                                                 aria-hidden="true"></i>
                                             Edo. de Jalisco 243
@@ -818,20 +617,23 @@
                                                 aria-hidden="true"></i> ventas@sexydiversion.com</p>
                                     </a>
 
+                                </div>
+
+                                <div class="contact-block-social">
                                     <ul class="social-share">
                                         <li><a href="https://www.facebook.com/sexydiverssion/" target="_blank"><i
                                                     class="fa fa-facebook"></i></a></li>
                                     </ul>
                                     <ul class="social-share">
-                                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola, te contacto desde la página web de Sexy Diversión | Sex Shop"
+                                        <li><a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
                                                 target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                                     </ul>
                                     <ul class="social-share">
                                         <li><a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la"
                                                 target="_blank"><i class="fa fa-instagram"></i></a></li>
                                     </ul>
-                                </div>
 
+                                </div>
 
                             </div>
                         </div>
@@ -884,17 +686,40 @@
             </div>
         </div>
     </section>
+    <!----------------------------------------------------------
+                       Redes Flotantes
+    -------------------------------------------------------- -->
+    <div class="redes-flotantes">
 
+        <div class="">
+            <a href="https://www.instagram.com/sexy_diversion_sexshop/?hl=es-la" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/instagram-sexydiversion-sexshop.png" />
+            </a>
+        </div>
+        <div class="">
+            <a href="https://api.whatsapp.com/send?phone=+525582861860&text=Hola,+te+contacto+desde+la+página+web+de+Sexy+Diversión+|+Sex+Shop"
+                target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/whatsapp-sexydiversion-sexshop.png" />
+            </a>
+        </div>
+        <div class="">
+            <a href="https://www.facebook.com/sexydiverssion/" target="_blank">
+                <img data-original-height="59" data-original-width="59"
+                    src="assets/img/global/facebook-sexydiversion-sexshop.png" /></a>
+        </div>
 
+    </div>
 
 
     <!-- Footer -->
     <?php	       
      include ("includes/footer.php");
     ?>
-    <!-- / Footer -->
 
-    <!-- SCROLL TO TOP  -->
+
+    <!-- SCROLL TO TOP -->
     <div class="scrollup">
         <a href="#"><i class="fa fa-chevron-up"></i></a>
     </div>
